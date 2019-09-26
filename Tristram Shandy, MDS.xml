@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                
+                <title><!--title for this document - can use classmark--></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher><!--your project name or institution--></publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!--how the manuscript is identified-->
+                    <msIdentifier>
+                        
+                        <!--location and classmark-->
+                        <institution><!--institution where held--></institution>
+                        <repository><!--repository where held--></repository>
+                        <idno><!--classmark--></idno>
+                        
+                    </msIdentifier>
+                    
+                    <!--general header for the manuscript - author and title?-->
+                    <head></head>
+                    
+                    <!--what does the manuscript contain-->
+                    <msContents>
+                        
+                        <summary>
+                            <!--Any general points about the manuscript-->
+                        </summary>
+                        
+                        <!--msItems represent the texts in the manuscript. You can have as many of these as you like, and they can nest heirarchically-->
+                        <!--the first one gives details of the main text, if there is one-->
+                        <msItem>
+                            
+                            
+                            <title>The Life and Opinions of Tristram Shandy, Gentleman. Vol. 1</title>
+                            <title type="alternative"><!--alternative title--></title>
+                            <title type="descriptive"><!--descriptive title--></title>
+                            
+                            <textLang mainLang="xxx"><!--language(s) of text - put three letter language code in mainLang (and otherLangs if appropriate)--></textLang>
+                   
+                            <author>
+                                <name>
+                                    <persName type="standard"> Sterne, Laurence 1713-1768</persName>
+                                    <persName type="display"> Sterne, Laurence 1713-1768</persName>
+                                </name>
+                            </author>
+                            
+                            <respStmt>
+                                <resp>
+                                    <name type="corporation" role="pbl">
+                                        <persName type="standard"> [printed by Ann Ward</persName>
+                                        <persName type="display"> [printed by Ann Ward</persName>
+                                    </name>
+                                </resp>
+                                <!--example of an editor-->
+                                <name>
+                                    <persName type="standard"/>
+                                </name>
+                            </respStmt>
+
+                            <note>Vol.1, sig. I6 is a cancel.</note>
+                            <note>Probably printed late in 1759. 'Undoubtedly on sale in York sometime in
+                                December 1759, but no advertisement known earlier than 1 January 1760' (K.
+                                Monkman).</note>
+                            <note>Anonymous. By Laurence Sterne.</note>
+                            
+                            <!--the contents of the manuscript-->
+                            <msItem>
+                                <locus/>
+                                <title></title>
+                            </msItem>
+                            <msItem>
+                                <locus/>
+                                <title></title>
+                            </msItem>
+                        </msItem>
+                        
+                    </msContents>
+                    
+                    
+                    <!--the physical description of the manuscript starts here-->
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <material><!--what it's made of--></material>
+                                </support>
+                                <extent><!--how big it is-->
+                                    
+                                    <dimensions type="leaf" unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                    <dimensions type="written" unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                </extent>
+                                
+                                <foliation>
+                                    <!--details of foliation here-->
+                                </foliation>
+                                
+                                <collation>
+                                    <!--details of collation here-->
+                                </collation>
+                                
+                                
+                                <condition>
+                                    <!--the manuscript's condition-->
+                                </condition>
+                                
+                                
+                                
+                            </supportDesc>
+                            
+                            <layoutDesc>
+                                <layout>
+                                    <p><!--how it's layed out on the page--></p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc>
+                            <handNote scope="major" script="other">
+                                <p><!--the script it's written in (plus any more details)--></p>
+                            </handNote>
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <!--decoration - one decoNote per type of decoration-->
+                            <decoNote><p/></decoNote>
+                            <decoNote><p/></decoNote>
+                            
+                            
+                        </decoDesc>
+                        
+                        <!--Details here of corrections, additions, marginalia etc.-->
+                        <additions></additions>
+                        
+                        
+                        <bindingDesc>
+                            <p><!--  Can include for example <date/>, <material/>, <decoNote/> and paragraph on <condition> if appropriate.--></p>
+                            
+                        </bindingDesc>
+                        
+                    </physDesc>
+                    
+                    
+                    <!--the history of the manuscript-->
+                    <history>
+                        <!--Covers Origin, provenance and acquisition. Sample given here:-->
+                        
+                        <origin>
+                            <origDate calendar="Gregorian" when="0799"><!--when it was created - can use notBefore and notAfter attributes if this is a range--></origDate>
+                            <origPlace><!--where it comes from--></origPlace>
+                        </origin>
+                        <provenance><!-- who had it first, how it got here, and all points inbetween--></provenance>
+                    </history>
+                    
+                    <!--administrative and bibliography information-->
+                    <additional>
+                        <adminInfo>
+                            
+                            <availability status="restricted">
+                                <p><!--conditions for consulting the actual manuscript--></p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        
+                        
+                        <!--bibliography-->
+                        <listBibl>
+                            
+                            
+                            <bibl><!--bibliographic item--></bibl>
+                            <bibl><!--bibliographic item--></bibl>
+                            <bibl><!--bibliographic item--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb="cover">
+                    <p>J.C.T. Oates</p> <!-- decorative boarder around name. Crest with name under it. Hand writeen classmark --> <p>Percy L. Babington</p> <p>Oates. 167</p>
+                </pb>
+                <pb="i recto">
+                    <p>The Life and Opinions of Tristram Shandy, Gentleman.</p> <!-- Greek --> <p>Vol. 1.</p> <p>1760.</p>
+                </pb>
+                <pb="i verso">
+                    <!-- stamp and hand written number -->
+                </pb>
+                <pb="1">
+                    <p>The</p> <p>Life and Opinions</p> <p>of</p> <p>Tristram Shandy, Gent.</p> <!-- line --> <p>CHAP. I.</p> <p>I wish either my father or my mother, or indeed both of them, as they were in duty both equally bound to it, had minded what they were about when they begot me; had they duly consider'd how much depended upon what they were doing; - that not only the production of a rational Being was concern'd in it, but that possibly the happy formation and temperature of his body,</p>
+                </pb>
+                <pb="2">
+                    <p>perhaps his genius and the very cast of his mind; - and, for aught they knew to the contrary, even the fortunes of his whole house might take their turn from the humours and dispositions which were then uppermost: - Had they duly weighed and considered all this, and proceeded accordingly, - I am verily persuaded I should have made a quite different figure in the world, from that, in which the reader is likely to see me. - Believe me, good folks, this is not so inconsiderable a thing as many of you may think it; - you have all, I dare say, heard of the animal spirits, as how they are transfused from father to son, "&ampi;"c. "&ampi;"c. - and a great deal to that purpose: - Well, you may take my word, that nine parts in ten of a man's sense or his nonsense, his successes and miscarriages in this world depend upon their motions and activity,</p> 
+                </pb>
+                <pb="3">
+                    <p>and the differnt tracks and trains you put them into; so that when they are once set a-going, whether right or wrong, 'tis not a halfpenny matter, - away they go cluttering like hey-go-mad; and by treading the same steps over and over again, they presently make a road of it, as plain and as smooth as a garden-walk, which, when they are once used to, the Devil himself sometimes shall not be able to drive them off it.</p> <p>Pray, my dear, quoth my mother, have you not forgot to wind up the clock? - Good G - ! cried my father, making an exclamation, but taking care to moderate his voice at the same time, - Did ever woman, since the creation of the world, interrupt a man with such a silly question? Pray, what was your father saying? - Nothing.</p> 
+                </pb>
+                <pb="4">
+                    <p>CHAP. II</p> <p> - Then, positively, there is nothing in the question, that I can see, either good or bad. - Then let me tell you, Sir, it was a very unseasonable question at least, - because it scattered and dispersed the animal spirits, whose business it was to have escorted and gone hand-in-hand with the HOMUNCULUS, and conducted him safe to the place destined for his reception.</p> <p>The HOMUNCULUS, Sir, in how-ever low and ludicrous a light he may appear, in this age of levity, to the eye of folly or prejudice; - to the eye of reason in scientifick research, he stands confess'd a BEING guarded and circumscribed with rights: - The minutest philosophers,</p>
+                </pb>
+                <pb="5">
+                    <p>who, by the bye, have the most enlarged understandings, (their souls being inversely as their enquiries) shew us uncontestably, That the HOMUNCULUS is created by the same hand, - engender'd in the same course nature, - endowed with the same loco-motive powers and faculties with us: - That he consists, as we do, of skin, hair, fat, flesh, veins, arteries, ligaments, nerves, cartileges, bones, marrow, brains, glands, genitals, humours, and articulations; - is a Being of as much activity, - and, in all senses of the word, as much and as truly our fellow-creature as my Lord Chancellor of England. - He may be benefited, he may be injured, - he may obtain redress; - in a word, he has all the claims and rights of humanity, which Tully, Puffendorfs, or the best ethick writers</p>
+                </pb>
+                <pb="6">
+                    <p>allow to arise out of that state and relation.</p> <p>Now, dear Sir, what if any accident had befallen him in his way alone? - or that, thro' terror of it, natural to so young a traveller, my little gentleman had got to his journey's end miserably spent; - his muscular strength and virility worn down to a thread; - his own animal spirits ruffled beyond description, - and that in this sad disorder'd state of nerves, he had laid down a prey to sudden starts, or a series of melancholy dreams and fancies for nine long, long months together. - I tremble to think what a foundation had been laid for a thousand weaknesses both of body and mind, which no skill of the physician or the philosopher could ever afterwards have set thoroughly to rights.</p>
+                </pb>
+                <pb="7">
+                    <p>CHAP. III.</p> <p>To my uncle Mr. Toby Shandy do I stand indebted for the preceding anecdote, to whom my father, who was an excellent natural philosopher, and much given to close reasoning upon the smallest matters, had oft, and heavily, complain'd of the injury; but once more particularly, as my uncle Toby well remember'd, upon his observing a most unaccountable oliquity, (as he call'd it) in my manner of setting up my top, and justifying the principles upon which I had done it, - the old gentleman shook his head, and in a tone more expressive by half of sorrow than reproach, - he said his heart all along foreboded, and he saw it verified in this, and from a thousand other observations he had made upon</p>
+                </pb>
+                <pb="8">
+                    <p> me, That I should neither think nor act like any other man's child: - But alas! continued he, shaking his head a second time, and wiping away a tear which was trickling down his cheeks, My Tristram's misfortunes began nine months before ever he came into the world.</p> <p> - My mother, who was sitting by, look'd up, - but she knew no more than her backside what my father meants, - but my uncle, Mr. Toby Shandy, who had been often informed of the affair, - understood him very well.</p> <p>CHAP. IV.</p> <p>I know there are readers in the world, as well as many other good people in it, who are no readers at all, - who</p>
+                </pb>
+                <pb="9">
+                    <p>find themselves ill at ease, unless they are let into the whole secret from first to last, of everything which concerns you.</p> <p>It is in pure compliance with this humour of theirs, and from a backwardness in my nature to disappoint any one soul living, that I have been so very particular already. As my life and opinions are likely to make some noise in the world, and, if I conjecture right, will take in all ranks, professions, and denominations of men whatever, - be no less read than the Pilgrim's Progress itself - and, in the end, prove the very thing which Montaigne dreaded his essays should turn out, that is, a book for a parlour-window; - I find it neccessary to consult every one a little in his turn; and therefore must beg pardon for going on a little further in the same way: For which cause, right glad</p>
+                </pb>
+                <pb="10">
+                    <p>I am, that I have begun the history of myself in the way I have done; and that I am able to go on tracing every thing in it, as Horace says, ab Ovo.</p> <p>Horace, I know, does not recommend this fashion altogether: But that gentleman is speaking only of an epic poem or a tragedy; - (I forget which) - besides, if it was not so, I should beg Mr. Horace's pardon; - for in writing what I have set about, I shall confine myself neither to his rules, nor to any man's rules that ever lived.</p> <p>To such, however, as do not choose to go so far back into these things, I can give no better advice, than that they skip over the remaining part of this Chapter; for I declare before hand, 'tis</p>
+                </pb>
+                <pb="11">
+                    <p>wrote only for the curious and inquisitive.</p> <p> - Shut the door. - I was begot in the night, betwixt the first Sunday and the first Monday in the month of March, in the year of our Lord one thousand seven hundred and eighteen. I am positive I was. - But how I came to be so very particular in my account of a thing which happened before I was born, is owing to another small anecdote known only in our own family, but not made public for the better clearing up this point.</p> <p>My father, you must know, who was originally a Turky merchant, but had left off business for some years, in order to retire to, and die upon, his paternal estate in the country of -, was, I believe,</p>                       </pb>
+                <pb="12">
+                    <p>one of the most regular men in every thing he did, whether twas matter of business, or matter of amusement, that ever lived. As a small specimen of this extreme exactness of his, to which he was in truth a slave, - he had made it a rule for many years of his life, - on the first Sunday night of every month throughout the whole year, - as certain as ever the Sunday night came, - to wind up a large house-clock which we had standing upon the back stairs head, with his own hands: And being somewhere between fifty and sixty years of age, at the time I have been speaking of, - he had likewise gradually brought some other little family concernments to the same period, in order, as he would often say to my uncle Toby, to get them all out of the way at one time, and be no more plagued</p>
+                </pb>
+                <pb="13">
+                    <p>and pester'd with them the rest of the month.</p> <p>It was attended but with one misfortune, which, in a great measure, fell upon myself, and the effects of which I fear I shall carry with me to my grave; namely, that, from an unhappy association of ideas which have no connection in nature, it so fell out at length, that my poor mother could never hear the said clock wound up, - but the thoughts of some other things unavoidably popp'd into her head, - "&ampi;" vice versâ: - which strange combination of ideas, the sagacious Locke, who certainly understood the nature of these things better than most men, affirms to have produced more wry actions than all other sources of prejudice whatsoever.</p> <p>But this by the bye.</p>
+                </pb>
+                <pb"14">
+                    <p>Now it appears, by a memorandum in my father's pocket-book, which now lies upon the table, "That on Lady-Day, which was on the 25th of the same month in which I date my geniture, - my father set out upon his journey to London with my eldest brother Bobby, to fix him at Westminster school;" and, as it appears from the same authority, "That he did not get down to his wife and family till the second week in May following," - it brings the thing almost to a certainty. However, what follows in the beginning of the next chapter puts it beyond all possibility of doubt.</p> <p> - But pray, Sir, What was your father doing all December, - January, and February? - Why, Madam, - he was all that time afflicted with a Sciatica.</p>
+                </pb>
+                <pb="15">
+                    <p>CHAP. V.</p> <p>On the fifth day of November, 1718, which to the aera fixed on, was as near nine kalendar months as nay husband could in reason have expected, - was I Tristram Shandy, Gentleman, brought forth into this scurvy and disasterous world of ours. - I wish I had been born in the Moon, or in any of the planets, (except Jupiter or Saturn, because I never could bear cold weather) for it could not well have fared worse with me in any of them (tho' I will not answer for Venus) than it has in this vile, dirty planet of ours, - which o' my conscience, with reverence be it spoken, I take to be made up of the shreds and clippings of the rest; - not but the planet is well enough, provided a man could be born</p>
+                </pb>
+                <pb="16">
+                    <p>in it to a great title or to a great estate; or could any how contrive to be called up to publick charges, and employments of dignity or power; - but that is not my case; - and therefore every man will speak of the fair at his own market has gone in it; - for which cause I affirm it over again to be one of the vilest worlds that ever was made; - for I can truly say, that from the first hour I drew my breath in it, to this, that I can now scarce draw it at all, for an asthma I got in scating against the wind in Flanders; - I have been the continual sport of what the world calls Fortune; and though I will not wrong her by saying, She has ever made me feel the weight of any great or signal evil; - yet with all the good temper in the world, I affirm it of her, That in every stage of my life, and at every turn and corner where she could</p>
+                </pb>
+                <pb="17">
+                    <p>get fairly at me, the ungracious Duchess has pelted me with a set of as pitiful misadventures and cross accidents as ever samll HERO sustained.</p> <p>CHAP. VI.</p> <p>In the beginning of the last chapter, I inform'd you exactly when I was born; - but I did no inform you, how. No; that particular was reserved entirely for a chapter by itself; - besides, Sir, as you and I are in a manner perfect strangers to each other, it would not have been proper to have let you into too many circumstances relating to myself all at once. - You must have a little patience. I have undertaken, you see, to write not only my life, but my opinions also; hoping and expecting that your knowledge</p>
+                </pb>
+                <pb="18">
+                    <p>of my character, and of what kind of a mortal I am, by the one, would give you a better relish for the other: As you proceed further with me, the slight acquaintance which is now beginning betwixt us, will grow into familiarity; and that, unless one of us is in fault, will terminate in friendship. - O diem praeclarum! - then nothing which has touched me will be thought trifling in its nature, or tedious in its telling. Therefore, my dear friend and companion, if you should think me somewhat sparing of my narrative on my first setting out, - bear with me, - and let me go on, and tell my story my own way: - or if I should seem now and then to trifle upon the road, - or should sometimes put on a fool's cap with a bell to it, for a moment or two as we pass along, - don't fly off, - but rather courteously give me</p>
+                </pb>
+                <pb="19">
+                    <p>credit for a little more wisdom than appears upon my outside; - and as we jogg on, either laugh with me, or at me, or in short, do any thing, - only keep your temper.</p> <p>CHAP. VII.</p> <p>In the same village where my father and my mother dwelt, dwelt also a thin, upright, motherly, notable, good old body of a midwife, who, with the help of a little plain good sense, and some years full employment in her business, in which she had all along trusted little to her own efforts, and a great deal to those of dame nature, - had acquired, in her way, no small degree of reputation in the world; - by which word world, need I in this place inform your worship,</p>
+                </pb>
+                <pb="20">
+                    <p>that I would be understood to mean no more of it, than a small circle described upon the circle of the great world, of four English miles diameter, or there-abouts, of which the cottage where the good old woman lived, is supposed to be the centre. - She had been left, it seems, a widow in great distress, with three or four small children, in her forty-seventh year; and as she was at that time a person of decent carriage, - grave deportment, - a woman moreover of few words, and withall an object of compassion, whose distress and silence under it call'd out the louder for a friendly lift: the wife of the parson of the parish was touch'd with pity; and having often lamented an inconvenience, to which her husband's flock had for many years been exposed, inasmuch, as there was no such thing as a midwife, of any kind or degree</p>
+                </pb>
+                <pb="21">
+                    <p>to be got at, let the case have been never so urgent, within less than six or seven long miles riding; which said seven long miles in dark nights and dismal roads, the country thereabouts being nothing but a deep clay, was almost equal to fourteen; and that in effect was sometimes next to having no midwife at all; it came into her head, that it would be doing as seasonable a kindness to the whole parish, as to the poor creature herself, to get her a little instructed in some of the plain principles of the business, in order to set her up in it. As no woman thereabouts was better qualified to execute the plan she had formed than herself, the Gentlewoman very charitably undertook it; and having great influence over the female part of the parish, she found no difficulty in effecting it to the utmost of her wishes. In truth, the parson join'd his interest</p>
+                </pb>
+                <pb="22">
+                    <p>with his wife's in the whole affair; and in order to do things as they should be, and give the poor soul as good a title by law to practise, as his wife had given by institution, - he chearfully paid the fees for the ordinaries licence himself, amounting, in the whole, to the sum of eighteen shillings and fourpence; so that, betwixt them both, the good woman was fully invested in the real and corporal possession of her office, together with all its rights, members, and appurtenances whatsoever.</p> <p>These last words, you must know, were not according to the old form in which such licences, faculties, and powers usually ran, which in like cases had heretofore been granted to the sisterhood. But it was according to a neat Formula of Didius his own devising, who having</p>
+                </pb>
+                <pb="23">
+                    <p>a particular turn for taking to pieces, and new framing over again, all kind of instruments in that way, not only hit upon this dainty amendment, but coax'd many of the old licensed matrons in the neighbourhood, to open their faculties afresh, in order to have this whim-wham of his inserted.</p> <p>I own I never could envy Didius in these kinds of fancies of his: - But every man of his own taste. - Did not Dr. Kunastrokius, that great man, at his leisure hours, take the greatest delight imaginable in combing of asses tails, and plucking the dead hairs out with his teeth, though he had tweezers always in his pocket? Nay, if you come to that, Sir, have not the wisest of men in all ages, not excepting Solomon himself, - have they not had their HOBBY-HORSES; - their running horses,</p>
+                </pb>
+                <pb="24">
+                    <p> - their coins and their cockle-shells, their drums and their trumpets, their fiddles, their pallets, - their maggots and their butterflies? - and so long as a man rides his HOBBY-HORSE peaceably and quietly along the King's highway, and neither compels you or me to get up behind him, - pray, Sir, what have either you or I to do with it?</p> <p>CHAP. VIII.</p> <p> - De gustibus non est disputandum; - that is, there is no disputing against HOBBY-HORSES; and, for my part, I seldom do; nor could I with any sort of grace, had I been an enemy to them at the bottom; for happening, at certain intervals and changes of the Moon, to be both fiddler and painter, according as the fly stings: - Be it known to you, that I</p>
+                </pb>
+                <pb="25">
+                    <p>keep a couple of pads myself, upon which, in their turns, (nor do I care who knows it) I frequently ride out and take the air; - tho' sometimes, to my shame be it spoken, I take somewhat longer journies than what a wise man would think altogether right. - But the truth is, - I am not a wise man; - and besides am a mortal of so little consequence in the world, it is not much matter what I do; so I seldom fret or fume at all about it: Nor does it much disturb my rest when I see such great Lords and tall Personages as hereafter follow; - such, for instance, as my Lord A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, and so on, all of a row, mounted upon their several horses; - some with large stirrups, getting on in a more grave and sober pace; - others on the contrary, tuck'd up to their very chins, with whips across</p>
+                </pb>
+                <pb="26">
+                    <p>their mouths, scouring and scampering it away like so many little party-colour'd devils astride a mortgage, - and as if some of them were resolved to break their necks. - So much the better - say I to myself; - for in case the worst should happen, the world will make a shift to do excellently well without them; - and for the rest, - why, - God speed them, - e'en let them ride on without any opposition from me; for were their lordships unhorsed this very night, - 'tis ten to one but that many of them would be worse mounted by one half before tomorrow morning.</p> <p>Not one of these instances therefore can be said to break in upon my rest. - But there is an instance, which I own puts me off my guard, and that is, when I see one born for great actions, and, what is</p>
+                </pb>
+                <pb="27">
+                    <p>still more for his honour, whose nature ever inclines him to good ones; - when I behold such a one, my Lord, like yourself, whose principles and conduct are as generous and noble as his blood, and whom, for that reason, a corrupt world cannot spare one moment; - when I see such a one, my Lord, mounted, though it is but for a minute beyond the time which my love to  my country has prescribed to him, and my zeal for his glory wishes, - then, my Lord, I cease to be a philosopher, and in the first transport of an honest impatience, I wish the HOBBY-HORSE, with all his fraternity, at the Devil.</p> <p>My Lord,</p> <p>"I Maintain this to be a dedication, notwithstanding its singularity in the three great essentials of matter,</p>
+                </pb>
+                <pb="28">
+                    <p>form, and place: I beg, therefore, you will accept it as such, and that you will permit me to lay it, with the most respectful humility, at your Lordship's feet, - when you are upon them, - which you can be when you please; - and that is, my Lord, when ever there is occasion for it, and I will add, to the best purposes too. I have the honour to be,</p> <p>My Lord,</p> <p>Your Lordship's most obedient,</p> <p>and most devoted,</p> <p>and most humble servant,</p> <p>TRISTRAM SHANDY.</p>
+                </pb>
+                <pb="29">
+                    <p>CHAP. IX.</p> <p>I Solemnly declare to all mankind, that the above dedication was made for no one Prince, Prelate, Pope, or Potentate, - Duke, Marquis, Earl, Viscount, or Baron of this, or any other Realm in Christendom; - nor has it yet been hawk'd about, or offered publickly or privately, directly or indirectly, to any one person or personage, great or small; but in honestly a true Virgin-Dedication untried on, upon any soul living.</p> <p>I labour this point so particularly, merely to remove any offence or objection which might arise against it, from the manner in which I propose to make the most of it; - which is the putting</p>
+                </pb>
+                <pb="30">
+                    <p>it up fairly to publick sale; which I now do.</p> <p> - Every author has a way of his own, in bringing his points to bear; - for my own part, as I hate chaffering and higgling for a few guineas in a dark entry; - I resolved within myself, from the very beginning, to deal squarely and openly with your Greak Folks in this affair, and try whether I should not come off the better by it.</p> <p>If therefore there is any one Duke, Marquis, Earl, Viscount, or Baron, in these his Majesty's dominions, who stands in need of a tight, genteel dedication, and whom the above will suit, (for by the bye, unless it suits in some degree, I will not part with it) - it is much at his service for fifty guineas; - which</p>
+                </pb>
+                <pb="31">
+                    <p>I am positive is twenty guineas less than it ought to be afforded for, by any man of genius.</p> <p>My Lord, if you examine it over again, it is far from being a gross piece of daubing, as some dedications are. The design, your Lordship sees, is good, the colouring transparent, - the drawing not amiss; - or to speak more like a man of science, - and measure my piece in the painter's scale, divided into 20, - I believe, my Lord, the out-lines will turn out as 12, - the composition as 9, - the colouring as 6, - the expression 13 and a half, - and the design, - if I maay be allowed, my Lord, to understand my own design, and supposing absolute perfection in designing, to be as 20, - I think it cannot well fall short of 19. Besides all this, - there is keeping in it, and</p>
+                </pb>
+                <pb="32">
+                    <p>the dark strokes in the HOBBY-HORSE, (which is a secondary figure, and a kind of back-ground to the whole) give great force to the principle lights in your own figure, and make it come off wonderfully; - and besides, there is an air of originality in the tout ensemble.</p> <p>Be pleased, my good Lord, to order the sum to be paid into the hands of Mr. Dodsley, for the benefit of the author; and in the next edition care shall be taken that this chapter be expunged, and your Lordship's titles, distinctions, arms and good actions, be placed at the front of the preceding chapter: All which, from the words, De gustibus non est disputandum, and whatever else in this book relates to HOBBY-HORSES, but no more, shall stand dedicated to your Lordship. - The rest I dedicate to the MOON, who, by </p>
+                </pb>
+                <pb="33">
+                    <p>the bye, all the PATRONS OR MATRONS I can think of, has most power to set my book a-going, and make the world run mad after it.</p> <p>Bright Goddess,</p> <p>If thou art not too busy with CANDID and Miss CUNEGUND'S affairs, - take Tristram Shandy's under thy they protection also.</p> <p>CHAP X.</p> <p>Whatever degree of small merit, the act of benignity in favour of the midwife, might justly claim, or in whom that claim truly rested, - at first sight seems not very material to this history; - certain however it was, that the gentlewoman, the parson's wife, did run away at that time with the whole of it: And yet, for my life, I cannot help thinking but that the parson himself,</p>
+                </pb>
+                <pb="34">
+                    <p>tho' he had not the good fortune to hit upon the design first, - yet, as he heartily concurred in it the moment it was laid before him, and as heartily parted with his money to carry it into execution, had a claim to some share of it, - if not to a full half of whatever honour was due to it.</p> <p>The world at that time was pleased to determine the matter otherwise.</p> <p>Lay down the book, and I will allow you a half day to give a probable guess at the grounds of this procedure.</p> <p>Be it known then, that, for about five years before the date of the midwife's licence, of which you have had so circumstantial an account, - the parson we have to do with, had made himself a</p>
+                </pb>
+                <pb="35">
+                    <p>country-talk by a breach of all decorum, which he had committed against himself, his station, and his office; - and that was, in never appearing better, or otherwise mounted, than upon a lean, sorry, jack-ass of a horse, value about one pound fifteen shillings; who, to shorten all description of him, was full brother to Rosinante, as far as similitude congenial could make him; for he answered his description to a hair-breadth in every thing, - except that I do not remember 'tis any where said, that Rosinante was broken winded; and that, moreover, Rosinante, as is the happiness of most Spanish horses, fat or lean, - was undoubtedly a horse at all points.</p> <p>I know very well that the HERO's horse was a horse of chaste deportment, which may have given grounds for a</p>
+                </pb>
+                <pb="36">
+                    <p>contrary opinion: But it is certain at the same time, that Rosinante's continency (as may be demonstrated from the adventure of the Yanguesian carries) proceeded from no bodily defect or cause whatsoever, but from the temperance and orderly current of his blood. - And let me tell you, Madam, there is a great deal of very good chastity in the world, in behalf of which you could not say more for your life.</p> <p>Let that be as it may, as my purpose is to do exact justice to every creature brought upon the stage of this dramatic work, - I could not stifle this distinction in favour of Don Quixote's horse; - in all other points the parson's horse, I say, was just such another, - for he was as lean, and as lank, and as sorry a jade, as HUMILITY herself could have bestrided.</p>
+                </pb>
+                <pb="37">
+                    <p>In the estimation of here and there a man of weak judgment, it was greatly in the parson's power to have helped the figure of this horse of his, - for he was master of a very handsome demi-peak'd saddle, quilted on the seat with green plush, garnished with a double row of silver-headed studs, and a noble pair of shining brass stirrups, with a housing altogether suitable, of grey superfine cloth, with an edging of black lace, terminating in a deep, black, silk fringe, poudrè d'or, - all which he had purchased in the pride and prime of his life, together with a grand embossed bridle, ornamented at all points as it should be. - But not caring to banter his beast, he had hung all these up behind his study door; - and, in lieu of them, had a seriously befitted him with just such a bridle and such</p>
+                </pb>
+                <pb="38">
+                    <p>a saddle, as the figure and value of such a steed might well and truly deserve.</p> <p>In the several sallies about his parish, and in the neighbouring visits to the gentry who lived around him, - you will easily comprehend, that the parson, so appointed, would both hear and see enough to keep his philosophy from rusting. To speak the truth, he never could enter a village, but he caught the attention of both old and young. - Labour stood still as he pass'd, - the bucket hung suspended in the middle of the well, - the spinning-wheel forgot its round, - even chuck-farthing and shuffle-cap themselves stood gaping till he had got out of sight; and as his movement was not of the quickest, he had generally time enough upon his hands to make his observations, - to hear</p>
+                </pb>
+                <pb="39">
+                    <p>the groans of the serious, - and the laughter of the light-hearted; - all which he bore with excellent tranquility. - His character was, - he loved a jest in his heart - and as he saw himself in the true point of ridicule, he would say, he could not be angry with others for seeing him in a light, in which he so strongly saw himself: So that to his friends, who knew his foible was not the love of money, and who therefore made the less scruple in bantering the extravagance of his humour, - instead of giving the true cause, - he chose rather to join in the laugh against himself; and as he never carried one single ounce of flesh upon his own bones, being altogether as spare a figure as his beast, - he would sometimes insist upon it, that the horse was as good as the rider deserved; - that they were centaur-like, - both of a piece. At other</p>
+                </pb>
+                <pb="40">
+                    <p>times, and in other moods, when his spirits were above the temptation of false wit, - he would say, he found himself going off fast in a consumption; and, with great gravity, would pretend, he could not bear the sight of a fat horse without a dejection of heart, and a sensible alteration in his pulse; and that he had made choice of the lean one he rode upon, not only to keep himself in countenance, but in spirits.</p> <p>At different times he would give fifty humourous and opposite reasons for riding a meek-spirited jade of a broken-winded horse, preferably to one of mettle; - for on such a one he could fit mechanically, and meditate as delightfully de vanitate mundi et fugâ saeculi, as with the advantage of a death's head before him; - that, in all other exercitations, he</p>
+                </pb>
+                <pb="41">
+                    <p>could spend his time, as he rode slowly along, - to as much account as in his study; - that he could draw up an argument in his sermon, - or a hole in his breeches, as steadily on the one as in the other; - that brisk trotting and slow argumentation, like wit and judgment, were two incompatible movements. - But that, upon his steed - he could unite and reconcile every thing, - he could compose his sermon, - he could compose his cough, - and, in case nature gave a call that way, he could likewise compose himself to sleep. - In short, the parson upon such encounters would assign any cause, but the true cause, - and he with-held the true one, only out of a nicity of temper, because he thought it did honour to him.</p>
+                </pb>
+                <pb="42">
+                    <p>But the truth of the story was as follows: In the first years of this gentleman's life, and about the time when the superb saddle and bridle were purchased by him, it had been his manner, or vanity, or call it what you will, - to run into the opposite extream. - In the language of the country where he dwelt, he was said to have loved a good horse, and generally had one of the best in the whole parish standing in his stable always ready for saddling; and as the nearest midwife, as I told you, did not live nearer to the village than seven miles, and in a vile country, - it so fell out that the poor gentleman was scarce a whole week together without some piteous application for his beast; and as he was not an unkind-hearted man, and every case was more pressing and more distressful than the last, - as much as he loved his beast,</p>
+                </pb>
+                <pb="43">
+                    <p>he had never a heart to refuse him; the upshot of which was generally this, that his horse was either clapp'd, or spavin'd, or greaz'd; - or he was twitter-bon'd, or broken-winded, or something, in short, or other had befallen him which would let him carry no flesh; - so that he had every nine or ten months a bad horse to get rid of, - and a good horse to purchase in his stead.</p> <p>What the loss in such a balance might amount to, communibus annis, I would leave to a special jury of sufferers in the same traffic, to determine; - but let it be what it would, the honest gentleman bore it for many years without a murmur, till at length, by repeated ill accidents of the kind, he found it necessary to take the thing under consideration; and upon weighing the whole, and summing it up</p>
+                </pb>
+                <pb="44">
+                    <p>in his mind, he found it not only disproportion'd to his other expences, but withall so heavy an article in itself, as to disable him from any other act of generosity in his parish: Besides this he considered, that, with half the sum thus galloped away, he could do ten times as much good; - and what still weighed more with him than all other considerations put together, was this, that it confined all his charity into one particular channel, and where, as he fancied, it was the least wanted, namely, to the child-bearing and child-getting part of his parish; reserving nothing for the impotent, - nothing for the aged, - nothing for the many comfortless scenes he was hourly called forth to visit, where poverty, and sickness, and affliction dwelt together.</p>
+                </pb>
+                <pb="45">
+                    <p>For these reasons he resolved to discontinue the expence; and there appeared but two possible ways to extricate him clearly out of it; - and these were, either to make it an irrevocable law never more to lend his steed upon any application whatever, - or else be content to ride the last poor devil, such as they had made him, with all his aches and infirmities, to the very end of the chapter.</p> <p>As he dreaded his own constancy in the first, - he very chearfully betook himself to the second; and tho' he could very well have explain'd it, as I said, to his honour, - yet, for that very reason, he had a spirit above it; choosing rather to bear the contempt of his enemies, and the laughter of his friends, than undergo the pain of telling a story, which might seem a panygeric upon himself.</p>
+                </pb>
+                <pb="46">
+                    <p>I have the highest idea of the spiritual and refined sentiments of this reverend gentlemen, from this single stroke in his character, which I think comes up to any of the honest refinements of the peerless knight of La Mancha, whom, by the bye, with all his follies, I love more, and would actually have gone further to have paid a visit to, than the greatest hero of antiquity.</p> <p>But this is not the moral of my story: The thing I had in view was to shew the temper of the world in the whole of this affair. - For you must know, that so long as this explanation would have done the parson credit, - the devil a soul could find it out, - I suppose his enemies would not, and that his friends could not. - But no sooner did he bestir himself in behalf of the midwife, and pay the expences of</p>
+                </pb>
+                <pb="47">
+                    <p>the ordinary's licence to set her up, - but the whole secret came out; every horse he had lost, and two horses more than ever he had lost, with all the circumstances of their destruction, were known and distinctly remembered. - The story ran like wild-fire. - "The parson had a returning fit of pride which had just seized him; and he was going to be well mounted once again in his life; and if it was so, 'twas plain as the sun at noon-day, he would pocket the expence of the licence, ten times told the very first year: - so that every body was left to judge what were his views in this act of charity."</p> <p>What were his views in this, and in every other action of his life, - or rather what were the opinions which floated in the brains of other people concerning it,</p>
+                </pb>
+                <pb="48">
+                    <p>was a thought which too much floated in his own, and too often broke in upon his rest, when he should have been found asleep.</p> <p>About ten years ago this gentleman had the good fortune to be made entirely easy upon that score, - it being just so long since he left his parish, - and the whole world behind him, - and stands accountable to a judge of whom he will have no cause to complain.</p> <p>But there is a fatality attends the actions of some men: Order them as they will, they pass thro a certain medium which so twists and refracts them from their true directions - that, with all the titles to praise which a rectitude of heart can give, the doers of them are</p>
+                </pb>
+                <pb="49">
+                    <p>nevertheless forced to live and die without it.</p> <p>Of the truth of which this gentleman was a painful example. - But to know by what means this came to pass, - and to make that knowledge of use to you, I insist upon it that you read the two following chapters, which contain such a sketch of his life and conversation, as will carry its moral along with it. - When this is done, if nothing stops us in our way, we will go on with the midwife.</p> <p>CHAP. XI.</p> <p>YORICK was this parson's name, and, what is very remarkable in it, (as appears from a most antient account of the family, wrote upon strong vellum,</p>
+                </pb>
+                <pb="50">
+                    <p>and now in perfect preservation) it had been exactly so spelt for near, - I was within an ace of saying nine hundred years; - but I would not shake my credit in telling an improbable truth, however indisputable in itself; - and therefore I shall content myself with only saying, - It had been exactly so spelt, without the least variation or transposition of a single letter, for I do not know how long; which is more than I would venture to say of one half of the best surnames in the kingdom; which, in a course of years, have generally undergone as many chops and changes as their owners. - Has this been owing to the pride, or to the shame of the respective proprietors? - In honest truth, I think, sometimes to the one, and sometimes to the other, just as the temptation has wrought. But a villainous affair it is, and will one</p>
+                </pb>
+                <pb="51">
+                    <p>day so blend and confound us all together, that no one shall be able to stand up and swear, "That his own great grand father was the man who did either this or that."</p> <p>This evil had been sufficiently fenced against by the prudent care of the Yorick's family, and their religious preservation of these records I quote, which do further inform us, That the family was originally of Danish extraction, and had been transplanted into England as early as in the reign of Horwendillus, king of Denmark, in whose court it seems, an ancestor of this Mr. Yorick's, and from whom he was lineally descended, held a considerable post to the day of his death. Of what nature this considerable post was, this record saith not; - it only adds, That, for near two centuries, it had been totally</p>
+                </pb>
+                <pb="52">
+                    <p>abolished as altogether unnecessary, not only in that court, but in every other court of the Christian world.</p> <p>It has often come into my head, that this post could be no other than that of the king's chief Jester; - and that Hamlet's Yorick, in our Shakespear, many of whose plays, you know, are founded upon authenticated facts, - was certainly the very man.</p> <p>I have not the time to look into Saxo-Grammaticus's Danish history, to know the certainty of this; - but if you have leisure, and can easily get at the book, you may do it full as well yourself.</p> <p>I had just time, in my travels through Denmark with Mr. Noddy's eldest son, whom, in the year 1741, I accompanied</p>
+                </pb>
+                <pb="53">
+                    <p>as governor, riding along with him at a prodigious rate thro' most parts of Europe, and of which original journey perform'd by us two, a most delectable narrative will be given in the progress of this work. I had just time, I say, and that was all, to prove the truth of an observation made by a long sojourner in that country; - namely, "That nature was neither very lavish, nor was she very stingy in her gifts of genius and capacity to its inhabitants; - but, like a discreet parent, was moderately kind to them all; observing such an equal tenor in the distribution of her favours, as to bring them, in those points, pretty near to a level with each other; so that you will meet with few instances in that kingdom of refin'd parts; but a great deal of good plain houshold understanding amongst all ranks of</p>
+                </pb>
+                <pb="54">
+                    <p>people, of which every body has a share;" which is, I think, very right.</p> <p>With us, you see, the case is quite different; - we are all ups and downs in this matter; - you are a great genius; - or 'tis fifty to one, Sir, you are a great dunce and a blockhead; - not that there is a total want of intermediate steps, - no, - we are not so irregular as that comes to; - but the two extremes are more common, and in a greater degree in this unsettled island, where nature, in her gifts and dispositions of this kind, is most whimsical and capricious; fortune herself not being more so in the bequest of her goods and chattels than she.</p> <p>This is all that ever stagger'd my faith in regard to Yorick's extraction, who, by what I can remember of him, and by all</p>
+                </pb>
+                <pb="55">
+                    <p>the accounts I could ever get of him, seem'd not to have had one single drop of Danish blood in his whole crasis; in nine hundred years, it might possibly have all run out: - I will not philosophize one moment with you about it; for happen how it would, the fact was this: - That instead of that cold phlegm and exact regularity of sense and humours, you would have look'd for, in one so extracted; - he was, on the contrary, as mercurial and sublimated a composition, - as heteroclite a creature in all his declensions; - with as much life and whim, and gaité de coeur about him, as the kindliest climate could have engendered and put together. With all this sail, poor Yorick carried not one ounce of ballast; he was utterly unpractised in the world; and, at the age of twenty-six, knew just about as well how to steer his course</p>
+                </pb>
+                <pb="56">
+                    <p>in it, as a romping, unsuspicious girl of thirteen: So that upon his first setting out, the brisk gale of his spirits, as you will imagine, ran him foul ten times in a day of some body's tackling; and as the grave and more slow-paced were oftenest in his way, - you may likewise imagine, 'twas with such he had generally the ill luck to get the most entangled. For aught I know there might be some mixture of unlucky wit at the bottom of such Fracas: - For, to speak the truth, Yorick had an invincible dislike and opposition in his nature to gravity; - not to gravity as such, - for where gravity was wanted, he would be the most grave and serious of mortal men for days and weeks together; - but he was an enemy to the affectation of it, and declared open war against it, only as it appeared a cloak for ignorance, or for</p>
+                </pb>
+                <pb="57">
+                    <p>folly; and then, whenever it fell in his way, however sheltered and protected, he seldom gave it much quarter.</p> <p>Sometimes, in his wild way of talking, he would say, That gravity was an errant scoundrel; and he would add, - of the most dangerous kind too, - because a sly one; and that, he verily believed, more honest, well-meaning people were bubbled out of their goods and money by it in one twelve-month, than by pocket-picking and shop-lifting in seven. In the naked temper which a merry heart discovered, he would say, There was no danger, - but to itself: whereas the very essence of gravity was design, and consequently deceit; - 'twas a taught trick to gain credit of the world for more sense and knowledge than a man was worth; and that, with all its pretensions, - it was</p>
+                </pb>
+                <pb="58">
+                    <p>no better, but often worse, than what a French wit had long ago defined it, - viz. A mysterious carriage of the body to cover the defects of the mind; - which definition of gravity, Yorick, with great imprudence, would say, deserved to be wrote in letters of gold.</p> <p>But, in plain truth, he was a man unhackneyed and unpractised in the world, and was altogether as indiscreet and foolish on every other subject of discourse where policy is wont to impress restraint. Yorick had no impression but one, and that was what arose from the nature of the deed spoken of; which impression he would usually translate into plain English without any periphrasis, - and too oft without much distinction of either personage, time, or place; - so that when mention was made of a pitiful or an</p>
+                </pb>
+                <pb="59">
+                    <p>ungenerous proceeding, - he never gave himself a moment's time to reflect who was the Hero of the piece, - what his station, - or how far he had power to hurt him hereafter; - but if it was a dirty action, - without more ado, - The man was a dirty fellow, - and so on: - And as his comments had usually the ill fate to be terminated either in a bon mot, or to be enliven'd throughout with some drollery or humour of expression, it gave wings to Yorick's indiscretion. In a word, tho' he never sought, yet, at the same time, as he seldom shun'd occasions of saying what came uppermost, and without much ceremony; - he had but too many temptations in life, of scattering his wit and his humour, - his gibes and his jests about him. - They were not lost for want of gathering.</p>
+                </pb>
+            </div>
+        </body>
+    </text>
+    
+</TEI>
