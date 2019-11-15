@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>S721.d.79.26</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2019-06-01</date>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>S721.d.79.26</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>The dupes of fancy, or every man his hobby a new farce: in two acts. As performed at the King's Theatre-Royal in the Hay-Market, with great applause</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Carey, George Saville 1743-1807</persName>
+                           <persName type="display">Carey, George Saville 1743-1807</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for Alex. Hogg; and sold by T. Lewis and by all other booksellers and stationers in every city, borough, town, and village in Great Britain and Ireland</persName>
+                           <persName type="display">printed for Alex. Hogg; and sold by T. Lewis and by all other booksellers and stationers in every city, borough, town, and village in Great Britain and Ireland</persName>
+                        </name>
+                     </respStmt>
+                     <note>Pp.52-56 contain 'A new catalogue of publications just printed for Alex. Hogg, ... '.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>56p.,plate : port. ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1792" notAfter="1792">1792</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00001_files/8/0_0.jpg"/>
+      <surface xml:id="i1" n="cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="6055px"
+                  width="4122px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00001_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00002_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i3" n="i">
+            <graphic decls="#downloadImageRights #download"
+                  height="5928px"
+                  width="3964px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00003_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i4" n="ii">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00004_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i5" n="1">
+            <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3951px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00005.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00005_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i6" n="2">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00006.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00006_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i7" n="3">
+            <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3756px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00007.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00007_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i8" n="4">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00008.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00008_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i9" n="5">
+            <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3927px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00009.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00009_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i10" n="6">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00010.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00010_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i11" n="7">
+            <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3833px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00011.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00011_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i12" n="8">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00012.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00012_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i13" n="9">
+            <graphic decls="#downloadImageRights #download"
+                  height="5877px"
+                  width="3833px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00013.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00013_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i14" n="10">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00014.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00014_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i15" n="11">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00015.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00015_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i16" n="12">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00016.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00016_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i17" n="13">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00017.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00017_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i18" n="14">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00018.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00018_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i19" n="15">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00019.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00019_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i20" n="16">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00020.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00020_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i21" n="17">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00021.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00021_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i22" n="18">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00022.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00022_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i23" n="19">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00023.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00023_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i24" n="20">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00024.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00024_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i25" n="21">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00025.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00025_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i26" n="22">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00026.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00026_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i27" n="23">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00027.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00027_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i28" n="24">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00028.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00028_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i29" n="25">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00029.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00029_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i30" n="26">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00030.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00030_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i31" n="27">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00031.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00031_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i32" n="28">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00032.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00032_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i33" n="29">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00033.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00033_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i34" n="30">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00034.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00034_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i35" n="31">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00035.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00035_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i36" n="32">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00036.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00036_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i37" n="33">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00037.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00037_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i38" n="34">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00038.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00038_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i39" n="35">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00039.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00039_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i40" n="36">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00040.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00040_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i41" n="37">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00041.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00041_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i42" n="38">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00042.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00042_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i43" n="39">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00043.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00043_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i44" n="40">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00044.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00044_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i45" n="41">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00045.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00045_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i46" n="42">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00046.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00046_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i47" n="43">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00047.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00047_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i48" n="44">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00048.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00048_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i49" n="45">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00049.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00049_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i50" n="46">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00050.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00050_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i51" n="47">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00051.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00051_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i52" n="48">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00052.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00052_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i53" n="49">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00053.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00053_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i54" n="50">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00054.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00054_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i55" n="51">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00055.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00055_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i56" n="52">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00056.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00056_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i57" n="53">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00057.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00057_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i58" n="54">
+            <graphic decls="#downloadImageRights #download"
+                  height="5878px"
+                  width="4046px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00058.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00058_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i59" n="55">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00059.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00059_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i60" n="56">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3997px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00060.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00060_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i61" n="back cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00061.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00061_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i62" n="back cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4165px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00062.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-S-00721-D-00079-00026-000-00062_files/8/0_0.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+            <pb n="i" xml:id="pb-i" facs="#i3"/>
+            <pb n="ii" xml:id="pb-ii" facs="#i4"/>
+            <pb n="1" xml:id="pb-1" facs="#i5"/>
+            <pb n="2" xml:id="pb-2" facs="#i6"/>
+            <pb n="3" xml:id="pb-3" facs="#i7"/>
+            <pb n="4" xml:id="pb-4" facs="#i8"/>
+            <pb n="5" xml:id="pb-5" facs="#i9"/>
+            <pb n="6" xml:id="pb-6" facs="#i10"/>
+            <pb n="7" xml:id="pb-7" facs="#i11"/>
+            <pb n="8" xml:id="pb-8" facs="#i12"/>
+            <pb n="9" xml:id="pb-9" facs="#i13"/>
+            <pb n="10" xml:id="pb-10" facs="#i14"/>
+            <pb n="11" xml:id="pb-11" facs="#i15"/>
+            <pb n="12" xml:id="pb-12" facs="#i16"/>
+            <pb n="13" xml:id="pb-13" facs="#i17"/>
+            <pb n="14" xml:id="pb-14" facs="#i18"/>
+            <pb n="15" xml:id="pb-15" facs="#i19"/>
+            <pb n="16" xml:id="pb-16" facs="#i20"/>
+            <pb n="17" xml:id="pb-17" facs="#i21"/>
+            <pb n="18" xml:id="pb-18" facs="#i22"/>
+            <pb n="19" xml:id="pb-19" facs="#i23"/>
+            <pb n="20" xml:id="pb-20" facs="#i24"/>
+            <pb n="21" xml:id="pb-21" facs="#i25"/>
+            <pb n="22" xml:id="pb-22" facs="#i26"/>
+            <pb n="23" xml:id="pb-23" facs="#i27"/>
+            <pb n="24" xml:id="pb-24" facs="#i28"/>
+            <pb n="25" xml:id="pb-25" facs="#i29"/>
+            <pb n="26" xml:id="pb-26" facs="#i30"/>
+            <pb n="27" xml:id="pb-27" facs="#i31"/>
+            <pb n="28" xml:id="pb-28" facs="#i32"/>
+            <pb n="29" xml:id="pb-29" facs="#i33"/>
+            <pb n="30" xml:id="pb-30" facs="#i34"/>
+            <pb n="31" xml:id="pb-31" facs="#i35"/>
+            <pb n="32" xml:id="pb-32" facs="#i36"/>
+            <pb n="33" xml:id="pb-33" facs="#i37"/>
+            <pb n="34" xml:id="pb-34" facs="#i38"/>
+            <pb n="35" xml:id="pb-35" facs="#i39"/>
+            <pb n="36" xml:id="pb-36" facs="#i40"/>
+            <pb n="37" xml:id="pb-37" facs="#i41"/>
+            <pb n="38" xml:id="pb-38" facs="#i42"/>
+            <pb n="39" xml:id="pb-39" facs="#i43"/>
+            <pb n="40" xml:id="pb-40" facs="#i44"/>
+            <pb n="41" xml:id="pb-41" facs="#i45"/>
+            <pb n="42" xml:id="pb-42" facs="#i46"/>
+            <pb n="43" xml:id="pb-43" facs="#i47"/>
+            <pb n="44" xml:id="pb-44" facs="#i48"/>
+            <pb n="45" xml:id="pb-45" facs="#i49"/>
+            <pb n="46" xml:id="pb-46" facs="#i50"/>
+            <pb n="47" xml:id="pb-47" facs="#i51"/>
+            <pb n="48" xml:id="pb-48" facs="#i52"/>
+            <pb n="49" xml:id="pb-49" facs="#i53"/>
+            <pb n="50" xml:id="pb-50" facs="#i54"/>
+            <pb n="51" xml:id="pb-51" facs="#i55"/>
+            <pb n="52" xml:id="pb-52" facs="#i56"/>
+            <pb n="53" xml:id="pb-53" facs="#i57"/>
+            <pb n="54" xml:id="pb-54" facs="#i58"/>
+            <pb n="55" xml:id="pb-55" facs="#i59"/>
+            <pb n="56" xml:id="pb-56" facs="#i60"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i61"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i62"/>
+         </div>
+      </body>
+   </text>
+</TEI>

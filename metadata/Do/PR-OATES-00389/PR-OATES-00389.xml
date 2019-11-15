@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.389</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2019-06-01</date>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.389</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Letters of the late Rev. Mr. Laurence Sterne, to his most intimate friends with a fragment in the manner of Rabelais ; to which are prefix'd, Memoirs of his life and family</title>
+                     <title type="uniform">Correspondence Selections</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Sterne, Laurence 1713-1768</persName>
+                           <persName type="display">Sterne, Laurence 1713-1768</persName>
+                        </name>
+                        <name type="person" role="aut">
+                           <persName type="standard">De Medalle, L. S. (Lydia Sterne) 1747-</persName>
+                           <persName type="display">De Medalle, L. S. (Lydia Sterne) 1747-</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">pr. for T. Becket</persName>
+                           <persName type="display">pr. for T. Becket</persName>
+                        </name>
+                     </respStmt>
+                     <note>Comprises 117 letters, including two from correspondents of Sterne. - Letter 58 may be a forgery.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>3 v. ; 16cm (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1775" notAfter="1775">1775</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref>
+      Sterne, Laurence
+      1713-1768
+     -- 
+      
+     -- Correspondence</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00001_files/8/0_0.jpg"/>
+      <surface xml:id="i1" n="cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="2953px"
+                  width="1945px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00001_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00002_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i3" n="[i]">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00003_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i4" n="[ii]">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00004_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i5" n="[iii]">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00005.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00005_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i6" n="[iv]">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00006.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00006_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i7" n="i">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00007.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00007_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i8" n="ii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00008.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00008_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i9" n="iii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00009.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00009_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i10" n="iv">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00010.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00010_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i11" n="v">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00011.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00011_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i12" n="vi">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00012.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00012_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i13" n="vii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00013.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00013_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i14" n="viii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00014.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00014_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i15" n="ix">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00015.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00015_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i16" n="x">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00016.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00016_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i17" n="xi">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00017.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00017_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i18" n="xii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00018.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00018_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i19" n="xiii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00019.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00019_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i20" n="xiv">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00020.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00020_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i21" n="xv">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00021.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00021_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i22" n="xvi">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00022.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00022_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i23" n="xvii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00023.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00023_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i24" n="xviii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00024.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00024_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i25" n="xix">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00025.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00025_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i26" n="xx">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00026.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00026_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i27" n="1">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00027.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00027_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i28" n="2">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00028.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00028_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i29" n="3">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00029.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00029_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i30" n="4">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00030.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00030_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i31" n="5">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00031.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00031_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i32" n="6">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00032.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00032_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i33" n="7">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00033.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00033_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i34" n="8">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00034.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00034_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i35" n="9">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00035.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00035_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i36" n="10">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00036.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00036_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i37" n="11">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00037.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00037_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i38" n="12">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00038.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00038_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i39" n="13">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00039.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00039_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i40" n="14">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00040.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00040_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i41" n="15">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00041.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00041_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i42" n="16">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00042.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00042_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i43" n="17">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00043.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00043_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i44" n="18">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00044.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00044_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i45" n="19">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00045.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00045_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i46" n="20">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00046.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00046_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i47" n="21">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00047.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00047_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i48" n="22">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00048.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00048_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i49" n="23">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00049.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00049_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i50" n="24">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00050.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00050_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i51" n="25">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00051.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00051_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i52" n="26">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00052.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00052_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i53" n="27">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00053.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00053_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i54" n="28">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00054.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00054_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i55" n="29">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00055.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00055_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i56" n="30">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00056.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00056_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i57" n="31">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00057.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00057_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i58" n="32">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00058.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00058_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i59" n="33">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00059.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00059_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i60" n="34">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00060.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00060_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i61" n="35">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00061.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00061_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i62" n="36">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00062.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00062_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i63" n="37">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00063.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00063_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i64" n="38">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00064.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00064_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i65" n="39">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00065.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00065_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i66" n="40">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00066.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00066_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i67" n="41">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00067.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00067_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i68" n="42">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00068.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00068_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i69" n="43">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00069.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00069_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i70" n="44">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00070.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00070_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i71" n="45">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00071.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00071_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i72" n="46">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00072.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00072_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i73" n="47">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00073.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00073_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i74" n="48">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00074.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00074_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i75" n="49">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00075.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00075_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i76" n="50">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00076.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00076_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i77" n="51">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00077.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00077_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i78" n="52">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00078.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00078_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i79" n="53">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00079.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00079_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i80" n="54">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00080.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00080_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i81" n="55">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00081.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00081_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i82" n="56">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00082.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00082_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i83" n="57">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00083.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00083_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i84" n="58">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00084.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00084_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i85" n="59">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00085.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00085_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i86" n="60">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00086.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00086_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i87" n="61">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00087.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00087_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i88" n="62">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00088.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00088_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i89" n="63">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00089.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00089_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i90" n="64">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00090.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00090_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i91" n="65">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00091.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00091_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i92" n="66">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00092.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00092_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i93" n="67">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00093.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00093_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i94" n="68">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00094.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00094_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i95" n="69">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00095.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00095_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i96" n="70">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1840px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00096.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00096_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i97" n="71">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00097.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00097_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i98" n="72">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00098.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00098_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i99" n="73">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00099.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00099_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i100" n="74">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00100.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00100_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i101" n="75">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00101.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00101_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i102" n="76">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00102.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00102_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i103" n="77">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00103.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00103_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i104" n="78">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00104.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00104_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i105" n="79">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00105.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00105_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i106" n="80">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00106.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00106_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i107" n="81">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00107.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00107_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i108" n="82">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00108.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00108_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i109" n="83">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00109.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00109_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i110" n="84">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00110.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00110_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i111" n="85">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00111.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00111_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i112" n="86">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00112.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00112_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i113" n="87">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00113.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00113_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i114" n="88">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00114.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00114_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i115" n="89">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00115.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00115_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i116" n="90">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00116.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00116_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i117" n="91">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00117.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00117_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i118" n="92">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00118.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00118_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i119" n="93">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00119.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00119_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i120" n="94">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00120.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00120_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i121" n="95">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00121.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00121_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i122" n="96">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00122.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00122_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i123" n="97">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00123.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00123_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i124" n="98">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00124.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00124_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i125" n="99">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1773px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00125.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00125_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i126" n="100">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00126.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00126_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i127" n="101">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00127.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00127_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i128" n="102">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00128.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00128_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i129" n="103">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00129.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00129_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i130" n="104">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00130.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00130_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i131" n="105">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00131.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00131_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i132" n="106">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00132.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00132_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i133" n="107">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00133.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00133_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i134" n="108">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00134.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00134_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i135" n="109">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00135.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00135_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i136" n="110">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00136.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00136_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i137" n="111">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00137.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00137_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i138" n="112">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00138.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00138_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i139" n="113">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00139.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00139_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i140" n="114">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00140.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00140_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i141" n="115">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00141.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00141_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i142" n="116">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00142.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00142_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i143" n="117">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00143.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00143_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i144" n="118">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00144.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00144_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i145" n="119">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00145.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00145_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i146" n="120">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00146.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00146_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i147" n="121">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00147.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00147_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i148" n="122">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00148.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00148_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i149" n="123">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00149.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00149_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i150" n="124">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00150.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00150_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i151" n="125">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00151.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00151_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i152" n="126">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00152.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00152_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i153" n="127">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00153.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00153_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i154" n="128">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00154.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00154_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i155" n="129">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00155.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00155_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i156" n="130">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00156.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00156_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i157" n="131">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00157.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00157_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i158" n="132">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00158.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00158_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i159" n="133">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00159.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00159_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i160" n="134">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00160.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00160_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i161" n="135">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00161.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00161_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i162" n="136">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00162.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00162_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i163" n="137">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00163.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00163_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i164" n="138">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00164.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00164_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i165" n="139">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00165.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00165_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i166" n="140">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00166.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00166_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i167" n="141">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00167.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00167_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i168" n="142">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00168.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00168_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i169" n="143">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00169.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00169_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i170" n="144">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00170.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00170_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i171" n="145">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00171.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00171_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i172" n="146">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00172.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00172_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i173" n="147">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00173.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00173_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i174" n="148">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00174.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00174_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i175" n="149">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00175.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00175_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i176" n="150">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00176.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00176_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i177" n="151">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00177.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00177_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i178" n="152">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00178.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00178_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i179" n="153">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00179.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00179_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i180" n="154">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00180.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00180_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i181" n="155">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00181.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00181_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i182" n="156">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00182.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00182_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i183" n="157">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00183.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00183_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i184" n="158">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00184.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00184_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i185" n="159">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00185.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00185_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i186" n="160">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00186.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00186_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i187" n="161">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00187.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00187_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i188" n="162">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00188.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00188_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i189" n="163">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00189.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00189_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i190" n="164">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00190.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00190_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i191" n="165">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00191.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00191_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i192" n="166">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00192.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00192_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i193" n="167">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00193.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00193_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i194" n="168">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00194.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00194_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i195" n="169">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00195.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00195_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i196" n="170">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00196.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00196_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i197" n="171">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00197.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00197_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i198" n="172">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00198.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00198_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i199" n="173">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00199.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00199_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i200" n="174">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00200.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00200_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i201" n="175">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00201.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00201_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i202" n="176">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00202.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00202_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i203" n="177">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00203.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00203_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i204" n="178">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00204.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00204_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i205" n="back cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1809px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00205.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00205_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i206" n="back cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="2924px"
+                  width="1863px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00206.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00389-000-00206_files/8/0_0.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+            <pb n="[i]" xml:id="pb-i" facs="#i3"/>
+            <pb n="[ii]" xml:id="pb-ii" facs="#i4"/>
+            <pb n="[iii]" xml:id="pb-iii" facs="#i5"/>
+            <pb n="[iv]" xml:id="pb-iv" facs="#i6"/>
+            <pb n="i" xml:id="pb-i" facs="#i7"/>
+            <pb n="ii" xml:id="pb-ii" facs="#i8"/>
+            <pb n="iii" xml:id="pb-iii" facs="#i9"/>
+            <pb n="iv" xml:id="pb-iv" facs="#i10"/>
+            <pb n="v" xml:id="pb-v" facs="#i11"/>
+            <pb n="vi" xml:id="pb-vi" facs="#i12"/>
+            <pb n="vii" xml:id="pb-vii" facs="#i13"/>
+            <pb n="viii" xml:id="pb-viii" facs="#i14"/>
+            <pb n="ix" xml:id="pb-ix" facs="#i15"/>
+            <pb n="x" xml:id="pb-x" facs="#i16"/>
+            <pb n="xi" xml:id="pb-xi" facs="#i17"/>
+            <pb n="xii" xml:id="pb-xii" facs="#i18"/>
+            <pb n="xiii" xml:id="pb-xiii" facs="#i19"/>
+            <pb n="xiv" xml:id="pb-xiv" facs="#i20"/>
+            <pb n="xv" xml:id="pb-xv" facs="#i21"/>
+            <pb n="xvi" xml:id="pb-xvi" facs="#i22"/>
+            <pb n="xvii" xml:id="pb-xvii" facs="#i23"/>
+            <pb n="xviii" xml:id="pb-xviii" facs="#i24"/>
+            <pb n="xix" xml:id="pb-xix" facs="#i25"/>
+            <pb n="xx" xml:id="pb-xx" facs="#i26"/>
+            <pb n="1" xml:id="pb-1" facs="#i27"/>
+            <pb n="2" xml:id="pb-2" facs="#i28"/>
+            <pb n="3" xml:id="pb-3" facs="#i29"/>
+            <pb n="4" xml:id="pb-4" facs="#i30"/>
+            <pb n="5" xml:id="pb-5" facs="#i31"/>
+            <pb n="6" xml:id="pb-6" facs="#i32"/>
+            <pb n="7" xml:id="pb-7" facs="#i33"/>
+            <pb n="8" xml:id="pb-8" facs="#i34"/>
+            <pb n="9" xml:id="pb-9" facs="#i35"/>
+            <pb n="10" xml:id="pb-10" facs="#i36"/>
+            <pb n="11" xml:id="pb-11" facs="#i37"/>
+            <pb n="12" xml:id="pb-12" facs="#i38"/>
+            <pb n="13" xml:id="pb-13" facs="#i39"/>
+            <pb n="14" xml:id="pb-14" facs="#i40"/>
+            <pb n="15" xml:id="pb-15" facs="#i41"/>
+            <pb n="16" xml:id="pb-16" facs="#i42"/>
+            <pb n="17" xml:id="pb-17" facs="#i43"/>
+            <pb n="18" xml:id="pb-18" facs="#i44"/>
+            <pb n="19" xml:id="pb-19" facs="#i45"/>
+            <pb n="20" xml:id="pb-20" facs="#i46"/>
+            <pb n="21" xml:id="pb-21" facs="#i47"/>
+            <pb n="22" xml:id="pb-22" facs="#i48"/>
+            <pb n="23" xml:id="pb-23" facs="#i49"/>
+            <pb n="24" xml:id="pb-24" facs="#i50"/>
+            <pb n="25" xml:id="pb-25" facs="#i51"/>
+            <pb n="26" xml:id="pb-26" facs="#i52"/>
+            <pb n="27" xml:id="pb-27" facs="#i53"/>
+            <pb n="28" xml:id="pb-28" facs="#i54"/>
+            <pb n="29" xml:id="pb-29" facs="#i55"/>
+            <pb n="30" xml:id="pb-30" facs="#i56"/>
+            <pb n="31" xml:id="pb-31" facs="#i57"/>
+            <pb n="32" xml:id="pb-32" facs="#i58"/>
+            <pb n="33" xml:id="pb-33" facs="#i59"/>
+            <pb n="34" xml:id="pb-34" facs="#i60"/>
+            <pb n="35" xml:id="pb-35" facs="#i61"/>
+            <pb n="36" xml:id="pb-36" facs="#i62"/>
+            <pb n="37" xml:id="pb-37" facs="#i63"/>
+            <pb n="38" xml:id="pb-38" facs="#i64"/>
+            <pb n="39" xml:id="pb-39" facs="#i65"/>
+            <pb n="40" xml:id="pb-40" facs="#i66"/>
+            <pb n="41" xml:id="pb-41" facs="#i67"/>
+            <pb n="42" xml:id="pb-42" facs="#i68"/>
+            <pb n="43" xml:id="pb-43" facs="#i69"/>
+            <pb n="44" xml:id="pb-44" facs="#i70"/>
+            <pb n="45" xml:id="pb-45" facs="#i71"/>
+            <pb n="46" xml:id="pb-46" facs="#i72"/>
+            <pb n="47" xml:id="pb-47" facs="#i73"/>
+            <pb n="48" xml:id="pb-48" facs="#i74"/>
+            <pb n="49" xml:id="pb-49" facs="#i75"/>
+            <pb n="50" xml:id="pb-50" facs="#i76"/>
+            <pb n="51" xml:id="pb-51" facs="#i77"/>
+            <pb n="52" xml:id="pb-52" facs="#i78"/>
+            <pb n="53" xml:id="pb-53" facs="#i79"/>
+            <pb n="54" xml:id="pb-54" facs="#i80"/>
+            <pb n="55" xml:id="pb-55" facs="#i81"/>
+            <pb n="56" xml:id="pb-56" facs="#i82"/>
+            <pb n="57" xml:id="pb-57" facs="#i83"/>
+            <pb n="58" xml:id="pb-58" facs="#i84"/>
+            <pb n="59" xml:id="pb-59" facs="#i85"/>
+            <pb n="60" xml:id="pb-60" facs="#i86"/>
+            <pb n="61" xml:id="pb-61" facs="#i87"/>
+            <pb n="62" xml:id="pb-62" facs="#i88"/>
+            <pb n="63" xml:id="pb-63" facs="#i89"/>
+            <pb n="64" xml:id="pb-64" facs="#i90"/>
+            <pb n="65" xml:id="pb-65" facs="#i91"/>
+            <pb n="66" xml:id="pb-66" facs="#i92"/>
+            <pb n="67" xml:id="pb-67" facs="#i93"/>
+            <pb n="68" xml:id="pb-68" facs="#i94"/>
+            <pb n="69" xml:id="pb-69" facs="#i95"/>
+            <pb n="70" xml:id="pb-70" facs="#i96"/>
+            <pb n="71" xml:id="pb-71" facs="#i97"/>
+            <pb n="72" xml:id="pb-72" facs="#i98"/>
+            <pb n="73" xml:id="pb-73" facs="#i99"/>
+            <pb n="74" xml:id="pb-74" facs="#i100"/>
+            <pb n="75" xml:id="pb-75" facs="#i101"/>
+            <pb n="76" xml:id="pb-76" facs="#i102"/>
+            <pb n="77" xml:id="pb-77" facs="#i103"/>
+            <pb n="78" xml:id="pb-78" facs="#i104"/>
+            <pb n="79" xml:id="pb-79" facs="#i105"/>
+            <pb n="80" xml:id="pb-80" facs="#i106"/>
+            <pb n="81" xml:id="pb-81" facs="#i107"/>
+            <pb n="82" xml:id="pb-82" facs="#i108"/>
+            <pb n="83" xml:id="pb-83" facs="#i109"/>
+            <pb n="84" xml:id="pb-84" facs="#i110"/>
+            <pb n="85" xml:id="pb-85" facs="#i111"/>
+            <pb n="86" xml:id="pb-86" facs="#i112"/>
+            <pb n="87" xml:id="pb-87" facs="#i113"/>
+            <pb n="88" xml:id="pb-88" facs="#i114"/>
+            <pb n="89" xml:id="pb-89" facs="#i115"/>
+            <pb n="90" xml:id="pb-90" facs="#i116"/>
+            <pb n="91" xml:id="pb-91" facs="#i117"/>
+            <pb n="92" xml:id="pb-92" facs="#i118"/>
+            <pb n="93" xml:id="pb-93" facs="#i119"/>
+            <pb n="94" xml:id="pb-94" facs="#i120"/>
+            <pb n="95" xml:id="pb-95" facs="#i121"/>
+            <pb n="96" xml:id="pb-96" facs="#i122"/>
+            <pb n="97" xml:id="pb-97" facs="#i123"/>
+            <pb n="98" xml:id="pb-98" facs="#i124"/>
+            <pb n="99" xml:id="pb-99" facs="#i125"/>
+            <pb n="100" xml:id="pb-100" facs="#i126"/>
+            <pb n="101" xml:id="pb-101" facs="#i127"/>
+            <pb n="102" xml:id="pb-102" facs="#i128"/>
+            <pb n="103" xml:id="pb-103" facs="#i129"/>
+            <pb n="104" xml:id="pb-104" facs="#i130"/>
+            <pb n="105" xml:id="pb-105" facs="#i131"/>
+            <pb n="106" xml:id="pb-106" facs="#i132"/>
+            <pb n="107" xml:id="pb-107" facs="#i133"/>
+            <pb n="108" xml:id="pb-108" facs="#i134"/>
+            <pb n="109" xml:id="pb-109" facs="#i135"/>
+            <pb n="110" xml:id="pb-110" facs="#i136"/>
+            <pb n="111" xml:id="pb-111" facs="#i137"/>
+            <pb n="112" xml:id="pb-112" facs="#i138"/>
+            <pb n="113" xml:id="pb-113" facs="#i139"/>
+            <pb n="114" xml:id="pb-114" facs="#i140"/>
+            <pb n="115" xml:id="pb-115" facs="#i141"/>
+            <pb n="116" xml:id="pb-116" facs="#i142"/>
+            <pb n="117" xml:id="pb-117" facs="#i143"/>
+            <pb n="118" xml:id="pb-118" facs="#i144"/>
+            <pb n="119" xml:id="pb-119" facs="#i145"/>
+            <pb n="120" xml:id="pb-120" facs="#i146"/>
+            <pb n="121" xml:id="pb-121" facs="#i147"/>
+            <pb n="122" xml:id="pb-122" facs="#i148"/>
+            <pb n="123" xml:id="pb-123" facs="#i149"/>
+            <pb n="124" xml:id="pb-124" facs="#i150"/>
+            <pb n="125" xml:id="pb-125" facs="#i151"/>
+            <pb n="126" xml:id="pb-126" facs="#i152"/>
+            <pb n="127" xml:id="pb-127" facs="#i153"/>
+            <pb n="128" xml:id="pb-128" facs="#i154"/>
+            <pb n="129" xml:id="pb-129" facs="#i155"/>
+            <pb n="130" xml:id="pb-130" facs="#i156"/>
+            <pb n="131" xml:id="pb-131" facs="#i157"/>
+            <pb n="132" xml:id="pb-132" facs="#i158"/>
+            <pb n="133" xml:id="pb-133" facs="#i159"/>
+            <pb n="134" xml:id="pb-134" facs="#i160"/>
+            <pb n="135" xml:id="pb-135" facs="#i161"/>
+            <pb n="136" xml:id="pb-136" facs="#i162"/>
+            <pb n="137" xml:id="pb-137" facs="#i163"/>
+            <pb n="138" xml:id="pb-138" facs="#i164"/>
+            <pb n="139" xml:id="pb-139" facs="#i165"/>
+            <pb n="140" xml:id="pb-140" facs="#i166"/>
+            <pb n="141" xml:id="pb-141" facs="#i167"/>
+            <pb n="142" xml:id="pb-142" facs="#i168"/>
+            <pb n="143" xml:id="pb-143" facs="#i169"/>
+            <pb n="144" xml:id="pb-144" facs="#i170"/>
+            <pb n="145" xml:id="pb-145" facs="#i171"/>
+            <pb n="146" xml:id="pb-146" facs="#i172"/>
+            <pb n="147" xml:id="pb-147" facs="#i173"/>
+            <pb n="148" xml:id="pb-148" facs="#i174"/>
+            <pb n="149" xml:id="pb-149" facs="#i175"/>
+            <pb n="150" xml:id="pb-150" facs="#i176"/>
+            <pb n="151" xml:id="pb-151" facs="#i177"/>
+            <pb n="152" xml:id="pb-152" facs="#i178"/>
+            <pb n="153" xml:id="pb-153" facs="#i179"/>
+            <pb n="154" xml:id="pb-154" facs="#i180"/>
+            <pb n="155" xml:id="pb-155" facs="#i181"/>
+            <pb n="156" xml:id="pb-156" facs="#i182"/>
+            <pb n="157" xml:id="pb-157" facs="#i183"/>
+            <pb n="158" xml:id="pb-158" facs="#i184"/>
+            <pb n="159" xml:id="pb-159" facs="#i185"/>
+            <pb n="160" xml:id="pb-160" facs="#i186"/>
+            <pb n="161" xml:id="pb-161" facs="#i187"/>
+            <pb n="162" xml:id="pb-162" facs="#i188"/>
+            <pb n="163" xml:id="pb-163" facs="#i189"/>
+            <pb n="164" xml:id="pb-164" facs="#i190"/>
+            <pb n="165" xml:id="pb-165" facs="#i191"/>
+            <pb n="166" xml:id="pb-166" facs="#i192"/>
+            <pb n="167" xml:id="pb-167" facs="#i193"/>
+            <pb n="168" xml:id="pb-168" facs="#i194"/>
+            <pb n="169" xml:id="pb-169" facs="#i195"/>
+            <pb n="170" xml:id="pb-170" facs="#i196"/>
+            <pb n="171" xml:id="pb-171" facs="#i197"/>
+            <pb n="172" xml:id="pb-172" facs="#i198"/>
+            <pb n="173" xml:id="pb-173" facs="#i199"/>
+            <pb n="174" xml:id="pb-174" facs="#i200"/>
+            <pb n="175" xml:id="pb-175" facs="#i201"/>
+            <pb n="176" xml:id="pb-176" facs="#i202"/>
+            <pb n="177" xml:id="pb-177" facs="#i203"/>
+            <pb n="178" xml:id="pb-178" facs="#i204"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i205"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i206"/>
+         </div>
+      </body>
+   </text>
+</TEI>
