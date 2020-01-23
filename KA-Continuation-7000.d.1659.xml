@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7000.d.1659</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>7000.d.1659</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Continuation of Yorick's Sentimental journey</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Sterne, Laurence 1713-1768</persName>
+                           <persName type="display">Sterne, Laurence 1713-1768</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="person" role="oth">
+                           <persName type="standard">Mercantile Library of Philadelphia</persName>
+                           <persName type="display">Mercantile Library of Philadelphia</persName>
+                        </name>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for the author, at the Literary-Press ... and sold by all book-sellers</persName>
+                           <persName type="display">printed for the author, at the Literary-Press ... and sold by all book-sellers</persName>
+                        </name>
+                     </respStmt>
+                     <note>Not by Sterne.</note>
+                     <note>A different work from that of John Hall Stevenson, and from the sequel written by "Mr. Shandy".</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>132p. ; 20 cm. (12mo.)</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1788" notAfter="1788">MDCCLXXXVIII. [1788]</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>ESTC T12595</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00001_files/8/0_0.jpg"/>
+      <surface xml:id="i1" n="cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="6011px"
+                  width="3518px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00001_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00002_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i3" n="i">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00003_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i4" n="ii">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00004_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i5" n="1">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00005.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00005_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i6" n="2">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00006.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00006_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i7" n="3">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00007.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00007_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i8" n="4">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00008.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00008_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i9" n="5">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00009.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00009_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i10" n="6">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00010.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00010_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i11" n="7">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00011.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00011_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i12" n="8">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00012.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00012_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i13" n="9">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00013.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00013_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i14" n="10">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00014.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00014_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i15" n="11">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00015.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00015_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i16" n="12">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00016.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00016_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i17" n="13">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00017.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00017_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i18" n="14">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00018.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00018_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i19" n="15">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00019.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00019_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i20" n="16">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00020.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00020_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i21" n="17">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00021.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00021_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i22" n="18">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00022.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00022_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i23" n="19">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00023.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00023_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i24" n="20">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00024.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00024_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i25" n="21">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00025.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00025_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i26" n="22">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00026.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00026_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i27" n="23">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00027.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00027_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i28" n="24">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00028.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00028_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i29" n="25">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00029.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00029_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i30" n="26">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00030.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00030_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i31" n="27">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00031.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00031_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i32" n="28">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00032.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00032_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i33" n="29">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00033.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00033_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i34" n="30">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00034.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00034_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i35" n="31">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00035.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00035_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i36" n="32">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00036.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00036_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i37" n="33">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00037.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00037_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i38" n="34">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00038.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00038_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i39" n="35">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00039.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00039_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i40" n="36">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00040.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00040_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i41" n="37">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00041.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00041_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i42" n="38">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00042.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00042_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i43" n="39">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00043.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00043_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i44" n="40">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00044.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00044_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i45" n="41">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00045.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00045_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i46" n="42">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00046.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00046_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i47" n="43">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00047.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00047_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i48" n="44">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00048.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00048_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i49" n="45">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00049.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00049_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i50" n="46">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00050.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00050_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i51" n="47">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00051.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00051_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i52" n="48">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00052.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00052_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i53" n="49">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00053.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00053_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i54" n="50">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00054.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00054_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i55" n="51">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00055.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00055_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i56" n="52">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00056.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00056_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i57" n="53">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00057.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00057_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i58" n="54">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00058.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00058_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i59" n="55">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00059.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00059_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i60" n="56">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00060.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00060_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i61" n="57">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00061.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00061_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i62" n="58">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00062.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00062_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i63" n="59">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00063.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00063_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i64" n="60">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00064.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00064_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i65" n="61">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00065.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00065_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i66" n="62">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00066.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00066_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i67" n="63">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00067.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00067_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i68" n="64">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00068.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00068_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i69" n="65">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00069.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00069_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i70" n="66">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00070.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00070_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i71" n="67">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00071.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00071_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i72" n="68">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00072.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00072_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i73" n="69">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00073.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00073_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i74" n="70">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00074.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00074_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i75" n="71">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00075.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00075_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i76" n="72">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00076.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00076_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i77" n="73">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00077.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00077_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i78" n="74">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00078.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00078_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i79" n="75">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00079.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00079_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i80" n="76">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00080.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00080_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i81" n="77">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00081.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00081_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i82" n="78">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00082.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00082_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i83" n="79">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00083.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00083_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i84" n="80">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00084.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00084_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i85" n="81">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00085.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00085_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i86" n="82">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00086.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00086_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i87" n="83">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00087.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00087_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i88" n="84">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00088.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00088_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i89" n="85">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00089.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00089_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i90" n="86">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00090.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00090_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i91" n="87">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00091.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00091_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i92" n="88">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00092.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00092_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i93" n="89">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00093.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00093_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i94" n="90">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00094.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00094_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i95" n="91">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00095.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00095_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i96" n="92">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00096.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00096_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i97" n="93">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00097.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00097_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i98" n="94">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00098.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00098_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i99" n="95">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00099.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00099_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i100" n="96">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00100.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00100_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i101" n="97">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00101.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00101_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i102" n="98">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00102.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00102_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i103" n="99">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00103.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00103_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i104" n="100">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00104.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00104_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i105" n="101">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00105.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00105_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i106" n="102">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00106.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00106_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i107" n="103">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00107.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00107_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i108" n="104">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00108.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00108_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i109" n="105">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00109.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00109_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i110" n="106">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00110.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00110_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i111" n="107">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00111.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00111_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i112" n="108">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00112.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00112_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i113" n="109">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00113.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00113_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i114" n="110">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00114.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00114_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i115" n="111">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00115.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00115_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i116" n="112">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00116.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00116_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i117" n="113">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00117.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00117_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i118" n="114">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00118.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00118_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i119" n="115">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00119.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00119_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i120" n="116">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00120.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00120_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i121" n="117">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00121.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00121_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i122" n="118">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00122.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00122_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i123" n="119">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00123.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00123_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i124" n="120">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00124.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00124_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i125" n="121">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00125.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00125_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i126" n="122">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00126.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00126_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i127" n="123">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00127.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00127_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i128" n="124">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00128.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00128_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i129" n="125">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00129.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00129_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i130" n="126">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00130.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00130_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i131" n="127">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00131.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00131_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i132" n="128">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00132.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00132_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i133" n="129">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00133.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00133_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i134" n="130">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00134.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00134_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i135" n="131">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00135.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00135_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i136" n="132">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00136.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00136_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i137" n="133">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00137.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00137_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i138" n="134">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00138.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00138_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i139" n="back cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="6028px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00139.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00139_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i140" n="back cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="6122px"
+                  width="3561px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00140.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-07000-D-01659-000-00140_files/8/0_0.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+            <pb n="i" xml:id="pb-i" facs="#i3"/>
+            <pb n="ii" xml:id="pb-ii" facs="#i4"/>
+            <pb n="1" xml:id="pb-1" facs="#i5"/>
+             <p>CONTINUATION</p>
+             <p>OF</p>
+             <p>YORICK'S</p>
+             <p>Sentimental Journey.</p>
+             <p>LONDON.</p>
+             <p>Printed for the AUTHOR, at the Literary-Press, No 14, Red-Lion-Street, Clerkenwell; and sold by all Book-sellers.</p>
+             <p>MDCCLXXXVIII.</p>
+             
+            <pb n="2" xml:id="pb-2" facs="#i6"/>
+            <pb n="3" xml:id="pb-3" facs="#i7"/>
+               <p>Advertisement.</p>
+               <p>THE Reader is requested to recollect in what Place and in what Circumstances Yorick breaks off the thread of his Story, the following Sheets being a Continuation from that very Moment; should they be found to have been executed by a hand far inferior, the Author is most ready to acquiesce in the sentence; claiming the Protection and Indulgence of the Public only from the Purity if his Intentions. Admirer of the imortal Sterne, he has made choice of his manner, (a Stile, perhaps, the most difficult) to being into one point of view a few detached thoughts.</p>
+               
+            <pb n="4" xml:id="pb-4" facs="#i8"/>
+            <pb n="5" xml:id="pb-5" facs="#i9"/>
+               <p>CONTINUATION</p>
+               <p>OF</p>
+               <p>Yorick's Sentimental Journey.</p>
+               <p>CHAP. I.</p>
+               <p>THE MISTAKE.</p>
+               <p>IT was a Mistake. - Mon Dieu! - The very wig, whose buckle my Parisian barber assured me would stand, tho' immerged in the depths of Ocean,</p>
+               
+            <pb n="6" xml:id="pb-6" facs="#i10"/>
+               <p>a partial sprinkling of the last night's storm, had drawn as lank as the locks of those aquatic Nymphs, the constant attendants of his godhead, or, the symbolic companion of an Englishman's liberty. - It lay in the wicker chair, by my bed-side. - It was a Mistake, gentle Reader. - It was, Helas, morning! - Allons, for Turin, Madame.</p>
+               <p>THE APPARITION.</p>
+               <p>A FRAGMENT.</p>
+               <p>"How sullen is the man, who refuses the easy tribute of thanks! -</p>
+               
+            <pb n="7" xml:id="pb-7" facs="#i11"/>
+               <p>Ingratitude! Thou bane of society! Cursed be thy abode, disquietude thy couch, and for thy manna, gall! - But, dear Eugenius, I quitted Paris fatigued, disgusted, satiated, the natural feelings of my soul turned from their courses; - could thy friend then pay that tribute worthy himself; - thee - Humanity?" - As I spoke, the severity of his countenance relaxed, Benignity bloomed gently on his cheek, and lisped in softest accents, - "Read." - I awoke; - on my pillow lay -</p>
+               
+            <pb n="8" xml:id="pb-8" facs="#i12"/>
+               <p>THE ADDRESS.</p>
+               <p>"Happy, thrice happy nation! - From the costly viands of enthroned royalty, down to the scanty pittance of hard-earned labour; each welcome guest meets courteous civility. - To thee, Goddess of social life, let us offer the grateful incense! With thee how sweet to mingle congenial souls; - to pass in festive joy the jocund hour! Thou knowest to unknit the ravelled slip of Care; - Soft as the harmonious muse of sympathy, it is thine to meliorate the</p>
+               
+            <pb n="9" xml:id="pb-9" facs="#i13"/>
+               <p>savage asperity of man's rougher soul; - and here, most Benign, hast thou copiously dispersed thy love-enticing influence! - Here the Noble and the Base are equally thy votaries! - Hilarity, with modest smile, abandoning the Bacchanalian revel, approaches in thy train to welcome the wearied stranger, or to the reed-thatched cot or sumptuous palace! - Gallia, with these thy tutelars, what cares can weigh thee down! If, for a moment, thy spirits are depressed, behold thy attendant guardians are at hand, and through thy vaulted roofs resound Vive le Roi, L'amour, La Bagatelle.</p>
+               
+            <pb n="10" xml:id="pb-10" facs="#i14"/>
+               <p>CHAP. II.</p>
+               <p>LE FLEUR'S DISTRESS.</p>
+               <p>IS it possible Le Fleur? - What has detained thee so long? Folding up thy precious relick, Eugenius; not as a lawyer would fold up his brief, for, truly, Equity, I reverence thee too much to imitate, in the most trifling circumstance, thine adversary; - not as - waste-paper; - Art thou curious to</p>
+               
+            <pb n="11" xml:id="pb-11" facs="#i15"/>
+               <p>know how it was folded up? Hast thou never seen an author fold up a paragraph he exchanges with the printer's ambassador, for his weekly four-and-twenty pence? - Pittance too small to find his Pegasus in hay! - Thus was it folded. - But how? - Are you an Author, my dear Sir? Already art thou in possession of the secret. - Heaven send thee better friends than the Nymphs of Parnassus! - Thy perusal of this page witnesses thou art well out of the scrape. - The secret will be of no use to thee. -</p>
+               <p>Is it possible, Le Fleur it can be after eleven? En Verite, oui. - But</p>
+               
+            <pb n="12" xml:id="pb-12" facs="#i16"/>
+               <p>why art thou attired in thy great coat? The brilliancy of the morning would strip thee to thy vest. - The money I had given him pour s'habiler, he said, had all been expended at Paris, and the day before he had rode post twenty leagues. - Reader, if thou hast had patience to accompany me even thus far, thou hast a compassionate and susceptible heart. -</p>
+               <p>Spare we then poor Le Fleur the pain of a blush! - If thou art of my profession, it may have happened that thy wife has forgotten on a saturday night, to amend the depredations of time and her avenging moth, and thy</p>
+               
+            <pb n="13" xml:id="pb-13" facs="#i17"/>
+               <p>flock has waited for their Pastor, as long as I did for Le Fleur. - An simile est?</p>
+               <p>REFLEXIONS.</p>
+               <p>AT BREAKFAST.</p>
+               <p>The Coffee was not sweet enough; - so raising a morsel of sugar, between my finger and thumb, parallel with the eye; (philosophers and moralists may be, perhaps, of a different way of thinking, - let them attack me if they dare; for the eye, my friend, is caught by resplendent objects and conveys it's</p>
+               
+            <pb n="14" xml:id="pb-14" facs="#i18"/>
+               <p>own sensations to the soul, my ideas were gradually transferred from Mynheer Vandunder's refinery, to the sultry shoes of the Western India, where they were insensibly fixed by the miseries of those thousands which produce this luxury for the unfeeling sons of Europe.</p>
+               <p>My mind presented to me the miserable captive, tall, majestic, once, perhaps, the prince of his people, torn from the very bowels of his country, chained, confined in a loathsome dungeon till the slave-fraught vessel regains the destined port. -</p>
+               
+            <pb n="15" xml:id="pb-15" facs="#i19"/>
+               <p>Thy ways, just Heaven, are unsearchable! - He lands. - With sullen majesty I saw him exposed to common sale, - his honest pride the scoff of each vile purchaser; - born to command, yet, and with dignity, his big soul submits. - Ignorant, tho' willing, - stript of his robes, the task-master, horrid executioner, inflicts the whip; - I beheld his mantle striped with purple gore. - His quivering flesh, weltering in it's gushing streams, lay stretched in the agonies of parting life. -</p>
+               <p>Where breaths Humanity for Afric's hapless child! - Where, Europe, is thy justice!</p>
+               
+            <pb n="16" xml:id="pb-16" facs="#i20"/>
+               <p>CHAP. III.</p>
+               <p>THE</p>
+               <p>RESOLVE.</p>
+               <p>PLUMP went the sugar to the bottom of my coffee. - True, said I - she may as soon be found at the bottom of the Atlantic; like thee she melts, and sweetens all around the unpalatable cup; - but haste, Le Fleur, prepare our Cabriolè, we may</p>
+               
+            <pb n="17" xml:id="pb-17" facs="#i21"/>
+               <p>reach Roam, by this time my soliloquy, on humanity, is finished. - Why not Venice? - 'Tis the Carnival; - we shall arrive in time. - I'll go. - "If thou dost, Yorick," cries Prudence, "thou wilt, unquestionably, class thyself, spite of thy sentiment, with thine own inquisitions." - I care not, I'll go to Venice, if but to trace, hapless Maria, thy solitary path across the Apenines.</p>
+               
+            <pb n="18" xml:id="pb-18" facs="#i22"/>
+               <p>The CARNIVAL.</p>
+               <p>By a thousand cross accidents, et tot discrimina rerum, I arrived at Venice, - a day after the jubilee. - N'importe; Smelfungus, said I, who that instant passed my window, will describe it to me. - It was like nothing he had ever seen before; - like nothing he had read of; - the confusion of tongues was nothing to it: - it was a business compounded of nothingness. - I admired his remarks; - he</p>
+               
+            <pb n="19" xml:id="pb-19" facs="#i23"/>
+               <p>would have proceeded. - Mistaken man, didst thou suppose thou wast describing the Fantocini? - 'Twas the Gala, the grand festival of an Empire!</p>
+               <p>For whom was this book written, and for whom not?</p>
+               <p>There are a set of minds, Eugenius, whose discordant principles, are never in union with the exhibitions of art or nature; - in almost every one of these churlish souls, the spring of action differs; - Criticus attends the play, - the Opera, - the Coffee-house, - condemns all he hears or sees, and builds his reputation on the fabrick himself has ruined.</p>
+               
+            <pb n="20" xml:id="pb-20" facs="#i24"/>
+               <p>Should the spirit of philanthropy, by chance, point out a single beauty in this humble attempt of thy friend's, - Take care, Messrs. the Reviewers, don't meddle with this sentence, or you'll burn your fingers. -</p>
+               <p>'Tis flat, cries Invidius;<lb/>
+               Low and inanimate, says Arrogans;<lb/>
+               Puerile, exclaims Ferox; fit for<lb/></p>
+               <p>women; - for them was it written; and, if to their gentle souls, I convey one lesson of tenderness, excite in them one soft emotion of pity or of</p>
+               
+            <pb n="21" xml:id="pb-21" facs="#i25"/>
+               <p>bliss; - much am I overpaid. - As to you, Gentlemen, you, Messrs.</p>
+               <p>Criticus,<lb/>
+               Invidius,<lb/>
+               Arrogans,<lb/>
+               Ferox,<lb/></p>
+               <p>with your dependents, runners, and all who in any wise you claim as adherents, you may fold up this paper as you please, make what use of it you please, and all pack to the D- together.</p>
+               
+            <pb n="22" xml:id="pb-22" facs="#i26"/>
+               <p>At VENICE.</p>
+               <p>The DEDICATION.</p>
+               <p>I dare swear I could give as entertaining a description of this city as Smelfungus did of it's entertainments; I don't doubt but I could. - Pray, Madame, do you recollect the number of bridges there are in this city?</p>
+               
+            <pb n="23" xml:id="pb-23" facs="#i27"/>
+               <p>When, my Eliza, when my wearied eye, at the full distance of the tall-set avenue caught the last farewell; - when thy flowing handkerchief waved me back adieu, - I vowed - and swore my vow was true; for, by the sex's tenderness, I vowed, to dedicate my journeyings to the heart.</p>
+               <p>Gently my friend, and ye whose tender spirits, cast in the downy mould by Nature's softer hand, expect not pompous tales of state, of royalty, of gorgeous palaces; to your hearts my journeyings I dedicate; to them, dressed by an artless hand, I tell the simple tale.</p>
+               
+            <pb n="24" xml:id="pb-24" facs="#i28"/>
+               <p>The RIALTO.</p>
+               <p>CHAP. IV.</p>
+               <p>THIS point will never be settled, so without further consideration, - for you must know I had been weighing, wavering, and determining whether I should go to the Opera, had stated all the</p>
+               
+            <pb n="25" xml:id="pb-25" facs="#i29"/>
+               <p>arguments Pro and Con, then weighed wavered and determined again: in this unsettled state, my cane suspended from my button by it's leathern thong, I crossed the Rialto; - a most magnificent bridge, Madame, supported by a single arch; - Ay, said I, when a man has once resolv'd, how easy it is to execute: if I am tired with my walk, a Gondola will convey me presently to the Opera. - Having sauntered and reflected, seriatim, till my mental and corporal faculties began to stagger, I stept into a Gondola.</p>
+               
+            <pb n="26" xml:id="pb-26" facs="#i30"/>
+               <p>In the GONDOLA.</p>
+               <p>And this is the place of St. Mark? - And these the inhabitants of Venice? - 'Tis thy court, O Liberty, where in the motley groupe, we behold, assembled in one common crowd, Jews, cardinals, Gondoleurs and Nobles. - By heavens, Venice, 'tis wisely done, trusting in the strength of the wisdom of thy councils, thou disdainest secret - Fair and softly, Yorick, remember those dreadful jaws, wide-yawning to receive</p>
+               
+            <pb n="27" xml:id="pb-27" facs="#i31"/>
+               <p>secret informations; - there is no man free in this cursed city! - Whether my exclamation is true may be seen some time or other.</p>
+               <p>The Jew Gondoleur continued his song, whilst the oar of his companion kept time on the silver wave. - We reached the stairs nearest the theatre; - the song was still unfinished. - Discharging my two honest friends, I strided away to listen to the more melodious strains of poor Sachini.</p>
+               
+            <pb n="28" xml:id="pb-28" facs="#i32"/>
+               <p>The OPERA.</p>
+               <p>"Music has charms;" - Who can doubt it, said I, sitting me down in a corner of one of the darkest boxes in the house; who can doubt it, and view the auditory of a Venetian orchestra? - The dilitanti certainly think this gloom heightens the powers of their favourite muse, and those of Italy are in the closest habits of intimacy with her, or pray, Madame, how comes the ear of that blind fidler to be so exquisitively</p>
+               
+            <pb n="29" xml:id="pb-29" facs="#i33"/>
+               <p>superior to your's and mine? - They darken the boxes - here I was going to draw my conclusion, when pop comes an adage better suited to my purpose. - Curtail us of one sense, and the others reap the benefit.</p>
+               <p>CHAP. V.</p>
+               <p>The ENQUIRY.</p>
+               <p>THESE boxes, after all, are very private, and, may be, on occasion, made convenient to the possessors;</p>
+               
+            <pb n="30" xml:id="pb-30" facs="#i34"/>
+               <p>- don't mistake me, Madame, - the persons talking with the box-keeper, are two gentlemen, foreigners.</p>
+               <p>"You are certain nobody is in the box?" - The house was full. - Now whether the man's answer was dictated by avarice, - or that he thought thy friend Eugenius nobody, - or that he really had forgotten, I leave the casuists of Venice to determine; however, he answered, - Nobody: - "Why then, said the elder, shutting the door, 'tis time, my friend, to explain the reasons of my conduct." - How convenient are these boxes. - "A voluntary exile, I seek not, Climenes, to</p>
+               
+            <pb n="31" xml:id="pb-31" facs="#i35"/>
+               <p>avoid myself, but to indulge, unseen, the luxury of grief." - I loved Aspasia. - "Thou spirit of purest aether, for yet I dare address thee, all goodness as thou art, - hear - hear and forgive the author of thy woes! - If, for a moment, he forgets thee, if aught but misery flow from his poisoned chalice, dash all his hopes of happiness with thee hereafter!"</p>
+               <p>"But what avails? - Vain man; - Aspasia breaths no more! Bread up together in our earliest youth, virtue's best principles were taught us by her reverend fire. - Aspasia's book was mine - It was his only care to</p>
+               
+            <pb n="32" xml:id="pb-32" facs="#i36"/>
+               <p>fashion our ideas by honour's chaste rules; - Well did I repay the task! - oft would his discourse turn on love! - 'Twas rapture then to listen, tho' I knew not why; - perceiving our mutual passion, he chid, advised, and reasoned!"</p>
+               <p>The CONCLUSION.</p>
+               <p>The lessons of thine eyes, my Eliza, rushed to my soul. - He chid, advised, and reasoned! - Cold prudence, unimpassioned age, preach</p>
+               
+            <pb n="33" xml:id="pb-33" facs="#i37"/>
+               <p>to the trees that hear not, or to the winds that scatter! -</p>
+               <p>"I left her, Climenes; her charms expanding like the budding rose, - with equal joy we met; - Aspasia, conscious of no change, believed my vows were still sincere; when, serpent-like, I practised those wily arts the cursed world had taught me, and, - she fell; - but - 'twas the fall of nature, - not virtue! - Her soul disdained my proffered hand, and with a nobleness, superior to man, she claimed protection only from oblivion; - I saw her friendless, boldly ascend the vessel inviting her to shores.</p>
+               
+            <pb n="34" xml:id="pb-34" facs="#i38"/>
+               <p>unknown. - My guilty soul shrunk back. - Horror-stuck, awhile I gazed; the adverse winds reared the uplifted vessel to the clouds! - Down from the height" -</p>
+               <p>Here, my Eliza, his sobs of heart-felt penitence filled up the chasm; - then why should we restrain the falling tear? - Accept, unhappy stranger, accept that tribute thy feelings justly claim.</p>
+               <p>"Before her, continued he, were stretched a ledge of rocks, dismasted and ungovernable the furious current dashed the - and, O, my Climenes, I lost" -</p>
+               
+            <pb n="35" xml:id="pb-35" facs="#i39"/>
+               <p>The RECOGNITION.</p>
+               <p>The silence which ensued, confirmed me in her fate; at this instant his seemed to approach, - then wilt thou be happy; -</p>
+               <p>Climenes sighed, - his friend returned it not. - Again he sighed, - still all was mute as death. - "Speak, speak Philanthes - Ha, thou art cold! - Clay cold. - Speak to thy friend, - thy love, - thy Aspasia!</p>
+               
+            <pb n="36" xml:id="pb-36" facs="#i40"/>
+               <p>She, for it was herself, advanced towards the front of the box; by the glimering of the stage-lights I perceived his hand lay on her bosom, whilst Aspasia, one knee bending to the ground, with her right arm supported his body, and with her left chafed his temples.</p>
+               <p>My assistance was necessary, - yet had I lost one minute in contemplation; - another passes; - still motionless I sat: - Surprize, grief, compassion had stupified my senses, - Le Fleur entered to tell me the opera had been over some time. - I pointed to Aspasia; - she sunk down, - the poor fellow flew to her relief; - a</p>
+               
+            <pb n="37" xml:id="pb-37" facs="#i41"/>
+               <p>shock of electricity could not have roused me sooner; - I had procured lights, water, et caetera, - and in two minutes, my Eliza, - all was well.</p>
+               <p>CHAP. VI.</p>
+               <p>The EXPLANATION.</p>
+               <p>YES, my Eliza, in two minutes, all was well, - and in two more, thou mightest have beheld us, where,</p>
+               
+            <pb n="38" xml:id="pb-38" facs="#i42"/>
+               <p>fair spirit, hadst thou joined the circle, all had been happiness! -</p>
+               <p>Thou wonderful Guide and Ruler of events, who turnest all things to thy purpose, and makest our very miseries our nearest way to bliss, teach me to accord in all, nor murmur at thy just decrees! -</p>
+               <p>The evening was sultry, - Madame R. who was both Climenes and Aspasia, placed herself at the window, - "she had," she said, "during her stay at Amiens, with her brother, the Count de L. seen Philanthes pass thro' in his way to Venice. - She assumed</p>
+               
+            <pb n="39" xml:id="pb-39" facs="#i43"/>
+               <p>the name of Climenes and followed, resolved to know his real sentiments, or to forgive or yield him up for ever."</p>
+               <p>I promised to breakfast with them the next morning, and took my leave.</p>
+               <p>I am conscious my soul is superior to envy. - Happiness, say they, is comparative; the thought is base; - 'tis false. - Is comfort thine, when looking upon misery? - Canst thou compare thyself to the woe-worn wretch and derive pleasure to thy mind? - When I beheld Climenes and Aspasia, my heart was lifted up with joy; my thoughts were directed first to thee,</p>
+               
+            <pb n="40" xml:id="pb-40" facs="#i44"/>
+               <p>source of my bliss - and then - to Heaven. - I could not but consider Le Fleur as the instrument of my eclaircisment with Madame R. -, I looked on him, as he undressed me, with gratitude, with rapture.</p>
+               <p>MUCH ADO ABOUT NOTHING.</p>
+               <note>underlined three times</note>
+               <p>How intricate is the mechanism, how numberless the springs of a well-ordered</p>
+               
+            <pb n="41" xml:id="pb-41" facs="#i45"/>
+               <p>government! - Pray, Madame, did you never hear of the famous goose, the preserver of the Roman capitol? - You may smile Madame, but the most powerful empires have owed their existence to the minutest causes. - If, said I, - drawing on my black silk breeches, (for you may recollect I was going to breakfast with Madame R. and I hold it an invariable rule, that neatness in dress, in the calendar of politeness, stands next to elegance of manners;) - If, said I -</p>
+               <p>This plaguy button has so bruised my thumb! - Rot it! - I can't get it in, Madame; - our external and</p>
+               
+            <pb n="42" xml:id="pb-42" facs="#i46"/>
+               <p>internal affections generally accord; I had been settling my mind for the last half-hour, to leave Venice this very day, and for the last thirty minutes, had been adjusting my dress. - In the self-same instant in it went, Madame, and I made up my mind; - on the latter point, I might have spared myself an infinite deal of trouble; for would you believe it, the council of sages, in kind compassion, no doubt, to my mental infirmities, travelling without a tutor, had made it up for me some hours before.</p>
+               
+            <pb n="43" xml:id="pb-43" facs="#i47"/>
+               <p>CHAP. VII.</p>
+               <p>"AND this is their messenger, Le Fleur?" - He was to inform me the Council had limited my stay in Venice to mid-day; - it was already after ten. - "Pray, Sir, to what cause am I to attribute this extraordinary act of condescension?" - "Ge supposed</p>
+               
+            <pb n="44" xml:id="pb-44" facs="#i48"/>
+               <p>I could not be ignorant, - the Gondoleers, who had carried me to the Opera the preceding evening, had informed against me." - Poor simple exclamation, wert thou the cause of my disgrace? - Thou canst not fail, continued I, Spouse of the Adriatic, to meet with hair-breadth 'scapes and prosper still, whilst the very barge-men are so interested for thy existence. - I conceived myself, Eugenius, much too insignificant an object to attract the notice of state-inquisitors. - With the utmost gravity he assured me, the Ichneumon, tho' the vilest of reptiles, was the destroyer of the catterpillar. -</p>
+               
+            <pb n="45" xml:id="pb-45" facs="#i49"/>
+               <p>I never was ambitious of, nor ever sighed for, the appendages of royalty; - here they stood - one - two - three - four, close by the side of my boat; - I seated myself on the prow; Le Fleur's seat would have been softer, but for my double-toed shoes; and thus, in two hours sail, we landed on the banks of the Lagune. -</p>
+               
+            <pb n="46" xml:id="pb-46" facs="#i50"/>
+               <p>REFLEXIONS.</p>
+               <p>By the tomb of St. Anthony of Padua, whither I was posting to pay my respects, for tho', Madame, I am no Papist, why should we kick against the pricks? - I'll not be ill-natured, - I'll not write a syllable, - let them enjoy their gallanties, their cassinos in peace, - and peace by with them! - Thump went my heart: - it was a cordial Amen.</p>
+               
+            <pb n="47" xml:id="pb-47" facs="#i51"/>
+               <p>The REVERIE.</p>
+               <p>The Duenna opened the door of a small closet, and took out a pair of slippers she had purloined from Father Paul, she placed them on the threshold of the door of the antichamber; 'twas a ceremony I could not comprehend. - I followed my conductress in silent astonishment, through the salloon, to Adelaid's apartment, - It's whole ceiling</p>
+               
+            <pb n="48" xml:id="pb-48" facs="#i52"/>
+               <p>was one continued mirror, in each corner of the room were painted the loves of Cupid and Psyche; the sleeping Venus of the glowing walls seemed to invite the trembling hand, till Adelaid herself, seated in the centre on a sopha of the blackest sattin, whose flowing robe of crape, embroidered in crouded folds, strove vainly to hide the symetry and polish of her ivory limbs, seized captive sense and motion.</p>
+               <p>"Madame," said Margaretta, "your husband;" - for the charming Adelaid had been two months married. - "your husband is safe, your father only is at home, and the holy slippers will</p>
+               
+            <pb n="49" xml:id="pb-49" facs="#i53"/>
+               <p>prevent the superstitious dotard's disturbing you. - 'Tis well: - the Duenna withdrew. - Now then, dearest Lorenzo, Adelaid is thine. - I seated myself by her side; enchantment could not figure a situation more heavenly, - my throbbing heart beat extacy through every pulse, - the panting Adelaid in softest blandishments - Roused from the delightful lethargy by the screams of the Duenna, I sprung to the door; Diego, furious. -</p>
+               
+            <pb n="50" xml:id="pb-50" facs="#i54"/>
+               <p>Sir, cries Le Fleur, will you leave Loretto without seeing the Casa Sancta? - Le Fleur, I thank thee, thou hast saved me from a bloody rencountre.</p>
+               <p>CHAP. VIII.</p>
+               <p>The PILGRIM.</p>
+               <p>SO I turned into the first shop where I saw a countenance that pleased me; "- and the next turning to the right will lead you to the Casa sancta. - It</p>
+               
+            <pb n="51" xml:id="pb-51" facs="#i55"/>
+               <p>was as I described." - She would have added more, but a customer came in to purchase a madona and beads; - not to assist thy devotion, I am sure, fair saint, for never was goodness more strongly poutrayed in any countenance, but thine, my Eliza; - affability had tempered in it to too-sprightly traits of nineteen, - she was a french pilgrim. - Badly understanding the Italian, and speaking it worse, I was still distressed to make out my direction. - Then, said the fair pilgrim, "I willbe his conductress;" - and he shall follow thee wherever thou wilt lead, even to the gates of the valley of death. - A very Turk could not do</p>
+               
+            <pb n="52" xml:id="pb-52" facs="#i56"/>
+               <p>less. - This was the translation of my looks. - I did not utter a syllable, but I found means to carry on the conversation. - "I will lead thee," answered she, " through vallies flowing with milk and honey, and virtue shall strew the flowers of peace in the paths that conduct thee to -" "Heaven was in her eye."</p>
+               
+            <pb n="53" xml:id="pb-53" facs="#i57"/>
+               <p>The ACT OF DEVOTION.</p>
+               <p>- She turned it to the beads and madona on the counter, - mine glanced in the same direction, - a quilted purse of white sattin was in her hand, with strings of silver twist; - "replace it in thy bosom, gentle pilgrim," - she translated my look, whilst my involuntary hand dropped a louis on the table. - Laying her left hand on mine and taking the madona in her</p>
+               
+            <pb n="54" xml:id="pb-54" facs="#i58"/>
+               <p>right, she looked at it a few seconds, then raising her eyes to Heaven, she dropped them with a smile of modest gratitude on the hand she held. - Ave Maria! - It was enough, - the look was sufficient to interest every saint in heaven in my favour.</p>
+               <p>At the CASA SANCTA.</p>
+               <p>We were both on our knees before I perceived my hand was still locked in that of the fair pilgrim. - What</p>
+               
+            <pb n="55" xml:id="pb-55" facs="#i59"/>
+               <p>wouldest thou have said, Eugenius, to have seen me prostrate with her? - But what care I who sees me? - Thou hast filled my soul, chaste saint, brim-full of meekness and devotion! -</p>
+               <p>Dressed in a robe of purest white, the sky-blue sash depending from her waist, she knelt; - had I possessed Guido's pencil, I would have drawn thee as thou wert, and Innocence should have owned the portrait to be her's!</p>
+               <p>She had counted her beads, over and over; - 'tis no matter, said I -</p>
+               
+            <pb n="56" xml:id="pb-56" facs="#i60"/>
+               <p>There is a certain combination of ideas, which break, slap-dash, into a man's mind, when it is evacuated even but for a moment, and it is next to impossible to recover the lost ground. - I should not have room sufficient in a whole octavo to explain this galloping concatenation: - the cause may be found from the effect. -</p>
+               <p>The fair pilgrim twined her dazling blue eyes, fraught with a look of meek, familiar familiar softness, full upon mine. -</p>
+               <p>The attack was sudden. - she had invoked Heaven to her assistance; - who could resist? - I</p>
+               
+            <pb n="57" xml:id="pb-57" facs="#i61"/>
+               <p>offered my arm and thus, with my brains turned topsy-turvy, we entered my apartment.</p>
+               <p>CHAP. IX.</p>
+               <p>The TEMPTATION.</p>
+               <p>LE Fleur had set out for me the best collation Loretto produced; - it was a pilgrim's autumnal supper, a few bunches of grapes, figs and bread.</p>
+               
+            <pb n="58" xml:id="pb-58" facs="#i62"/>
+               <p>The settilette he had placed for me would just hold two, - there was no other chair in the room, - so down we sat together. -</p>
+               <p>Instead of composing, the walk from the chapel had increased my agitation. - The enemy had gained ground rapidly, from the thousand little attentions she paid me on the way, - attentions which are stronger advocates for love than the most laboured dissertations; - every nerve in my composition trembled; - the settilette had no back, - reclining to take the beads from her bosom, - the fair pilgrim lost her poise. -</p>
+               
+            <pb n="59" xml:id="pb-59" facs="#i63"/>
+               <p>WHo could resist, - or he that's more than man - or less? - Thy friend, Eugenius, is neither. - So I caught her in my arms and - re-seating her - I called to Le Fleur for a glass of water: - the fright of falling had chased the colour from her cheek; - at the name of Le Fleur, it was suffused with crimson, - 'twas not the blush of innocence or guilt, - 'twas the effect of pleasure and surprise.</p>
+               <p>The sun was set, the knell of day was knowled, the prowling wold howled round the well-watched fold; at the first mattin of the early lark, with palpitating</p>
+               
+            <pb n="60" xml:id="pb-60" facs="#i64"/>
+               <p>heart the shepherd, reckoning over his fleecy care, and missing his favourite ewe, o'er hill and woodland trudges anxious, expecting every moment to behold her torn and lacerated carcase, - at the last gasp of expectation, bleating, she nimbly bounds to meet the well-known voice, - Figure to thyself the peasant's look. -</p>
+               <p>Hast thou, fair damsel, when the hoarse trumpet or shrill fife has torn a brother from thine helpless arms, - hast thou, I say, e'er known the heart-throbbing minute that restores him? -</p>
+               <p>So looked Le Fleur; - So throbbed Annetta's heart!</p>
+               
+            <pb n="61" xml:id="pb-61" facs="#i65"/>
+               <p>STORY of ANNETTA.</p>
+               <p>If ever I saw domestic happiness, feelings unfeigned, it was at this instant. - Annetta flew to meet her brother; - Le Fleur received her, bowing his head to heaven for the blessing.</p>
+               <p>"Come, yet of little faith," Stoics, wise in your own eyes; and say, if this</p>
+               
+            <pb n="62" xml:id="pb-62" facs="#i66"/>
+               <p>is not happiness, in what does it consist? If the cold goddess of your worship forbids enjoyment such as this, least, by indulging, subsequent evils may fall heavier, let her heralds cry; Procul, O, procul este profani, - and class me with the number! -</p>
+               <p>Le Fleur's tears had melted away his first emotions; and, like a true Frenchman, his lively genius had danced him into every corner of the room; and each corner had produced a question. - I was now in a capacity to act as moderator; for, upon my soul, at first I felt the tears trickle a-pace, - "and by what hazard, my dear Annetta,</p>
+               
+            <pb n="63" xml:id="pb-63" facs="#i67"/>
+               <p>"camest thou to Loretto?" - Of all possible questions I found this the most natural, as well as most to my goût. - "Pardon, Monsieur," - we will retire - by your leave, good Monsieur Le Fleur, I will neither lose my Pilgrim nor my supper; - so as soon as that is over, thou shalt tell us, gentle Annetta, what hazard brought thee to Loretto. - Le Fleur bowed.</p>
+               
+            <pb n="64" xml:id="pb-64" facs="#i68"/>
+               <p>CHAP. X.</p>
+               <p>BEING THAT OF</p>
+               <p>RECOMMENDATION.</p>
+               <p>LE Fleur bowed - such a bow, my Lord, have I many times humbly bent, when your Lordship condescendingly invited me to say grace</p>
+               
+            <pb n="65" xml:id="pb-65" facs="#i69"/>
+               <p>at your table, - an honour, my Lord, which must strike deep into the mind of a man attached to virtues, even when they appear amongst the vulgar; conceive then, my Lord, how qualifications, like your's, derived as well from a long and illustrious line of ancestors, as also from your Lordship's well-known prowess in feats of arms; - in your thorough knowledge of the great political world, to common eyes a chaos, - but above all your humanity; your love of letters; and the encouragement you give to men of science. - And here, my Lord, I take the liberty to recommend this little work to your august protection,</p>
+               
+            <pb n="66" xml:id="pb-66" facs="#i70"/>
+               <p>being assured, that springing up under your patronage, it cannot fail to strike the eye of the multitude with the beauty of it's colouring. - Now, my Lord, permit me to caution you against that false modest which has so lately and in such loads made it's appearance in St. Stephen's chapel, - "You have no doubt, Madame, assisted at the introduction of a member -" to the great detriment of literature in general and the oratorical part of it in particular; for praise, my Lord, and the desire of applause, being the most natural incentives to study, when these stimulatives are overcome by that mock modesty of disregarding letters, in dread</p>
+               
+            <pb n="67" xml:id="pb-67" facs="#i71"/>
+               <p>of applause, there is an end - I affirm and will maintain, my Lord, in the face of the whole world, that whoever advises you to shun praise is your enemy, - fear not to take the sum total of this chapter to yourself; - your merits deserve it; lay it to your heart and defy the malevolence of an ill-judging world; for, if I live, my Lord, when it was written, I had no other person in my thoughts; - If then it contains one atom of praise, it belongs solely to your Lordship, and to you deservedly, for you must be convinced, I am neither allied, nor a hireling, to your Lordship; so, my</p>
+               
+            <pb n="68" xml:id="pb-68" facs="#i72"/>
+               <p>Lord, in full assurance and firm perswasion, that this chapter will be placed to the account of the right owner, I most humbly take my leave. -</p>
+               <p>YORICK.</p>
+               <p>"Oh, Virtue; how beautiful art thou! In our hearts will we implant thee; mayest thou flourish there in the beauty of holiness! When I behold thee, thou borrowest the traits of my friend, my</p>
+               
+            <pb n="69" xml:id="pb-69" facs="#i73"/>
+               <p>spouse, my protecting angel; let, oh, soul of my existence, let my regards meet thine in softness; let me fly thee an instant to return anew, triumphant to thy arms!"</p>
+               
+            <pb n="70" xml:id="pb-70" facs="#i74"/>
+               <p>STORY of the PILGRIM.</p>
+               <p>Le Fleur laid his hand on his breast, inclining his body easily to the right where I stood, and, raising his shoulders at least three inches, ejaculated Quel honneur! Quel honneur, repeated Annet! - The beautiful Annet felt it. -</p>
+               <p>Yorick, cries Conscience, thy vanity is intolerable! - "'Twas but a small prick, Madame, and not worth our regard. -</p>
+               
+            <pb n="71" xml:id="pb-71" facs="#i75"/>
+               <p>So now, Annet, tell us, what hazard brought thee to Loretto?" - In consequence," she said, "of a vow made, during the time of her slavery." - Le Fleur's eyes were starting, - "a distant relation had left her brother an inheritance, such a one as it was, and hearing he served in the lines at St. Roch, her father, old Jerome, accompanied herself, embarked at Marseilles with an intention of communicating the good news to his son, and to prevail on him to return home; they had the misfortune to be taken by a corsair off the coasts of Spain, and carried prisoners to Algiers."</p>
+               
+            <pb n="72" xml:id="pb-72" facs="#i76"/>
+               <p>- For the sake of her father, the gentle Annetta found the yoke heavy indeed, - her constant vows and prayers were for his release. - This pilgrimage, as the only vow she had not already performed, was the last and greatest, in gratitude to Heaven, which had listened all-gracious to her prayers, and restored old Jerome to his family and his vineyard. -</p>
+               
+            <pb n="73" xml:id="pb-73" facs="#i77"/>
+               <p>CHAP. XI.</p>
+               <p>LE FLEUR'S INHERITANCE.</p>
+               <p>IN the Campania, at the foot of the Alps, on the side of France, is seen a small mountain, situated</p>
+               
+            <pb n="74" xml:id="pb-74" facs="#i78"/>
+               <p>at two leagues distance from the route, whose summit is crowned with wood; an easy ascent of fifty steps from the rivulet brings thee so near the straw-clad cot, that thou mayest pluck the jessamine and rose, mantling to veil it's window from the mid-day sun. -</p>
+               <p>"But thou, fair rose," said I, whilst Annetta poured out my morning's coffee, - "but thou, mild as fair, and good as both, far be the cankering blast of envy from thy bud, - and foul befal the hand that plucks thee, unless to plant thee in a richer soil where love may cherish! - Thou art not rich. - May Heaven preserve thy purity</p>
+               
+            <pb n="75" xml:id="pb-75" facs="#i79"/>
+               <p>of soul, leave thee thy health, thy senses unimpaired, tear not from thy tender bosom the man of thine adoration, give thee friends worthy thy love, - and, what want hast thou of fortune?"</p>
+               <p>All that I or his sister could urge had no weight with Le Fleur, he was resolved not to return. - The preliminary departure, (paying an exorbitant bill) was settled, - not after the manner of Smelfungus, noting it on my tablets, for publication, with a string of queries, comparisons, and reflexions tacked to it's tail; not like Mi-Lord kicking the waiter down stairs, -</p>
+               
+            <pb n="76" xml:id="pb-76" facs="#i80"/>
+               <p>LORETTO.</p>
+               <p>The DEPARTURE.</p>
+               <p>"Tell him," said he, - "tell my father, I resign all right to my legacy, - 'tis his whilst he can enjoy it; - I have served my King and country; - at the expiration of one twelve months more, I will return and serve him; - and never till the solitary</p>
+               
+            <pb n="77" xml:id="pb-77" facs="#i81"/>
+               <p>yew o'er-hangs his grave, shall the vine he prunes be mine." - Annetta sighed. - I could have kissed le Fleur for his filial affection. - I kissed Annet, and, invoking once again the gods of my fathers to protect her, stepped into my chaise de poste.</p>
+               
+            <pb n="78" xml:id="pb-78" facs="#i82"/>
+               <p>FILIAL AFFECTION.</p>
+               <p>THOUGHTS.</p>
+               <p>Daughter of pure nature, thou alone art sufficient to ward off the evils of threat'ning age. -</p>
+               <p>Thou opposest thy buckler to the insulting darts of the enemy. -</p>
+               
+            <pb n="79" xml:id="pb-79" facs="#i83"/>
+               <p>Thou art victorious, or thou receivest in thy breast the poinard aimed at the father of thy youth. -</p>
+               <p>Light of his declining age, thou guidest his embarrassed march; - thou removest from before him the flint that might pierce his foot. - On thy neck he slumbereth in tranquility. -</p>
+               <p>He reposeth in the strength of thine arm. Thou repayest him the tender cares of thine helpless infancy. -</p>
+               <p>Thou extendest thy sway over the whole creation, from man to the vilest reptile. -</p>
+               
+            <pb n="80" xml:id="pb-80" facs="#i84"/>
+               <p>The sword of the hero, the paw of the tiger, the talon of the eagle, alike are obedient thy law. -</p>
+               <p>In thy presence fierceness and savage barbarity yield to the softest emotions; - misery smiles at thy approach; - horror shrinks from before thee.</p>
+               <p>It was already evening, as we began to ascend the mountain; - in leaving</p>
+               
+            <pb n="81" xml:id="pb-81" facs="#i85"/>
+               <p>Loretto, I had not considered how inadequate the heels of an Italian post-horse were, to keep pace with my eye over a map. -</p>
+               <p>Plague take these hills and hollows, said I! They put one too much in mind of the ups and downs of life, especially to a man out of favour at court, where thou knowest, Eugenius, thy friend is an outcast. - In troth, my back was too stiff; strange as it may seem, Madame, that was literally the case - 'tis a complaint I shall never get rid of. - My physicians prescribed exercise, so, to remove all obstructions, I have been jumbled from London to</p>
+               
+            <pb n="82" xml:id="pb-82" facs="#i86"/>
+               <p>Calais, to Paris, across the rockey vallies of Savoy, and so on to this very moment; and this very moment I am resolved, more than ever, Madame, to keep it as stiff as I can, to the last day of my life; for had there been one single particle of suppleness in it, that jolt must have broken it. - Ma pauvre chaise de poste! The montrous stone! - Down we came - What's to be done? - Le Fleur shrugged Le Diable! - Santa Maria, re-echoed the postillion! - I took a pinch of snuff from my horn box, and standing with my hands crossed behind me, looked wistfully at my broken wheel!</p>
+               
+            <pb n="83" xml:id="pb-83" facs="#i87"/>
+               <p>CHAP. XII.</p>
+               <p>The BROKEN WHEEL.</p>
+               <p>READER, I'll tell thee a fable. - "Once upon a time, a peasant, no matter of what country, human</p>
+               
+            <pb n="84" xml:id="pb-84" facs="#i88"/>
+               <p>nature is every where the same, having bemired his cart, fell on his knees, beseeching Hercules, whom the priest had informed him was the strongest amongst the celestials", -</p>
+               <p>But, I beg your pardon, AEsop has told it much better, - and as you know the fable, you are likewise acquainted with the moral, and are thus, if you chuse, at liberty to make the application. -</p>
+               <p>"Thou hast carried me," said I, picking up the bruised spoke, "thou hast carried me but a few miles; I thought thou wouldest have rolled to</p>
+               
+            <pb n="85" xml:id="pb-85" facs="#i89"/>
+               <p>Rome; - but, alas, thy race is run - thy revolutions are preformed - to-morrow thy place will be supplied, all traces of thy former existence will be done away, as the noon-tide shadow, and thou wilt be seen no more; - the very worm, that, but a moment since, trembled at thy rolling, may now insult thee with impunity; nay more, - prey on thee. - Thy fair appearance promised a longer course. - Ah, no! When I regard thee nearer, the chisel that formed and polished thee, gave thee too an invidious stab. -</p>
+               
+            <pb n="86" xml:id="pb-86" facs="#i90"/>
+               <p>But, my good Sir, nothing is so absurd in nature as ill-timed reflexions, you should use means to extricate yourself from this difficulty." - "Perfectly right, Madame. But supposing I had not said a single syllable about my poor wheel, - how should we have filled up the hiatus?</p>
+               <p>The postillion was gone to get assistance from a neighbouring highlander, and we must allow him time to return." - "A highlander in the interior parts of Italy!" - "Yes, Madame, and a scotchman too." - "A likely tale!" - "Have but</p>
+               
+            <pb n="87" xml:id="pb-87" facs="#i91"/>
+               <p>a little patience and you shall hear; Saunders is going to relate his story."</p>
+               <p>"I was forty," resumed he, edging in his chair, "I was forty years, and one, two, three, counting on his fingers to nineteen days old at the commencement of the late rebellion, in Scotland. - Pressed into the service of the unsuccessful, my life and a few valuables were all I could save from the wreck which followed. - Remonstrance was in vain, - for who shall oppose the sword of vengeance wrested by the soldiery from the hand of justice? - Mercy is commanded to over-red</p>
+               
+            <pb n="88" xml:id="pb-88" facs="#i92"/>
+               <p>her face, for veil her streaming eyes. - Every unfortunate soul, alike or innocent or guilty, (for guilt was then to differ but in thought) bleeds indiscriminately, sealing with their death their forfeited demesnes."</p>
+               <p>"No, my son", cried the wisdom of the King, "Tho' thou hast rebelled against me, I will not spoil thy people, nor shall thine attendants be dishonoured; - all that have loved thee I will love."</p>
+               <p>"Excuse," says the venerable peasant, "an old man's comments and these honest drops," which had plentifully</p>
+               
+            <pb n="89" xml:id="pb-89" facs="#i93"/>
+               <p>bedewed his hoary cheeks. - "I loved my country, and I loved my King, - but - I must condemn the cruel policy that reft me, amongst thousands, of my patrimony."</p>
+               <p>"Cruel, indeed," replied I - and were I" - my want of interest, (you know where) flushed in my face - "were I a Fox, my voice should not be wanting to restore thee to thy birth-right. - If I could, honest Saunders, I would put a spoke in thy wheel, as thou hast done in mine.</p>
+               
+            <pb n="90" xml:id="pb-90" facs="#i94"/>
+               <p>CHAP. XIII.</p>
+               <p>Which you may read or let alone.</p>
+               <p>AWAY we posted. - Now, you are to be informed, Madame, I have nothing on earth to fill up this</p>
+               
+            <pb n="91" xml:id="pb-91" facs="#i95"/>
+               <p>chapter - Ex nihilo nihil fit; that you know, at least, if you understand Latin; - 'tis Saturday night and it must be finished, that I know; - the whole matter of the chapter is spun out, and I have a sheet and a half more to fill up; - Away we posted; - these three specific words contain all I can or will say to the purpose, from the beginning to the ending. - Alas, that every author cannot be as honest! What an infinite deal of trouble we might save ourselves! What an infinite number of books might be read! In an hour one might be acquainted with every volume in Bell's Library, with the exception of Shakspere, Addison,</p>
+               
+            <pb n="92" xml:id="pb-92" facs="#i96"/>
+               <p>Pope, and a few more such queer old-fashioned fellows, who are eternally teazing you with new matter and new beauties in every line. -</p>
+               <p>Proteus, thou god of transformation, I thank thee; - thou hast carried me one-third thro', and in the space of twenty lines thou hast exhibited me as, Traveller, Author, Wit; - if ever I reach the end of it, this chapter shall smoke upon thine altar; and, when I get to Rome, I will make a libation at the foot of thy statue. - I shall know thee, tho' thou hast borrowed a wig of St. Thomas, or a</p>
+               
+            <pb n="93" xml:id="pb-93" facs="#i97"/>
+               <p>cloak of St. Paul; tho' the modern Romans have transformed thee into a modern Saint -</p>
+               <p>I remember to have read some of Cicero's Orations, where the exordium has been one half of the speech - now, that this chapter should have it's conclusion in the same proportion - where's the wonder? Marcus, T. Cicero was avowedly a great man - and, so was Yorick; - both acquired same by their genius - both - but, if I carry on the parallel, I may be suspected of partiality for my names-sake; - I</p>
+               
+               
+            <pb n="94" xml:id="pb-94" facs="#i98"/>
+               <p>wont balk my humour - I'm a dab at comparisons, I mean in the great and small way, - parvis componere, - you understand me, 'tis an example from the Latin syntax - for instance now, Alexander to Robin-Hood - Julius Caesar to the D-ke of R-hmond - William P-tt to Punch - and Charles Jenkinson to his constant companion the D-v-l - in the literary was, why I'd couple you up half a dozen in as many seconds - Macbeth with the Carmelite - the conclusion of the Sentimental Journey with</p>             
+            <pb n="95" xml:id="pb-95" facs="#i99"/>
+               <p>the commencement - and a multiplicity of others. - So, Madame, with a fresh spoke in my wheel, away we posted. -</p>
+               
+            <pb n="96" xml:id="pb-96" facs="#i100"/>
+               <p>CHAP. XIV.</p>
+               <p>The HERMIT.</p>
+               <p>IT seem'd an even contest, whether we or the sun, whose faint beams were just peeping over a neighb'ring</p>     
+               
+            <pb n="97" xml:id="pb-97" facs="#i101"/>
+               <p>forest, should first reach the summit of the mountain; - Le Fleur spurred his bidet into a trot, and, riding up close to the chaise, whispered, "Monsieur" -</p>
+               <p>"Why then, quoth I, ride back and fetch them" - The postillion open the door - I turned round to look for Le Fleur; - he was out of sight. - How rapidly we descend! -</p>
+               <p>"Surely the plaintive air of that pipe is familiar to my ear; - the solemn melancholy matins of poor Maria!" - "'Tis her</p>
+               
+            <pb n="98" xml:id="pb-98" facs="#i102"/>
+               <p>father," says he, "expiring at my side" -</p>
+               <p>On a seat, excavated in the rock with his own hands, sat the venerable sage; death in his countenance was divested of it's terrors - the grim tyrant smiled in his approach and smote him in the happy instant his soul was raised to Heaven! -</p>
+               
+            <pb n="99" xml:id="pb-99" facs="#i103"/>
+               <p>REFLEXIONS.</p>
+               <p>"Terror of men, who alone, amongst the numberless individuals that people the mass we inhabit, dread thee! -</p>
+               <p>And yet it is not thee, but the abyss of Eternity we fear -</p>
+               
+            <pb n="100" xml:id="pb-100" facs="#i104"/>
+               <p>Thou art but the instrument in the hands of the executioner! -</p>
+               <p>Terror of men, cease to assume an usurped empire over our souls! -</p>
+               <p>Thou art but as the vessel which conveys us to distant and unexplored shores! -</p>
+               <p>Who would shun thee assured of a better eternity? -</p>
+               <p>The heart waxes pale, the teeth chatter, the voice falters at thy approach; -</p>
+               
+            <pb n="101" xml:id="pb-101" facs="#i105"/>
+               <p>Education's prejudice! -</p>
+               <p>For not at thine, Terror of men, but at the approach of time immeasurable, without a change -</p>
+               <p>'Tis the hermit," exclaimed a peasant, striking her breast as she set down a small basket woven of vine tendrils, "'tis the good father Lorenzo, who taught Maria her devotions; - Ah woe is me! - This basket contained an offering for thee of dried figs; thy prayers, reverend father," said she, bathing his hand with tears, "thy prayers would have rendered the vilest of wretches spotless!</p>
+               
+            <pb n="102" xml:id="pb-102" facs="#i106"/>
+               <p>Come," cried she, "come and weep with me, ye inhabitants of the mountain, who have sought and experienced his intercession." -</p>
+               <p>Grief will make the simplest eloquent, and thou, soul-moving immortality, when unadorned, art then adorned the most! -</p>
+               <p>"Why, father," continued the peasant, each word interrupted by her sobs, "why wouldest thou leave us? - Thou madest our barren wilderness to smile! - How, rather, couldest thou all-gracious Heaven</p> 
+               
+            <pb n="103" xml:id="pb-103" facs="#i107"/>
+               <p>permit the angel of darkness to rob us of our guide! -</p>
+               <p>'Twas grief then," said I, putting it carefully into my note case. -</p>
+               <p>The disconsolate mountaineer threw herself on the rock; the hand her tears had besprinkled she dried with her hair. -</p>
+               <p>"Behold, Rosetta," said the first; - "Alas, alas!" cried the second, "the sight distracts her, - separate her from the body;" - in vain they essayed, her arms closely embraced his neck. - "Speak then, speak to</p>
+               
+            <pb n="104" xml:id="pb-104" facs="#i108"/>
+               <p>us, Rosetta;" - a look of vacancy answered that she heard them not. - Not a soul observed or thought of me. - "Ah, Rosetta, tell us how happened it, - this sight of woe?"</p>
+               <p>'Twas grief, cried I, rushing to my chaise, -</p>
+               
+            <pb n="105" xml:id="pb-105" facs="#i109"/>
+               <p>IN THE</p>
+               <p>CHAISE de POSTE.</p>
+               <p>Should any one be hardy enough to deny that the animal functions are affected in their natural duties, by the passions or feelings, there are others in this</p>
+               
+            <pb n="106" xml:id="pb-106" facs="#i110"/>
+               <p>world would go nigh to prove him a fool. - I am no physician -</p>
+               <p>I am a man. -</p>
+               <p>The spaniel thou hast fed, the linnet whose daily breakfast was the bounty of thine hand; - would it not rend thy tender heart to see them breathless? - And couldest thou turn away thine eye with indifference from the bleeding sojourner?</p>
+               <p>Hast thou received an orphan in thine arms? - Hast thou cherished her as a dove in thy bosom? - Has the darksome night of death hid</p>
+               
+            <pb n="107" xml:id="pb-107" facs="#i111"/>
+               <p>her for ever from thee, and hast thou not grieved? - There is no such man -</p>
+               <p>'Twas grief, then said I, putting my note-case into my pocket.</p>
+               
+            <pb n="108" xml:id="pb-108" facs="#i112"/>
+               <p>CHAP.XV.</p>
+               <p>THOU art dead with grief, - the letter came from the mother of Maria. - It lay at Lorenzo's feet; inclosed were three ringlets of her hair: - I'll read it once more. -</p>
+               
+            <pb n="109" xml:id="pb-109" facs="#i113"/>
+               <p>"I murmur not, but am wretched! - Maria breaths no more, - the enclosed tokens of her holy affection, she would have thee wear, (commending herself to thy blessing) affixed to the badge of thine order:</p>
+               <p>The disconsolate E."</p>
+               <p>It shall be affixed to the badge of mine, said I, kissing thy picture, my Eliza; - to thee am I devoted, - thou art the saint I serve.</p>
+               
+            <pb n="110" xml:id="pb-110" facs="#i114"/>
+               <p>THE</p>
+               <p>SHILLING.</p>
+               <p>Short accounts make long friends, so, Madame, before we proceed any further, please to look back into the thirteenth chapter; either you did not read it, a matter at that time left to your own</p>
+               
+            <pb n="111" xml:id="pb-111" facs="#i115"/>
+               <p>choice, or you must conclude me a plaguy liar; however, as all faithful historians ought to endeavour to throw a true light on every passage, it is my duty to insist on your turning back.</p>
+               <p>Well, Madame, I grant I made a specific promise in the beginning which I a little exceeded; - but then I was better than my promise, - five words, at least, better. - Ye immortals, what a change it would make here below, was every man five words better than his promise!</p>
+               
+            <pb n="112" xml:id="pb-112" facs="#i116"/>
+               <p>I say then, Madame, I only put a fresh spoke in my wheel, an auxiliary any man, after travelling five hundred leagues of rough road, had a right to put in, - if he is able, - and which I am, at all times, most ready to put into your Ladyship's - What a confounded twinge in my back! - Now your Ladyship's at the commencement of the fourteenth chapter, you will observe Le Fleur gone off in a tangent up to the ears and above them in secrets, and where the Duce he can be all this time I cannot imagine - pour faire accomoder la culote de Monsieur - Remember my profession and guess what part. -</p>
+               
+            <pb n="113" xml:id="pb-113" facs="#i117"/>
+               <p>Of all Dame Nature's works I dislike most a double face, but as I would say a great deal, do more, and go to the greatest lengths in the cause of humanity, it is my business, however she may be here and there a little prejudiced, to keep myself in temper with her.</p>
+               <p>Whenever I observe her windings, her twistings, her doublings with a face on this side pursed into the frowns of a Saracen, whilst the other invites us with the insidious smiles of a Syren, I produce my William and Mary - turn it round and round, regard it on this side and on that, and, with an air of the utmost content, exclaim; "As long</p>
+               
+            <pb n="114" xml:id="pb-114" facs="#i118"/>
+               <p>as I continue thy master, 'tis all one to me; for though thou dost wear two faces, I can turn thee to as much profit as the best shilling of George the second."</p>
+               <p>Le Fleur had presented it to Jacquenett, for darning my breeches.</p>
+               
+            <pb n="115" xml:id="pb-115" facs="#i119"/>
+               <p>CHAP. XVI.</p>
+               <p>The REPLY.</p>
+               <p>THOSE, who like us, search to investigate the feelings of every soul; - to display nature, and</p>
+               
+            <pb n="116" xml:id="pb-116" facs="#i120"/>
+               <p>trace, with exactitude, her very faintest lines of beauty; should the storms of adversity have crooked or shortened some of them; must still pursue her with the ardour of an inamorato, who explores the mutilated bust.</p>
+               <p>I was returning from the Campus Martius, when the lovely duchess of G-ter, in a superb equipage, passed me; - at that moment I did not recollect her, - "Pray Sir," said I, to a person whose dress pronounced him of my own country, "may I beg to be informed if you know that lady," - "Fair and you may," - answered the surly Hibernian, wheeling</p>
+               
+            <pb n="117" xml:id="pb-117" facs="#i121"/>
+               <p>about upon his heel. - He followed the carriage with his eyes; - it turned into another street, - he replaced his sword and stalked on; - I mused a moment; Launcelot told me it was the reply churlish. - I put my hand into my pocket, drew out my horn box, took a pinch of snuff, - and bowed as he passed me. - Thy mild spirit, courteous Father, at the instant breathed harmony into every pulse - the Hibernian's countenance impressed me forcibly; - I examined it again and again, - "Perhaps," said I, "thy days of sorrow have been numberless; - has thy Lucinda in some angry moment,</p>
+               
+            <pb n="118" xml:id="pb-118" facs="#i122"/>
+               <p>dashed thy fond hopes and turned them all to woe? - Hast thou been the avenger of thy country’s wrongs; - the repeller of her enemies; - seeking in the dreadful breach the honourable reward thou hast merited? - Hast thou, when thine hand was stretched forth to crop the budding honours for thy crest, hast thou plucked the flowers of disappointment?" -</p>
+               <p>Whate're thy cruel lot has been, - would it were mine to succour, as I pity it!</p>
+               
+            <pb n="119" xml:id="pb-119" facs="#i123"/>
+               <p>The BLIND DOG.</p>
+               <p>A Translation.</p>
+               <p>"Behold, cries the fielf-marshal to his son, behold this shattered arm, I earned it in that battle, where with as much genius as good-fortune, I lanched my standard into the enemy's</p>
+               
+            <pb n="120" xml:id="pb-120" facs="#i124"/>
+               <p>ranks; by this fortunate stratagem I rallied my left wing flying, in the very moment the right in it's turn began to ply; after prodigies of valour, the enemy was cut to pieces, - I was then but major, and - I remained major. My general, who, one of the first, to preserve his precious life, thought of flight, received a considerable pension for this day's work, in which he had so nobly exposed himself at the head of an army astonished at his courage. - In this battle where I fell from my horse, weltering in my blood, I was made prisoner; ill cured of my wound, in the exchange I was forgotten;</p>
+               
+            <pb n="121" xml:id="pb-121" facs="#i125"/>
+               <p>at length indeed my ransom was paid - by myself, -</p>
+               <p>Services of another kind have been otherwise recompensed. After remaining thus in oblivion fifteen long years, I have, at last, thou seest, obtained the distinguished rank of field-marshal - fortune was in my debt, - she has repaid me. - Couldst thou suppose the fickle goddess had acquitted herself towards me, in presenting me an occasion to save the life of an old blind dog, int he agonies of</p>
+               
+            <pb n="122" xml:id="pb-122" facs="#i126"/>
+               <p>drowning? - It was the favourite of the prime minister's mistress. -</p>
+               <p>I preserved the cur's life - and I am field-marshal."</p>
+               
+            <pb n="123" xml:id="pb-123" facs="#i127"/>
+               <p>CHAP. XVII.</p>
+               <p>At ROME.</p>
+               <p>The CEREMONIAL.</p>
+               <p>"NO," said I - "and were I Pope, I would abolish such absurdities." - "You might</p>
+               
+            <pb n="124" xml:id="pb-124" facs="#i128"/>
+               <p>as well," cries Smelfungus, "attempt to abolish all the absurdities of the popish religion; 'twould employ a score of ganganellies." -</p>
+               <p>"How could I, my Eliza, imprint the cordial kiss of friendship on thy lip, had mine been polluted by ired, even that of an angel?" - "No, Sir, I must beg leave to decline this honour. - Pope Joan herself should not have tempted me;" - a propos of this right reverend Dignitary. - It was once supposed she was far advanced in a dropsy, a day was appointed to perform a certain chirurgical operation, when lo, and behold, -</p>
+               
+            <pb n="125" xml:id="pb-125" facs="#i129"/>
+               <p>No, no, I'll proceed no further in propagating this scandal; if you are anxious, my dear Madame, to investigate the conclusion, you will find it in - if again these petites anecdotes are to your goût, my friend John Wesley will furnish you with a thousand such - which you ought to give credit to, - or if you want faith, you may be supplied with half a dozen ounces from the same shop, on the most reasonable terms.</p>
+               
+            <pb n="126" xml:id="pb-126" facs="#i130"/>
+               <p>ADVERTISEMENT.</p>
+               <p>Lest any malicious person might insinuate I inherited the pagan ideas of my Danish ancestors, I hereby declare my faith to be that of a true man and a christian. -</p>
+               
+            <pb n="127" xml:id="pb-127" facs="#i131"/>
+               <p>After concluding my repast with a bottle of Florence, I walked once round St. Peter's.</p>
+               <p>What are all the stately monuments of the dead, - the laboured panygeric, - the epitaph of uneven lines, - whose smooth numbers flatter the living patron, and but too often, Eugenius, tell us what men should be; not what they have been; thou wilt often find dust and ashes as pure, covered with a plain slab, - and like the Pyrenean Hermit, carved only with a - Hic jacet Lorenzo!</p>
+               
+            <pb n="128" xml:id="pb-128" facs="#i132"/>
+               <p>On my return I learnt he had been buried in his own little chapel; a fragment of purest marble blocked up the entrance. -</p>
+               <p>The gravest philosophers, the greatest divines, all concur in the received opinion, viz. "When a man is dead, there is an end of him, at least in this world; all the good or evil so lately in his power to dispense, ceases to flow;" - yet, some how or other, father Lorenzo still continues to hold an ascendency over the minds of the surrounding cottagers; to their innocent simplicity his ashes are the guard, - and is not this a good unlimited -</p>
+               
+            <pb n="129" xml:id="pb-129" facs="#i133"/>
+               <p>simple, true, they are, - but - innocent. - "Where ignorance is bliss, 'tis folly to be wise."</p>
+               <p>May the mania of deep-read divinity never, happy peasants, seize on your priests! -</p>
+               <p>O Providence, how infinite are my thoughts, and yet they reach not unto thee! - In the present, past and future thou art unbounded; thou art in every thing, and every thing is in thee!</p>
+               <p>The wind bloweth and no man listeth from whence it cometh, or whither it goeth.</p>
+               
+            <pb n="130" xml:id="pb-130" facs="#i134"/>
+               <p>So, O Providence, we feel thee, we respire thee, we follow thy dictates, and we know not from whence the voice floweth. -</p>
+               <p>O thou Inexplicable, point out to them whose hearts are perverted and harden'd, the paths which lead to happiness and tranquility; blot out from amongst men that discordant spirit of division, on subjects which thou thyself only canst explain!</p>
+               
+            <pb n="131" xml:id="pb-131" facs="#i135"/>
+               <p>CHAP. XVIII.</p>
+               <p>LOCUTUS writes a book, Locutus is learned, he proposes a syllogism, goes into the proof, establishes his opinion; - Ximenes dissents - discord sounds the alarm, - the disputants arrange themselves under the banners of their respective leaders, - a furious war a la papillote ensues, - mitres, hoods, lawn-sleeves and cassocks pell-mell; - one gets a bruise in his head, another a rap on the knuckles,</p>
+               
+            <pb n="132" xml:id="pb-132" facs="#i136"/>
+               <p>- how christian-like they bear it, to shew thee and me, reader, the nearest way to bliss! -</p>
+               <p>"What was the dispute then?" - "Whether Abel had his throat cut, or his brains beat out with a billet." -</p>
+               <p>What fruit, think you Madame, your grandame Eve was tempted with?</p>
+               <p>FINIS.</p>
+               <p>ERRATA.</p>
+               <p>Page 6, Last line but one, for sullen read fallen.</p>
+               <p>- 8, Last line but two, for slip of care read sleeve of care.</p>
+               <p>- 11, Last line, for verite read verité.</p>
+               <p>- 26, Line 7, and 27, Line 5, for Gondoleur read Gondoleer.</p>
+                  
+            <pb n="133" xml:id="pb-133" facs="#i137"/>
+            <pb n="134" xml:id="pb-134" facs="#i138"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i139"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i140"/>
+         </div>
+      </body>
+   </text>
+</TEI>
