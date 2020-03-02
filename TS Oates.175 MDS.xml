@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.175</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2019-06-01</date>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.175</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>The life and opinions of Tristram Shandy, gentleman</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Sterne, Laurence 1713-1768</persName>
+                           <persName type="display">Sterne, Laurence 1713-1768</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for T. Becket and P. A. Dehondt</persName>
+                           <persName type="display">printed for T. Becket and P. A. Dehondt</persName>
+                        </name>
+                     </respStmt>
+                     <note>Volume 9.</note>
+                     <note>Several press variants have been found.</note>
+                     <note>With a half-title.</note>
+                     <note>Anonymous. By Laurence Sterne. With the author's signature on p. 1.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>[8],145,[1]p. ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1767" notAfter="1767">1767</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Monkman, K. The Florida edition of the works of Laurence Sterne, appendix 5. IX-1b and IX-1a</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00001_files/8/0_0.jpg"/>
+      <surface xml:id="i1" n="cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="3011px"
+                  width="1995px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00001_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00002_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i3" n="i">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00003_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i4" n="ii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00004_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i5" n="iii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00005.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00005_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i6" n="iv">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00006.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00006_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i7" n="v">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00007.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00007_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i8" n="vi">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00008.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00008_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i9" n="vii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00009.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00009_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i10" n="viii">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00010.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00010_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i11" n="1">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00011.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00011_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i12" n="2">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00012.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00012_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i13" n="3">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00013.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00013_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i14" n="4">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00014.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00014_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i15" n="5">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00015.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00015_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i16" n="6">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00016.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00016_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i17" n="7">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00017.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00017_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i18" n="8">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00018.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00018_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i19" n="9">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00019.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00019_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i20" n="10">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00020.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00020_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i21" n="11">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00021.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00021_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i22" n="12">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00022.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00022_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i23" n="13">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00023.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00023_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i24" n="14">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00024.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00024_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i25" n="15">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00025.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00025_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i26" n="16">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00026.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00026_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i27" n="17">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00027.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00027_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i28" n="18">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00028.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00028_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i29" n="19">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00029.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00029_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i30" n="20">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00030.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00030_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i31" n="21">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00031.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00031_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i32" n="22">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00032.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00032_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i33" n="23">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00033.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00033_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i34" n="24">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00034.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00034_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i35" n="25">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00035.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00035_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i36" n="26">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00036.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00036_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i37" n="27">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00037.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00037_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i38" n="28">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00038.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00038_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i39" n="29">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00039.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00039_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i40" n="30">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00040.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00040_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i41" n="31">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00041.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00041_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i42" n="32">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00042.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00042_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i43" n="33">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00043.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00043_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i44" n="34">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00044.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00044_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i45" n="35">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00045.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00045_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i46" n="36">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00046.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00046_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i47" n="37">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00047.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00047_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i48" n="38">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00048.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00048_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i49" n="39">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00049.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00049_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i50" n="40">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00050.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00050_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i51" n="41">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00051.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00051_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i52" n="42">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00052.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00052_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i53" n="43">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00053.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00053_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i54" n="44">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00054.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00054_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i55" n="45">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00055.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00055_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i56" n="46">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00056.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00056_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i57" n="47">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00057.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00057_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i58" n="48">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00058.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00058_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i59" n="49">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00059.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00059_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i60" n="50">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00060.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00060_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i61" n="51">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00061.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00061_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i62" n="52">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00062.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00062_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i63" n="53">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00063.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00063_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i64" n="54">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00064.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00064_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i65" n="55">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00065.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00065_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i66" n="56">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00066.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00066_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i67" n="57">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00067.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00067_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i68" n="58">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00068.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00068_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i69" n="59">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00069.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00069_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i70" n="60">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00070.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00070_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i71" n="61">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00071.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00071_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i72" n="62">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00072.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00072_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i73" n="63">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00073.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00073_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i74" n="64">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00074.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00074_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i75" n="65">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00075.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00075_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i76" n="66">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00076.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00076_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i77" n="67">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00077.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00077_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i78" n="68">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00078.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00078_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i79" n="69">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00079.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00079_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i80" n="70">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00080.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00080_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i81" n="71">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00081.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00081_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i82" n="72">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00082.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00082_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i83" n="73">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00083.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00083_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i84" n="74">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00084.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00084_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i85" n="75">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00085.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00085_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i86" n="76">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00086.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00086_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i87" n="77">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00087.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00087_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i88" n="78">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00088.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00088_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i89" n="79">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00089.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00089_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i90" n="80">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00090.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00090_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i91" n="81">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00091.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00091_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i92" n="82">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00092.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00092_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i93" n="83">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00093.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00093_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i94" n="84">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00094.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00094_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i95" n="85">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00095.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00095_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i96" n="86">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00096.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00096_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i97" n="87">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00097.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00097_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i98" n="88">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00098.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00098_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i99" n="89">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00099.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00099_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i100" n="90">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00100.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00100_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i101" n="91">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00101.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00101_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i102" n="92">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00102.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00102_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i103" n="93">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00103.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00103_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i104" n="94">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00104.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00104_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i105" n="95">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00105.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00105_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i106" n="96">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00106.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00106_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i107" n="97">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00107.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00107_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i108" n="98">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00108.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00108_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i109" n="99">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00109.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00109_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i110" n="100">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00110.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00110_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i111" n="101">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00111.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00111_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i112" n="102">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00112.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00112_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i113" n="103">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00113.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00113_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i114" n="104">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00114.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00114_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i115" n="105">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00115.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00115_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i116" n="106">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00116.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00116_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i117" n="107">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00117.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00117_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i118" n="108">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00118.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00118_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i119" n="109">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00119.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00119_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i120" n="110">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00120.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00120_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i121" n="111">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00121.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00121_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i122" n="112">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00122.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00122_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i123" n="113">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00123.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00123_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i124" n="114">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00124.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00124_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i125" n="115">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00125.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00125_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i126" n="116">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00126.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00126_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i127" n="117">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00127.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00127_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i128" n="118">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00128.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00128_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i129" n="119">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00129.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00129_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i130" n="120">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00130.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00130_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i131" n="121">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00131.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00131_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i132" n="122">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00132.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00132_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i133" n="123">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00133.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00133_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i134" n="124">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00134.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00134_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i135" n="125">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00135.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00135_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i136" n="126">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00136.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00136_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i137" n="127">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00137.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00137_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i138" n="128">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00138.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00138_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i139" n="129">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00139.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00139_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i140" n="130">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00140.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00140_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i141" n="131">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00141.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00141_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i142" n="132">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00142.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00142_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i143" n="133">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00143.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00143_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i144" n="134">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00144.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00144_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i145" n="135">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00145.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00145_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i146" n="136">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00146.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00146_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i147" n="137">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00147.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00147_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i148" n="138">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00148.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00148_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i149" n="139">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00149.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00149_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i150" n="140">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00150.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00150_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i151" n="141">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00151.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00151_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i152" n="142">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00152.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00152_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i153" n="143">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00153.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00153_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i154" n="144">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00154.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00154_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i155" n="145">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00155.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00155_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i156" n="146">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00156.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00156_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i157" n="147">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00157.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00157_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i158" n="148">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00158.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00158_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i159" n="back cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1847px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00159.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00159_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i160" n="back cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="2992px"
+                  width="1953px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00160.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00175-000-00160_files/8/0_0.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+            <pb n="i" xml:id="pb-i" facs="#i3"/>
+             <!-- red stamp reads 'T * Jewer." --> <p>THE</p> <p>LIFE and OPINIONS</p> <p>OF</p> <p>TRISTRAM SHANDY, Gent.</p> <p>VOL. IX.</p>
+            <pb n="ii" xml:id="pb-ii" facs="#i4"/>
+            <pb n="iii" xml:id="pb-iii" facs="#i5"/>
+             <p>THE</p> <p>LIFE</p> <p>AND</p> <p>OPINIONS</p> <p>OF</p> <p>TRISTRAM SHANDY,</p> <p>GENTLEMAN.</p> <p>Si quid urbaniusculè lusum a nobis, per Musas et Charitas et omnium poetarum Numina, Oro te, ne me malè capias.</p> <p>VOL. IX.</p> <p>LONDON:</p> <p>Printed for T. BECKET and P. A. DEHONDT, in the Strand. MDCCLXVII.</p>
+            <pb n="iv" xml:id="pb-iv" facs="#i6"/>
+            <pb n="v" xml:id="pb-v" facs="#i7"/>
+             <p>A</p> <p>DEDICATION</p> <p>TO A</p> <p>GREAT MAN.</p> <p>HAVING, a priori, intended to dedicate The Amours of my unlce Toby to Mr. *** - I see more reasons, a posteriori, for doing it to Lord *******.</p> <p>I should lament from my soul, if this exposed me to the jealousy of their Reverences; because, a posteriori,</p>
+            <pb n="vi" xml:id="pb-vi" facs="#i8"/>
+             <p>in Court-latin, signifies the kissing hands for preferment - or any thing else - in order to get it.</p> <p>My opinion of Lord ******* is neither better nor worse, than it was of Mr. ***. Honours, like impressions upon coin, may give an ideal and local value to a bit of base metal; but Gold and Silver will pass all the world over without any other recommendation than their own weight.</p> <p>The same good will that made me think of offering up half an hour's amusement to Mr. *** when out of place - operates more forcibly at present,</p>
+            <pb n="vii" xml:id="pb-vii" facs="#i9"/>
+             <p>as half an hour's amusement will be more serviceable and refreshing after labour and sorrow, than after a philosophical repast.</p> <p>Nothing is so perfectly amusement as a total change of ideas; no ideas are so totally different as those of Ministers, and innocent Lovers: for which reason, when I come to talk of Statesmen and Patriots, and set such marks upon them as will prevent confusion and mistakes concerning them for the future - I propose to dedicate that Volume to some gentle Shepherd,</p> <p>Whose Thoughts proud Science never taught to stray,</p> <p>Far as the Statesman's walk or Patriot-way;</p>
+            <pb n="viii" xml:id="pb-viii" facs="#i10"/>
+             <p>Yet simple Nature to his hopes had given</p> <p>Out of a cloud-capp'd head a humbler heaven;</p> <p>Some untam'd World in depth of woods embraced - </p> <p>Some happier Island in the watry-waste - </p> <p>And where admitted to that equal sky,</p> <p>His faithful Dogs should bear him company.</p> <p>In a word, by thus introducing an entire new set of objects to his Imagination, I shall unavoidably give a Diversion to his passionate and love-sick Contemplations. In the mean time,</p> <p>I am</p> <p>The AUTHOR.</p>
+            <pb n="1" xml:id="pb-1" facs="#i11"/>
+             <!-- handwritten marginalia reads 'L.Stene' --> <p>THE</p> <p>LIFE and OPINIONS</p> <p>OF</p> <p>TRISTRAM SHANDY, Gent.</p> <p>CHAP. I.</p> <p>I CALL all the powers of time and chance, which severally check us in our careers in this world, to bear me witness, that I could never yet get fairly to my uncle Toby's amours, till this very moment, that my mother's curiosity,</p>
+            <pb n="2" xml:id="pb-2" facs="#i12"/>
+             <p>as she stated the affair, - or a different impulse in her, as my father would have it - wished her to take a peep at them through the key-hole.</p> <p>"Call it, my dear, by its right name, quoth my father, and look through the key-hole as long as you will."</p> <p>Nothing by the fermentation of that little subacid humour, which I have often spoken of, in my father's habit, could have vented such an insinuation - he was however frank and generous in his nature, and at all times open to conviction; so that he had scarce got to the last word of this ungracious retort, when his conscience smote him.</p>
+            <pb n="3" xml:id="pb-3" facs="#i13"/>
+             <p>My mother was then conjugally swinging with her left arm twisted under his right, in such wise, that the inside of her hand rested upon the back of his - she raised her fingers, and let them fall - it could scarce be call'd a tap; or if it was a tap - 'twould have puzzled a casuist to say, whether 'twas a tap of remonstrance, or a tap of confession: my father, who was all sensibilities from head to foot, class'd it right - Conscience redoubled her blow - he turn'd his face suddenly the other way, and my mother supposing his body was about to turn with it in order to move homewards, by a cross movement of her right leg, keeping her left at its centre, brought herself so far in front, that as he turned</p>
+            <pb n="4" xml:id="pb-4" facs="#i14"/>
+             <p>his head, he met her eye - Confusion again! he saw a thousand reasons to wipe out the reproach, and as many to reproach himself - a thin, blue, chill, pellucid chrystal with all its humours so at rest, the least mote or speck of desire might have been seen at the bottom of it, had it existed - it did not - and how I happen to be so lewd myself, particularly a little before the vernal and autumnal equinoxes - Heaven above knows - My mother - madam - was so at no time, either by nature, by institution, or example.</p> <p>A temperate current of blood ran orderly through her veins in all months of the year, and in all critical moments both</p>
+            <pb n="5" xml:id="pb-5" facs="#i15"/>
+             <p>of the day and night alike; nor did she superinduce the least heat into her humours from the manual effervescencies of devotional tracts, which having little or no meaning in them, nature is oft times obliged to find one - And as for my father's example! 'twas so far from being either aiding or abetting thereunto, that 'twas the whole business of his life to keep all fancies of that kind out of her head - Nature had done her part, to have spared him this trouble; and what was not a little inconsistent, my father knew it - And here am I sitting, this 12th day of August, 1766, in a purple jerkin and yellow pair of slippers, without either wig or cap on, a most</p>
+            <pb n="6" xml:id="pb-6" facs="#i16"/>
+             <p>tragicomical completion of his prediction, "That I should neither think, nor act like any other man's child, upon that very account."</p> <p>The mistake of my father, was in attacking my mother's motive, instead of the act itself: for certainly key-holes were made for other purposes; and considering the act, as an act which interfered with a true proposition, and denied a key-hole to be what it was - it became a violation of nature; and was so far, you see criminal.</p> <p>It is for this reason, an' please your Reverences, That key-holes are</p>
+            <pb n="7" xml:id="pb-7" facs="#i17"/>
+             <p>the occasions of more sin and wickedness, than all other holes in this world put together.</p> <p> - which leads me to my uncle Toby's amours.</p>
+            <pb n="8" xml:id="pb-8" facs="#i18"/>
+             <p>CHAP. II.</p> <p>THOUGH the Corporal had been as good as his word in putting my uncle Toby's great ramallie-wig into pipes, yet the time was too short to produce any great effects from it: it had lain many years squeezed up in the corner of his old campaign trunk; and as bad forms are not so easy to be got the better of, and the use of candle-ends not so well understood, it was not so pliable a business as one would have wished. The Corporal with cheary eye and both arms extended, had fallen back perpendicular from it a score times, to inspire it, if possible, with a better air - had SPLEEN given a look at it,</p>
+            <pb n="9" xml:id="pb-9" facs="#i19"/>
+             <p>'twould have cost her ladyship a smile - it curl'd every where but where the Corporal would have it; and where a buckle or two, in his opinion, would have done it honour, he could as soon have raised the dead.</p> <p>Such it was - or rather such would it have seem'd upon any other brow; but the sweet look of goodness which sat upon my uncle Toby's, assimulated every thing around it so sovereignly to itself, and Nature had moreover wrote GENTLEMAN with so fair a hand in every line of his countenance, that even his tarnish'd gold-laced hat and huge cockade of flimsy taffeta became him; and though not worth a button in themselves, yet the moment my uncle Toby put them on, they became serious objects,</p>
+            <pb n="10" xml:id="pb-10" facs="#i20"/>
+             <p>and altogether seem'd to have been picked up by the hand of Science to set him off to advantage.</p> <p>Nothing in this world could have co-operated more powerfully towards this, than my uncle Toby's blue and gold - had not Quantity in some measure been necessary to Grace: in a period of fifteen or sixteen years since they had been made, by a total inactivity in my uncle Toby's life, for he seldom went further than the bowling-green - his blue and gold had become so miserably too strait for him, that it was with the utmost difficulty the Corporal was able to get him into them: the taking them up at the sleeves, was of no advantage. - They were laced however down the back, and at the seams of the sides, &amp;c. in the mode of King</p>
+            <pb n="11" xml:id="pb-11" facs="#i21"/>
+             <p>William's reign; and to shorten all description, they shone so bright against the sun that morning, and had so metallick, and doughty an air with them, that had my uncle Toby thought of attacking in armour, nothing could have so well imposed upon his imagination.</p> <p>As for the thin scarlet breeches, they had been unripp'd by the taylor between the legs, and left at sixes and sevens - </p> <p> - Yes, Madam, - but let us govern our fancies. It is enough they were held impracticable the night before, and as there was no alternative in my uncle Toby's wardrobe, he sallied forth in the red plush.</p> <p>The Corporal had array'd himself in poor Le Fevre's regimental coat; and</p>
+            <pb n="12" xml:id="pb-12" facs="#i22"/>
+             <p>with his hair tuck'd up under his Montero cap, which he had furbish'd up for the occasion, march'd three paces distant from his master: a whiff of military pride had puff'd out his shirt at the wrist; and upon that in a black leather thong clipp'd into a tassel beyond the knot, hung the Corporal's stick - My uncle Toby carried his cane like a pike.</p> <p> - It looks well at least; quoth my father to himself.</p>
+            <pb n="13" xml:id="pb-13" facs="#i23"/>
+             <p>CHAP. III.</p> <p>MY uncle Toby turn'd his head more than once behind him, to see how he was supported by the Corporal; and the Corporal as oft as he did it, gave a slight flourish with his stick - but not vapouringly; and with the sweetest accent of most respectful encouragement, bid his honour "never fear."</p> <p>Now my uncle Toby did fear; and grievously too: he knew not (as my father had reproach'd him) so much as the right end of a Woman from the wrong, and therefore was never altogether at his ease near any one of them - unless in sorrow or distress; then infinite was his pity; nor would the most courteous</p>
+            <pb n="14" xml:id="pb-14" facs="#i24"/>
+             <p>knight of romance have gone further, at least upon one leg, to have wiped away a tear from a woman's eye; and yet excepting once that he was beguiled into it by Mrs. Wadman, he had never looked stedfastly into one; and would often tell my father in the simplicity of his heart, that it was almost (if not alout) as bad as talking bawdy. - </p> <p> - And suppose it is? my father would say.</p>
+            <pb n="15" xml:id="pb-15" facs="#i25"/>
+             <p>CHAP. IV.</p> <p>SHE cannot, quoth my uncle Toby, halting, when they had march'd up to within twenty paces of Mrs. Wadman's door - she cannot, Corporal, take it amiss. - </p> <p> - She will take it, an' please your honour, said the Corporal, just as the Jew's widow at Lisbon took it of my brother Tom. - </p> <p> - And how was that? quoth my uncle Toby, facing quite about to the Corporal.</p> <p>Your honour, replied the Corporal, knows of Tom's misfortunes; but this</p>
+            <pb n="16" xml:id="pb-16" facs="#i26"/>
+             <p>affair has nothing to do with them any further than this, That if Tom had not married the widow - or had it pleased God after their marriage, that they had but put pork into their sausages, the honest soul had never been taken out of his warm bed, and dragg'd to the inquisition - 'Tis a cursed place - added the Corporal, shaking his head, - when once a poor creature is in, he is in, an' please your honour, for ever.</p> <p>'Tis very true; said my uncle Toby looking gravely at Mrs. Wadman's house, as he spoke.</p> <p>Nothing, continued the Corporal, can be so sad as confinement for life - or so sweet, an' please your honour, as liberty.</p>
+            <pb n="17" xml:id="pb-17" facs="#i27"/>
+             <p>Nothing, Trim - said my uncle Toby, musing - </p> <p>Whilst a man is free - cried the Corporal, giving a flourish with his stick thus - </p> <note> flourish </note>
+            <pb n="18" xml:id="pb-18" facs="#i28"/>
+             <p>A thousand of my father's most subtle syllogisms could not have said more for celibacy.</p> <p>My uncle Toby look'd earnestly towards his cottage and his bowling green.</p> <p>The Corporal had unwarily conjured up the Spirit of calculation with his wand; and he had nothing to do, but to conjure him down again with his story, and in this form of Exorcism, most un-ecclesiastically did the Corporal do it.</p>
+            <pb n="19" xml:id="pb-19" facs="#i29"/>
+             <p>CHAP. V.</p> <p>AS Tom's place, an' please your honour, was easy - and the weather warm - it put him upon thinking seriously of settling himself in the world; and as it fell out about that time, that a Jew who kept a sausage shop in the same street, had the ill luck to die of a strangury, and leave his widow in possession of a rousing trade - Tom thought (as every body in Lisbon was doing the best he could devise for himself) there could be no harm in offering her his service to carry it on: so without any introduction to the widow, except that of buying a pound of sausages at her shop - Tom set out - counting the matter thus within</p>
+            <pb n="20" xml:id="pb-20" facs="#i30"/>
+             <p>himself, as he walk'd along; that let the worst come of it that could, he should at least get a pound of sausages for their worth - but, if things went well, he should be set up; inasmuch as he should get not only a pound of sausages - but a wife - and a sausage-shop, an' please your honour, into the bargain.</p> <p>Every servant in the family, from high to low, wish'd Tom success; and I can fancy, an' please your honour, I see him this moment with his white dimity waist-coat and breeches, and hat a little o' one side, passing jollily along the street, swinging his stick, with a smile and a chearful word for every body he met: - But alas! Tom! thou smilest no more, cried the Corporal, looking on</p>
+            <pb n="21" xml:id="pb-21" facs="#i31"/>
+             <p>one side of him upon the ground, as if he apostrophized him in his dungeon.</p> <p>Poor fellow! said my uncle Toby, feelingly.</p> <p>He was an honest, light-hearted lad, an' please your honour, as ever blood warm'd - </p> <p> - Then he resembled thee, Trim, said my uncle Toby, rapidly.</p> <p>The Corporal blush'd down to his fingers ends - a tear of sentimental bashfulness - another of gratitude to my uncle Toby - and a tear of sorrow for his brother's misfortunes, started into his eye and ran sweetly down his cheek together; my uncle Toby's kindled as one</p>
+            <pb n="22" xml:id="pb-22" facs="#i32"/>
+             <p>lamp does at another; and taking hold of the breast of Trim's coat (which had been that of Le Fevre's) as if to ease his lame leg, but in reality to gratify a finer feeling - he stood silent for a minute and a half; at the end of which he took his hand away, and the Corporal making a bow, went on with his story of his brother and the Jew's widow.</p>
+            <pb n="23" xml:id="pb-23" facs="#i33"/>
+             <p>CHAP. VI.</p> <p>WHEN Tom, an' please your honour, got to the shop, there was nobody in it, but a poor negro girl, with a bunch of white feathers slightly tied to the end of a long cane, flapping away flies - not killing them! said my uncle Toby - she had suffered persecution, Trim, and had learnt mercy - </p> <p> - She was good, an' please your honour, from nature as well as from hardships; and there are circumstances in the story of that poor friendless slut that would melt a heart of stone, said Trim; and some dismal winter's evening, when your honour is in the humour, they</p>
+            <pb n="24" xml:id="pb-24" facs="#i34"/>
+             <p>shall be told you with the rest of Tom's story, for it makes a part of it - </p> <p>Then do not forget, Trim, said my uncle Toby.</p> <p>A Negro has a soul? an' please your honour, said the Corporal (doubtingly).</p> <p>I am not much versed, Corporal, quoth my uncle Toby, in things of that kind; but I suppose, God would not leave him without one, any more than thee or me - </p> <p> - It would be putting one sadly over the head of another, quoth the Corporal.</p>
+            <pb n="25" xml:id="pb-25" facs="#i35"/>
+             <p>It would so; said my uncle Toby. Why then, an' please your honour, is a black wench to be used worse than a white one?</p> <p>I can give no reason, said my uncle Toby - </p> <p> - Only, cried the Corporal, shaking his head, because she has no one to stand up for her - </p> <p> - 'Tis that very thing, Trim, quoth my uncle Toby, - which recommends her to protection - and her brethren with her; 'tis the fortune of war which had put the whip into our hands now - where it may be hereafter, heaven knows! - but be it where it will,</p>
+            <pb n="26" xml:id="pb-26" facs="#i36"/>
+             <p>the brave, Trim! will not use it unkindly.</p> <p> - God forbid, said the Corporal.</p> <p>Amen, responded my uncle Toby, laying his hand upon his heart.</p> <p>The Corporal returned to his story, and went on - but with an embarrassment in doing it, which here and there a reader in this world will not be able to comprehend; for by the many sudden transitions all along, from one kind and cordial passion to another, in getting thus far on his way, he had lost the sportable key of his voice which gave sense and spirit to his tale: he attempted twice to resume it, but could</p>
+            <pb n="27" xml:id="pb-27" facs="#i37"/>
+             <p>not please himself; so giving a stout hem! to rally back the retreating spirits, and aiding Nature at the same time with his left arm a-kimbo on one side, and with his right a little extended, supporting her on the other - the Corporal got as near the note as he could; and in that attitude, continued his story.</p>
+            <pb n="28" xml:id="pb-28" facs="#i38"/>
+             <p>CHAP. VII.</p> <p>AS Tom, an' please your honour, had no business at that time with the Morrish girl, he passed on into the room beyond to talk to the Jew's widow about love - and his pound of sausages; and being, as I have told your honour, an open, cheary hearted lad, with his character wrote in his looks and carriage, he took a chair, and without much apology, but with great civility at the same time, placed it close to her at the table, and sat down.</p> <p>There is nothing so awkward, as courting a woman, an' please your honour, whilst she is making sausages - So Tom began a discourse upon them;</p>
+            <pb n="29" xml:id="pb-29" facs="#i39"/>
+             <p>first gravely, - "as how they were made - with what meats, herbs and spices" - Then a little gayly - as, "With what skins - and if they never burst - Whether the largest were not the best" - and so on - taking care only as he went along, to season what he had to say upon sausages, rather under, than over; - that he might have room to act in -  </p> <p>It was owing to the neglect of that very precaution, said my uncle Toby, laying his hand upon Trim's shoulder, That Count de la Motte lost the battle of Wynendale: he pressed too speedily into the wood; which if he had not done, Lisle had not fallen into our hands, nor Ghent and Bruges, which both followed</p>
+            <pb n="30" xml:id="pb-30" facs="#i40"/>
+             <p>her example; it was so late in the year, continued my uncle Toby, and so terrible a season came on, that if things had not fallen out as they did, our troops must have perished in the open field. - </p> <p> - Why therefore, may not battles, an' please your honour, as well as marriages, be made in heaven? - My uncle Toby mused. - </p> <p>Religion inclined him to say one thing, and his high idea of military skill tempted him to say another; so not being able to frame a reply exactly to his mind - my uncle Toby said nothing at all; and the Corporal finished his story.</p>
+            <pb n="31" xml:id="pb-31" facs="#i41"/>
+             <p>As Tom perceived, an' please your honour, that he gained ground, and that all he had said upon the subject of sausages was kindly taken, he went on to help her a little in making them. - First, by taking hold of the ring of the sausage whilst she stroked the forced meat down with her hand - then by cutting the stings into proper lengths, and holding them in his hand, whilst she took them out one by one - then, by putting them across her mouth, that she might take them out as she wanted them - and so on from little to more, till at last he adventured to tie the sausage himself, whilst she held the snout. - </p> <p> - Now a widow, an' please your honour, always chuses a second husband</p>
+            <pb n="32" xml:id="pb-32" facs="#i42"/>
+             <p>as unlike the first as she can: so the affair was more than half settled in her mind before Tom mentioned it.</p> <p>She made a feint however of defending herself, by snatching up a sausage: - Tom instantly laid hold of another - </p> <p>But seeing Tom's had more gristle in it - </p> <p>She signed the capitulation - and Tom sealed it; and there was an end of the matter.</p>
+            <pb n="33" xml:id="pb-33" facs="#i43"/>
+             <p>CHAP. VIII.</p> <p>ALL womankind, continued Trim, (commenting upon his story) from the highest to the lowest, an' please your honour, loves jokes; the difficulty is to know how they chuse to have them cut; and there is no knowing that, but by trying as we do with our artillery in the field, by raising or letting down their breeches, till we hit the mark. - </p> <p> - I like the comparison, said my uncle Toby, better than the thing itself - </p> <p> - Because your honour, quoth the Corporal, loves glory, more than pleasure.</p>
+            <pb n="34" xml:id="pb-34" facs="#i44"/>
+             <p>I hope, Trim, answered my uncle Toby, I love mankind more than either; and as the knowledge of arms tends so apparently to the good and quiet of the world - and particularly that branch of it which we have practised together in our bowling-green, has no object but to shorten the strides of AMBITION, and intrench the lives and fortunes of the few, from the plunderings of the many - whenever that drum beats in our ears, I trust, Corporal, we shall neither of us want so much humanity and fellow-feeling as to face about and march.</p> <p>In pronouncing this, my uncle Toby faced about, and march'd firmly as at the head of his company - and the faithful Corporal, shouldering his stick,</p>
+            <pb n="35" xml:id="pb-35" facs="#i45"/>
+             <p>and striking his hand upon his coat-skirt as he took his first step - march'd close behind him down the avenue.</p> <p> - Now what can their two noddles be about? cried my father to my mother - by all that's strange, they are besieging Mrs. Wadman in form, and are marching round her house to mark out the lines of circumvallation.</p> <p>I dare say, quoth my mother - But stop, dear Sir - for what my mother dared to say upon the occasion - and what my father did say upon it - with her replies and his rejoinders, shall be read, perused, paraphrased, commented and discanted upon - or to say it all in a word, shall be thumb'd over</p>
+            <pb n="36" xml:id="pb-36" facs="#i46"/>
+             <p>by Posterity in a chapter apart - I say, by Posterity - and care not, if I repeat the word again - for what has this book done more than the Legation of Moses, or the Tale of a Tub, that it may not swim down the gutter of Time along with them?</p> <p>I will not argue the matter: Time wastes too fast: every letter I trace tells me with what rapidity Life follows my pen; the days and hours of it, more precious, my dear Jenny! than the rubies about thy neck, are flying over our heads like light clouds of a windy day, never to return more - every thing presses on - whilst thou art twisting that lock, - see! it grows grey; and</p>
+            <pb n="37" xml:id="pb-37" facs="#i47"/>
+             <p>every time I kiss thy hand to bid adieu, and every absence which follows it, are preludes to that eternal separation which we are shortly to make. - </p> <p> - Heaven have mercy upon us both!</p>
+            <pb n="38" xml:id="pb-38" facs="#i48"/>
+             <p>CHAP. IX.</p> <p>NOW, for what the world thinks of that ejaculation - I would not give a groat.</p>
+            <pb n="39" xml:id="pb-39" facs="#i49"/>
+             <p>CHAP. X.</p> <p>MY mother had gone with her left arm twisted in my father's right, till they had got to the fatal angle of the old garden wall, where Doctor Slop was overthrown by Obadiah on the coach-horse: as this was directly opposite to the front of Mrs. Wadman's house, when my father came to it, he gave a look across; and seeing my uncle Toby and the Corporal within ten paces of the door, he turn'd about - "Let us just stop a moment, quoth my father, and see with what ceremonies my brother Toby and his man Trim make their first entry - it will not detain</p>
+            <pb n="40" xml:id="pb-40" facs="#i50"/>
+             <p>us, added my father, a single minute:" - No matter, if it be ten minutes, quoth my mother.</p> <p> - It will not detain us half a one; said my father.</p> <p>The Corporal was just then setting in with the story of his brother Tom and the Jew's widow: the story went on - and on - it had episodes in it - it came back, and went on - and on again; there was no end of it - the reader found it very long - </p> <p> - G - help my father! he pish'd fifty times at every new attitude, and gave the corporal's stick, with all its flourishings and danglings, to as many devils as chose to accept of them.</p>
+            <pb n="41" xml:id="pb-41" facs="#i51"/>
+             <p>When issues of events like these my father is waiting for, are hanging in the scales of fate, the mind has the advantage of changing the principle of expectation three times, without which it would not have power to see it out.</p> <p>Curiosity governs the first moment; and the second moment is all oeconomy to justify the expence of the first - and for the third, fourth, fifth, and sixth moments, and so on to the day of judgment - 'tis a point of HONOUR.</p> <p>I need not be told, that the ethic writers have assigned this all to Patience; but that VIRTUE methinks, has extent of dominion sufficient of her own, and enough to do in it, without invading the</p>
+            <pb n="42" xml:id="pb-42" facs="#i52"/>
+             <p>few dismantled castles which HONOUR has left upon the earth.</p> <p>My father stood it out as well as he could with these three auxiliaries to the end of Trim's story; and from thence to the end of my uncle Toby's panegyrick upon arms, in the chapter following it; when seeing, that instead of marching up to Mrs. Wadman's door, they both faced about and march'd down the avenue diametrically opposite to his expectation - he broke out at once with that little subacid soreness of humour which, in certain situations, distinguished his character from that of all other men.</p>
+            <pb n="43" xml:id="pb-43" facs="#i53"/>
+             <p>CHAP. XI.</p> <p> - "NOW what can their two noddles be about?" cried my father - &amp;c. - </p> <p>I dare say, said my mother, they are making fortifications - </p> <p> - Not on Mrs. Wadman's premises! cried my father, stepping back - </p> <p>I suppose not: quoth my mother.</p> <p>I wish, said my father, raising his voice, the whole science of fortification at the devil, with all its trumpery of saps, mines, blinds, gabions, fausse-brays and cuvetts - </p> <p> - They are foolish things - said my mother.</p>
+            <pb n="44" xml:id="pb-44" facs="#i54"/>
+             <p>Now she had a way, which by the bye, I would this moment give away my purple jerkin, and my yellow slippers into the bargain, if some of your reverences would imitate - and that was never to refuse her assent and consent to any proposition my father laid before her, merely because she did not understand it, or had no ideas to the principal word or term of art, upon which the tenet or proposition rolled. She contented herself with doing all that her godfathers and godmothers promised for her - but no morel and so would go on using a hard word twenty years together - and replying to it too, if it was a verb, in all its moods and tenses, without giving herself any trouble to enquire about it.</p>
+            <pb n="45" xml:id="pb-45" facs="#i55"/>
+             <p>This was an eternal source of misery to my father, and broke the neck, at the first setting out, of more good dialogues between them, than could have done the most petulant contradiction - the few which survived were the better for the cuvetts - </p> <p> - "They are foolish things;" said my mother.</p> <p> - Particularly the cuvetts; replied my father.</p> <p>'Twas enough - he tasted the sweet of triumph - and went on.</p> <p> - Not that they are, properly speaking, Mrs. Wadman's premises, said my father, partly correcting himself - because she is but tenant for life - </p>
+            <pb n="46" xml:id="pb-46" facs="#i56"/>
+             <p> - That makes a great difference - said my mother - </p> <p> - In a fool's head, replied my father - </p> <p>Unless she should happen to have a child - said my mother - </p> <p> - But she must persuade my brother Toby first to get her one - </p> <p> - To be sure, Mr. Shandy, quoth my mother.</p> <p> - Though if it comes to persuasion - said my father - Lord have mercy upon them.</p> <p>Amen: said my mother, piano.</p> <p>Amen: cried my father, fortissimè</p>
+            <pb n="47" xml:id="pb-47" facs="#i57"/>
+             <p>Amen: said my mother again - but with such a sighing cadence of personal pity at the end of it, as discomfited every fibre about my father - he instantly took out his almanack; but before he could untie it, Yorick's congregation coming out of church, became a full answer to one half of his business with it - and my mother telling him it was a sacrament day - left him as little in doubt, as to the other part - he put his almanack into his pocket.</p> <p>The first Lord of the Treasury thinking of ways and means, could not have returned home, with a more embarrassed look.</p>
+            <pb n="48" xml:id="pb-48" facs="#i58"/>
+             <p>CHAP. XII.</p> <p>UPON looking back from the end of the last chapter and surveying the texture of what has been wrote, it is necessary, that upon this page and the five following, a good quantity of heterogeneous matter be inserted, to keep up that just balance betwixt wisdom and folly, without which a book would not hold together a single year: nor is it a poor creeping digression (which but for the name of, a man might continue as well going on in the king's highway) which will do the business - no; if it is to be a digression, it must be a good frisky one, and upon a frisky subject too, where neither the horse or his rider are to be caught, but by rebound.</p>
+            <pb n="49" xml:id="pb-49" facs="#i59"/>
+             <p>The only difficulty, is raising powers suitable to the nature of the service: FANCY is capricious - WIT must not be searched for - and PLEASANTRY (good-natured slut as she is) will not come in at a call, was an empire to be laid at her feet.</p> <p> - The best way for a man, is to say his prayers - </p> <p>Only if it puts him in mind of his infirmities and defects as well ghostly as bodily - for that purpose, he will find himself rather worse after he has said them than before - for other purposes, better.</p> <p>For my own part there is not a way either moral or mechanical under heaven</p>
+            <pb n="50" xml:id="pb-50" facs="#i60"/>
+             <p>that I could think of, which I have not taken with myself in this case: sometimes by addressing myself directly to the soul herself, and arguing the point over and over again with her upon the extent of her own faculties - </p> <p> - I never could make them an inch the wider - </p> <p>Then by changing my system, and trying what could be made of it upon the body, by temperance, soberness and chastity: These are good, quoth I, in themselves - they are good, absolutely; - they are good, relatively; - they are good for health - they are good for happiness in this world - they are good for happiness in the next - </p>
+            <pb n="51" xml:id="pb-51" facs="#i61"/>
+             <p>In short, they were good for every thing but the thing wanted; and there they were good for nothing, but to leave the soul just as heaven made it: as for the theological virtues of faith and hope, they give it courage; but then that sniveling virtue of Meekness (as my father would always call it) takes it quite away again, so you are exactly where you started.</p> <p>Now in all common and ordinary cases, there is nothing which I have found to answer so well as this - </p> <p> - Certainly, if there is any dependence upon Logic, and that I am not blinded by self-love, there must be something of true genius about me, merely upon this symptom of it, that I do not know what envy is: for never do</p>
+            <pb n="52" xml:id="pb-52" facs="#i62"/>
+             <p>I hit upon any invention or device which tendeth to the furtherance of good writing, but I instantly make it public; willing that all mankind should write as well as myself.</p> <p> - Which they certainly will, when they think as little.</p>
+            <pb n="53" xml:id="pb-53" facs="#i63"/>
+               <p>CHAP. XIII.</p> <p>NOW in ordinary cases, that is, when I am only stupid, and the thoughts rise heavily and pass gummous through my pen - </p> <p>Or that I am got, I know not how, into a cold unmetaphorical vein of infamous writing, and cannot take a plumb-lift out of it for my soul; so must be obliged to go on writing like a Dutch commentator to the end of the chapter, unless something be done - </p> <p> - I never stand confering with pen and ink one moment; for if a pinch of snuff or a stride or two across the room will not do the business for me - I take a razor at once; and having tried the edge</p>
+            <pb n="54" xml:id="pb-54" facs="#i64"/>
+               <p>of it upon the palm of my hand, without further ceremony, except that of first lathering my beard, I shave it off; taking care only if I do leave a hair, that it be not a grey one: this done, I change my shirt - put on a better coat - send for my last wig - put my topaz ring upon my finger; and in a word, dress myself from one end to the other of me, after my best fashion.</p> <p>Now the devil in hell must be in it, if this does not do: for consider, Sir, as every man chuses to be present at the shaving of his own beard (though there is no rule without exception) and unavoidable sits overagainst himself the whole time it is doing, in case he has a hand in it - the Situation, like all others,</p>
+            <pb n="55" xml:id="pb-55" facs="#i65"/>
+               <p>has notions of her own to put into the brain. - </p> <p> - I maintain it, the conceits of a rough-bearded man, are seven years more terse and juvenile for one single operation; and if they did not run a risk of being quite shaved away, might be carried up by continual shavings, to the highest pitch of sublimity - How Homer could write with so long a beard, I don't know - and as it makes against my hypothesis, I as little care - But let us return to the Toilet.</p> <p>Ludovicus Sorbonensis makes this entirely an affair of the body <note>Greek</note>(ϵξωζϵϱιϰη πϱαξις) as he calls it - but he is deceived: the soul and body are joint-sharers</p>
+            <pb n="56" xml:id="pb-56" facs="#i66"/>
+               <p>in every thing they get: A man cannot dress, but his ideas get cloath'd at the same time; and if he dresses like a gentleman, every one of them stands presented to his imagination, genteelized along with him - so that he has nothing to do, but take his pen, and write like himself.</p> <p>For this cause, when your honours and reverences would know whether I writ clean and fit to be read, you will be able to judge full as well by looking into my Laundress's bill, as my book: there was one single month in which I can make it appear, that I dirtied one and thirty shirts with clean writing; and after all, was more abus'd, curs'd, criticis'd and confounded, and had more</p>
+            <pb n="57" xml:id="pb-57" facs="#i67"/>
+               <p>mystic heads shaken at me, for what I had wrote in that one month, than in all the other months of that year put together.</p> <p> - But their honours and reverences had not seen my bills.</p>
+            <pb n="58" xml:id="pb-58" facs="#i68"/>
+               <p>CHAP. XIV.</p> <p>AS I never had any intention of beginning the Digression, I am making all this preparation for, till I come to the 15th chapter - I have this chapter to put to whatever use I think proper - I have twenty this moment ready for it - I could write my chapter of Button-holes in it - </p> <p>Or my chapter of Pishes, which should follow them - </p> <p>Or my chapter of Knots, in case their reverences have done with them - they might lead me into mischief: the safest way is to follow the tract of the</p>
+            <pb n="59" xml:id="pb-59" facs="#i69"/>
+               <p>learned, and raise objections against what I have been writing, tho' I declare beforehand, I know no more than my heels how to answer them.</p> <p>And first, it may be said, there is a pelting kind of thersitical satire, as black as the very ink 'tis wrote with - (and by the bye, whoever says so, is indebted to the muster-master general of the Grecian army, for suffering the name of so ugly and foul-mouth'd a man as Thersites to continue upon his roll - for it has furnished him with an epithet) - in these productions he will urge, all the personal washing and scrubbings upon earth do a sinking genius no sort of good - but just the contrary, inasmuch</p>
+            <pb n="60" xml:id="pb-60" facs="#i70"/>
+               <p>as the dirtier the fellow is, the better generally he succeeds in it.</p> <p>To this, I have no other answer - at least ready - but that the Archbishop of Benevento wrote his nasty Romance of the Galatea, as all the world knows, in a purple coat, waistcoat, and purple pair of breeches; and that the penance set him of writing a commentary upon the book of the Revelations, as severe as it was look'd upon by one part of the world, was far from being deem'd so, by the other, upon the single account of that Investment.</p> <p>Another objection, to all this remedy, is its want of universality; forasmuch as the shaving part of it, upon which so</p>
+            <pb n="61" xml:id="pb-61" facs="#i71"/>
+               <p>much stress is laid, by an unalterable law of nature excludes one half of the species entirely from its use: all I can say is, that female writers, whether of England, or of France, must e'en go without it - </p> <p>As for the Spanish ladies - I am in no sort of distress - </p>
+            <pb n="62" xml:id="pb-62" facs="#i72"/>
+               <p>CHAP. XV.</p> <p>THE fifteenth chapter is come at last; and brings nothing with it but a sad signature of "How our pleasures slip from under us in this world;"</p> <p>For in talking of my digression - I declare before heaven I have made it! What a strange creature is mortal man! said she.</p> <p>'Tis very true, said I - but 'twere better to get all these things out of our heads, and return to my uncle Toby.</p>
+            <pb n="63" xml:id="pb-63" facs="#i73"/>
+               <p>CHAP. XVI.</p> <p>WHEN my uncle Toby and the Corporal has marched down to the bottom of the avenue, they recollected their business lay the other way; so they faced about and marched up streight to Mrs. Wadman's door.</p> <p>I warrant your honour; said the Corporal, touching his Montero-cap with his hand, as he passed him in order to give a knock at the door - My uncle Toby, contrary to his invariable way of treating his faithful servant, said nothing good or bad: the truth was, he had not altogether marshal'd his ideas; he wish'd for another conference, and as the Corporal</p>
+            <pb n="64" xml:id="pb-64" facs="#i74"/>
+               <p>was mounting up the three steps before the door - he hem'd twice - a portion of my uncle Toby's most modest spirits fled, at each expulsion, towards the Corporal; he stood with the rapper of the door suspended for a full minute in his hand, he scarce knew why. Bridget stood perdue within, with her finger and thumb upon the latch, benumb'd with expectation; and Mrs. Wadman, with an eye ready to be de-flowered again, sat breathless behind the window-curtain of her bed-chamber, watching their approach.</p> <p>Trim! said my uncle Toby - but as he articulated the word, the minute expired, and Trim let fall the rapper.</p>
+            <pb n="65" xml:id="pb-65" facs="#i75"/>
+               <p>My uncle Toby perceiving that all hopes of a conference were knock'd on the head by it - whistled Lillabullero.</p>
+            <pb n="66" xml:id="pb-66" facs="#i76"/>
+               <p>CHAP. XVII.</p> <p>AS Mrs. Bridget's fingers and thumb were upon the latch, the Corporal did not knock as oft as perchance your honour's taylor - I might have taken my example something nearer home; for I owe mine, some five and twenty pounds at least, and wonder at the man's patience - </p> <p> - But this is nothing at all to the world: only 'tis a cursed thing to be in debt; and there seems to be a fatality in the exchequers of some poor princes, particularly those of our house, which no Economy can bind down in irons: for my own part, I'm persuaded there is</p>
+            <pb n="67" xml:id="pb-67" facs="#i77"/>
+               <p>not any one prince, prelate, pope, or potentate, great or small upon earth, more desirous in his heart of keeping streight with the world than I am - or who takes more likely means for it. I never give above half a guinea - or walk with boots - or cheapen tooth-picks - or lay out a shilling upon a band-box the year round; and for the six months I'm in the country, I'm upon so small a scale, that with all the good temper in the world, I out-do Rousseau, a bar length - for I keep neither man or boy, or horse, or cow, or dog, or cat, or any thing that can eat or drink, except a thin poor piece of a Vestal (to keep my fire in) and who has generally as bad an appetite as myself - but if you think this makes</p>
+            <pb n="68" xml:id="pb-68" facs="#i78"/>
+               <p>a philosopher of me - I would not, my good people! give a rush for your judgments.</p> <p>True philosophy - but there is no treating the subject whilst my uncle is whistling Lillabullero.</p> <p> - Let us go into the house.</p>
+            <pb n="69" xml:id="pb-69" facs="#i79"/>
+               <p>CHAP. XVIII.</p>
+            <pb n="70" xml:id="pb-70" facs="#i80"/>
+               <p>CHAP. XIX.</p>
+            <pb n="71" xml:id="pb-71" facs="#i81"/>
+               <p>CHAP. XX.</p> <p> - * * * * * * * * * * * * * * * * * * * * * * * * * *.</p> <p> * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * - </p> <p> - You shall see the very place, Madam; said my uncle Toby.</p> <p>Mrs. Wadman blush'd - look'd towards the door - turn'd pale - blush'd slightly again - recovered her natural colour - blush'd worse than ever; which for the sake of the unlearned reader, I translate thus - </p>
+            <pb n="72" xml:id="pb-72" facs="#i82"/>
+               <p>"L-d! I cannot look at it - </p> <p>What would the world say if I look's at it?</p> <p>I should drop down, if I look'd at it - </p> <p>I wish I could look at it - </p> <p>There can be no sin in looking at it.</p> <p> - I will look at it."</p> <p>Whilst all this was running through Mrs. Wadman's imagination, my uncle Toby had risen from the sopha, and got to the other side of the parlour-door, to give Trim an order about it in the passage - </p> <p> * * * * * * * * * * * * * * - I believe it is in the garret, said my uncle Toby - I saw it there, an' please your honour, this morning, answered Trim - Then prithee,</p>
+            <pb n="73" xml:id="pb-73" facs="#i83"/>
+               <p>step directly for it, Trim, said my uncle Toby, and bring it into the parlour.</p> <p>The Corporal did not approve of the orders, but most chearfully obey'd them. The first was not an act of his will - the second was; so he put on his Montero cap, and went as fast as his lame knee would let him. My uncle Toby returned into the parlour, and sat himself down again upon the sopha.</p> <p> - You shall lay your finger upon the place - said my uncle Toby. - I will not touch it, however, quoth Mrs. Wadman to herself.</p> <p>This requires a second translation: - it shews what little knowledge is got by mere words - we must go up to the first springs.</p>
+            <pb n="74" xml:id="pb-74" facs="#i84"/>
+               <p>Now in order to clear up the mist which hangs upon these three pages, I must endeavour to be as clear as possible myself.</p> <p>Rub your hands thrice across your foreheads - blow your noses - cleanse your emunctories - sneeze, my good people! - God bless you - </p> <p>Now give me all the help you can.</p>
+            <pb n="75" xml:id="pb-75" facs="#i85"/>
+               <p>CHAP. XXI.</p> <p>AS there are fifty different ends (counting all ends in - as well civil as religious) for which a woman takes a husband, she first sets about and carefully weighs, then separates and distinguishes in her mind, which of all that number of ends, is hers: then by discourse, enquiry, argumentation and inference, she investigates and finds out whether she has got hold of the right one - and if she had - then, by pulling it gently this way and that way, she further forms a judgment, whether it will not break in the drawing.</p> <p>The imagery under which Slawkenbergius impresses this upon his reader's fancy,</p>
+            <pb n="76" xml:id="pb-76" facs="#i86"/>
+               <p>in the beginning of his third Decad, is so ludicrous, that the honour I bear the sex, will not suffer me to quote it - otherwise 'tis not destitute of humour.</p> <p>"She first, faith Slawkenbergius, stops the asse, and holding his halter in her left hand (lest he should get away) she thrusts her right hand into the very bottom of his pannier to search for it - For what? - you'll not know the sooner, quoth Slawkenbergius, for interrupting me - </p> <p>"I have nothing, good Lady, but empty bottles;" says the asse.</p> <p>"I'm loaded with tripes;" says the second.</p> <p> - And thou art little better, quoth she to the third; for nothing is there in</p>
+            <pb n="77" xml:id="pb-77" facs="#i87"/>
+               <p>thy panniers but trunk-hose and pantofles - and so to the fourth and fifth, going on one by one through the whole string, till coming to the asse which carries it, she turns the pannier upside down, looks at it - considers it - samples it - measures it - stretches it - wets it - dries it - then takes her teeth both to the warp and weft of it - </p> <p> - Of what? for the love of Christ!</p> <p>I am determined, answered Slawkenbergius, that all the powers upon earth shall never wring that secret from my breast.</p>
+            <pb n="78" xml:id="pb-78" facs="#i88"/>
+               <p>CHAP. XXII.</p> <p>WE live in a world beset on all sides with mysteries and riddles - and so 'tis no matter - else it seems strange, that Nature, who makes every thing so well to answer its destination, and seldom or never errs, unless for pastime, in giving such forms and aptitudes to whatever passes through her hands, that whether she designs for the plough, the caravan, the cart - or whatever other creature she models, be it but an asse's foal, you are sure to have the thing you wanted; and yet at the same time should so eternally bungle it as she does, in making so simple a thing as a married man.</p>
+            <pb n="79" xml:id="pb-79" facs="#i89"/>
+               <p>Whether it is in the choice of the clay - or that it is frequently spoiled in the baking; by an excess of which a husband may turn out too crusty (you know) on one hand - or not enough so, through defect of heat, on the other - or whether this great Artificer is not so attentive to the little Platonic exigences of that part of the species, for whose use she is fabricating this - or that her Ladyship sometimes scarce knows what sort of a husband will do - I know not: we will discourse about it after supper.</p> <p>It is enough, that neither the observation itself, or the reasoning upon it, are at all to the purpose - but rather against it; since with regard to my uncle</p>
+            <pb n="80" xml:id="pb-80" facs="#i90"/>
+               <p>Toby's fitness for the marriage state, nothing was ever better: she had formed him of the best and kindliest clay - had temper'd it with her own milk, and breathed into it the sweetest spirit - she had made him all gentle, generous and humane - she had fill'd his heart with trust and confidence, and disposed every passage which led to it, for the communication of the tenderest offices - she had moreover considered the other causes for which matrimony was ordained - </p> <p>And accordingly * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *.</p> <p>The DONATION was not defeated by my uncle Toby's wound.</p>
+            <pb n="81" xml:id="pb-81" facs="#i91"/>
+               <p>Now this last article was somewhat apocryphal; and the Devil, who is the great disturber of our faiths in this world, had raised scruples in Mrs. Wadman's brain about it; and like a true devil as he was, had done his own work at the same time, by turning my uncle Toby's Virtue thereupon into nothing but empty bottles, tripes, trunk-hose, and pantofles.</p>
+            <pb n="82" xml:id="pb-82" facs="#i92"/>
+               <p>CHAP. XXIII.</p> <p>MRS. Bridget had pawn'd all the little stock of honour a poor chambermaid was worth in the world, that she would get to the bottom of the affair in ten days; and it was built upon one of the most concessible postulatum in nature: namely, that whilst my uncle Toby was making love to her mistress, the Corporal could find nothing better to do, than make love to her - "And I'll let him as much as he will," said Bridget, "to get it out of him."</p> <p>Friendship has two garments; an outer, and an under one. Bridget was</p>
+            <pb n="83" xml:id="pb-83" facs="#i93"/>
+               <p>serving her mistress's interests in the one - and doing the thing which most pleased herself in the other; so had as many stakes depending upon my uncle Toby's wound, as the Devil himself - Mrs. Wadman had but one - and as it possibly might be her last (without discouraging Mrs. Bridget, or discrediting her talents) was determined to play her cards herself.</p> <p>She wanted not encouragement: a child might have look'd into his hand - there was such a plainness and simplicity in his playing out what trumps he had - with such an unmistrusting ignorance of the ten-ace - and so naked and defenceless did he sit upon the</p>
+            <pb n="84" xml:id="pb-84" facs="#i94"/>
+               <p>same sopha with widow Wadman, that a generous heart would have wept to have won the game of him.</p> <p>Let us drop the metaphor.</p>
+            <pb n="85" xml:id="pb-85" facs="#i95"/>
+               <p>CHAP. XXIV.</p> <p> - AND the story too - if you please: for though I have all along been hastening towards this part of it, with so much earnest desire, as well knowing it to be the choicest morsel of what I had to the offer to the world, yet now that I am got to it, any one is welcome to take my pen, and go on with the story for me that will - I see the difficulties of the descriptions I'm going to give - and feel my want of powers.</p> <p>It is one comfort at least to me, that I lost some fourscore ounces of blood this week in a most uncritical fever which</p>
+            <pb n="86" xml:id="pb-86" facs="#i96"/>
+               <p>attacked me at the beginning of this chapter; so that I have still some hopes remaining, it may be more in the ferous or globular parts of the blood, than in the subtile aura of the brain - be it which it will - an Invocation can do no hurt - and I leave the affair entirely to the invoked, to inspire or to inject me according as he sees good.</p>
+            <pb n="87" xml:id="pb-87" facs="#i97"/>
+               <p>THE INVOCATION.</p> <p>GENTLE Spirit of sweetest humour, who erst didst sit upon the easy pen of my beloved CERVANTES; Thou who glided'st daily through his lattice, and turned'st the twilight of his prison into noon day brightness by thy presence - tinged'st his little urn of water with heaven-sent Nectar, and all the time he wrote of Sancho and his master, didst cast thy mystic mantle o'er his wither'd * stump, and wide extended it to all the evils of his life - </p> <note>what follows is a footnote</note> <p>* He lost his hand at the battle of Lepanto.</p>
+            <pb n="88" xml:id="pb-88" facs="#i98"/>
+               <p> - Turn in hither, I beseech thee! - behold these breeches! - they are all I have in the world - that piteous rent was given them at Lyons - </p> <p>My shirts! see what a deadly schism has happen'd amongst 'em - for the laps are in Lombardy, and the rest of 'em here - I never had but six, and a cunning gypsey of a laundress at Milan cut me off the fore-laps of five - To do her justice, she did it with some consideration - for I was returning out of Italy.</p> <p>And yet, notwithstanding all this, and a pistol tinder-box which was moreover filch'd from me at Sienna, and</p>
+            <pb n="89" xml:id="pb-89" facs="#i99"/>
+               <p>twice that I pay'd five Pauls for two hard eggs, once at Raddicoffini, and a second time at Capua - I do not think a journey through France and Italy, provided a man keeps his temper all the way, so bad a thing as some people would make you believe: there must be ups and downs, or how the duce should we get into vallies where Nature spreads so many tables of entertainment. - 'Tis nonsense to imagine they will lend you their voitures to be shaken to pieces for nothing; and unless you pay twelve sous for greasing your wheels, how should the poor peasant get butter to his bread? - We really expect too much - and for the livre or two above par for your suppers and bed - at the most they are but one shilling and ninepence half-penny</p>
+            <pb n="90" xml:id="pb-90" facs="#i100"/>
+               <p> - who would embroil their philosophy for it? for heaven's and for your own sake, pay it - pay it with both hands open, rather than leave Disappointment sitting drooping upon the eye of your fair Hostess and her Damsels in the gate-way, at your departure - and besides, my dear Sir, you get a sisterly kiss of each of 'em worth a pound - at least I did - </p> <p> - For my uncle Toby's amours running all the way in my head, they had the same effect upon me as if they been my own - I was in the most perfect state of bounty and good will; and felt the kindliest harmony vibrating within me, with every oscillation of the chaise alike; so that whether the roads</p>
+            <pb n="91" xml:id="pb-91" facs="#i101"/>
+               <p>were rough or smooth, it made no difference; every thing I saw, or had to do with, touch'd upon some secret spring either of sentiment or rapture.</p> <p> - They were the sweetest notes I ever heard; and I instantly let down the fore-glass to hear them more distinctly - 'Tis Maria; said the postilion, observing I was listening - Poor Maria, continued he, (leaning his body on one side to let me see her, for he was in a line betwixt us) is sitting upon a bank playing her vespers upon her pipe, with her little goat beside her.</p> <p>The young fellow utter'd this with an accent and a look so perfectly in tune to a feeling heart, that I instantly made a</p>
+            <pb n="92" xml:id="pb-92" facs="#i102"/>
+               <p>vow, I would give him a four and twenty sous piece, when I got to Moulins - </p> <p> - And who is poor Maria? said I.</p> <p>The love and pity of all the villages around us; said the postillion - it is but three years ago, that the sun did not shine upon so fair, so quick-witted and amiable a maid; and better fate did Maria deserve, than to have her Banns forbid, by the intrigues of the curate of the parish who published them - </p> <p>He was going on, when Maria, who had made a short pause, put the pipe to her mouth and began the air again</p>
+            <pb n="93" xml:id="pb-93" facs="#i103"/>
+               <p> - they were the same notes; - yet were ten times sweeter: It is the evening service to the Virgin, said the young man - but who has taught her to play it - or how she came by her pipe, no one knows; we think that Heaven has assisted her in both; for ever since she has been unsettled in her mind, it seems her only consolation - she has never once had the pipe out of her hand, but plays the service upon it almost night and day.</p> <p>The postillion delivered this with so much discretion and natural eloquence, that I could not help decyphering something in his face above his condition, and should have sifted out his history,</p>
+            <pb n="94" xml:id="pb-94" facs="#i104"/>
+               <p>had not poor Maria's taken such full possession of me.</p> <p>We had got up by this time almost to the bank where Maria was sitting: she was in a thin white jacket with her hair, all but two tresses, drawn up into a silk net, with a few olive leaves twisted a little fantastically on one side - she was beautiful; and if ever I felt the full force of an honest heart-ache, it was the moment I saw her - </p> <p> - God help her! poor damsel! above a hundred masses, said the postillion, have been said in the several parish churches and convents around, for her, - but without effect; we have still hopes, as she is sensible for short intervals,</p>
+            <pb n="95" xml:id="pb-95" facs="#i105"/>
+               <p>that the Virgin at last will restore her to herself; but her parents, who know her best, are hopeless upon that score, and think her senses are lost for ever.</p> <p>As the postillion spoke this, MARIA made a cadence so melancholy, so tender and querulous, that I sprung out of the chaise to help her, and found myself sitting betwixt her and her goat before I relapsed from my enthusiasm.</p> <p>MARIA look'd wistfully for some time at me, and then at her goat - and then at me - and then at her goat again, and so on, alternately - </p> <p> - Well, Maria, said I softly - What resemblance do you find?</p>
+            <pb n="96" xml:id="pb-96" facs="#i106"/>
+               <p>I do intreat the candid reader to believe me, that it was from the humblest conviction of what a Beast man is, - that I ask'd the question; and that I would not have let fallen an unseasonable pleasantry in the venerable presence of Misery, to be entitled to all the wit that ever Rabelais scatter'd - and yet I own my heart smote me, and that I so smarted at the very idea of it, that I swore I would set up for Wisdom and utter grave sentences the rest of my days - and never - never attempt again to commit mirth with man, woman, or child, the longest day I had to live.</p> <p>As for writing nonsense to them - I believe, there was a reserve - but that I leave to the world.</p>
+            <pb n="97" xml:id="pb-97" facs="#i107"/>
+               <p>Adieu, Maria! - adieu, poor hapless damsel! - some time, but not now, I may hear thy sorrows from thy own lips - but I was deceived; for that moment she took her pipe and told me such a tale of woe with it, that I rose up, and with broken and irregular steps walk's softly to my chaise.</p> <p> - What an excellent inn at Moulins!</p>
+            <pb n="98" xml:id="pb-98" facs="#i108"/>
+               <p>CHAP. XXV.</p> <p>WHEN we have got to the end of this chapter (but not before) we must all turn back to the two blank chapters, on the account of which my honour has lain bleeding this half hour - I stop it, by pulling off one of my yellow slippers and throwing it with all my violence to the opposite side of my room, with a declaration at the heel of it - </p> <p> - That whatever resemblance it may bear to half the chapters which are written in the world, or, for aught I know, may be now writing in it - that it was as casual as the foam of Zeuxis his horse: besides, I look upon a chapter</p>
+            <pb n="99" xml:id="pb-99" facs="#i109"/>
+               <p>which has, only nothing in it, with respect; and considering what worse things there are in the world - That it is no way a proper subject for satire - </p> <p> - Why then was it left so? And here, without staying for my reply, shall I be call'd as many blockheads, numsculs, doddypoles, dunderheads, ninnyhammers, goosecaps, joltheads, nincompoops, and sh-t-a-beds - and other unsavory appellations, as ever the cake-bakers of Lernè, cast in the teeth of King Garagantna's shepherds - And I'll let them do it, as Bridget said, as much as they please; for how was it possible they should foresee the necessity I</p>
+            <pb n="100" xml:id="pb-100" facs="#i110"/>
+               <p>was under of writing the 25th chapter of my book, before the 18th, &amp;c.</p> <p> - So I don't take it amis - All I wish is, that it may be a lesson to the world, "to let people tell their stories their own way."</p>
+            <pb n="101" xml:id="pb-101" facs="#i111"/>
+               <p>The Eighteenth Chapter.</p> <p>AS Mrs. Bridget open'd the door before the Corporal had well given the rap, the interval betwixt that and my uncle Toby's introduction into the parlour, was so short, that Mrs. Wadman had but just time to get from behind the curtain - lay a Bible upon the table, and advance a step or two towards the door to receive him.</p> <p>My uncle Toby saluted Mrs. Wadman, after the manner in which women were saluted by men in the year of our Lord God one thousand seven hundred and thirteen - then facing about, he march'd up abrest with her to the</p>
+            <pb n="102" xml:id="pb-102" facs="#i112"/>
+               <p>sopha, and in three plain words - though not before he sat down - nor after he was sat down - but as he was sitting down, told her, "he was in love" - so that my uncle Toby strained himself more in the declaration than he needed.</p> <p>Mrs. Wadman naturally looked down, upon a slit she had been darning up in her apron, in expectation every moment, that my uncle Toby would go on; but having no talents for amplification, and LOVE moreover of all others being a subject of which he was the least a master - When he had told Mrs. Wadman once that he loved her, he let it alone, and left the matter to work after its own way.</p>
+            <pb n="103" xml:id="pb-103" facs="#i113"/>
+               <p>My father was always in raptures with this system of my uncle Toby's, as he falsely called it, and would often say, that could his brother Toby to his processe have added but a pipe of tobacco - he had wherewithal to have found his way, if there was faith in a Spanish proverb, towards the hearts of half the women upon the globe.</p> <p>My uncle Toby never understood what my father meant; nor will I presume to extract more form it, than a condemnation of an error which the bulk of the world lie under - but the French, every one of 'em to a man, who believe in it, almost as much as the REAL PRESENCE, "That talking of love, is making it."</p>
+            <pb n="104" xml:id="pb-104" facs="#i114"/>
+               <p> - I would as soon set about making a black-pudding by the same receipt.</p> <p>Let us go on: Mrs. Wadman sat in expectation my uncle Toby would do so, to almost the first pulsation of that minute, wherein silence on one side or the other, generally becomes indecent: so edging herself a little more towards him, and raising up her eyes, sub-blushing, as she did it - she took up the gauntlet - or the discourse (if you likt it better) and communed with my uncle Toby, thus.</p> <p>The cares and disquietudes of the marriage state, quoth Mrs. Wadman,</p>
+            <pb n="105" xml:id="pb-105" facs="#i115"/>
+               <p>are very great. I suppose so - said my uncle Toby: and therefore when a person, continued Mrs. Wadman, is so much at his ease as you are - so happy, captain Shandy, in yourself, your friends and your amusements - I wonder, what reasons can incline you to the state - </p> <p> - They are written, quoth my uncle Toby, in the Common-Prayer Book.</p> <p>Thus far my uncle Toby went on warily, and kept within his depth, leaving Mrs. Wadman to sail upon the gulph as she pleased.</p> <p> - As for children - said Mrs. Wadman - though a principal end perhaps of the institution, and the natural wish, I suppose, of every parent - yet do not we all find, they are certain sorrows, and very</p>
+            <pb n="106" xml:id="pb-106" facs="#i116"/>
+               <p>uncertain comforts? and what is there, dear sir, to pay one for the heart-achs - what compensation for the many tender and disquieting apprehensions of a suffering and defenceless mother who brings them into life? I declare, said my uncle Toby, smit with pity, I know of none; unless it be the pleasure which it has pleased God - </p> <p> - A fiddlestick! quoth she.</p>
+            <pb n="107" xml:id="pb-107" facs="#i117"/>
+               <p>Chapter the Nineteenth.</p> <p>NOW there are such an infinitude of notes, tunes, cants, chants, airs, looks, and accents with which the word fiddlestick may be pronounced in all such causes as this, ever one of 'em impressing a sense and meaning as different from the other, as dirt from cleanliness - That Casuists (for it is an affair of conscience on that score) reckon up no less than fourteen thousand in which you may do either right or wrong.</p> <p>Mrs. Wadman hit upon the fiddlestick, which summoned up all my uncle Toby's modest blood into his cheeks - so feeling within himself that he had somehow or other got beyond his depth, he stopt</p>
+            <pb n="108" xml:id="pb-108" facs="#i118"/>
+               <p>short; and without entering further either into the pains or pleasures of matrimony, he laid his hand upon his heart, and made an offer to take them as they were, and share them along with her.</p> <p>When my uncle Toby had said this, he did not care to say it again; so casting his eye upon the Bible which Mrs. Wadman had laid upon the table, he took it up; and popping, dear soul! upon a passage in it, of all others the most interesting to him - which was the siege of Jericho - he set himself to read it over - leaving his proposal of marriage, as he had done his declaration of love, to work with her after its own way. Now it wrought neither as an astingent or a loosener; nor like opium, or bark, or mercury, or buckthorn, or any one</p>
+            <pb n="109" xml:id="pb-109" facs="#i119"/>
+               <p>drug which nature had bestowed upon the world - in short, it work'd not at all in her; and the cause of that was, that there was something working there before - Babbler that I am! I have anticipated what it was a dozen times; but there is fire still in the subject - allons.</p>
+            <pb n="110" xml:id="pb-110" facs="#i120"/>
+               <p>CHAP. XXVI.</p> <p>IT is natural for a perfect stranger who is going from London to Edinburgh, to enquire before he sets out, how many miles to York; which is about the half way - nor does any body wonder, if he goes on and asks about the Corporation, &amp;c. - </p> <p>It was just as natural for Mrs. Wadman, whose first husband was all his time afflicted with a Sciatica, to wish to know how far from the hip to the groin; and how far she was likely to suffer more or less in her feelings, in the one case than in the other.</p> <p>She had accordingly read Drake's anatomy from one end to the other. She</p>
+            <pb n="111" xml:id="pb-111" facs="#i121"/>
+               <p>had peeped into Wharton upon the brain, and borrowed * Graaf upon the bones and muscles; but could make nothing of it.</p> <p>She had reason'd likewise from her own powers - laid down theorems - drawn consequences, and come to no conclusion.</p> <p>To clear up all, she had twice asked Doctor Slop, "if poor captain Shandy was ever likely to recover of his wound - ?"</p> <p> - He is recovered, Doctor Slop would say - </p> <note>what follows is a footnote</note> <p>* This must be a mistake in Mr. Shandy; for Graaf wrote upon the pancreatick juice, and the parts of generation.</p>
+            <pb n="112" xml:id="pb-112" facs="#i122"/>
+               <p>What! quite?</p> <p> - Quite: madam - </p> <p>But what do you mean by recovery? Mrs. Wadman would say.</p> <p>Doctor Slop was the worst man alive at definitions; and so Mrs. Wadman could get no knowledge: in short, there was no way to extract it, but from my uncle Toby himself.</p> <p>There is an accent of humanity in an enquiry of this kind which lulls SUSPICION to rest - and I am half persuaded the serpent got pretty near it, in his discourse with Eve; for the propensity in the sex to be deceived could not be so great, that she should have boldness to hold chat with the devil, without it - </p>
+            <pb n="113" xml:id="pb-113" facs="#i123"/>
+               <p>But there is an accent of humanity - how shall I describe it? - 'tis an accent which covers the part with a garment, and gives the enquirer a right to be as particular with it, as your body-surgeon.</p> <p>" - Was it without remission?</p> <p> - Was it more tolerable in bed?</p> <p> - Could he lie on both sides alike with it?</p> <p> - Was he able to mount a horse?</p> <p> - Was motion bad for it?" et caetera.</p> <p>were so tenderly spoke to, and so directed towards my uncle Toby's heart, that every item of them sunk ten times deeper into it than the evils themselves - but when Mrs. Wadman went round about by Namur to get at my uncle Toby's groin; and engaged him to attack the point of the advanced counterscarp, and pêle mêle</p>
+            <pb n="114" xml:id="pb-114" facs="#i124"/>
+               <p>with the Dutch to take the counterguard of St. Roch sword in hand - and then with tender notes playing upon his ear, led him all bleeding by the hand out of the trench, wiping her eye, as he was carried to his tent - Heaven! Earth! Sea! - all was lifted up - the springs of nature rose above their levels - an angel of mercy sat besides him on the sopha - his heart glow'd with fire - and had he been worth a thousand, he had lost every heart of them to Mrs. Wadman.</p> <p> - And whereabouts, dear Sir, quoth Mrs. Wadman, a little categorically, did you receive this sad blow? - In asking this question, Mrs. Wadman gave a slight glance towards the waistband of my uncle Toby's red blush breeches, expecting</p>
+            <pb n="115" xml:id="pb-115" facs="#i125"/>
+               <p>naturally, as the shortest reply to it, that my uncle Toby would lay his fore-finger upon the place - It fell out otherwise - for my uncle Toby having got his wound before the gate of St. Nicolas, in one of the traverses of the trench, opposite to the salient angle of the demi-bastion of St. Roch; he could at any time stick a pin upon the identical spot of ground where he was standing when the stone struck him: this struck instantly upon my uncle Toby's sensorium - and with it, struck his large map of the town and citadel of Namur and its environs, which he had purchased and pasted down upon a board by the Corporal's aid, during his long illness - it had lain with other military lumber in the garret ever since, and accordingly</p>
+            <pb n="116" xml:id="pb-116" facs="#i126"/>
+               <p>the Corporal was detached into the garret to fetch it.</p> <p>My uncle Toby measured off thirty toises, with Mrs. Wadman's scissars, from the returning angle before the gate of St. Nicolas; and with such a virgin modesty laid her finger upon the place, that the goddess of Decency, if then in being - if not, 'twas her shade - shook her head, and with a finger wavering across her eyes - forbid her to explain the mistake.</p> <p>Unhappy Mrs. Wadman! - </p> <p> - For nothing can make this chapter go off with spirit but an apostrophe to thee - but my heart tells me, that in such a crisis an apostrophe is but an insult</p>
+            <pb n="117" xml:id="pb-117" facs="#i127"/>
+               <p>in disguise, and ere I would offer one to a woman in distress - let the chapter go to the devil; provided any dammn'd critick in keeping will be but at the trouble to take it with him.</p>
+            <pb n="118" xml:id="pb-118" facs="#i128"/>
+               <p>CHAP. XXVII.</p> <p>MY uncle Toby's Map is carried down into the kitchen.</p>
+            <pb n="119" xml:id="pb-119" facs="#i129"/>
+               <p>CHAP. XXVIII.</p> <p> - AND here is the Maes - and this is the Sambre; said the Corporal, pointing with his right hand extended a little towards the map, and his left upon Mrs. Bridget's shoulder - but not the shoulder next him - and this, said he, is the town of Namur - and this the citadel - and there lay the French - and here lay his honour and myself - and in this cursed trench, Mrs. Bridget, quoth the Corporal, taking her by the hand, did he receive the wound which crush'd him so miserably here - In pronouncing which he slightly press'd the back of her hand towards the part he felt for - and let it fall.</p>
+            <pb n="120" xml:id="pb-120" facs="#i130"/>
+               <p>We thought, Mr. Trim, it had been more in the middle - said Mrs. Bridget - </p> <p>That would have undone us for ever - said the Corporal.</p> <p> - And left my poor mistress undone too - said Bridget.</p> <p>The Corporal made no reply to the repartee, but by giving Mrs. Bridget a kiss.</p> <p>Come - come - said Bridget - holding the palm of her left-hand parallel to the plane of the horizon, and sliding the fingers of the other over it, in a way which could not have been done, had there but the least wart or protuberance</p>
+            <pb n="121" xml:id="pb-121" facs="#i131"/>
+               <p> - 'Tis every syllable of it false, cried the Corporal, before she had half finished the sentence - </p> <p> - I know it to be fact, said Bridget, from credible witnesses.</p> <p> - Upon my honour, said the Corporal, laying his hand upon his heart, and blushing as he spoke with honest resentment - 'tis a story, Mrs. Bridget, as false as hell - Not, said Bridget, interrupting him, that either I or my mistress care a halfpenny about it, whether 'tis so or no - only that when one is married, one would chuse to have such a thing by one at least - </p>
+            <pb n="122" xml:id="pb-122" facs="#i132"/>
+               <p>It was somewhat unfortunate for Mrs. Bridget, that she had begun the attck with her manual exercise; for the Corporal instantly * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *.</p>
+            <pb n="123" xml:id="pb-123" facs="#i133"/>
+               <p>CHAP. XXIX.</p> <p>IT was like the momentary contest in the moist eye-lids of an April morning, "Whether Bridget should laugh or cry."</p> <p>She snatch'd up a rolling-pin - 'twas ten to one, she had laugh'd - </p> <p>She laid it down - she cried; and had one single tear of 'em but tasted of bitterness, full sorrowful would the Corporal's heart have been that he had used the argument; but the Corporal understood the sex, a quart major to a terce at least, better than my uncle Toby, and accordingly he assailed Mrs. Bridget after this manner.</p>
+            <pb n="124" xml:id="pb-124" facs="#i134"/>
+               <p>I know, Mrs. Bridget, said the Corporal, giving her a most respectful kiss, that thou art good and modest by nature, and art withal so generous a girl in thyself, that if I know thee rightly, thou wouldst not wound an insect, much less the honour of so gallant and worthy a soul as my master, wast thou sure to be made a countess of - but thou hast been set on, and deluded, dear Bridget, as is often a woman's case, "to please others more than themselves - "</p> <p>Bridget's eyes poured down at the sensations the Corporal excited.</p> <p> - Tell me - tell me then, my dear Bridget, continued the Corporal, [ taking hold of her hand, which hung</p>
+            <pb n="125" xml:id="pb-125" facs="#i135"/>
+               <p>down dead by her side, - and giving a second kiss - whose suspicion has misled thee?</p> <p>Bridget sobb'd a sob or two - then open'd her eyes - the Corporal wiped 'em with the bottom of her apron - she then open'd her heart and told him all.</p>
+            <pb n="126" xml:id="pb-126" facs="#i136"/>
+               <p>CHAP. XXX.</p> <p>MY uncle Toby and the Corporal had gone on separately with their operations the greatest part of the campaign, and as effectually cut off from all communication of what either the one or the other had been doing, as if they had been separated from each other by the Maes or the Sambre.</p> <p>My uncle Toby, on his side, had presented himself every afternoon in his red and silver, and blue and gold alternately, and sustained an infinity of attacks in them, without knowing them to be attacks - and so had nothing to communicate - </p>
+            <pb n="127" xml:id="pb-127" facs="#i137"/>
+               <p>The Corporal, on his side, in taking Bridget, by it had gain'd considerable advantages - and consequently had much to communicate - but what were the advantages - as well, as what was the manner by which he had seiz'd them, required so nice an historian that the Corporal durst not venture upon it; and as sensible as he was of glory, would rather have been contented to have gone barehead and without laurels for ever, than torture his master's modesty for a single moment - </p> <p> - Best of honest and gallant servants! - But I have apostrophiz'd thee, Trim! once before - and could I apotheosize thee also (that is to say)</p>
+            <pb n="128" xml:id="pb-128" facs="#i138"/>
+               <p>with good company - I would do it without ceremony in the very next page.</p>
+            <pb n="129" xml:id="pb-129" facs="#i139"/>
+               <p>CHAP. XXXI.</p> <p>NOW my uncle Toby had one evening laid down his pipe upon the table, and was counting over to himself upon his finger ends, (beginning at his thumb) all Mrs. Wadman's perfections one by one; and happening two or three times together, either by omitting some, or counting others twice over to puzzle himself sadly before he could get beyond his middle finger - Prithee, Trim! said he, taking up his pipe again, - bring me a pen and ink: Trim brought paper also.</p>
+            <pb n="130" xml:id="pb-130" facs="#i140"/>
+               <p>Take a full sheet - Trim! said my uncle Toby, making a sign with his pipe at the same time to take a cahir and sit down close by him at the table. The Corporal obeyed - placed the paper directly before him - took a pen and dip'd it in the ink.</p> <p> - She has a thousand virtues, Trim! said my uncle Toby - </p> <p>Am I to set them down, an' please your honour? quoth the Corporal.</p> <p> - But they must be taken in their ranks, replied my uncle Toby; for of them all, Trim, that which wins me most, and which is a security for all the rest, is the compassionate turn and singular</p>
+            <pb n="131" xml:id="pb-131" facs="#i141"/>
+               <p>humanity of her character - I protest, added my uncle Toby, looking up, as he protested it, towards the top of the ceiling - That was I her brother, Trim, a thousand fold, she could not make more constant or more tender enquiries after my sufferings - though now no more.</p> <p>The Corporal made no reply to my uncle Toby's protestation, but by a short cough - he dip'd the pen a second time into the inkhorn; and my uncle Toby, pointing with the end of his pipe as close to the top of the sheet at the left hand corner of it, as he could get it - the Corporal wrote down the word HUMANITY - thus.</p>
+            <pb n="132" xml:id="pb-132" facs="#i142"/>
+               <p>Prithee, Corporal, said my uncle Toby, as soon as Trim had done it - how often does Mrs. Bridget enquire after the wound on the cap of thy knee, which thou received'st at the battle of Landen?</p> <p>She never, an' please your honour, enquires after it at all.</p> <p>That, Corporal, said my uncle Toby, with all the triumph the goodness of his nature would permit - That shews the difference in the character of the mistress and maid - had the fortune of war allotted the same mischance to me, Mrs. Wadman would have enquired into every circumstance relating to it a</p>
+            <pb n="133" xml:id="pb-133" facs="#i143"/>
+               <p>hundred times - She would have enquired, an' please your honour, ten times as often about your honour's groin - The pain, Trim, is equally excruciating, - and Compassion has as much to do with the one as the other - </p> <p> - God bless your honour! cried the Corporal - what has a woman's compassion to do with a wound upon the cap of a man's knee? had your honour's been shot into ten thousand splinters at the affair of Landen, Mrs. Wadman would have troubled her head as little about it as Bridget; because, added the Corporal, lowering his voice and speaking very distinctly, as he assigned his reason - </p>
+            <pb n="134" xml:id="pb-134" facs="#i144"/>
+               <p>"The knee is such a distance from the main body - whereas the groin, your honour knows, is upon the very curtin of the place."</p> <p>My uncle Toby gave a long whistle - but in a note which could scarce be heard across the table.</p> <p>The Corporal had advanced too far to retire - in three words he told the rest - </p> <p>My uncle Toby laid down his pipe as gently upon the fender, as if it had been spun from the unravellings of a spider's web - </p> <p> - Let us go to my brother Shandy's, said he.</p>
+            <pb n="135" xml:id="pb-135" facs="#i145"/>
+               <p>CHAP. XXXII.</p> <p>THERE will be just time, whilst my uncle Toby and Trim are walking to my father's, to inform you, that Mrs. Wadman had, some moons before this, made a confident of my mother; and that Mrs. Bridget, who had the burden of her own, as well as her mistress's secret to carry, had got happily delivered of both to Susannah behind the garden-wall.</p> <p>As for my mother, she saw nothing at all in it, to make the least bustle about - but Susannah was sufficient by herself for all the ends and purposes you could possibly have, in exporting a family</p>
+            <pb n="136" xml:id="pb-136" facs="#i146"/>
+               <p>secret; for she instantly imparted it by signs to Jonathan - and Jonathan by tokens to the cook, as she was basting a loin of mutton; the cook sold it with some kitchen-fat to the postillion for a groat, who truck'd it with the dairy maid for something of about the same value - and though whisper'd in the hay-loft, FAME caught the notes with her brazen trumpet and sounded them upon the house-top - In a word, not an old woman in the village or five miles round, who did not understand the difficulties of my uncle Toby's siege, and what were the secret articles which had delay'd the surrender. - </p> <p>My father, whose way was to force every event in nature into an hypothesis,</p>
+            <pb n="137" xml:id="pb-137" facs="#i147"/>
+               <p>by which means never man crucified TRUTH at the rate he did - had but just heard of the report as my uncle Toby set out; and catching fire suddenly at the trespass done his brother by it, was demonstrating to Yorick, notwithstanding my mother was sitting by - not only, "That the devil was in women, and that the whole of the affair was lust;" but that every evil and disorder in the world of what kind or nature soever, from the first fall of Adam, down to my uncle Toby's (inclusive) was owing one way or other to the same unruly appetite.</p> <p>Yorick was just brining my father's hypothesis to some temper, when my uncle Toby entering the room with marks</p>
+            <pb n="138" xml:id="pb-138" facs="#i148"/>
+               <p>of infinite benevolence and forgiveness in his looks, my father's eloquence rekindled against the passion - and as he was not very nice in the choice of his words when he was wroth - as soon as my uncle Toby was seated by the fire, and had filled his pipe, my father broke out in this manner.</p>
+            <pb n="139" xml:id="pb-139" facs="#i149"/>
+               <p>CHAP.XXXIII.</p> <p> - THAT provision should be made for continuing the race of so great, so exalted and godlike a Being as man - I am far from denying - but philosophy speaks freely of every thing; and therefore I still think and do maintain it to be a pity, that it should be done by means of a passion which bends down the faculties, and turns all the wisdom, contemplations, and operations of the soul backwards - a passion, my dear, continued my father, addressing himself to my mother, which couples and equals wise men with fools, and makes us come out of our caverns and hiding-places more like satyrs and four-footed beasts than men.</p>
+            <pb n="140" xml:id="pb-140" facs="#i150"/>
+               <p>I know it will be said, continued my father (availing himself of the Prolepsis) that in itself, and simply taken - like hunger, or thirst, or sleep - 'tis an affair neither good or bad - or shameful or otherwise. - Why then did the delicacy of Diogenes and Plato so recalcitrate against it? and wherefore, when we go about to make and plant a man, do we put out the candle? and for what reason is it, that all the parts thereof - the congredients - the preparations - the instruments, and whatever serves thereto, are so held as to be conveyed to a cleanly mind by no language, translation, or periphrasis whatever?</p> <p> - The act of killing and destroying a man, continued my father raising his voice - and turning to my uncle Toby - </p>
+            <pb n="141" xml:id="pb-141" facs="#i151"/>
+               <p>you see, is glorious - and the weapons by which we do it are honourable - We march with them upon our shoulders - We strut with them by our sides - We gild them - We carve them - We in-lay them - We enrich them - Nay, if it be but a scoundril cannon, we cast an ornament upon the breech of it. - </p> <p> - My uncle Toby laid down his pipe to intercede for a better epithet - and Yorick was rising up to batter the whole hypothesis to pieces - </p> <p> - When Obadiah broke into the middle of the room with a complaint, which cried out for an immediate hearing.</p> <p>The case was this:</p>
+            <pb n="142" xml:id="pb-142" facs="#i152"/>
+               <p>My father, whether by ancient custom of the manor, or as improprietor of the great tythes, was obliged to keep a Bull for the service of the Parish, and Obadiah had led his cow upon a pop-visit to him one day or other the preceeding summer - I say, one day or other - because as chance would have it, it was the day on which he was married to my father's house-maid - so one was a reckoning to the other. Therefore when Obadiah's wife was brought to bed - Obadiah thanked God - </p> <p> - Now, said Obadiah, I shall have a calf: so Obadiah went daily to visit his cow.</p>
+            <pb n="143" xml:id="pb-143" facs="#i153"/>
+               <p>She'll calve on Monday - on Tuesday - or Wednesday at the farthest - </p> <p>The cow did not calve - no - she'll not calve till next week - the cow put it off terribly - till at the end of the sixth week Obadiah's suspicions (like a good man's) fell upon the Bull.</p> <p>Now the parish being very large, my father's Bull, to speak the truth of him, was no way equal to the department; he had, however, got himself, somehow or other, thrust into employment - and as he went through the business with a grave face, my father had a high opinion of him.</p>
+            <pb n="144" xml:id="pb-144" facs="#i154"/>
+               <p> - Most of the townsmen, an' please your worship, quoth Obadiah, believe that 'tis all the Bull's fault - </p> <p> - But may not a cow be barren? replied my father, turning to Dr. Slop.</p> <p>It never happens: said Dr. Slop, but the man's wife may have come before her time naturally enough - Prithee has the child hair upon his head? - added Dr. Slop - </p> <p> - It is as hairy as I am; said Obadiah. - Obadiah had not been shaved for three weeks - Wheu - u - u cried my father, beginning the sentence with an exclamatory</p>
+            <pb n="145" xml:id="pb-145" facs="#i155"/>
+               <p>whistle - and so, brother Toby, this poor Bull of mine, who is as good a Bull as ever p-ss'd, and might have done for Europa herself in purer times - had he but two legs less, might have driven into Doctors Commons and lost his character - which to a Town Bull, brother Toby, is the very same thing as his life - </p><p>L-d! said my mother, what is all this story about? - </p> <p>A COCK and a BULL, said Yorick - And one of the best of its kind, I ever heard.</p> <p>The END of the NINTH VOLUME.</p>
+            <pb n="146" xml:id="pb-146" facs="#i156"/>
+            <pb n="147" xml:id="pb-147" facs="#i157"/>
+            <pb n="148" xml:id="pb-148" facs="#i158"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i159"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i160"/>
+         </div>
+      </body>
+   </text>
+</TEI>
