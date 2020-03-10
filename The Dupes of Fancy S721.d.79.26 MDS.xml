@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>S721.d.79.26</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2019-06-01</date>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>S721.d.79.26</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>The dupes of fancy, or every man his hobby a new farce: in two acts. As performed at the King's Theatre-Royal in the Hay-Market, with great applause</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Carey, George Saville 1743-1807</persName>
+                           <persName type="display">Carey, George Saville 1743-1807</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for Alex. Hogg; and sold by T. Lewis and by all other booksellers and stationers in every city, borough, town, and village in Great Britain and Ireland</persName>
+                           <persName type="display">printed for Alex. Hogg; and sold by T. Lewis and by all other booksellers and stationers in every city, borough, town, and village in Great Britain and Ireland</persName>
+                        </name>
+                     </respStmt>
+                     <note>Pp.52-56 contain 'A new catalogue of publications just printed for Alex. Hogg, ... '.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>56p.,plate : port. ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1792" notAfter="1792">1792</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="PR-S-00721-D-00079-00026-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="6055px"
+                  width="4122px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="i">
+         <graphic decls="#downloadImageRights #download"
+                  height="5928px"
+                  width="3964px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="ii">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="1">
+         <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3951px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="2">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="3">
+         <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3756px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="4">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="5">
+         <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3927px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="6">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="7">
+         <graphic decls="#downloadImageRights #download"
+                  height="5908px"
+                  width="3833px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="8">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="9">
+         <graphic decls="#downloadImageRights #download"
+                  height="5877px"
+                  width="3833px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="10">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="11">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="12">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="13">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="14">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="15">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="16">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="17">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="18">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="19">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="20">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="21">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="22">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="23">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="24">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="25">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="26">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="27">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="28">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="29">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="30">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="31">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="32">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="33">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="34">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="35">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="36">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="37">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="38">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="39">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="40">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="41">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="42">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="43">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="44">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="45">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="46">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00050"/>
+      </surface>
+      <surface xml:id="i51" n="47">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00051"/>
+      </surface>
+      <surface xml:id="i52" n="48">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00052"/>
+      </surface>
+      <surface xml:id="i53" n="49">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00053"/>
+      </surface>
+      <surface xml:id="i54" n="50">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00054"/>
+      </surface>
+      <surface xml:id="i55" n="51">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00055"/>
+      </surface>
+      <surface xml:id="i56" n="52">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00056"/>
+      </surface>
+      <surface xml:id="i57" n="53">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00057"/>
+      </surface>
+      <surface xml:id="i58" n="54">
+         <graphic decls="#downloadImageRights #download"
+                  height="5878px"
+                  width="4046px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00058"/>
+      </surface>
+      <surface xml:id="i59" n="55">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00059"/>
+      </surface>
+      <surface xml:id="i60" n="56">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3997px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00060"/>
+      </surface>
+      <surface xml:id="i61" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="5899px"
+                  width="3874px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00061"/>
+      </surface>
+      <surface xml:id="i62" n="back cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="5924px"
+                  width="4165px"
+                  rend="portrait"
+                  url="PR-S-00721-D-00079-00026-000-00062"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+             <!-- handwritten note and library number 'S721.d.79.26' and 'No portrait' -->
+            <pb n="i" xml:id="pb-i" facs="#i3"/>
+            <pb n="ii" xml:id="pb-ii" facs="#i4"/>
+            <pb n="1" xml:id="pb-1" facs="#i5"/>
+             <!-- handwritten name in top right hand corner of the page 'Black' --> <p>THE</p> <p>DUPES OF FANCY,</p> <p>OR</p> <p>EVERY MAN HIS HOBBY;</p> <p>A NEW FARCE:</p> <p>IN TWO ACTS.</p> <p>AS PERFORMED AT THE</p> <p>KING's THEATRE-ROYAL</p> <p>IN THE</p> <p>HAY-MARKET,</p> <p>WITH GREAT APPLAUSE.</p> <p>Seuus cuique est mos.</p> <p>By GEORGE SAVILLE CAREY, Esq.</p> <p>DEDICATED to Mrs. JORDAN,</p> <p>AND</p> <p>Embellished with a Portrait of that Celebrated Performer.</p> <p>LONDON:</p> <p>PRINTED FOR ALEX. HOGG, AT THE KING'S ARMS, NO. 16, PATERNOSTER-ROW; AND SOLD BY T. LEWIS. GREAT RUSSEL STREET, COVENT GARDEN, AND BY ALL OTHER BOOKSELLERS AND STATIONERS IN EVERY CITY, BOROUGH, TOWN, AND VILLAGE IN GREAT BRITAIN AND IRELAND.</p> <p>Of Whom may be had, GRATIS (just Published) HOGG's NEW CATALOGUE of PUBLICATIONS for the present Year.</p> <p>1792.</p> <p>[PRICE ONE SHILLING.]</p>
+            <pb n="2" xml:id="pb-2" facs="#i6"/>
+             <p>Entered at Stationers Hall.</p> <!-- stamp which reads 'University Library Cambridge' and handwritten number '78...15801 -->
+            <pb n="3" xml:id="pb-3" facs="#i7"/>
+             <note>decorative image</note> <p>DEDICATION.</p> <p>To Mrs. JORDAN.</p> <p>MADAM,</p> <p>IN the Hours of Meditation, when the Mind was on its researches for a Patroness to the following Petit Drama, I was not long at a loss for One to whom I might with propriety pay my respects. The very conspicuous figure you have made upon the Stage, brought your Merits to my view, and from those I thought there could be no impropriety in my laying this Trifle at your feet. The tutelary Sisters, Melpomene and Thalia, who preside over all the Scenic Arts, have taken you by the hand and placed you on a pedestal so high, that Envy lowers her scowling front whene'er she casts he jaundiced Eye upon your exalted Station, for you justly assimulate the pathetic manners of the one, and fascinate with the</p>
+            <pb n="4" xml:id="pb-4" facs="#i8"/>
+             <p>bewitching archness of the other. This perhaps may look like flattery, but those who know me, know that flattery is a talent which I never yet possessed, and, for the want of which, perhaps I may have hatched some Snakes and Scorpions who have endeavoured to breath their venom upon the blossoms of my reputation. In the present instance certain malevolant Competiters attempted to sting my rising hopes and disconcert the eminent and arduous exertions of the Performers, to whom I am so much indepted on this Piece's first assay; - yet I had the satisfaction to see it baffle all their Spleen, and now, Madam, I submit it to the APPROBATION of the PUBLIC, and hope it will receive your PROTECTION,</p> <p>I have the Honor to Subscribe myself,</p> <p>MADAM,</p> <p>your most Humble and</p> <p>Obedient Servant,</p> <p>GEORGE SAVILLE CAREY.</p> <p>Store Street, Bedford Square.</p>
+            <pb n="5" xml:id="pb-5" facs="#i9"/>
+             <p>ADVERTISEMENT.</p> <p>THE PRINTER begs leave to observe that the Reviewers of Theatricals in the MORNING HERALD and other respectable PRINTS, who saw the Representation as well as the Editors of the LONDON, EUROPEAN, NEW LADY'S, and other MAGAZINES, have spoken of this New Piece in very Respectful Terms. "That it is replete with wit, whim, and good humour, and exhibits a well timed satire on the bent of fanciful individuals, demonstrating that Every Man has his Hobby, and that all mankind, are, at some period of Life or other, the Dupes of Fancy. Upon the whole they pronounce this Farce to surpass mediocrity, and that its merits justly deserve that kind reception from the Public which it has experienced." The Author is well known to the world by his Lectures on Mimicry, Imitations, and other humourous writings;</p>
+            <pb n="6" xml:id="pb-6" facs="#i10"/>
+             <p>and all lovers of dramatic productions and the Public in general will be highly gratified by a sight and perusal of this Comic Piece.</p> <p>On it's first appearance at the Hay Market, some objections were made to it's length, particularly in the Dinner Scene, but by the Author's Judicious curtailment for future Representation, every objection of this kind will be obviated. It is however printed as originally written, and such parts of it marked as were omitted in the representation. It is presumed it will be performed this Summer, at many of the Watering Places throughout the Kingdom, and that it will be brought forward with some amendment and alteration next Season at the King's Theatre.</p> <p>THE PRINTER.</p> <note>decorative image</note>
+            <pb n="7" xml:id="pb-7" facs="#i11"/>
+             <p>PROLOGUE</p> <p>Written by a Friend of the Author.</p> <p>(THE ACTOR COMING ON THE STAGE AS IF IN ANGER WITH THE PROMPTER.)</p> <p>I WISH your Prologues, all, were in the Sea</p> <p>You're sure to saddle ev'ry one on me. --</p> <p>Each trembling Author, shews a frighten'd mind,</p> <p>And cries to me -- Pray will you be so kind</p> <p>As say a word or two, to paliate</p> <p>The apprehensions that around me wait. -- </p> <p>A pretty task! -- and, nothing more, in brief,</p> <p>Then feeling guilty, hollows out -- "Stop Thief!"</p> <p>Should the thing please -- pray, what do I get by't?</p> <p>I'll tell you what -- I prologuise each night. -- </p> <p>Wit, like a Diamond, is bright and scarce,</p> <p>Out Author's Wit (poor soul) is all a Farce;</p> <p>You'll see it clearer ere the matter's ended,</p> <p>But, saying little, is the soonest mended. -- </p> <p>I've got a part to play -- 'tis time to budge,</p> <p>Hoping, that while you listen, you will judge</p> <p>With Mercy -- nor make absolute the Case,</p> <p>Lest the poor Author fall into disgrace.</p>
+            <pb n="8" xml:id="pb-8" facs="#i12"/>
+             <p>DRAMATIS PERSONAE.</p> <p>MEN.</p> <p>TINTEM, a Florist, - MR. BRADDELEY.</p> <p>GRUB, a Butterfly Fancier, MR. SUET.</p> <p>WILLINGFORD, betrothed to Miss Tintem, } Mr. DIGNUM.</p> <p>GABY Mr. Tintem's Servant MR. BANNISTER, Jun.</p> <p>WOMEN.</p> <p>MISS TINTEM, Niece to MR. Tintem MISS COLLINS.</p> <p>DOLLY, Miss Tintem's Servant, - MISS POPE.</p> <p>N.B, The Parts of this Entertainment marked with Inverted Commas thus "" were omitted in the Representation.</p>
+            <pb n="9" xml:id="pb-9" facs="#i13"/>
+             <note>decorative image</note> <p>THE</p> <p>DUPES OF FANCY.</p> <p>ACT I.</p> <p>SCENE I. The Kitchen.</p> <p>GABY discovered tying on his neckcloth, and seemingly to be admiring himself in the Looking-glass, when Dolly comes in and taps him on the shoulder.</p> <p>DOLLY.</p> <p>WHAT is that which you are taken with so much, Mr. Lazy-bones? why you have been looking at yourself this half-hour, and now you look as if you were frightened out of your wits!</p> <p>GABY. Frighten'd! --- frighten'd at what?</p> <p>DOLLY. At yourself to be sure, and I do not wonder at it; why your head looks like a rumpled hen that has gone through a hedge backwards, and your face is as pale as a parsnip.</p> <p>GABY. You are making me out a strange creature forsooth, may'nt a body tie on one's neckcloth without being frightened out of one's wits at the looking-glass.</p>
+            <pb n="10" xml:id="pb-10" facs="#i14"/>
+             <p>DOLLY. Tying on your neckcloth truly; --- heavens what a sloven; --- why you have not above half tied it; --- I suppose you will be for making love to me with your collar open again. --- You look in the face for all the world like the picture of the starved poet, in my master's dressing room.</p> <p>GABY. Faith and troth you are full of your skits, Mrs. Dolly; but for all that, I have heard people say, that to be careless is to be modish.</p> <p>DOLLY. Modish, modish, ha! ha! ha! --- I never saw such a modish ninny as you before, it is enough to make one kill one's self with laughing, I am sure you shall never go into the parlour such a comical figure as that --- only look at yourself again.</p> <p>GABY. Why, how would you have me look?</p> <p>DOLLY. Like a man to be sure. --- You that are drawn for the militia too --- why you ought to look like a soldier!</p> <p>GABY. How in the name of patience am I to look like a soldier before I'm taught.</p> <p>DOLLY. Let me put on your neckcloth, and I'll shew you how.</p> <p>GABY. Ah, that you shall, and thank you too.</p> <p>DOLLY. Kneel down then, and you shall see what a comely figure I will make of you.</p> <p>GABY. Kneel, aye, that I will and pray too, if you like it, my dear little chick-a-biddy.</p> <p>(GABY kneels while DOLLY ties his neckcloth so tight, that it almost choaks him.)</p> <p>DOLLY. There! there! there! --- you seem now as if you had a little blood in your face, you look like a soldier now with a witness.</p> <p>GABY. (Struggling) Murder! murder! murder! --- Oh, pray!</p>
+            <pb n="11" xml:id="pb-11" facs="#i15"/>
+             <p>DOLLY. Ha! ha! ha! --- Well, now since I have brought you to your prayers I am satisfied, and you shall be releas'd --- but it is a pity you had not been choak'd, you look'd so pretty.</p> <p>GABY. And should you have lik'd to have seen me choak'd Dolly?</p> <p>DOLLY. Choak me if I should not.</p> <p>GABY. Why Dolly, now that's so cruel of you.</p> <p>DOLLY. Why? --- because you're such a lazy, lubberly, slovenly creature. --- Don't you know that this is Saturday, that Alderman Grub is coming to visit Master, and you've got nothing ready.</p> <p>GABY. Lord help you, be'ant I always ready, what would the woman have me do?</p> <p>DOLLY. What? --- why there are all the knives to clean; my Master's new wig to comb out; the tobacco pipes to wax the ends; and the sand-dishes to be got in readiness --- you know that they smoke like a couple of Turks!</p> <p>GABY. Lord bless me I had forgot all that to be sure.</p> <p>DOLLY. I knew you had, you've a precious memory, but my Master would not be apt to forget you I fancy, if you had not got them all prepared in time; --- you know he is never so happy as when surrounded with smoke.</p> <p>GABY. Nor I neither, Dolly --- Lord, it is my heart's delight.</p> <p>DOLLY. I'm glad to hear that, for it convinces me that you will make a better soldier.</p> <p>GABY. What are they so fond of smoke then?</p> <p>DOLLY. Every good soldier is fond of the smoke of gunpowder to be sure.</p> <p>GABY. Oh, I never lik'd that ever since I had like to have been blown up with it the last fifth of November; I'll tell you all about it; --- you must</p>
+            <pb n="12" xml:id="pb-12" facs="#i16"/>
+             <p>know that I had got a whole pound of powder, and was making of squibs.</p> <p>DOLLY. Making of squibs was you, and so, I suppose, you went off in a cracker? [Bell rings.</p> <p>GABY. Odds-bobbs! Master's bell rings.</p> <p>DOLLY. Aye, and if he catches you here with your gunpowder stories, he will be for blowing us both up. [Exit GABY and DOLLY.</p> <p>SCENE II.</p> <p>(Mr. TINTEM is discovered in his morning gown and velvet cap, surrounded with garden pots, flower-sticks, and a pen stuck in his cap, with which he marks some of the labels.)</p> <p>TINTEM. They say that every man has his hobby horse, and without one has something in pursuit, life is as insipid as tripe, without mustard or vinegar. --- My hobby-horse is my flower-garden, and I can ride that with safety, for I shall never be afraid of that kicking me in the stomach, or breaking my neck with stumbling. --- I expect my friend Grub here by and by, and think that I shall amaze him with the variety of colours, which I shall present to him in my amphitheatre. --- Mr. Grub has his hobby-horse too, but his horse is a butter-fly; --- I often tell him, that he is as fond of pursuing a fly, as a fish or a swallow. --- But I must make haste, he will be here soon, and if we should not happen to have the dinner on table exactly at one, he will be for stinging me with reproaches, and buzzing in my ears like a gnat.</p>
+            <pb n="13" xml:id="pb-13" facs="#i17"/>
+             <p>Enter GABY.</p> <p>GABY. Did you ring, Sir?</p> <p>TINTEM. Yes, to be sure -- yet one would have thought that you had forgot it, by your being so long in coming -- What was you about?</p> <p>GABY. Nothing, Sir.</p> <p>TINTEM. I suppose so -- I should have been angry with you had you not told me the truth, for that is one of the hardest things in the world to get at.</p> <p>GABY. Oh, Sir, I always tell the truth.</p> <p>TINTEM. You are mistaken, I am afraid, and have marr'd all; you only told me truth by way of accident, because you was too dull of invention, and had not time to tell me a falshood.</p> <p>GABY. I never tell a falshood, Sir, but when I cannot help it.</p> <p>TINTEM. Well, -- I hope Dolly told you that Alderman Grub was coming to dine with me to day?</p> <p>GABY. Yes, Sir.</p> <p>TINTEM. And are all things in readiness?</p> <p>GABY. Yes -- Sir; -- No -- Sir.</p> <p>TINTEM. Yes, Sir; no, Sir! -- there seems to be a lie, and a true saying, both in a breath, which of them am I to believe?</p> <p>GABY. Which you please, Sir.</p> <p>TINTEM. I suppose so -- therefore I am inclin'd to believe that you have got nothing ready.</p> <p>GABY. 'Faith, Sir, you have hit it.</p> <p>TINTEM. Hit it, have I? -- Why you audacious Scoundrel, I have a good mind to hit you; I'll knock you down, you blockhead -- Where is my Wig?</p> <p>GABY. Upon the block, Sir.</p>
+            <pb n="14" xml:id="pb-14" facs="#i18"/>
+             <p>TINTEM. I wonder that you have it not on then; is it dress'd?</p> <p>GABY. No, Sir, not quite dress'd.</p> <p>TINTEM. I declare I have a good mind to give you a good dressing -- go to your brother block and finish it immediately; it is insufferable to have two blockheads in the house at once. But first take this, and bid the gard'ner to place it in the Amphitheatre; the third row; between that of Arrogance and Indifference; being a modist flower, its blushes will be the more distinctly seen. [Exit GABY.</p> <p>"What a strange thing is fear, it sits as Lord Chief Justice of our Conscience, and often extorts a falshood, or makes us tell the truth, by being over-aw'd from Apprehension of Conviction -- This fellow of mine, take him in common, as a servant, is not a bad one; -- he has always an inclination to tell the truth, yet his heart is never couragious enough to prevent his give way to a falshood. -- But how goes time -- (pulls out his watch) odds so, it is almost twelve o'clock, we shall have Master Grub here by one." </p> <p>[Rings the bell.</p> <p>Enter DOLLY.</p> <p>DOLLY. Did you ring, Sir?</p> <p>TINTEM. Aye, how goes on the Dinner?</p> <p>DOLY. As fast as the Jack and Fire can make it, Sir; --- Cook, Sir, is broiling away like a post-horse in the Dog-days.</p> <p>TINTEM. And if she should happen to be a minute too late, my friend Grub would have no more mercy upon her, than the hasty rider upon his jaded steed.</p>
+            <pb n="15" xml:id="pb-15" facs="#i19"/>
+             <p>DOLLY. Cook, you know, Sir, is a little rough in her paces, if he were to fall foul of her, he might stand a chance to be flung, and get his bastings.</p> <p>TINTEM. Where's my Neice --- Mrs. Prate-a-dace?</p> <p>DOLLY. In her dressing room, Sir.</p> <p>TINTEM. Tell her it is Twelve o'Clock -- Mr. Grub will be here presently; bid her get ready to receive him, and not be behind hand as she generally is upon these occasions.</p> <p>DOLLY. Oh, never fear her, Sir; she may be ready to receive him in order to please you, but she will be the more glad to get rid of him to please herself.</p> <p>TINTEM. What do you mean by that you impudent baggage, -- hey?</p> <p>DOLLY. I can hardly tell what I mean, myself, Sir; -- but there is a certain old gentleman that will acquaint you soon enough I warrant you.</p> <p>TINTEM. An old Gentleman! --- What old Gentleman, Huzzy?</p> <p>DOLLY. Why Sir, the old gentleman that goes see-saw, see-saw in the face of our clock, who has got only one lock of hair on his forehead, and a scythe in his hand; -- old Master Time.</p> <p>TINTEM. Was there ever such insolence. -- Away with you then, and don't stay loosing your time here, but mind your business, and take care that every thing be properly placed. [Exit Dolly.</p> <p>Mean while I'll go and take a peep into the garden; and, like a good and prudent Minister, see that my affairs be properly arrang'd fit for the eye of public inspection. [Exit.</p> 
+            <pb n="16" xml:id="pb-16" facs="#i20"/>
+             <p>SCENE. III. The House.</p> <p>Enter Mr. WILLINGFORD disguised as a Ballad Singer with Songs.</p> <p>Here is the place, and this the Temple wherein resides the Goddess of my affections: -- while I like a poor and devoted Pilgrim have wander'd hither thus disguis'd, to render up my offerings, and soothe those pangs of love which rankle in my breast -- I have taken this disguise, lest I should be discover'd by the imperious and avaricious eye of one that is fix'd by fate as a guard to check the inclinations of her lenient bosom. -- Therefore will put my little stratagem into execution, by singing an old English Ballad, and see if I cannot attract the notice of some of the Domestics; to whom, I may communicate my purpose, and thro' whom I may perhaps have an opportunity of seeing the beloved object of my heart.</p> <p>Song (Mr. WILLINGFORD)</p> <p>Of all the Girls, &amp;c.</p> <p>DOLLY and GABY enter in the middle of the Song and listen -- and when it is finished go up to WILLINGFORD and buy one each.</p> <p>DOLLY. Faith you sing well Master, let me have one of your Songs, I like them vastly.</p> <p>[WILLINGFORD gives a Song.</p> <p>GABY. And so do I, come let me have one, too.</p> <p>[WILLINGFORD gives him two.</p> <p>Nay, you have given me too many -- I only ask'd for one, and you have given me two.</p>
+            <pb n="17" xml:id="pb-17" facs="#i21"/>
+            <p>WILLINGFORD. Why did'nt you say one, two; and that makes a couple to be sure.</p> <p>GABY. Does it so, Mr. Sharpshins, but one will do for me, I thank you; tho' I wish it had been Dolly of our Alley --- instead of Sally of our Alley, then I should have been singing it all day to my sweetheart, here.</p> <p>DOLLY. Sweetheart! --- you're a pretty fellow for a sweetheart to be sure; --- come, come, come along in and mind your business, or else instead of a sweetheart, you may chance to meet with a sour face from my Master by and bye.</p> <p>[As they are going WILLINGFORD interrupts them.</p> <p>WILLINGFORD. Dolly! Dolly!</p> <p>DOLLY. Dolly! Dolly! -- How the deuce did you come by my name so pat?</p> <p>GABY. Why, I told him to be sure.</p> <p>WILLINGFORD. Don't you know me?</p> <p>DOLLY. Know you! -- not I.</p> <p>WILLINGFORD. Don't you know Mr. Willingford. [discovering himself by throwing off his cloak.</p> <p>DOLLY. Mr Willingford! mercy upon me; oh! dear, you have almost frightened me out of my wits.</p> <p>GABY. As sure as I am alive it is Mr. Willingford, why it has struck me almost into an Egyptian Mummy.</p> <p>DOLLY. Come in, Sir, pray come in, and let me hide you as fast as I can, I would not have my Master see you for the world.</p> <p>GABY. Nor I either -- not but that I am glad to see you, don't you be afraid of that. -- ha! ha! ha! I can't help laughing at it -- this is a comical kind of a joke.</p> <p>DOLLY. Come in, Sir, for heaven's sake, and let me hide you, or else it will be a Tragical joke, I'm afraid.</p>
+            <pb n="18" xml:id="pb-18" facs="#i22"/>
+            <p>GABY. Aye, away with you, Sir, away with you for your own sake, for Dolly's sake, and for my sake; we'll take care of you -- tho' hide and seek is no bad game by the bye -- I know one that will be glad to find you.</p> <p>[Exeunt Omnes.</p> <p>SCENE IV.</p> <p>Miss TINTEM in her dressing-room, reading.</p> <p>MISS TINTEM.</p> <p>The story which I have been reading, puts me exactly in mind of poor Mr. Willingford and myself. -- His father died, and left him nothing but a good education, and the wide and hazardous world to ramble in; --- Mine bequeath'd me all he had by his will, but left me no will of my own; --- he has made me over to the care of an avaricious uncle, until I arrive at the age of twenty-one, which, thank heaven, is almost at hand; yet he wishes to transfer me to a beastly creature, who would fain present himself to me as a husband --- but I will die first --- I am told they cannot force me to marry any body against my will, and that is a comfortable consolation. --- Ah! poor Mr. Willingford, when I think of thee ---</p> <p>[Dolly speaking in a hurry from the stair-case.</p> <p>DOLLY. Miss, Miss, Missey!</p> <p>MISS TINTEM. What's the matter?</p> <p>DOLLY. Come down stairs and I'll tell you.</p> <p>MISS TINTEM. Why can't you tell me while I am above stairs?</p>
+            <pb n="19" xml:id="pb-19" facs="#i23"/>
+            <p>DOLLY. There is somebody just come in, who wants to speak with you.</p> <p>Enter DOLLY.</p> <p>MISS TINTEM. I know who you mean, therefore I shall not hurry myself.</p> <p>DOLLY. No you don't; if you did, I fancy you would talk in a different strain.</p> <p>MISS TINTEM. Is the girl mad? --- I wish you would not take the liberty to teaze me in such a manner --- you know I hate the fellow.</p> <p>DOLLY. What fellow?</p> <p>MISS TINTEM. What fellow! --- why the fellow that you are talking about --- that nasty fusty, wig-pated fellow --- Old Grub.</p> <p>DOLLY. Grub! Grub! --- he is no Grub; he is a gentleman every inch of him, and a pretty one too.</p> <p>MISS TINTEM. Who is he then, why don't you tell me?</p> <p>DOLLY. Why, who should it be but Mr. Willingford?</p> <p>MISS TINTEM. Mr. Willingford! -- bless me you have struck me with astonishment --- I hope my Uncle has not seen him; if he has, we shall have a sad piece of work, and all our hopes will be totally overset. --- Where is my Uncle?</p> <p>DOLLY. In the Garden.</p> <p>MISS TINTEM. And where's Mr. Willingford?</p> <p>DOLLY. I have taken care of him, he's safe enough out of harms way, I promise you.</p> <p>MISS TINTEM. Is he?</p> <p>DOLLY. Aye that he is.</p> <p>MISS TINTEM. Where is he then?</p> <p>DOLLY. Where do you think?</p>
+            <pb n="20" xml:id="pb-20" facs="#i24"/>
+            <p>MISS TINTEM. I cannot think, nor do I care, so he is but safe out of danger; --- where is he? --- prithee tell me girl.</p> <p>DOLLY. Why I have slipp'd him up the back stairs into my bed-room, I have got the key in my pocket, and here it is.</p> <p>MISS TINTEM. Charming! you are a dear good creature and I love you for it. -- But what is to be done; I know not what to do, or what to say -- I am all confusion; I that should at this moment be nothing but contrivance and manoeuvre, am, by the present unaccountable flurry of my spirits, rendered incapable of every thing, that might be the means of my future happiness.</p> <p>DOLLY. I'll endeavour to help you out --- I'm not in love you know --- I've got no flurry on my spirits.</p> <p>MISS TINTEM. You are the best of creatures, and shall never have occasion to repent this act of kindness.</p> <p>DOLLY. I'll tell you what then --- you know my Master and old Grub, always go poking and pottering about the garden after dinner, and will be for holding their argumentations of an hour and a half long, about their flowers, their butterflies and the duce knows what.</p> <p>MISS TINTEM. Well --- what then? --- my dear good girl --- what then?</p> <p>DOLLY. What then? -- why then you will have nothing to do after dinner, but to let Mr. Willingford know that you are alone and you won't want company, I warrant you.</p> <p>MISS TINTEM. After dinner! -- Now you talk of dinner, what is he to do? -- Must the poor dear creature set starving in your bed-room all the time; I dare say he has not dined; -- did you ask him?</p>
+            <pb n="21" xml:id="pb-21" facs="#i25"/>
+            <p>DOLLY. Dined? -- Why I am told that your true lovers never want to eat.</p> <p>MISS TINTEM. Prithee don't be foolish.</p> <p>DOLLY. Don't make yourself uneasy, Miss, I was neither so foolish or so brutish, but I had thought enough about me to take proper care of him.</p> <p>MISS TINTEM. In what respect?</p> <p>DOLLY. In respect of his dinner -- for I have sent him up a cold Collection as they call it, and provided him with some veal and ham; the cold giblet pye, some cold pudding, by the way of settling his love, and a bottle of wine to wash it down whenever he pleases.</p> <p>MISS TINTEM. Excellent! -- you delight me. -- (Bell rings.) that is my uncle's bell. -- Go, and ask what he wants, and let me know immediately.</p> <p>[Exit DOLLY.</p> <p>I am delighted with the frankness and attachment of this good natured girl, but extreamly aggitated at the state of poor Mr. Willingford; sure it is the most provoking and tantalizing situation in the world. -- The man I love, and whom I have not seen this month, to have him under the very roof with me, and even there depriv'd the sight of him, when instead of receiving him as I ought, to have him lock'd up in a state of apprehension and fear, is hard indeed!</p> <p>Enter DOLLY.</p> <p>DOLLY. Miss, my Master is in the strangest mood imaginable, and desires that you will come down immediately.</p> <p>MISS TINTEM. Tell him that I am coming (Exit DOLLY.) he will find me in as strange a mood as himself; -- I have just as little inclination to set down to dinner, as I have to hear the conversation that I am likely to be pestered with while I am at the table.</p> <p>[Exit MISS TINTEM.</p>
+            <pb n="22" xml:id="pb-22" facs="#i26"/>
+            <p>SCENE V.</p> <p>(Changes to a dressing-room and discovers Mr. TINTEM buckling on his shoes, still in his cap with his hat over it, he rings the bell.)</p> <p>Enter GABY.</p> <p>GABY. Did you want me, Sir?</p> <p>TINTEM. Where's my Wig, Sirrah? Must I dine in my Night-cap think you; go and fetch it immediately, or I'll have you set in the stocks for disobedience.</p> <p>GABY. Sir, I have just done it -- I have got to the hundred and fortieth curl, and have only five more to do.</p> <p>MR. TINTEM. Five, you Scoundrel you, why, if there had been five hundred Curls, you might have done them before this time. -- What is the reason you have not done it before? -- I insist upon knowing. (takes him by the Collar.)</p> <p>GABY. I'll tell you indeed, Sir, if you won't be angry.</p> <p>MR. TINTEM. Tell me then, immediately.</p> <p>GABY. Why then, since the truth must out, it must; -- that bitter fury of a Cook, Sir!</p> <p>MR. TINTEM. The Cook! What has she thrown it upon the fire in one of her infernal Tantrums?</p> <p>GABY. No, Sir; -- but as I hope to be sav'd, I was only getting a sop in the pan, and the great splaw-footed creature pushed me down, and so, to save my head from going into the fire, I tumbl'd with my hands into the Dripping-pan, which scalded my poor fingers so much that I was oblig'd to to run to Dr. Seret's in order, as a body might say, to get them nointed before I could make use of them again.</p>
+            <pb n="23" xml:id="pb-23" facs="#i27"/>
+            <p>MR. TINTEM. I wish you and the Cook were both in Heaven.</p> <p>GABY. Heaven forbid Sir!</p> <p>MR. TINTEM. Heaven forbid indeed -- Go and fetch my wig, I say, bring it to me done or undone?</p> <p>GABY. I'm gone, Sir. [Exit GABY.</p> <p>MR. TINTEM. I'm out of all patience,</p> <p>Re-enter GABY.</p> <p>GABY. Sir, Sir, Sir!</p> <p>MR. TINTEM. What is the matter now?</p> <p>GABY. Mr. Grub is arriv'd. Sir, and the clock is just upon the stroke of one.</p> <p>Mr. TINTEM. Bring in my Wig, call down my Niece, and carry in the dinner. [Exit GABY.</p> <p>Enter DOLLY.</p> <p>DOLLY. Sir, if you please, Miss desire that you will excuse her coming down to dinner to day.</p> <p>MR. TINTEM. Excuse? I'll have no excuse -- What is the matter with her now?</p> <p>DOLLY. She's got a sad pain in her stomach, Sir.</p> <p>MR. TINTEM Pain in her stomach? -- A good dinner is the best remedy in the world for a pain in the stomach -- tell her to come down immediately.</p> <p>(Enter GABY in a great hurry with the Wig)</p> <p>GABY. Here it is, Sir; -- here it is at last.</p> <p>(He tumbles over the skirts of DOLLY's gown.)</p> <p>MR. TINTEM. Here it is -- here it is -- No there it is -- I think there it is --- You villain you've ruin'd me -- I wish you had broken your neck with all my heart.</p> <p>GABY. 'Twas not my fault, Sir,</p> <p>MR. TINTEM. Not your fault you Scoundrel?</p> <p>GABY. No, Sir.</p>
+            <pb n="24" xml:id="pb-24" facs="#i28"/>
+            <p>MR. TINTEM. No! Whose fault was it pray?</p> <p>GABY. Dolly's Sir.</p> <p>DOLLY. Mine? Oh, Monsterous!</p><p>GABY. Yes, if your confounded long train had not been in the way, I should not have had this misfortune!</p> <p>MR. TINTEM. Why her train seems always to be in your way -- this is the second time to day that you have got yourself entangled in her skirts. -- One would think that you were blind -- Come you blunder-skull, you, put it on as it is; I must make the best of it now, and see if you can find the way to shew Mr. Grub into the parlour; Dolly, run and call your Mistress down, away with you both.</p> <p>[Exit TINTEM, DOLLY, and GABY at different doors.</p> <p>SCENE VI.</p> <p>(Changes to a Dining Parlour, -- enter MR. TINTEM and his Niece to MR. GRUB. GABY brings in the Dinner and waits.)</p> <p>(MR. TINTEM Gives GRUB a hearty shake by the hand.)</p> <p>MR. TINTEM. Mr. Grub, I am heartily glad to see you -- always punctual -- punctual as the clock -- you gentlemen of the City look sharp after Time.</p> <p>GRUB. Consider the hour, Master Tintem, it is dinner Time, and my stomach generally looks sharp after that -- but my eye, my eye, Mr. Tintem at this moment, looks very sharp after something else -- My dear, Miss Tintem, how do you do? -- My dear little sweetheart how do you do?</p>
+            <pb n="25" xml:id="pb-25" facs="#i29"/>
+            <p>MISS TINTEM. I thank you, Sir, but very indifferent.</p> <p>GRUB. Indifferent! -- I'm very sorry for that, but I hope you will never be indifferent to me.</p> <p>GABY. (aside) You seem to be but a very indifferent creature at the best.</p> <p>MR. TINTEM. Come my good friend; -- Sit down -- say, what I shall help you too?</p> <p>GRUB. Why, Sir, if you please, I will thank you for a little of the roasted Pig -- I am glad you have got a young pig, there is nothing that I love better than a young Pig, and every thing that is young, so does my dear little girl there, I dare say, does'nt she?</p> <p>GABY. (aside) Oh, what an amorous devil!</p> <p>MISS TINTEM. Wou'd you wish me, Sir, to be fond of nothing but what is young?</p> <p>GRUB. No, to be sure, (speaking with his mouth-ful.)</p> <p>MISS TINTEM. Then you never can expect that I can be fond of you.</p> <p>GABY. (aside) That's a douser for you old one.</p> <p>MR. TINTEM. The devil's in the girl to be sure; you'll never get Mr. Grub for a husband, while you pass such compliments as those upon him.</p> <p>GRUB. Oh, never mind the little Puss -- for as to compliments, and all them there kind of things, I never minded them, -- nay, to tell you the truth, I always hated compliments. (eating)</p> <p>MR. TINTEM. I should think it strange, indeed, if you could ever love them, especially, if they came in the manner my Niece bestows them on you.</p> <p>GRUB. Ah, let the little thing say what she will she will never be able to make me quarrel with my Victuals.</p>
+            <pb n="26" xml:id="pb-26" facs="#i30"/>
+            <p>MISS TINTEM. That I really believe. (aside)</p> <p>MR. TINTEM. Will you give me leave to help you to a little of this roasted Duck -- I assure you it is highly season'd; and seems to be well dress'd --- a clean plate Gaby.</p> <p>GRUB. Roasted Duck! -- I was always very, very fond of a roasted Duck.</p> <p>GABY. What a fond creature it is! -- (aside)</p> <p>MISS TINTEM. I dare say, that will be his answer to every thing upon the Table. (aside)</p> <p>MR. TINTEM. Shall I help you to a Leg or a Wing, Master Grub?</p> <p>GRUB. Both if you please, my very good friend.</p> <p>GABY. 'Tis a pity he had not the whole Duck, feathers and all. (aside)</p> <p>MR. TINTEM. That's right, I like every body to speak their mind, it shews the proper freedom of spirit, and saves a great deal of unnecessary trouble.</p> <p>GRUB. I like Freedom, and I hates trouble; -- you may be sure of that by the speeches, you must have heard me make in Guildhall -- I say nothing now, but don't you think that we are in a sweet situation?</p> <p>MR. TINTEM. Sweet! not very sweet at present; for you must confess we have been rather sowered of late.</p> <p>GRUB. Sowered -- pray by what means.?</p> <p>MR. TINTEM. Why I think the sweetness of our situation has been greatly abated by the high price your Company has set upon Sugars.</p> <p>GRUB. Oh! that has prov'd a monstorous good thing to our Company.</p> <p>MR. TINTEM. But monstorous things are not at all times the most pleasant, either to the Eye or to the Mind, and I know of no monster so frightful, to the greatest part of his Majesty's Subjects, as that Monster call'd Monopoly.</p>
+            <pb n="27" xml:id="pb-27" facs="#i31"/>
+            <p>GRUB. A Monopoly! I never saw any of them there creatures in all my Life -- Pray, Sir, what are they like? And what part of the world do these Monopolies come from.</p> <p>GABY. (aside) Lord they are to be seen at Exeter Change or the Lyceum every Day.</p> <p>MR. TINTEM. From all parts I fancy, but it is an animal that seems to thrive more in this Country than any other.</p> <p>GRUB. Ah, Master Tintem, you seem to be more acquainted with these here matters than I am -- you have travelled a good deal you know; I'm told that you have been to all the Watering-places in England; but as to my part I was never any farther than Margate -- I went there and came back by Water, which made me so sick of the Journey, that I don't think I shall ever go there again.</p> <p>MR. TINTEM. No, indeed?</p> <p>GRUB. No not I -- Besides they are such a set of imposing Rascals, that they would often charge me Six-pence for a half-penny's worth of Small beer, and you know one can get a quart of good sound porter in London for three-pence half-penny.</p> <p>MR. TINTEM. Ah, you will find imposition in every part of the Kingdom now-a-days.</p> <p>GRUB. A little more Duck if you please.</p> <p>GABY. I knew he'd finish it. (aside)</p> <p>MR. TINTEM. How do you like it -- don't you find the sauce rather Predominant.</p> <p>GRUB. "I have not tasted any yet -- I wish you would give me a little of it."</p> <p>MR. TINTEM. "A little of what?"</p> <p>GRUB. "Why a little of the Predominant as you call it. -- I suppose that is some new kind of sauce, I wish you would give me a little of it."</p>
+            <pb n="28" xml:id="pb-28" facs="#i32"/>
+            <p>(MR. and MISS TINTEM endeavour to smother a laugh.)</p> <p>MR. TINTEM, I beg pardon, Master Grub, but you can'thelp being entertaining.</p> <p>GRUB. Aye that's my way -- I'm generally said to be the life of the company.</p><p>GABY. I'll be hang'd if he be'ant as great as Gaby as myself. (aside)</p> <p>MR. TINTEM. Will you drink a glass of wine?</p> <p>GRUB. With all my heart, and I dare say my little intended will not refuse to join me. -- I'll give you a toast, if I can remember one -- odds-bobbs I have it -- I'll give you, "Love without Interest."</p> <p>MISS TINTEM. With all my heart, Sir.</p> <p>MR. TINTEM. That's good -- I must join you in that -- Come, "Love without Interest."</p> <p>(In the drinking, GRUB gets some of the wine down the wrong way, and coughs excessively --- MR. TINTEM and MISS rise from the table.)</p> <p>MR. TINTEM. Lord bless us what is the matter -- call in Dolly! [rings the Bell.</p> <p>GABY. Dolly! Dolly! --- make haste, bring in the smelling-bottle --- bring in the hartshorn --- Mr. Grub is a-dying. --- Some water too!</p> <p>MR. TINTEM. I hope it is no spasm.</p> <p>Enter DOLLY.</p> <p>(With a bottle of hartshorn in one hand, and a bason in the other.)</p> <p>Apply the bottle to his nose, and the water to his temples immediately --- I hope it is no apoplexy.</p>
+            <pb n="29" xml:id="pb-29" facs="#i33"/>
+            <p>MISS TINTEM. No, I do not think it is that, I fancy it was only the toast stuck in his stomach.</p> <p>MR. TINTEM. (to GABY) Toast! toast! --- why you damn'd villain, have you put toast in the wine?</p> <p>GABY. Toast, Sir! --- toast! --- Lord, Sir, I never did such a foolish thing in all my life!</p> <p>MR. TINTEM. (to Miss) Why did not you say that the toast stuck in his stomach?</p> <p>MISS. TINTEM> I only meant the sentimental toast which he had given himself.</p> <p>MR. TINTEM. Oh, he revives!</p> <p>GRUB. (recovering) Mercy upon me where am I?</p> <p>GABY. In our house, Sir.</p> <p>GRUB. Oh! my poor head --- Oh! my stomach, I thought that I should have been choaked.</p> <p>DOLLY. Ah! poor gentleman, that would have been a pity indeed! (sarcastically)</p> <p>MR. TINTEM. Bless me my good friend, I have been sadly alarmed; but I assure you, I am over-joyed to see you so much recovered.</p> <p>GRUB. I thank you my very good friend --- I thank you. --- What do I see, my dear little sweet-heart? --- I warrant she has been ready to cry at my misfortune?</p> <p>MISS TINTEM AND DOLLY, Ha! ha! ha!</p> <p>GRUB. Is that the way you shew feeling? --- what do you laugh at my affliction?</p> <p>MISS TINTEM, I beg your pardon, Sir, --- I did not laugh at your afflictions, but your expressions.</p> <p>DOLLY. Lord, Sir, do you think that my Mistress is to fall a-crying every time you choak yourself with eating, or suffocate yourself with drinking? --- ha! ha! ha!</p>
+            <pb n="30" xml:id="pb-30" facs="#i34"/>
+            <p>MR. TINTEM. Gaby and you Miss Tarter, take the dinner things away, (they take away) and Madam my Niece, you shall be confined to your dressing-room without society.</p> <p>GRUB. Nay, don't be cruel to her, don't banish her this time; her laughing was perhaps only an innocent frolick --- a liberty, you know, that lovers will take with one another, now and then.</p> <p>"MR. TINTEM. Sir, she must not be indulged in this way --- but console herself alone, 'till she can behave better.</p> <p>GRUB. Oh, the little piggy-wiggy --- it grieves me to hear so cruel a decree.</p> <p>MISS TINTEM. It is no cruelty to me, Sir, I can assure you.</p> <p>MR. TINTEM. There's for you again --- come, Sir, you and I will go and take a peep into the garden, while she sits a little by herself, so that she may be softened by reflection.</p> <p>GRUB. Ah, Master Tintem, you are a wag --- you seem to know how to manage the Ladies to a nicety --- perhaps it may be all for the best. --- My dear little intended don't you mourn --- don't you get piping now by yourself --- a little absence, they say, is sometimes a great sedement to love --- is it not deary?"</p> <p>MISS. TINTEM. You'll excuse me if I laugh a little --- I cannot help it now, ha! ha! ha!</p> <p>MR. TINTEM. Away with you, Madam, we shall be back to tea --- then see if you can prepare it in time, and meet Mr. Grub in a more agreeable humour.</p> <p>GRUB. By, by! --- don't you get piping I say.</p> <p>MISS TINTEM. Ha! ha! ha! --- By, by! ha! ha! ha!</p> <p>GRUB. What a sweet bewitching, wicked little devil it is. [Exeunt omnes.</p>
+            <pb n="31" xml:id="pb-31" facs="#i35"/>
+            <p>ACT II.</p> <p>SCENE I. The Garden.</p> <p>Enter TINTEM, GRUB, and GABY.</p> <p>MR. TINTEM. A fine chearful afternoon I protest!</p> <p>GRUB. The weather is chearful enough it is true, but as to myself, I am melancholy enough.</p> <p>Mr. TINTEM. I am sorry for that --- why should you be melancholy --- what's the matter?</p> <p>GRUB. That little Niece of your's, runs strangely in my head.</p> <p>MR. TINTEM. I'm glad to hear that; 'tis a good sign.</p> <p>GRUB. And yet my mind is not perfectly at ease about her.</p> <p>MR. TINTEM. Better and better still, I should be sorry if it were.</p> <p>GRUB. I am very much obliged to you for your kindness; it seems to be a laughing matter to you, but it is otherwise to me.</p> <p>GABY. I wish he be'ant love sick already. (aside)</p> <p>MR. TINTEM. Ha! ha! ha! --- quite touched I see --- poor Mr. Grub, she seems to have got fast hold of you my friend,</p> <p>GRUB. Nay, not not so fast as you imagine.</p> <p>MR. TINTEM. What is the matter with you then?</p> <p>GRUB. Why, to tell you the truth, I do not think that she seems to pay me so much attention as I could wish.</p>
+            <pb n="32" xml:id="pb-32" facs="#i36"/>
+             <p>MR. TINTEM. No!</p> <p>GRUB. NO --- there is very little affection, I am afraid, about that tittering heart of her's --- I doubt she does not love me truly.</p> <p>MR. TINTEM Not love you? --- never trouble yourself about that --- I'll make her love you.</p> <p>GRUB. What, whether she will or not --- that must be a curious secret indeed.</p><p>MR. TINTEM. Aye, I know the proper physic for the ladies when they happen to be disobedient.</p> <p>GRUB. Physic?</p> <p>MR. TINTEM. Aye, physic.</p> <p>GABY. I wish they may not be going to give the poor creature love-powder. (aside)</p> <p>MR. TINTEM. She is in my power at present, and shall marry you whether she will or not, and when she is yours, you know what you have to do.</p> <p>GRUB. What is that?</p> <p>MR. TINTEM. Why you have nothing to do then but to keep her under your thumb.</p> <p>GABY. Under his thumb! and if he does, I wish she may not slip through his fingers (aside)</p> <p>GRUB. I am told there is a Mr. Willingford, a young spark, to whom she turns a willing ear, if so, it will be a difficult matter to wean her of him.</p> <p>GABY. You are right enough there old Gentleman. (aside)</p> <p>MR. TINTEM. Oh, never let that give you any concern; he is nothing but a Boy, and a Beggar.</p> <p>GRUB. As to his being a Beggar, that will be no impediment, especially if he has been ingenious enough to coax her Heart from her.</p> <p>MR. TINTEM. Oh, never mind the heart, so you have got the Body. -- Possession you know is every thing.</p>
+            <pb n="33" xml:id="pb-33" facs="#i37"/>
+            <p>GRUB. Aye, but the mind often sets the Body capering.</p> <p>MR. TINTEM. Confound your capering apprehensions I say -- Why, you talk like a Simpleton -- what can you be afraid of.</p> <p>GRUB. There was a confounded Stag's head, and an aukward pair of horns in your hall, which look'd butt in my face as I entered your house to day, and I cannot help thinking them omnious.</p> <p>GABY. What a cowardly old fool! (aside)</p> <p>Mr. TINTEM. Mr. Grub, Mr. Grub, take care what you say -- "My Niece was the daughter of my brother -- my brother was the son of my mother, and my mother was the pattern of Virtue -- No, Mr. Grub, if you have nay qualms of that kind in your mind you've mistaken the stock;" the blood of the Tintem's is of a peculiar dye, pure as the peerless Stream, and chaste as the mountain Snow.</p> <p>GRUB. And as cold too, I'm afraid.</p> <p>MR. TINTEM. Cold?</p> <p>GRUB. Aye, cold, I think; -- why your niece always looks as chilly as an Icicle at me.</p> <p>GABY. One would think she was dead by his talking. (aside)</p> <p>MR. TINTEM. You don't like the match perhaps</p> <p>GRUB. Yes, my very good friend, I likes the match very well, -- but -- but</p> <p>MR. TINTEM. You would like the money without the match I suppose.</p> <p>GABY. The devil doubt him. (aside)</p> <p>GRUB. No, no --- I don't say that either, your Niece is young and beautiful, a little sweet creature any body might be fond of, and I will do her the justice to say that I think she would like any young fellow better than me.</p>
+            <pb n="34" xml:id="pb-34" facs="#i38"/>
+            <p>GABY. You never said a truer thing in all your life. (aside)</p> <p>Mr. TINTEM. Well, well we'll drop the subject at present, and after another interview or two, you will be better able to judge of her disposition.</p> <p>GRUB. I think so too, and therefore let us go and amuse ourselves with a sight of your Hobby-horse, as you call it.</p> <p>MR. TINTEM. And so you shall; --- go you on Gaby, and tell Jonas the gardner to place this flower as I told you before, then return home, and fetch me the key of the pinery -- I have forgot it</p> <p>[Gives him the flower.</p> <p>GABY. Where did you say it was to be placed, Sir, between ignorance and impudence?</p> <p>MR. TINTEM. No, Mr. Impudence; --- between arrogance and indifference, they are two very fashionable flowers. [Exit GABY.</p> <p>GRUB. And therefore must be a kin to the gentry Gaby was talking of I suppose,</p> <p>MR. TINTEM. Cousin Germins I assure you.</p> <p>[Exit TINTEM and GRUB.</p> <p>SCENE II.</p> <p>(The Drawing-Room in TINTEM's House)</p> <p>Enter MR. WILLINGFORD, MISS TINTEM. and DOLLY.</p> <p>DOLLY. There --- I'm glad you are once more got together, and I wish that Old Harry would break the shins of him that parts you. [Exit. Dolly.</p>
+            <pb n="35" xml:id="pb-35" facs="#i39"/>
+            <p>MISS TINTEM, What a comical girl.</p> <p>MR. WILLINGFORD. What a good one; she has been the providential instrument of our present blessed interview.</p> <p>MISS TINTEM. Do not call that thing blessed, which chance may have an opportunity of overturning.</p> <p>MR. WILLINGFORD. My dear Miss Tintem, I rest on hope and trust in providence, you know I am a child of her's; and Chance must be a churl indeed, should she at this moment thwart me in my wishes.</p> <p>MISS TINTEM. What are your wishes?</p> <p>MR. WILLINGFORD. It rather surprises me that you should ask.</p> <p>MISS TINTEM. I do not doubt but you will be polite enough to resolve me then.</p> <p>MR. WILLINGFORD. Most certainly, and that from my heart --- ah, me! I wish that you were mine, but that you know already, and your asking me to tell you now, seems as if you doubted me.</p> <p>MISS TINTEM. I do not doubt; but, when I consider the present state of things, I am rather surprised that you should persevere in running after me, especially when I shall tell you what a formidable rival you have to encounter.</p> <p>MR. WIL. A rival? is it possible!</p> <p>MISS TINTEM. It is true, and that is more.</p> <p>MR. WIL. I am sorry for it.</p> <p>MISS TINTEM. And so am I; for he is a favourite of my Uncle's, and a wealthy one also.</p> <p>MR. WIL. And perhaps you love him too.</p> <p>MISS TINTEM. You shall see him by and by, then you will be able to judge, if it be possible for me to resist him.</p>
+            <pb n="36" xml:id="pb-36" facs="#i40"/>
+            <p>MR. WIL. Indeed! this is a circumstance I did not expect; this gives me a pain more exquisite then ever I felt before. --- Is it possible?</p> <p>MISS TINTEM. --- Is what possible?</p> <p>MR. WIL. That you should love him.</p> <p>MISS TINTEM. Nay, I have not told you that --- you should stay till you are convinced. (Amiable creature, but I'll torture him no further) [aside --- Come, come, chear up --- one would think that you suspected me; --- it carried danger with it, if your doubts begin to quicken only on report.</p> <p>"MR. WIL. Report is a dangerous fiend, seldom to be credited; but the doubts I have, arose from what you said yourself, and never did I hold your word so slight, as not to credit whatever you have been pleased to tell me.</p> <p>MISS TINTEM. I do believe you, and therefore I --- I --- I --- </p> <p>MR. WIL. Speak out.</p> <p>MISS TINTEM. It is --- it is "Time enough yet" as the song says.</p> <p>MR. WIL. But shall I tell you what I hope you was going to say.</p> <p>MISS TINTEM. That might shew too much conceit in you perhaps, and put a maiden to the blush.</p> <p>MR. WIL. Well; --- it it enough --- I shall rest satisfied without doing the one or saying the other, and trust to the event.</p> <p>MISS TINTEM. But to digress a little from the present parley, Dolly told me of all your stratagem, how she discovered you, and that you sang charmingly.</p> <p>MR. WIL. I am afraid Dolly has deceived you.</p> <p>MISS TINTEM. Will you give me leave to judge?</p>
+            <pb n="37" xml:id="pb-37" facs="#i41"/>
+            <p>MR. WIL. I can deny you nothing, as I know you have generosity and candour enough to overlook defect, when poor Endeavour does her utmost to oblige.</p> <p>MISS TINTEM. I hope so.</p> <p>MR. WIL. I will try to sing you a little song, which I made respecting the situation of a poor recruit, whom I once met upon a journey, lamenting that his ill stars had parted him from his favourite fair one.</p> <p>SONG.</p> <p>THE POOR RECRUIT.</p> <p>I.</p> <p>As I've plodded my way to some country town,</p> <p>Full many a wearisome day,</p> <p>My purse has contained but a scanty half-crown,</p> <p>And that has soon melted away.</p> <p>II.</p> <p>Oft weary and sad on some wint'ry road,</p> <p>With rain I've been wet to the skin:</p> <p>Of my knap-sack grown tir'd, I've sought for abode</p> <p>At some friendly good Ale-house or Inn.</p> <p>III.</p> <p>I've hop'd that good Fortune, in turning her wheel,</p> <p>Would cast me, perchance, on the place,</p> <p>Where the wound in my bosom wou'd instantly heal</p> <p>At the sight of my Sally's dear face.</p>
+            <pb n="38" xml:id="pb-38" facs="#i42"/>
+            <p>IV.</p> <p>She grieves, for she knows how I'm destin'd to roam,</p> <p>On the strength of my furlow to rest;</p> <p>And then she oft' wishes her Allen at home,</p> <p>To bury his cares in her breast.</p> <p>Enter DOLLY in a hurry.</p> <p>DOLLY. I beg pardon for interrupting you, but I could not help telling you that Gaby is just return'd from the Garden, and says, there had like to have been, a sad piece of work about you both.</p> <p>MISS TINTEM. What was the matter then?</p> <p>MR. WIL. Do they know that I am here?</p> <p>DOLLY. No --- but Master and old Grub had like to have quarrelled about you.</p> <p>MISS TINTEM. In what respect?</p> <p>DOLLY. Why Mr. Grub had found out, (saving your presence Miss) that you had an affection for Mr. Willingford.</p> <p>MISS TINTEM. That is odd indeed --- affection for Mr. Willingford! --- who could tell him such a piece of news as that --- it is more than Mr. Willingford knows himself.</p> <p>DOLLY. Lord, Miss --- but I'll say no more.</p> <p>MR. WIL. What had this quarrel like to have risen from?</p> <p>DOLLY. What? --- why Mr, Grub was jealous of you to be sure; and talked about the pair of stag's horns in the hall staring him in the face this morning, which had given him the qualms.</p> <p>MR. WIL. I wish they had butted him in the stomach, with all my heart.</p> <p>MISS TINTEM. I have not ability to find out all this mystery, I confess.</p> <p>MR. WIL. 'Tis no matter.</p>
+            <pb n="39" xml:id="pb-39" facs="#i43"/>
+            <p>DOLLY. I dare say they will quarrel, I am sure it would be the highest entertainment to you both, were you to go and listen to their comical conversation.</p> <p>M. WIL. Is this Mr. Grub, as you call him, the gentleman you signified to be my rival?</p> <p>MISS TINTEM. The same; I promised that you should see him; therefore we can go and stand with safety and unseen behind the old yew hedge near the amphitheatre, where you may at once behold his delicious person, and hear his bewitching conversation.</p> <p>MR. WIL. Agreed.</p> <p>MISS TINTEM. "Dolly, you must be sure to take care, should we be put to flight, to find a ready shelter again for Mr. Willingford.</p> <p>DOLLY. Put to flight! --- I know of no shelter in such a case, that would be so convenient as a tight post chaise and four good horses, to hurry you both out of harms way in an instant.</p> <p>MR. WIL> An excellent thought.</p> <p>MISS TINTEM. Is the girl bewitched?</p> <p>DOLLY. Not so bewitched, but I could tell you which would be the best road you could take.</p> <p>MR. WIL. Bravo!</p> <p>Miss TINTEM. Prithee, girl, don't be foolish; come let us go and listen to the learned disquisitions of my sagacious Uncle, and the trite observations of your more formidable rival.</p> <p>MR. WIL. With all my heart.</p> <p>Exeunt Omnes.</p>
+            <pb n="40" xml:id="pb-40" facs="#i44"/>
+            <p>SCENE III.</p> <p>(The Garden, with a view of the Amphitheatre)</p> <p>Enter MR. TINTEM and GRUB.</p> <p>Mr. TINTEM. Here they are Mr. Grub --- here are my beauties --- there's a display for you --- there's an arrangement, all the colours of the rainbow; the eye is ravished with beholding, and the nose with smelling.</p> <p>GRUB. This is truly a fine sight, Master Tintem.</p> <p>MR. TINTEM. Fine indeed! though I say it, Mr. Grub; --- this is nature in her holiday-cloaths; you say you are fond of flowers Mr. Grub.</p> <p>GRUB. So fond of them, that I always buy a halfpenny nosegay when I can, and stick it in my bosom whenever I go to church on a sunday.</p> <p>MR. TINTEM. Ha! ha! ha! --- a halfpenny nosegay Mr. Grub? --- I beg your pardon, but you make me laugh --- a halfpenny nosegay truly --- they must have been weeds my good friend; --- weeds --- what sort of flowers could they have been?</p> <p>GRUB. Sometimes a bunch of primroses, or the lillies of the valley; at other times I have treated myself with a few pale snow-drops, or yellow crocuses; which in my opinion, are the first of flowers.</p> <p>MR. TINTEM. The first of flowers --- ha! ha! ha!</p> <p>GRUB. You must acknowledge that they are generally the first in the season.</p>
+            <pb n="41" xml:id="pb-41" facs="#i45"/>
+            <p>MR. TINTEM. I will acknowledge that they are the first colour'd weeds which the spring throws up; but we do not place them under the denomination of Flowers.</p> <p>GRUB. No!</p> <p>MR. TINTEM. No -- you talk of putting a whole bunch of Flowers in your bosom for a halfpenny; when many a single root of some of the Flowers now before you, have cost me, ten, twenty, nay thirty pounds.</p> <p>GRUB. Mercy on me; -- why you make me tremble at the very Idea.</p> <p>MR. TINTEM. Why should you tremble about it, when I have told you it is my Hobby-horse; and there are many of your high-flying dashers of the Turf, will give you a thousand or fifteen hundred guineas for a Hobby-horse, that shall crack a hold in the Fortune, or break the neck of his Rider, before he has had him a Week.</p> <p>GRUB. Mercy on us; -- when I think on the follies and extravagancies of the age, I bless my stars, that I happen'd to be born with so much prudence about me.</p> <p>MR. TINTEM. Come, come, Mr. Prudence, do not arrogate so much to your own merit; -- you have got your Hobby-horse too; -- I am told that you had the liberality, when you was at Mr. Lottum's Auction the other day, to give twenty guineas for a frame of dead Butterflies.</p> <p>GRUB. Why that is neither here or there, as the saying is -- We will not talk of them there things just now, but as to the matter of that, I don't know why I should not have my Hobby-horse, as you call it, as well as any body else.</p>
+            <pb n="42" xml:id="pb-42" facs="#i46"/>
+            <p>MR. TINTEM. To be sure -- to be sure; -- yours you know is a fly, and mine is a flower, that is the difference -- so we will drop the present parley, and look before us.</p> <p>Enter MR. WILLINGFORD, MISS TINTEM, DOLLY and GABY, behind the Yew Hedge.</p> <p>GABY. There they are, hard at it.</p> <p>MISS TINTEM. Hold your impertinence, Mr, Simpleton, if we should be discovered, it will mar all. (aside)</p> <p>MR. TINTEM. Here Mr, Grub, here's a flower for you, what do you think I call this.</p> <p>GRUB. Nay, I can't tell.</p> <p>MR. TINTEM. Did you never see a sign which bore a resemblance to this.</p> <p>GRUB. A sign? -- I have seen the sign of the Flower-de-Lucey; the Rose and Crown, and the Scotch Thistle, which I suppose is one of the Flowers of Edinborough. [an inward laugh from behind.</p> <p>MR. TINTEM. Aye, but that is not the Idea -- did you never see the sign of a General like this flower?</p> <p>GRUB. A General!</p> <p>Mr. TINTEM. Aye, a General?</p> <p>GRUB. No truly.</p> <p>MR. TINTEM. Why then, I'll tell you -- That is the Duke of Cumberland!</p> <p>GRUB. The Duke of Cumberland!</p> <p>MR. TINTEM. Aye, the Great Duke of Cumberland; -- that flower made its first appearance in the Botanical world, in the Rebellion, Forty-five; -- was nam'd in honor of the British hero of that day, and such a flower as this is enough to immortalize the memory of any General in the world.</p>
+            <pb n="43" xml:id="pb-43" facs="#i47"/>
+            <p>GRUB. What, is it an Evergreen, then?</p> <p>[a tittering from behind.</p> <p>MR. TINTEM. An Evergreen? -- Bless the man -- Why, you seem to have no idea of vegetation at all; -- no more taste for a flower, than I have for a dead butterfly.</p> <p>GRUB. Yes, I have generally got a good taste for them, when they produce a good smell to me, (smelling) but this flower seems to have no smell at all.</p> <p>MR. TINTEM. Psha; -- what the Duce has smell to do with the beauty of a Flower; -- it is the Colour we look at -- the colour.</p> <p>GRUB. Odds so, -- I suppose so.</p> <p>GABY. What a couple of comical creatures, ha, ha, ha. (from behind)</p> <p>GRUB. Wist, Wist! -- I heard a strange kind of noise just now -- you hav'nt any Varment about the Garden, have you -- no Pole-cats or Weasels -- I am strangely fearful of those kind of gentry; -- and as to a Rat! -- the very sight of a Rat would turn my whole mast of blood into a posset. (shews great apprehensions, which causes a laugh from behind) There again! I am sure there are Varment about us.</p> <p>MR. TINTEM. Vermin -- the Devil! -- 'Tis only some of those cursed Magpies who pestre the garden every day for the sake of the cherries.</p> <p>GRUB. Magpies! I hate your Magpies, they are the most hateful omnious bird that flies. -- I was at Cuckold's point the other day, when I happened to be cross'd by one of those infernal Chatter-boxes, and in a minute or two after, I had the misfortune to break both my shins over a Hog-trough at my Cousin Crumplet's the Baker's door, which laid me up for a week. [a laugh again.</p>
+            <pb n="44" xml:id="pb-44" facs="#i48"/>
+            <p>GRUB. There again -- there are certainly Varment. (shews much fear.</p> <p>MR. TINTEM. The Magpies, I tell you, the Magpies, -- Look you here my fried Grub; since you are fond of a flower that has got a smell -- Here is one I fancy that will tickle your taste, and your smell at the same time (Grub takes up the flower pot) Aye, that's right -- take it up and smell to it -- Put on your Spectacles, and look at it -- there is a Turban, there is your Furr, there is the very Sash and Sabre of the Emperor himself.</p> <p>GRUB. Emperor!</p> <p>MR. TINTEM. Aye, Emperor; -- that is the Emperor of Morocco! -- </p> <p>GRUB. The Emperor of Morocco; why you deal in nothing but grand names -- This flower, I perceive has got a charming smell, this is something like a Flower; the Emperor of Morocco; -- grand, very grand, -- a fine sounding name, I protest. (Grub turns up his eyes with a kind of rapsodical ardour, and by accident discovers a fine butterfly, lets drop the flower pot, and tumbles over it, then gets up in a hurry with his hat in his hand, pursuing the butterfly, and crying out) Damme there goes the King of Bohemia!</p> <p>MR. TINTEM. (In a great rage, runs and picks up the broken pot and the flower, crying) Damn your King of Bohemia.</p> <p>GRUB. Damn your Emperor of Morocco! I would not have lost my king of Bohemia, for all the Emperors in the world -- no, not the Emperor of the Moon.</p> <p>MR. TINTEM. You wretch, you Nonentity, you thing without an Idea!</p> <p>GRUB. You fool, you Frantic, you Dasey-hunter, you stem of a Dog-rose, you bud of a Crocus,</p>
+            <pb n="45" xml:id="pb-45" facs="#i49"/>
+            <p>you stinking root of a Daffy down-dilly; I would not have lost my King of Bohemia for all the nonsensical flowers in your garden.</p> <p>MR. TINTEM. Why, you Catterpiller, you Bug, you Beetle, you Gnat, you Grub -- I would not have had my Emperor destroy'd for all the contemptible collection of Insects which you have been scraping together these thirty years; -- and give me leave to tell you, Sir, that you behave like a dirty fellow.</p> <p>GRUB. Damme, Sirrah, if it were not for fear of your taking the Law of me, I would tell you a bit of my mind.</p> <p>MR, TINTEM. Mind, mind? -- why you have no mind, you are a meer insect; -- but I'll close your mouth for you presently -- I'll lop your greedy expectations, I warrant you.</p> <p>GRUB. I defy you -- I defy you.</p> <p>MR. TINTEM. My Niece, you Cockatrice, my Niece.</p> <p>GRUB. Your Niece, I would not give a fig for your Niece.</p> <p>MR. TINTEM. That is as false as you are foolish; your Rattlesnake, it is -- "You would say very different things, and tell a different story, if her fortune were before you -- you would give all your soul for that" -- I wish poor Willingford was here with all my heart; you should see that I would give her to him before your face.</p> <p>"GRUB. No, you would not -- you love yourself too much for that -- I know how fond you would be of giving her fortune to a Beggar; I dare you to that -- I dare you to that!</p> <p>Mr. TINTEM. I shall choak with rage.</p> <p>[They walk petulantly backward and forward upon the stage crossing each other.]</p>
+            <pb n="46" xml:id="pb-46" facs="#i50"/>
+            <p>"DOLLY. Now, Sir -- Now my dear Miss --- now is your time!</p> <p>GABY. Aye, now or never.</p> <p>MR. WIL. Aye, now is the time indeed.</p> <p>MISS TINTEM. I am terrified to death.</p> <p>MR. WIL. Never fear, have a good heart, think of the event; --- do not shrink, while such a plea as ours depends upon the moment.</p> <p>[From behind.</p><p>MR. TINTEM. Mr. Grub, give me leave to tell you, Sir, that I think you have behaved like an arrant scoundrel.</p> <p>GRUB. Take care what you say, or I'll make the Gentlemen of the great Wig shake their heads at you; --- they'll make a good breakfast of the word Scoundrel, in Westminster Hall, I warrant you --- therefore I would advice you to take care what you say.</p> <p>MR. TINTEM. You ought rather to be afraid of what I may do.</p> <p>GRUB. Why, what would you do?</p> <p>MR. TINTEM. What!</p> <p>GRUB. Aye, what?</p> <p>MR. TINTEM. If young Willingford was here, I would convince you in a minute.</p> <p>GRUB. You would be for presenting your Niece to him I suppose?</p> <p>MR. TINTEM. Cripple me if I would not.</p> <p>GRUB. Cripple me if I think you would.</p> <p>MR. TINTEM. Would to Heaven he was here this moment.</p> <p>[MR. WIL. Coming forward with MISS INTEM in his hand]</p> <p>Now my dear Miss Tintem. [they both go up to Mr. Tintem and kneel at his feet.]</p>
+            <pb n="47" xml:id="pb-47" facs="#i51"/>
+         <p>MR. WIL. Here we both are, ready for your gracious confirmation.</p> <p>(GRUB and TINTEM start back and look with amasement)</p> <p>Mr. TINTEM. How is this --- you have taken me by surprise --- this act is rather sudden upon me -- yet, after all, may I be annihilated if I be not glad of it. -- Now you Hornet, you Beetle, your Butterfly -- you shall see that I will keep my word --- you shall see that I will dare to do, what you dar'd me to --- take her lad --- she is your's --- and Heaven bless you both together!</p> <p>DOLLY. (falls on her knees) Heaven bless your Honor! for this dear good-natur'd action.</p> <p>GRUB, Well said, Mrs. Nettle-top.</p> <p>GABY. Huzza! --- huzza! --- huzza! --- The Emperor of Morocco for ever! --- down with the King of Bohemia! down with your Grubs and your Catterpillars.</p> <p>GRUB. I don't like this --- he has played me the devil of a trick --- I don't like it --- I knew those cursed magpies would prove omnious (aside) So Master Tintem, you have finished the business rarely, upon my word.</p> <p>MR. TINTEM. Aye; and it is finished as it ought to be --- I hope I have convinced you that I am not only a Florist, but a Pugilist! --- I think I have given you a fair trimming; --- and now I will sing with the Poet --- "Revenge, revenge, revenge shall appease my restless spright." [sings much agitated.</p> <p>GRUB. Why you seem as if you were crazy, and foam at the mouth like a mad dog; --- you have made a fine hand of it, truly, to give your Niece to such a vagabond as that, who has not got a farthing in the world, and, in all likelihood, will spend her fortune in a month.</p>
+            <pb n="48" xml:id="pb-48" facs="#i52"/>
+            <p>MR. WIL. Sir, I will convince you, that he has bestowed his Niece upon one that loves her, and one that is too sensible of the principles of a gentleman, and a man of honor, than to suffer himself and this amiable lady to be treated with ill-manners, by such a scoundrel as you are.</p> <p>GRUB. Take care what you say; a scoundrel, Sirrah!</p> <p>MR. WIL. You shall see that I neither fear what I say, or care what I do, if you don't leave the room immediately, you shall feel the force of my resentment. "In respect to such a bloated piece of consequence as you are -- Go home and take this, by way of hast'ning your journey -- There, -- there -- there! take that -- [kicks him off the stage.</p> <p>GRUB. Oh, you Villain, I'll make you bleed for this treatment, I will. [Exit GRUB.</p> <p>DOLLY. Take care of the Varment!</p> <p>GABY. Take care of the Magpies!</p> <p>DOLLY. And your Cousin Crumplet's Hog-Trough. [hollowing after him.</p> <p>Mr. TINTEM. He is rightly serv'd -- and now since the matter is over, I am glad that it is done, as it is done.</p> <p>MISS TINTEM. It gives me infinite pleasure, Sir, to hear you say so much.</p> <p>MR. TINTEM. And I feel a secret satisfaction in having done so much. But Willingford, how came you here so opportunely?</p> <p>MR. WIL. Upon my Hobby-horse, Sir.</p> <p>MR. TINTEM. What you've got your Hobby-horse too, have you? -- Pray, what kind of a Hobby did you ride.</p>
+            <pb n="49" xml:id="pb-49" facs="#i53"/>
+            <p>MR. WIL. My Hobby was a little Rosey boy, with airy wings call'd Love, led by a blind capricious guide, call'd Fortune, who from my cradle hath for ever thwarted me in my paths; but now the bounteous Goddess has brought me to the fountain of sublunary bliss, and crown'd me with the hand of this fair Lady, whom I love dearer than myself, and will cherish with the utmost efforts of my Life.</p> <p>MR. TINTEM. Well said -- You have honestly and fairly express'd yourself; and confirm's me also, that I have done right in this Act; -- you have help'd to take away a load, which hung heavily about my Heart; and it shall be my Hobby-horse in future, to make you both as happy as I can.</p> <p>The PRINTER having inadvertently omitted Printing in Page 16 the SONG sung by Mr. DIGNUM, in ACT I. SCENE III. begs leave to apologize for inserting it in this Place.</p> <p>SONG.</p> <p>SALLY IN OUR ALLEY.</p> <p>I.</p> <p>Of all the girls that are so smart.</p> <p>There's none like our Sally,</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p> <p>There's ne'er a lady in the land,</p> <p>That's half so sweet as Sally;</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p>
+            <pb n="50" xml:id="pb-50" facs="#i54"/>
+            <p>II.</p> <p>Her father he makes cabbage nets,</p> <p>And through the streets does cry 'em,</p> <p>Her mother, she sells laces long,</p> <p>To such as please to buy 'em:</p> <p>But sure such folks could n'er beget</p> <p>So sweet a girl as Sally;</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p> <p>III.</p> <p>When she is by, I leave my work,</p> <p>I love her so sincerely;</p> <p>My master comes like any Turk,</p> <p>And bands me most severely.</p> <p>But let him bang his belly full,</p> <p>I bear it all for Sally,</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p> <p>IV.</p> <p>Of all the days that's in the week,</p> <p>I dearly love but one day,</p> <p>And that's the day that comes betwixt</p> <p>A Saturday and Monday;</p> <p>For then I'm dress'd, all in my best,</p> <p>To walk abroad with Sally;</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p> <p>V.</p> <p>My master carries me to Church,</p> <p>And often am I blamed;</p> <p>Because I leave 'em in the lurch,</p> <p>As soon as text is named;</p>
+            <pb n="51" xml:id="pb-51" facs="#i55"/>
+            <p>I leave the Church in sermon time,</p> <p>And slink away to Sally;</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p> <p>VI.</p> <p>When Christmas comes about again,</p> <p>Oh, then I shall have money;</p> <p>I'll hoard it up, and box and all,</p> <p>And give it to my honey;</p> <p>Ah, wou'd it were ten thousand pounds,</p> <p>I'd give it to my Sally;</p> <p>She is the darling of my heart,</p> <p>And she lives in our Alley.</p> <p>VII.</p> <p>My Master and the neighbours all,</p> <p>Make game of me and Sally;</p> <p>And but for her, I'd better be</p> <p>A slave and row a galley;</p> <p>But when my seven long years are out,</p> <p>Oh, then I'll marry Sally;</p> <p>Oh, then we'll wed, and then we'll bed,</p> <p>But not in our Alley.</p> <note>decorative image</note>
+            <pb n="52" xml:id="pb-52" facs="#i56"/>
+            <p>A New Catalogue of Publications just Printed for</p> <p>ALEX. HOGG,</p> <p>At the King's-arms, No. 16, Paternoster-Row, London; and Sold by all other Booksellers and Newscarriers in England, Scotland, and Ireland.</p> <p>I. Mr PALMER'S</p> <p>New Spouter's Companion;</p> <p>Or, Complete Theatrical Remembrancer.</p> <p>Containing a new Collection of all the most esteemed PROLOGUES and EPILOGUES written by distinguished Wits, to accompany approved Tragedies, Comedies, Operas, Farces, &amp;c. Price Is. Embellished with an elegant Frontispiece.</p> <p>II. VERNON'S</p> <p>London and Country Songster;</p> <p>Or, Universal Banquet of Vocal Music.</p> <p>Including a select Collection of the most admired English and Scotch Songs, Ballads, Catches, Glees, Duets, Airs, and Cantatas, which have been sung, and received applause at the Public Theatres, Vauxhall, Ranelagh, Sadler's Wells, Astley's, and other Places of Amusement. Price only Is. with an Engraving.</p> <p>III. MELMOTH'S MODERN</p> <p>Universal Story Teller;</p> <p>Or, a New Picture of Human Life.</p> <p>Consisting of a greater Variety of valuable Matter, calculated for the pleasure and Improvement of Readers of every Class, than was ever given in any Volume of the Kind. The whole carefully selected from the most approved English Authors. Price 3s. bound.</p> <p>IV. KING's New London Spy,</p> <p>Or, A Complete and Modern Twenty-four Hours Ramble through the Bills of Mortality.</p> <p>Containing a New and Universal Disclosure of the secret, nocturual, and diurnal Transactions in and about the Cities of London and Westminster, and the Borough of Southwark. ** Be careful to ask for King's New London Spy, embellished with a humorous Frontispiece Prince only Is. 6d.</p> <p>V. Mr PORNEY's Weekly Novelist;</p> <p>Or Entertaining Companion.</p> <p>Being a New and Complete Collection of interesting Novels and Romances, faithfully translated from the French, and embellished with elegant Copper-plates. The whol comprised in only a Weeky Numbers, at 6d. each, may be had by one or two at a time, or the wholemay be had in a large Octavo Volume, Price 6s. neatly bound.</p> <p>V. The New Art of Speaking;</p> <p>Or, A Complete modern System of Rhetoric, Elocution and Oratory.</p> <p>Comprising all the Rules of those elegant Arts, and including every Thing necessary to formo the persuasive and accomplished Speaker, and to give Propriety not only to the Words but Actions of the Orator.</p> <p>N.B. Be careful to ask for The New Art of Speaking, embellished with an elegant Frontispiece. Prince 2s.</p>
+            <pb n="53" xml:id="pb-53" facs="#i57"/>
+            <pb n="54" xml:id="pb-54" facs="#i58"/>
+            <pb n="55" xml:id="pb-55" facs="#i59"/>
+            <pb n="56" xml:id="pb-56" facs="#i60"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i61"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i62"/>
+         </div>
+      </body>
+   </text>
+</TEI>

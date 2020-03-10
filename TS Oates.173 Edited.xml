@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.173</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under a Creative Commons
+                  Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.173</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>The life and opinions of Tristram Shandy, gentleman. Vol. 7</title>
+
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Sterne, Laurence 1713-1768</persName>
+                           <persName type="display">Sterne, Laurence 1713-1768</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="person" role="oth">
+                           <persName type="standard">Sterne, Laurence 1713-1768</persName>
+                           <persName type="display">Sterne, Laurence 1713-1768</persName>
+                        </name>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for T. Becket and P. A. Dehont, in the
+                              Strand</persName>
+                           <persName type="display">printed for T. Becket and P. A. Dehont, in the
+                              Strand</persName>
+                        </name>
+                     </respStmt>
+                     <note>Anonymous. By Laurence Sterne.</note>
+                     <note>Autograph signature of the author in all copies of vol. 7, p. 1.</note>
+                     <note>Distinguishable from [1770] reprint by setting of 'GENTLEMAN' with
+                        initial G larger than rest of word.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 v. ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1765" notAfter="1765">MDCCLXV.
+                        [1765]</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref
+                              target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref>Fiction -- Authorship -- Fiction</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail" rend="portrait"
+         url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00001_files/8/0_0.jpg"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1943px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00001.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00001_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i2" n="cover, inner">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00002.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00002_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i3" n="i recto">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00003.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00003_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i4" n="i verso">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00004.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00004_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i5" n="ii recto">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00005.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00005_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i6" n="ii verso">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00006.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00006_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i7" n="1">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00007.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00007_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i8" n="2">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00008.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00008_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i9" n="3">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00009.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00009_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i10" n="4">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00010.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00010_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i11" n="5">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00011.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00011_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i12" n="6">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00012.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00012_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i13" n="7">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00013.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00013_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i14" n="8">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00014.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00014_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i15" n="9">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00015.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00015_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i16" n="10">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00016.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00016_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i17" n="11">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00017.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00017_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i18" n="12">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00018.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00018_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i19" n="13">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00019.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00019_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i20" n="14">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00020.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00020_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i21" n="15">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00021.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00021_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i22" n="16">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00022.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00022_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i23" n="17">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00023.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00023_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i24" n="18">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00024.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00024_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i25" n="19">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00025.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00025_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i26" n="20">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00026.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00026_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i27" n="21">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00027.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00027_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i28" n="22">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00028.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00028_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i29" n="23">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00029.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00029_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i30" n="24">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00030.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00030_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i31" n="25">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00031.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00031_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i32" n="26">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00032.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00032_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i33" n="27">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00033.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00033_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i34" n="28">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00034.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00034_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i35" n="29">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00035.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00035_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i36" n="30">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00036.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00036_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i37" n="31">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00037.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00037_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i38" n="32">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00038.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00038_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i39" n="33">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00039.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00039_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i40" n="34">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00040.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00040_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i41" n="35">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00041.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00041_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i42" n="36">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00042.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00042_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i43" n="37">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00043.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00043_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i44" n="38">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00044.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00044_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i45" n="39">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00045.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00045_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i46" n="40">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00046.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00046_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i47" n="41">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00047.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00047_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i48" n="42">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00048.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00048_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i49" n="43">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00049.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00049_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i50" n="44">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00050.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00050_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i51" n="45">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00051.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00051_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i52" n="46">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00052.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00052_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i53" n="47">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00053.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00053_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i54" n="48">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00054.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00054_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i55" n="49">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00055.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00055_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i56" n="50">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00056.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00056_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i57" n="51">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00057.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00057_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i58" n="52">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00058.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00058_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i59" n="53">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00059.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00059_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i60" n="54">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00060.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00060_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i61" n="55">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00061.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00061_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i62" n="56">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00062.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00062_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i63" n="57">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00063.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00063_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i64" n="58">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00064.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00064_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i65" n="59">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00065.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00065_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i66" n="60">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00066.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00066_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i67" n="61">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00067.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00067_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i68" n="62">
+         <graphic decls="#downloadImageRights #download" height="3042px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00068.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00068_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i69" n="63">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00069.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00069_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i70" n="64">
+         <graphic decls="#downloadImageRights #download" height="3042px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00070.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00070_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i71" n="65">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00071.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00071_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i72" n="66">
+         <graphic decls="#downloadImageRights #download" height="3042px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00072.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00072_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i73" n="67">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00073.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00073_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i74" n="68">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00074.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00074_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i75" n="69">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00075.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00075_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i76" n="70">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00076.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00076_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i77" n="71">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00077.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00077_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i78" n="72">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00078.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00078_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i79" n="73">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00079.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00079_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i80" n="74">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00080.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00080_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i81" n="75">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00081.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00081_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i82" n="76">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00082.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00082_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i83" n="77">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00083.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00083_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i84" n="78">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00084.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00084_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i85" n="79">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1749px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00085.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00085_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i86" n="80">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00086.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00086_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i87" n="81">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1776px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00087.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00087_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i88" n="82">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00088.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00088_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i89" n="83">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1776px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00089.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00089_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i90" n="84">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00090.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00090_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i91" n="85">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1776px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00091.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00091_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i92" n="86">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00092.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00092_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i93" n="87">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1776px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00093.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00093_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i94" n="88">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00094.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00094_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i95" n="89">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00095.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00095_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i96" n="90">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00096.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00096_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i97" n="91">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00097.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00097_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i98" n="92">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00098.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00098_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i99" n="93">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00099.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00099_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i100" n="94">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00100.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00100_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i101" n="95">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00101.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00101_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i102" n="96">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00102.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00102_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i103" n="97">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00103.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00103_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i104" n="98">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00104.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00104_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i105" n="99">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00105.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00105_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i106" n="100">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00106.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00106_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i107" n="101">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00107.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00107_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i108" n="102">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00108.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00108_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i109" n="103">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00109.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00109_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i110" n="104">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00110.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00110_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i111" n="105">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00111.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00111_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i112" n="106">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00112.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00112_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i113" n="107">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00113.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00113_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i114" n="108">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00114.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00114_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i115" n="109">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00115.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00115_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i116" n="110">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00116.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00116_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i117" n="111">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00117.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00117_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i118" n="112">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00118.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00118_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i119" n="113">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00119.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00119_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i120" n="114">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00120.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00120_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i121" n="115">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00121.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00121_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i122" n="116">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00122.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00122_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i123" n="117">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00123.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00123_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i124" n="118">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00124.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00124_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i125" n="119">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00125.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00125_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i126" n="120">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00126.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00126_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i127" n="121">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00127.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00127_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i128" n="122">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00128.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00128_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i129" n="123">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00129.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00129_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i130" n="124">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00130.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00130_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i131" n="125">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00131.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00131_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i132" n="126">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00132.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00132_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i133" n="127">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00133.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00133_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i134" n="128">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00134.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00134_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i135" n="129">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00135.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00135_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i136" n="130">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00136.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00136_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i137" n="131">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00137.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00137_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i138" n="132">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00138.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00138_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i139" n="133">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00139.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00139_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i140" n="134">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00140.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00140_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i141" n="135">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00141.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00141_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i142" n="136">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00142.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00142_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i143" n="137">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00143.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00143_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i144" n="138">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00144.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00144_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i145" n="139">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00145.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00145_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i146" n="140">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00146.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00146_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i147" n="141">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00147.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00147_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i148" n="142">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00148.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00148_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i149" n="143">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00149.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00149_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i150" n="144">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00150.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00150_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i151" n="145">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00151.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00151_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i152" n="146">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00152.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00152_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i153" n="147">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00153.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00153_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i154" n="148">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00154.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00154_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i155" n="149">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00155.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00155_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i156" n="150">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00156.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00156_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i157" n="151">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00157.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00157_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i158" n="152">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00158.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00158_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i159" n="153">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00159.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00159_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i160" n="154">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00160.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00160_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i161" n="155">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00161.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00161_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i162" n="156">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00162.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00162_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i163" n="157">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00163.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00163_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i164" n="158">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00164.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00164_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i165" n="159">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00165.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00165_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i166" n="160">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00166.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00166_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i167" n="iii recto">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00167.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00167_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i168" n="iii verso">
+         <graphic decls="#downloadImageRights #download" height="3062px" width="1848px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00168.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00168_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i169" n="back cover, inner">
+         <graphic decls="#downloadImageRights #download" height="3057px" width="1810px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00169.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00169_files/8/0_0.jpg"
+         />
+      </surface>
+      <surface xml:id="i170" n="back cover">
+         <graphic decls="#downloadImageRights #download" height="3022px" width="1955px"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00170.jpg"/>
+         <graphic decls="#thumbnail" rend="portrait"
+            url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00173-000-00170_files/8/0_0.jpg"
+         />
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover, inner" xml:id="pb-cover-inner" facs="#i2"/>
+            <pb n="i recto" xml:id="pb-irecto" facs="#i3"/>
+            <pb n="i verso" xml:id="pb-iverso" facs="#i4"/>
+            <pb n="ii recto" xml:id="pb-iirecto" facs="#i5"/>
+            <p>THE</p>
+            <p>LIFE</p>
+            <p>AND</p>
+            <p>OPINIONS</p>
+            <p>OF</p>
+            <p>TRISTRAM SHANDY,</p>
+            <p>GENTLEMAN.</p>
+            <p>Non enim excursus hic ejus, sed opus ipsum est.</p>
+            <p>PLIN. Lib. quintus Epistola sexta.</p>
+            <p>VOL. VII.</p>
+            <p>LONDON:</p>
+            <p>Printed for T. BECKET and P. A. DEHONT,</p>
+            <p>in the Strand. MDCCLXV.</p>
+            <pb n="ii verso" xml:id="pb-iiverso" facs="#i6"/>
+            <p>ERRATA.</p>
+            <p>Page 33. Vol. VII. last line, dele and.</p>
+            <p>Page 71. Vol. VII. 3d line, instead of striking, read sticking.</p>
+            <p>Page 34. Vol. VIII. 13th line, read inflammatory.</p>
+            <pb n="1" xml:id="pb-1" facs="#i7"/>
+            <p>THE</p>
+            <p>LIFE and OPINIONS</p>
+            <p>OF</p>
+            <p>TRISTRAM SHANDY, Gent.</p>
+            <p>CHAP. I.</p>
+            <p>NO - I think, I said, I would write two volumes every year, provided the vile cough which then tormented me, and which to this hour I dread worse than the devil, would but give me leave - and in another place - (but where, I can't recollect now) speaking of my book as a machine, and laying my pen and ruler down cross-wise</p>
+            <pb n="2" xml:id="pb-2" facs="#i8"/>
+            <p>upon the table, in order to gain the greater credit to it - I swore it should be kept a going at that rate these forty years if it pleased but the fountain of life to bless me so long with health and good spirits.</p>
+            <p>Now as for my spirits, little have I to lay to their charge - nay so very little (unless the mounting me upon a long stick, and playing the fool with me nineteen hours out of the twenty-four, be accusations) that on the contrary, I have much - much to thank 'em for: cheerily have ye made me tread the path of life with all the burdens of it (except its cares) upon my back; in no one moment of my existence, that I remember, have ye once deserted me, or tinged the objects which came in my way, either with</p>
+            <pb n="3" xml:id="pb-3" facs="#i9"/>
+            <p>sable, or with a sickly green; in dangers ye gilded my horizon with hope, and when DEATH himself knocked at my door - ye bad him come again; and in so gay a tone of careless indifference, did ye do it, that he doubted of his commission -</p>
+            <p>" - There must certainly be some mistake in this matter," quoth he.</p>
+            <p>Now there is nothing in this world I abominate worse, than to be interrupted in a story - and I was that moment telling Eugenius a most tawdry one in my way, of a nun who fancied herself a shell-fish, and of a monk damn'd for eating a muscle, and was shewing him the grounds and justice of the procedure -</p>
+            <pb n="4" xml:id="pb-4" facs="#i10"/>
+            <p>" - Did ever so grave a personage get into so vile a scrape?" quoth Death. Thou hast had a narrow escape, Tristram, said Eugenius, taking hold of my hand as I finish'd my story -</p>
+            <p>But there is no living, Eugenius, replied I, at this rate; for as this son of a whore has found out my lodgings -</p>
+            <p>- You call him rightly, said Eugenius, - for by sin, we are told, he enter'd the world - I care not which way he enter'd, quoth I, provided he be not in such a hurry to take me out with him - for I have forty volumes to write, and forty thousand things to say and do, which no body in the world will say and do for me, except thyself; and as thou</p>
+            <pb n="5" xml:id="pb-5" facs="#i11"/>
+            <p>seest he has got me by the throat (for Eugenius could scarce hear me speak across the table) and that I am no match for him in the open field, had I not better, whilst these few scatter'd spirits remain, and these two spider legs of mine holding one of them up to him) are able to support me - had I not better, Eugenius, fly for my life? 'tis my advice, my dear Tristram, said Eugenius - then by heaven! I will lead him a dance he little thinks of - for I will gallop, quoth I, without looking once behind me to the banks of the Garonne; and if I hear him clattering at my heels - I'll scamper away to mount Vesuvius - from thence to Joppa, and from Joppa to the world's end, where, if he follows me, I pray God he may break his neck -</p>
+            <pb n="6" xml:id="pb-6" facs="#i12"/>
+            <p>- He runs more risk there, said Eugenius, than thou.</p>
+            <p>Eugenius's wit and affection brought blood into the cheek from whence it had been some months banish'd - 'twas a vile moment to bid adieu in; he led me to my chaise - Allons! said I; the post boy gave a crack with his whip - off I went like a cannon, and in half a dozen bounds got into Dover.</p>
+            <pb n="7" xml:id="pb-7" facs="#i13"/>
+            <p>CHAP. II.</p>
+            <p>NOW hang it! quoth I, as I look'd towards the French coast - a man should know something of his own country too, before he goes abroad - and I never gave a peep into Rochester church, or took notice of the dock of Chatham, or visited St. Thomas at Canterbury, though they all three laid in my way -</p>
+            <p>- But mine, indeed, is a particular case -</p>
+            <p>So without arguing the matter further with Thomas o'Becket, or any one else - I skip'd into the boat, and in five minutes we got under sail and scudded away like the wind.</p>
+            <pb n="8" xml:id="pb-8" facs="#i14"/>
+            <p>Pray captain, quoth I, as I was going down into the cabin, is a man never overtaken by Death in this passage?</p>
+            <p>Why, there is not time for a man to be sick in it, replied he - What a cursed lyar! for I am sick as a horse, quoth I, already - what a brain! - upside down! - hey dey! the cells are broke loose one into another, and the blood, and the lymph, and the nervous juices, with the fix'd and volatile salts, are all jumbled into one mass - good g-! every thing turns round in it like a thousand whirlpools - I'd give a shilling to know if I shan't write the clearer for it -</p>
+            <p>Sick! sick! sick! sick! -</p>
+            <pb n="9" xml:id="pb-9" facs="#i15"/>
+            <p>- When shall we get to land? captain - they have hearts like stones - O I am deadly sick! - reach me that thing, boy - 'tis the most discomfiting sickness - I wish I was at the bottom - Madam! how is it with you? Undone! undone! un- O! undone! sir - What the first time? - No, 'tis the second, third, sixth, tenth time, sir, - hey-day - what a trampling over head! - hollo! cabin boy! what's the matter -</p>
+            <p>The wind chopp'd about! s'Death! - then I shall meet him full in the face.</p>
+            <p>What luck! - 'tis chopp'd about again, master - O the devil chop it -</p>
+            <p>Captain, quoth she, for heaven's sake, let us get ashore.</p>
+            <pb n="10" xml:id="pb-10" facs="#i16"/>
+            <p>CHAP. III.</p>
+            <p>IT is a great inconvenience to a man in a haste, that there are three distinct roads between Calais and Paris, in behalf of which there is so much to be said by the several deputies from the towns which lie along them, that half a day is easily lost in settling which you'll take.</p>
+            <p>First, the road by Lisle and Arras, which is the most about - but most interesting, and instructing.</p>
+            <p>The second that by Amiens, which you may go, if you would see Chantilly -</p>
+            <p>And that by Beauvais, which you may go, if you will.</p>
+            <pb n="11" xml:id="pb-11" facs="#i17"/>
+            <p>For this reason a great many chuse to go by Beauvais.</p>
+            <p>CHAP. IV.</p>
+            <p>"NOW before I quit Calais," a travel-writer would say, "it would not be amiss to give some account of it." - now I think it very much amiss - that a man cannot go quietly through a town, and let it alone, when it does not meddle with him, but that he must be turning about and drawing his pen at every kennel he crosses over, merely o' my conscience, for the sake of drawing it; because, if we may judge from what has been wrote of these things, by all who have wrote and gallop'd - or who have gallop'd and wrote, which is a different way still; or who for more expedition</p>
+            <pb n="12" xml:id="pb-12" facs="#i18"/>
+            <p>than the rest, have wrote-galloping, which is the way I do at present - from the great Addison who did it with his satchel of school-books hanging at his a- and galling his beast's crupper at every stroke - there is not a galloper of us all who might not have gone on ambling quietly in his own ground (in case he had any) and have wrote all he had to write, dry shod, as well as not.</p>
+            <p>For my own part, as heaven is my judge, and to which I shall ever make my last appeal - I know no more of Calais, (except the little my barber told me of it, as he was whetting his razor) than I do this moment of Grand Cairo; for it was dusky in the evening when I landed, and dark as pitch in the morning when I set out, and yet by merely knowing</p>
+            <pb n="13" xml:id="pb-13" facs="#i19"/>
+            <p>what is what, and by drawing this from that in one part of the town, and by spelling and putting this and that together in another - I would lay any travelling odds, that I this moment write a chapter upon Calais as long as my arm; and with so distinct and satisfactory a detail of every item, which is worth a stranger's curiosity in the town - that you would take me for the town clerk of Calais itself - and where, sir, would be the wonder? was not Democritus, who laughed ten times more than I - town-clerk of Abdera? and was not (I forget his name) who had more discretion than us both, town-clerk of Ephesus? - it should be penn'd moreover, Sir, with so much knowledge and good sense, and truth, and precision -</p>
+            <pb n="14" xml:id="pb-14" facs="#i20"/>
+            <p>- Nay - if you don't believe me, you may read the chapter for your pains.</p>
+            <p>CHAP. V.</p>
+            <p>CALAIS, Calatium, Calusium, Calesium.</p>
+            <p>This town, if we may trust it's archives, the authority of which I see no reason to call in question in this place - was once no more than a small village belonging to one of the first Counts de Guines; and as it boasts at present of no less than fourteen thousand inhabitants, exclusive of four hundred and twenty distinct families in the basse ville, or suburbs - it must have grown up by little and little, I suppose, to it's present size.</p>
+            <pb n="15" xml:id="pb-15" facs="#i21"/>
+            <p>Though there are four convents, there is but one parochial church in the whole town; I had not an opportunity of taking its exact dimensions, but it is pretty easy to make a tolerable conjecture of 'em - for as there are fourteen thousand inhabitants in the town, if the church holds them all, it must be considerably large - and if it will not - 'tis a very great pity they have not another - it is built in form of a cross, and dedicated to the Virgin Mary; the steeple which has a spire to it, is placed in the middle of the church, and stands upon four pillars elegant and light enough, but sufficiently strong at the same time - it is decorated with eleven altars, most of which are rather fine than beautiful. The great altar is a masterpiece in its kind; 'tis of white marble, and as I was told near sixty feet high -</p>
+            <pb n="16" xml:id="pb-16" facs="#i22"/>
+            <p>had it been much higher, it had been as high as mount Calvary itself - therefore, I suppose it must be high enough in all conscience.</p>
+            <p>There was nothing struck me more than the great Square; tho' I cannot say 'tis either well paved or well built; but 'tis in the heart of the town, and most of the streets, especially those in that quarter, all terminate in it; could there have been a fountain in all Calais, which it seems there cannot, as such an object would have been a great ornament, it is not to be doubted, but that the inhabitants would have had it in the very centre of this square, - not that it is properly a square, - because 'tis forty feet longer from east to west, than from north to south; so that the French in general have more</p>
+            <pb n="17" xml:id="pb-17" facs="#i23"/>
+            <p>reason on their side in calling them Places than Squares, which strictly speaking, to be sure they are not.</p>
+            <p>The town-house seems to be but a sorry building, and not to be kept in the best repair; otherwise it had been a second great ornament to this place; it answers however its destination, and serves very well for the reception of the magistrates, who assemble in it from time to time; so that 'tis presumable, justice is regularly distributed.</p>
+            <p>I had heard much of it, but there is nothing at all curious in the Courgain; 'tis a distinct quarter of the town inhabited solely by sailors and fishermen; it consists of a number of small streets, neatly built and mostly of brick; 'tis</p>
+            <pb n="18" xml:id="pb-18" facs="#i24"/>
+            <p>extremely populous, but as that may be accounted for, from the principles of their diet, - there is nothing curious in that neither. - A traveller may see it to satisfy himself - he must not omit however taking notice of La Tour de Guet, upon any account; 'tis so called from its particular destination, because in war it serves to discover and give notice of the enemies which approach the place, either by sea or land; - but 'tis monstrous high, and catches the eye so continually, you cannot avoid taking notice of it, if you would.</p>
+            <p>It was a singular disappointment to me, that I could not have permission to take an exact survey of the fortifications, which are the strongest in the world, and</p>
+            <pb n="19" xml:id="pb-19" facs="#i25"/>
+            <p>which, from first to last, that is, from the time they were set about by Philip of France Count of Bologne, to the present war, wherein many reparations were made, have cost (as I learned afterwards from an engineer in Gascony) - above a hundred millions of livres. It is very remarkable that at the Tête de Gravelenes, and where the town is naturally the weakest, they have expended the most money; so that the outworks stretch a great way into the campaign, and consequently occupy a large tract of ground. - However, after all that is said and done, it must be acknowledged that Calais was never upon any account so considerable from itself, as from its situation, and that easy enterance which it gave our ancestors upon all occasions into France: it was not without its inconveniences</p>
+            <pb n="20" xml:id="pb-20" facs="#i26"/>
+            <p>also; being no less troublesome to the English in those times, than Dunkirk has been to us, in ours; so that it was deservedly looked upon as the key to both kingdoms, which no doubt is the reason that there have arisen so many contentions who should keep it: of these, the siege of Calais, or rather the blockade (for it was shut up both by land and sea) was the most memorable, as it withstood the efforts of Edward the third a whole year, and was not terminated at last but by famine and extream misery; the gallantry of Eustace de St. Pierre, who first offered himself a victim for his fellow citizens, has rank'd his name with heroes. As it will not take up above fifty pages, it would be injustice to the reader, not to give him a</p>
+            <pb n="21" xml:id="pb-21" facs="#i27"/>
+            <p>minute account of that romantic transaction, as well as of the siege itself, in Rapin's own words:</p>
+            <p>CHAP. VI.</p>
+            <p>- BUT courage! gentle reader! - I scorn it - 'tis enough to have thee in my power - but to make use of the advantage which the fortune of the pen has now gained over thee, would be too much - No - ! by that all powerful fire which warms the visionary brain, and lights the spirits through unworldly tracts! ere I would force a helpless creature upon this hard service, and make thee pay, poor soul! for fifty pages which I have no right to sell thee, - naked as</p>
+            <pb n="22" xml:id="pb-22" facs="#i28"/>
+            <p>I am, I would browse upon the mountains, and smile that the north wind brought me neither my tent or my supper.</p>
+            <p>- So put on, my brave boy! and make the best of thy way to Boulogne.</p>
+            <pb n="23" xml:id="pb-23" facs="#i29"/>
+            <p>CHAP. VII.</p>
+            <p>- BOULOGNE! - hah! - so we are all got together - debtors and sinners before heaven; a jolly set of us - but I can't stay and quaff it off with you - I'm pursued myself like a hundred devils, and shall be overtaken before I can well change horses: - for heaven's sake, make haste - 'Tis for high treason, quoth a very little man, whispering as low as he could to a very tall man that stood next him - Or else for murder; quoth the tall man - Well thrown size-ace! quoth I. No; quoth a third, the gentleman has been committing - .</p>
+            <pb n="24" xml:id="pb-24" facs="#i30"/>
+            <p>Ah! ma chere fille! said I, as she tripp'd by, from her matins - you look as rosy as the morning (for the sun was rising, and it made the compliment the more gracious) - No; it can't be that, quoth a fourth - (she made a curt'sy to me - I kiss'd my hand) 'tis debt; continued he: 'Tis certainly for debt; quoth a fifth; I would not pay that gentleman's debts, quoth Ace, for a thousand pounds; Nor would I, quoth Size, for six times the sum - Well thrown, Size-Ace, again! quoth I; - but I have no debt but the debt of NATURE, and I want but patience of her, and I will pay her every farthing I owe her - How can you be so hard-hearted, MADAM, to arrest a poor traveller going along without molestation to any one,</p>
+            <pb n="25" xml:id="pb-25" facs="#i31"/>
+            <p>upon his lawful occasions? do stop that death-looking, long-striding scoundrel of a scare-sinner, who is posting after me - he never would have followed me but for you - if it be but for a stage, or two, just to give me start of him, I beseech you, madam - do, dear lady - .</p>
+            <p>- Now, in troth, 'tis a great pity, quoth mine Irish host, that all this good courtship should be lost; for the young gentlewoman has been after going out of hearing of it all along - .</p>
+            <p>- Simpleton! quoth I.</p>
+            <p>- So you have nothing else in Boulogne worth seeing?</p>
+            <pb n="26" xml:id="pb-26" facs="#i32"/>
+            <p>- By Jasus! there is the finest SEMINARY for the HUMANITIES - .</p>
+            <p>- There cannot be a finer; quoth I.</p>
+            <p>CHAP. VIII.</p>
+            <p>WHEN the precipitancy of a man's wishes hurries on his ideas ninety times faster than the vehicle he rides in - woe be to truth! and woe be to the vehicle and its tackling (let 'em be made of what stuff you will) upon which he breathes forth the disappointment of his soul!</p>
+            <p>As I never give general characters either of men or things in choler, "the most haste, the worst speed;" was all the reflection</p>
+            <pb n="27" xml:id="pb-27" facs="#i33"/>
+            <p>I made upon the affair, the first time it happen'd; - the second, third, fourth, and fifth time, I confined it respectively to those times, and accordingly blamed only the second, third, fourth, and fifth post-boy for it, without carrying my reflections further; but the event continuing to befall me from the fifth, to the sixth, seventh, eighth, ninth, and tenth time, and without one exception, I then could not avoid making a national reflection of it, which I do in these words;</p>
+            <p>That something is always wrong in a French post-chaise upon first setting out.</p>
+            <p>Or the proposition may stand thus.</p>
+            <p>A French postilion has always to alight</p>
+            <pb n="28" xml:id="pb-28" facs="#i34"/>
+            <p>before he has got three hundred yards out of town.</p>
+            <p>What's wrong now? - Diable! - a rope's broke! - a knot has slipt! - a staple's drawn! - a bolt's to whittle! - a tag, a rag, a jag, a strap, a buckle, or a buckle's tongue, want altering. -</p>
+            <p>Now true as all this is, I never think myself impower'd to excommunicate thereupon either the post-chaise, or its driver - nor do I take it into my head to swear by the living G-, I would rather go a foot ten thousand times - or that I will be damn'd if ever I get into another - but I take the matter coolly before me, and consider, that some tag, or</p>
+            <pb n="29" xml:id="pb-29" facs="#i35"/>
+            <p>rag, or jag, or bolt, or buckle, or buckle's tongue, will ever be a wanting, or want altering, travel where I will - so I never chaff, but take the good and the bad as they fall in my road, and get on: - Do so, my lad! said I; he had lost five minutes already, in alighting in order to get at a luncheon of black bread which he had cramm'd into the chaise-pocket, and was remounted and going leisurely on, to relish it the better - Get on, my lad, said I, briskly - but in the most persuasive tone imaginable, for I jingled a four and twenty sous piece against the glass, taking care to hold the flat side towards him, as he look'd back: the dog grinn'd intelligence from his right ear to his left, and behind his sooty</p>
+            <pb n="30" xml:id="pb-30" facs="#i36"/>
+            <p>muzzle discover'd such a pearly row of teeth, that Sovereignty would have pawn'd her jewels for them. -</p>
+            <p>Just heaven! <note>bracket and single line divided into two</note> { What masticators! -</p>
+            <p>What bread! -</p>
+            <p>and so, as he finish'd the last mouthful of it, we enter'd the town of Montreuil.</p>
+            <pb n="31" xml:id="pb-31" facs="#i37"/>
+            <p>CHAP. IX.</p>
+            <p>THERE is not a town in all France, which in my opinion, looks better in the map, than MONTREUIL; - I own, it does not look so well in the book of post roads; but when you come to see it - to be sure it looks most pitifully.</p>
+            <p>There is one thing however in it at present very handsome; and that is the inn-keeper's daughter: She has been eighteen months at Amiens, and six at Paris, in going through her classes; so knits, and sews, and dances, and does the little coquetries very well. -</p>
+            <p>- A slut! in running them over within these five minutes that I have stood looking at her, she has let fall at least a</p>
+            <pb n="32" xml:id="pb-32" facs="#i38"/>
+            <p>dozen loops in a white thread stocking - Yes, yes - I see, you cunning gipsy! - 'tis long, and taper - you need not pin it to your knee - and that 'tis your own - and fits you exactly. -</p>
+            <p>- That Nature should have told this creature a word about a statue's thumb! -</p>
+            <p>- But as this sample is worth all their thumbs - besides I have her thumbs and fingers in at the bargain if they can be any guide to me, - and as Janatone withal (for that is her name) stands so well for a drawing - may I never draw more, or rather may I draw like a draught-horse, by main strength all the days of my life, - if I do not draw her in all her proportions, and</p>
+            <pb n="33" xml:id="pb-33" facs="#i39"/>
+            <p>with as determin'd a pencil, as if I had her in the wettest drapery. -</p>
+            <p>- But your worships chuse rather that I give you the length, breadth, and perpendicular height of the great parish church, or a drawing of the fascade of the abbey of Saint Austreberte which has been transported from Artois hither - every thing is just I suppose as the masons and carpenters left them, - and if the belief in Christ continues so long, will be so these fifty years to come - so your worships and reverences, may all measure them at your leisures - but he who measures thee, Janatone, must do it now - thou carriest the principles of change within thy frame; and considering the chances of a transitory life, I would not answer for thee a moment; and e'er</p>
+            <pb n="34" xml:id="pb-34" facs="#i40"/>
+            <p>twice twelve months are pass'd and gone, thou mayest grow out like a pumkin, and lose thy shapes - or, thou mayest go off like a flower, and lose thy beauty - nay, thou mayest go off like a hussy - and lose thyself. - I would not answer for my aunt Dinah, was she alive - 'faith, scarce for her picture - were it but painted by Reynolds -</p>
+            <p>- But if I go on with my drawing, after naming that son of Apollo, I'll be shot -</p>
+            <p>So you must e'en be content with the original; which if the evening is fine in passing thro' Montreuil, you will see at your chaise door, as you change horses: but unless you have as bad a reason for haste as I have - you had better stop: -</p>
+            <pb n="35" xml:id="pb-35" facs="#i41"/>
+            <p>- She has a little of the devote: but that, sir, is a terce to a nine in your favour -</p>
+            <p>- L - help me! I could not count a single point: so had been piqued, and repiqued, and capotted to the devil.</p>
+            <p>CHAP. X.</p>
+            <p>ALL which being considered, and that Death moreover might be much nearer me than I imagined - I wish I was at Abbeville, quoth I, were it only to see how they card and spin - so off we set.</p>
+            <p>* de Montreuil a Nampont - poste et demi de Nampont a Bernay - poste</p>
+            <note>Below is a footnote</note>
+            <p>* Vid. Book of French post-roads, page 36. edition of 1762.</p>
+            <pb n="36" xml:id="pb-36" facs="#i42"/>
+            <p>de Bernay a Nouvion - poste</p>
+            <p>de Nouvion a ABBEVILLE poste</p>
+            <p>- but the carders and spinners were all gone to bed.</p>
+            <p>CHAP. XI.</p>
+            <p>WHAT a vast advantage is travelling! only it heats one; but there is a remedy for that, which you may pick out of the next chapter.</p>
+            <pb n="37" xml:id="pb-37" facs="#i43"/>
+            <p>CHAP. XII.</p>
+            <p>WAS I in a condition to stipulate with death, as I am this moment with my apothecary, how and where I will take his glister - I should certainly declare against submitting to it before my friends; and therefore, I never seriously think upon the mode and manner of this great catastrophe, which generally takes up and torments my thoughts as much as the catastrophe itself, but I constantly draw the curtain across it with this wish, that the Disposer of all things may so order it, that it happen not to me in my own house - but rather in some decent inn - at home, I know it, - the concern of my friends, and the last services of wiping my brows and smoothing my</p>
+            <pb n="38" xml:id="pb-38" facs="#i44"/>
+            <p>pillow, which the quivering hand of pale affection shall pay me, will so crucify my soul, that I shall die of a distemper which my physician is not aware of: but in an inn, the few cold offices I wanted, would be purchased with a few guineas, and paid me with an undisturbed, but punctual attention - but mark. This inn, should not be the inn at Abbeville - if there was not another inn in the universe, I would strike that inn out of the capitulation: so</p>
+            <p>Let the horses be in the chaise exactly by four in the morning - Yes, by four, Sir, - or by Genevieve! I'll raise a clatter in the house, shall wake the dead.</p>
+            <pb n="39" xml:id="pb-39" facs="#i45"/>
+            <p>CHAP. XIII.</p>
+            <p>"MAKE them like unto a wheel," is a bitter sarcasm, as all the learned know, against the grand tour, and that restless spirit for making it, which David prophetically foresaw would haunt the children of men in the latter days; and therefore, as thinketh the great bishop Hall, 'tis one of the severest imprecations which David ever utter'd against the enemies of the Lord - and, as if he had said, "I wish them no worse luck than always to be rolling about" - So much motion, continues he, (for he was very corpulent) - is so much unquietness; and so much of</p>
+            <pb n="40" xml:id="pb-40" facs="#i46"/>
+            <p>rest, by the same analogy, is so much of heaven.</p>
+            <p>Now, I (being very thin) think differently; and that so much of motion, is so much of life, and so much of joy - and that to stand still, or get on but slowly, is death and the devil -</p>
+            <p>Hollo! Ho! - the whole world's asleep! - bring out the horses - grease the wheels - tie on the mail - and drive a nail into that moulding - I'll not lose a moment -</p>
+            <p>Now the wheel we are talking of, and whereinto (but not whereonto, for that would make an Ixion's wheel of it) he curseth his enemies, according to the</p>
+            <pb n="41" xml:id="pb-41" facs="#i47"/>
+            <p>bishop's habit of body, should certainly be a post-chaise wheel, whether they were set up in Palestine at that time or not - and my wheel, for the contrary reasons, must as certainly be a cart-wheel groaning round its revolution once in an age; and of which sort, were I to turn commentator, I should make no scruple to affirm, they had great store in that hilly country.</p>
+             <p>I love the Pythagoreans (much more than ever I dare tell my dear Jenny) for their <note>GREEK</note> "χωρισμόν΄ από τᴕ Σω΄μαɭος, εις΄ το Καλώς Φιλοσοφϵίν" - [their]"getting  out of the body, in order to think well." No man thinks right whilst he is in it; blinded as he must be, with his congenial humours, and drawn differently</p>
+            <pb n="42" xml:id="pb-42" facs="#i48"/>
+            <p>aside, as the bishop and myself have been, with too lax or too tense a fibre - REASON, is half of it, SENSE; and the measure of heaven itself is but the measure of our present appetites and concoctions -</p>
+            <p>- But which of the two, in the present case, do you think to be mostly in the wrong?</p>
+            <p>You, certainly: quoth she, to disturb a whole family so early.</p>
+            <pb n="43" xml:id="pb-43" facs="#i49"/>
+            <p>CHAP. XIV.</p>
+            <p> - But she did not know I was under a vow not to shave my beard till I got to Paris; - yet I hate to make mysteries of nothing; - 'tis the cold cautiousness of one of those little souls from which Lessius (lib. 13. de moribus divinis, cap. 24.) hath made his estimate, wherein he setteth forth, That one Dutch mile, cubically multiplied, will allow room enough, and to spare, for eight hundred thousand millions, which he supposes to be as great a number of souls (counting from the fall of Adam) as can possibly be damn'd to the end of the world.</p>
+            <pb n="44" xml:id="pb-44" facs="#i50"/>
+            <p>From what he has made this second estimate - unless from the parental goodness of God - I don't know - I am much more at a loss what could be in Franciscus Ribbera's head, who pretends that no less a space than one of two hundred Italian miles multiplied into itself, will be sufficient to hold the like number - he certainly must have gone upon some of the old Roman souls, of which he had read, without reflecting how much, by a gradual and most tabid decline, in a course of eighteen hundred years, they must unavoidably have shrunk, so as to have come, when he wrote, almost to nothing.</p>
+            <pb n="45" xml:id="pb-45" facs="#i51"/>
+            <p>In Lessius's time, who seems the cooler man, they were as little as can be imagined -</p>
+            <p>- We find them less now -</p>
+            <p>And next winter we shall find them less again; so that if we go on from little to less, and from less to nothing, I hesitate not one moment to affirm, that in half a century, at this rate, we shall have no souls at all; which being the period beyond which I doubt likewise of the existence of the Christian faith, 'twill be one advantage that both of 'em will be exactly worn out together -</p>
+            <p>Blessed Jupiter! and blessed every other heathen god and goddess! for</p>
+            <pb n="46" xml:id="pb-46" facs="#i52"/>
+            <p>now ye will all come into play again, and with Priapus at your tails - what jovial times! - but where am I? and into what a delicious riot of things am I rushing? I - I who must be cut short in the midst of my days, and taste no more of 'em than what I borrow from my imagination - peace to thee, generous fool! and let me go on.</p>
+            <pb n="47" xml:id="pb-47" facs="#i53"/>
+            <p>CHAP. XV.</p>
+            <p>- "So hating, I say, to make mysteries of nothing" - I intrusted it with the post-boy, as soon as ever I got off the stones; he gave a crack with his whip to balance the compliment; and with the thill-horse trotting, and a sort of an up and a down of the other, we danced it along to Ailly au clochers, famed in days of yore for the finest chimes in the world; but we danced through it without music - the chimes being greatly out of order - (as in truth they were through all France). </p>
+            <p>And so making all possible speed, from</p>
+            <p>Ailly au clochers, I got to Hixcourt,</p>
+            <pb n="48" xml:id="pb-48" facs="#i54"/>
+            <p>from Hixcourt, I got to Pequignay, and from Pequignay, I got to AMIENS,</p>
+            <p>concerning which town I have nothing to inform you, but what I have informed you once before - and that was - that Janatone went there to school.</p>
+            <p>CHAP. XVI.</p>
+            <p>IN the whole catalogue of those whiffling vexations which come puffing across a man's canvass, there is not one of a more teasing and tormenting nature, than this particular one which I am going to describe - and for which, (unless you travel with an avance-courier, which numbers do in order to prevent it) - there is no help: and it is this.</p>
+            <p>That be you in never so kindly a propensity to sleep - tho' you are passing</p>
+            <pb n="49" xml:id="pb-49" facs="#i55"/>
+            <p>perhaps through the finest country - upon the best roads, - and in the easiest carriage for doing it in the world - nay was you sure you could sleep fifty miles straight forwards, without once opening your eyes - nay what is more, was you as demonstratively satisfied as you can be of any truth in Euclid, that you should upon all accounts be full as well asleep as awake - nay perhaps better - Yet the incessant returns of paying for the horses at every stage, - with the necessity thereupon of putting your hand into your pocket, and counting out from thence, three livres fifteen sous (sous by sous) puts an end to so much of the project, that you cannot execute above six miles of it (or supposing it is a post and a half, that is but nine) - were it to save your soul from destruction.</p>
+            <pb n="50" xml:id="pb-50" facs="#i56"/>
+            <p>- I'll be even with 'em, quoth I, for I'll put the precise sum into a piece of paper, and hold it ready in my hand all the way: "Now I shall have nothing to do" said I (composing myself to rest) "but to drop this gently into the post-boy's hat, and not say a word." - Then there wants two sous more to drink - or there is a twelve sous piece of Louis XIV. which will not pass - or a livre and some odd liards to be brought over from the last stage, which Monsieur had forgot; which altercations (as a man cannot dispute very well asleep) rouse him: still is sweet sleep retrievable; and still might the flesh weigh down the spirit, and recover itself of these blows - but then, by heaven!</p>
+            <pb n="51" xml:id="pb-51" facs="#i57"/>
+            <p>you have paid but for a single post - whereas 'tis a post and a half; and this obliges you to pull out your book of post-roads, the print of which is so very small, it forces you to open your eyes, whether you will or no: then Monsieur le Curè offers you a pinch of snuff - or a poor soldier shews you his leg - or a shaveling his box - or the priestesse of the cistern will water your wheels - they do not want it - but she swears by her priesthood (throwing it back) that they do: - then you have all these points to argue, or consider over in your mind; in doing of which, the rational powers get so thoroughly awakened - you may get 'em to sleep again as you can. </p>
+            <pb n="52" xml:id="pb-52" facs="#i58"/>
+            <p>It was entirely owing to one of these misfortunes, or I had pass'd clean by the stables of Chantilly - </p>
+            <p>- But the postillion first affirming, and then persisting in it to my face, that there was no mark upon the two sous piece, I open'd my eyes to be convinced - and seeing the mark upon it, as plain as my nose - I leap'd out of the chaise in a passion, and so saw every thing at Chantilly in spite. - I tried it but for three posts and a half, but believe 'tis the best principle in the world to travel speedily upon; for as few objects look very inviting in that mood - you have little or nothing to stop you; by which means it was that I pass'd through St.</p>
+            <pb n="53" xml:id="pb-53" facs="#i59"/>
+            <p>Dennis, without turning my head so much as on side towards the Abby -</p>
+            <p>- Richness of their treasury! stuff and nonsense! - bating their jewels, which are all false, I would not give three sous for any one thing in it, but Jaidas's lantern - nor for that either, only as it grows dark, it might be of use.</p>
+            <pb n="54" xml:id="pb-54" facs="#i60"/>
+            <p>CHAP. XVII.</p>
+            <p>CRACK, crack - crack, crack - crack, crack - so this is Paris! quoth I (continuing in the same mood) - and this is Paris! - humph! - Paris! cried I, repeating the name the third time -</p>
+            <p>The first, the finest, the most brilliant -</p>
+            <p>- The streets however are nasty;</p>
+            <p>But it looks, I suppose, better than it smells - crack, crack - crack, crack - What a fuss thou makest! - as if it concern'd the good people to be inform'd, That a man with pale face,</p>
+            <pb n="55" xml:id="pb-55" facs="#i61"/>
+            <p>and clad in black, had the honour to be driven into Paris at nine o'clock at night, by a postilion in a tawny yellow jerkin turned up with red calamanco - crack, crack - crack, crack - crack, crack - I wish thy whip -</p>
+            <p>- But 'tis the spirit of thy nation; so crack - crack on.</p>
+            <p>Ha! - and no one gives the wall! - but in the SCHOOL of URBANITY herself, if the walls are besh-t - how can you do otherwise?</p>
+            <p>And prithee when do they light the lamps? What? - never in the summer months! - Ho! 'tis the time of sallads. - O rare! sallad and soup - soup and sallad - sallad and soup, encore -</p>
+            <pb n="56" xml:id="pb-56" facs="#i62"/>
+            <p>- 'Tis too much for sinners.</p>
+            <p>Now I cannot bear the barbarity of it; how can that unconscionable coachman talk so much bawdy to that lean horse? don't you see, friend, the streets are so villainously narrow, that there is not room in all Paris to turn a wheel-barrow? In the grandest city of the whole world, in would not have been amiss, if they had been left a thought wider; nay were it only so much in every single street, as that a man might know (was it only for satisfaction) on which side of it he was walking.</p>
+            <p>One - two - three - four - five - six - seven - eight - nine - ten. - Ten cook's shops! and twice the number of barber's! and all within three minutes driving!</p>
+            <pb n="57" xml:id="pb-57" facs="#i63"/>
+            <p>one would think that all the cooks in the world on some great merry-meeting with the barbers, by joint consent had said - Come, let us all go live at Paris: the French love good eating - they are all gourmands - we shall rank high; if their god is their belly - their cooks must be gentlemen: and forasmuch as the periwig maketh the man, and the periwig-maker maketh the periwig - ergo, would the barbers say, we shall rank higher still - we shall be above you all - we shall be * Capitouls at least - pardi! we shall all wear swords -</p>
+            <p>- And so, one would swear, (that is by candle-light, - but there is no depending upon it) they continue to do, to this day.</p>
+            <note>below is a footnote</note>
+            <p>*Chief Magistrate in Toulouse, &amp;c. &amp;c. &amp;c.</p>
+            <pb n="58" xml:id="pb-58" facs="#i64"/>
+            <p>CHAP. XVIII.</p>
+            <p>THE French are certainly misunderstood: - but whether the fault is theirs, in not sufficiently explaining themselves; or speaking with that exact limitation and precision which one would expect on a point of such importance, and which moreover, is so likely to be contested by us - or whether the fault may not be altogether on our side, in not understanding their language always so critically as to know "what they would be at" - I shall not decide; but 'tis evident to me, when they affirm, "That they who have seen Paris, have seen every thing," they must mean to speak of those who have seen it by day-light.</p>
+            <pb n="59" xml:id="pb-59" facs="#i65"/>
+            <p>As for candle-light - I give it up - I have said before, there was no depending upon it - and I repeat it again; but not because the lights and shades are too sharp - or the tints confounded - or that there is neither beauty or keeping, &amp;c. ... for that's not truth - but it is an uncertain light in this respect, That in all the five hundred grand Hôtels, which they number up to you in Paris - and the five hundred good things, at a modest computation (for 'tis only allowing one good thing to a Hôtel) which by candle-light are best to be seen, felt, heard and understood (which, by the bye is a quotation from Lilly) - the devil a one of us out of fifty, can get our heads fairly thrust in amongst them.</p>
+            <pb n="60" xml:id="pb-60" facs="#i66"/>
+            <p>This is no part of the French computation: 'tis simply this.</p>
+            <p>That by the last survey taken in the year one thousand seven hundred and sixteen, since which time there have been considerable augmentations, Paris doth contain nine hundred streets; (viz.)</p>
+            <p>In the quarter called the City - there are fifty three streets.</p>
+            <p>In St. James of the Shambles, fifty five streets.</p>
+            <p>In St. Oportune, thirty four streets.</p>
+            <p>In the quarter of the Louvre, twenty five streets.</p>
+            <p>In the Palace Royal, or St. Honorius, forty nine streets.</p>
+            <p>In Mont. Martyr, forty one streets.</p>
+            <p>In St. Eustace, twenty nine streets.</p>
+            <pb n="61" xml:id="pb-61" facs="#i67"/>
+            <p>In the Halles, twenty seven streets.</p>
+            <p>In St. Dennis, fifty five streets.</p>
+            <p>In St. Martin, fifty four streets.</p>
+            <p>In St. Paul, or the Mortellerie, twenty seven streets.</p>
+            <p>The Greve, thirty eight streets.</p>
+            <p>In St. Avoy, or the Verrerie, nineteen streets.</p>
+            <p>In the Marais, or the Temple, fifty two streets.</p>
+            <p>In St. Antony's, sixty eight streets.</p>
+            <p>In the Place Maubert, eighty one streets.</p>
+            <p>In St. Bennet, sixty streets.</p>
+            <p>In St. Andrews de Arcs, fifty one streets.</p>
+            <p>In the quarter of the Luxembourg, sixty two streets.</p>
+            <p>And in that of St. Germain, fifty five streets, into any of which you may walk; and that when you have seen them with</p>
+            <pb n="62" xml:id="pb-62" facs="#i68"/>
+            <p>all that belongs to them, fairly by daylight - their gates, their bridges, their squares, their statues - and have crusaded it moreover through all their parish churches, by no means omitting St. Roche and Sulplice - and to crown all, have taken a walk to the four palaces, which you may see either with or without the statues and pictures, just as you chuse -</p>
+            <p>- Then you will have seen -</p>
+            <p>- but, 'tis what no one needeth to tell you, for you will read it yourself upon the portico of the Louvre, in these words,</p>
+            <p>* EARTH NO SUCH FOLKS! - NO FOLKS E'ER SUCH A TOWN</p>
+            <p>AS PARIS IS! - SING, DERRY, DERRY, DOWN.</p>
+            <note>Below is a footnote</note>
+            <p>*Non Orbis gentem, non urbem gens habet ullam - ulla parem.</p>
+            <pb n="63" xml:id="pb-63" facs="#i69"/>
+            <p>The French have a gay way of treating every thing that is Great; and that is all can be said upon it.</p>
+            <p>CHAP. XIX.</p>
+            <p>IN mentioning the word gay (as in the close of the last chapter) it puts one (i. e. an author) in mind of the word spleen - especially if he has any thing to say upon it: not that by any analysis - or that from any table of interest or genealogy, there appears much more ground of alliance betwixt them, than betwixt light and darkness, or any two of the most unfriendly opposites in nature - only 'tis an undercraft of authors to keep up a good understanding amongst words, as politicians do amongst men - not knowing how near they may</p>
+            <pb n="64" xml:id="pb-64" facs="#i70"/>
+            <p>be under a necessity of placing them to each other - which point being now gain'd, and that I may place mine exactly to my mind, I write it down here -</p>
+            <p>SPLEEN.</p>
+            <p>This, upon leaving Chantilly, I declared to be the best principle in the world to travel speedily upon; but I gave it only as matter of opinion, I still continue in the same sentiments - only I had not then experience enough of its working to add this, that though you do get on at a tearing rate, yet you get on but uneasily to yourself at the same time; for which reason I here quit it entirely, and for ever, and 'tis heartily at one's service - it has spoiled me the digestion of a good supper, and brought</p>
+            <pb n="65" xml:id="pb-65" facs="#i71"/>
+            <p>on a bilious diarrhaea, which has brought me back again to my first principle on which I set out - and with which I shall now scamper it away to the banks of the Garonne -</p>
+            <p>- No; - I cannot stop a moment to give you the character of the people - their genius - their manners - their customs - their laws - their religion - their government - their manufactures - their commerce - their finances, with all the resources and hidden springs which sustain them: qualified as I may be, by spending three days and two nights amongst them, and during all that time, making these things the entire subject of my enquiries and reflections -</p>
+            <pb n="66" xml:id="pb-66" facs="#i72"/>
+            <p>Still - still I must away - the roads are paved - the posts are short - the days are long - 'tis no more than noon - I shall be at Fontainbleau before the king -</p>
+            <p>- Was he going there? not that I know -</p>
+            <p>CHAP. XX.</p>
+            <p>NOW I hate to hear a person, especially if he be a traveller, complain that we do not get on so fast in France as we do in England; whereas we get on much faster, consideratis, considerandis; thereby always meaning, that if you weigh their vehicles with the mountains of baggage which you lay both before and behind upon them - and then consider their puny horses, with the very little they</p>
+            <pb n="67" xml:id="pb-67" facs="#i73"/>
+            <p>give them - 'tis a wonder they get on at all: their suffering is most unchristian, and 'tis evident thereupon to me, that a French post-horse would not know what in the world to do, was it not for the two words * * * * * * and * * * * * * in which there is as much sustenance, as if you gave him a peck of corn: now as these words cost nothing, I long from my soul to tell the reader what they are; but here is the question - they must be told him plainly, and with the most distinct articulation, or it will answer no end - and yet to do it in that plain way - though their reverences may laugh at it in the bed-chamber - full well I wot, they will abuse it in the parlour: for which cause, I have been volving and revolving in my fancy some time, but to no</p>
+            <pb n="68" xml:id="pb-68" facs="#i74"/>
+            <p>purpose, by what clean device or facete contrivance I might so modulate them, that whilst I satisfy that ear which the reader chuses to lend me - I might not dissatisfy the other which he keeps to himself.</p>
+            <p>- My ink burns my finger to try - and when I have - 'twill have a worse consequence - it will burn (I fear) my paper.</p>
+            <p>- No; - I dare not -</p>
+            <p>But if you wish to know how the abbess of Andoüillets, and a novice of her convent got over the difficulty (only first wishing myself all imaginable success) - I'll tell you without the least scruple.</p>
+            <pb n="69" xml:id="pb-69" facs="#i75"/>
+            <p>CHAP. XXI.</p>
+            <p>THE abbess of Andoüillets, which if you look into the large set of provincial maps now publishing at Paris, you will find situated amongst the hills which divide Burgundy from Savoy, being in danger of an Anchylosis or stiff joint (the sinovia of her knee becoming hard by long matins) and having tried every remedy - first, prayers and thanksgiving; then invocations to all the saints in heaven promiscuously - then particularly to every saint who had ever had a stiff leg before her - then touching it with all the reliques of the convent, principally with the thigh-bone of the man of Lystra, who had been impotent from his youth - then wrapping</p>
+            <pb n="70" xml:id="pb-70" facs="#i76"/>
+            <p>it up in her veil when she went to bed - then cross-wise her rosary - then bringing in to her aid the secular arm, and anointing it with oils and hot fat of animals - then treating it with emollient and resolving fomentations - then with poultices of marsh-mallows, mallows, bonus Henricus, white lillies and fenugreek - then taking the woods, I mean the smoak of 'em, holding her scapulary across her lap - then decoctions of wild chicory, water cresses, chervil, sweet cecily and cochlearia - and nothing all this while answering, was prevailed on at last to try the hot baths of Bourbon - so having first obtain'd leave of the visitor-general to take care of her existence - she ordered all to be got ready for her journey: a novice of</p>
+            <pb n="71" xml:id="pb-71" facs="#i77"/>
+            <p>the convent of about seventeen, who had been troubled with a whitloe in her middle finger, by striking it constantly into the abbess's cast poultices, &amp;c. - had gained such an interest, that overlooking a sciatical old nun, who might have been set up for ever by the hot baths of Bourbon, Margarita, the little novice, was elected as the companion of the journey.</p>
+            <p>An old calesh, belonging to the abbesse, lined with green frize, was ordered to be drawn out into the sun - the gardener of the convent being chosen muleteer, led out the two old mules to clip the hair from the rump-ends of their tails, whilst a couple of lay-sisters were busied, the one in darning the lining, and the other in sewing on the shreds of yellow binding,</p>
+            <pb n="72" xml:id="pb-72" facs="#i78"/>
+            <p>which the teeth of time had unravelled - the under-gardener dress'd the muleteer's hat in hot-wine-lees - and a taylor sat musically at it, in a shed overagainst the convent, in assorting four dozen of bells for the harness, whistling to each bell as he tied it on with a thong -</p>
+            <p>- The carpenter and the smith of Andoüillets held a council of wheels; and by seven, the morning after, all look'd spruce, and was ready at the gate of the convent for the hot-baths of Bourbon - two rows of the unfortunate stood ready there an hour before.</p>
+            <p>The abbess of Andoüillets, supported by Margarita the novice, advanced slowly to the calesh, both clad in white,</p>
+            <pb n="73" xml:id="pb-73" facs="#i79"/>
+            <p>with their black rosaries hanging at their breasts -</p>
+            <p>- There was a simple solemnity in the contrast: they entered the calesh; the nuns in the same uniform, sweet emblem of innocence, each occupied a window, and as the abbess and Margarita look'd up - each (the sciatical poor nun excepted) - each stream'd out the end of her veil in the air - then kiss'd the lilly hand which let it go: the good abbess and Margarita laid their hands saint-wise upon their breasts - look'd up to heaven - then to them - and look'd "God bless you, dear sisters."</p>
+            <p>I declare I am interested in this story, and wish I had been there.</p>
+            <pb n="74" xml:id="pb-74" facs="#i80"/>
+            <p>The gardener, who I shall now call the muleteer, was a little, hearty, broadset, good natured, chattering, toping kind of a fellow, who troubled his head very little with the hows and whens of life; so had mortgaged a month of his conventical wages in a borrachio, or leathern cask of wine, which he had disposed behind the calesh, with a large russet coloured riding coat over it, to guard it from the sun; and as the weather was hot, and he, not a niggard of his labours, walking ten times more than he rode - he found more occasions than those of nature, to fall back to the rear of his carriage; till by frequent coming and going, it had so happen'd, that all his wine had leak'd out at the legal vent of the borrachio, before one half of the journey was finish'd.</p>
+            <pb n="75" xml:id="pb-75" facs="#i81"/>
+            <p>Man is a creature born to habitudes. The day had been sultry - the evening was delicious - the wine was generous - the Burgundian hill on which it grew was steep - a little tempting bush over the door of a cool cottage at the foot of it, hung vibrating in full harmony with the passions - a gentle air rustled distinctly through the leaves - "Come - come, thirsty muleteer - come in."</p>
+            <p>- The muleteer was a son of Adam. I need not say one word more. He gave the mules, each of 'em, a sound lash, and looking in the abbess's and Margarita's faces (as he did it) - as much as to say, "here I am" - he gave a second good crack - as much as to say to his mules,</p>
+            <pb n="76" xml:id="pb-76" facs="#i82"/>
+            <p>"get on" - so slinking behind, he enter'd the little inn at the foot of the hill.</p>
+            <p>The muleteer, as I told you, was a little, joyous, chirping fellow, who thought not of to-morrow, nor of what had gone before, or what was to follow it, provided he got but his scantling of Burgundy, and a little chit-chat along with it; so entering into a long conversation, as how he was chief gardener to the convent of Andoüillets, &amp;c. &amp;c. and out of friendship for the abbess and Mademoiselle Margarita, who was only in her noviciate, he had come along with them from the confines of Savoy, &amp;c. - &amp;c. - and as how she had got a white swelling by her devotions - and what a nation of herbs he had procured to mollify her humours, &amp;c. &amp;c. and that if the waters</p>
+            <pb n="77" xml:id="pb-77" facs="#i83"/>
+            <p>of Bourbon did not mend that leg - she might as well be lame of both - &amp;c. &amp;c. &amp;c. - He so contrived his story as absolutely to forget the heroine of it - and with her, the little novice, and what was a more ticklish point to be forgot than both - the two mules; who being creatures that take advantage of the world, inasmuch as their parents took it of them - and they not being in a condition to return the obligation downwards (as men and women and beasts are) - they do it side-ways, and long-ways, and back-ways - and up hill, and down hill, and which way they can. - Philosophers, with all their ethics, have never considered this rightly - how should the poor muleteer then, in his cups, consider it at all? he did not in the least - 'tis time we do; let us leave him then in the vortex</p>
+            <pb n="78" xml:id="pb-78" facs="#i84"/>
+            <p>of his element, the happiest and most thoughtless of mortal men - and for a moment let us look after the mules, the abbess, and Margarita.</p>
+            <p>By virtue of the muleteer's two last strokes, the mules had gone quietly on, following their own consciences up the hill, till they had conquer'd about one half of it; when the elder of them, a shrewd crafty old devil, at the turn of an angle, giving a side glance, and no muleteer behind them -</p>
+            <p>By my fig! said she, swearing, I'll go no further - And if I do, replied the other - they shall make a drum of my hide. -</p>
+            <p>And so with one consent they stopp'd thus -</p>
+            <pb n="79" xml:id="pb-79" facs="#i85"/>
+            <p>CHAP. XXII.</p>
+            <p>- Get on with you, said the abbess.</p>
+            <p>- Wh - ysh - ysh - cried Margarita.</p>
+            <p>Sh - a - shu - u - shu - u - sh - aw - shaw'd the abbess.</p>
+            <p>- Whu - v - w - whew - w - w - whuv'd Margarita, pursing up her sweet lips betwixt a hoot and a whistle.</p>
+            <p>Thump - thump - thump - obstreperated the abbess of Andoüillets with the end of her gold-headed cane against the bottom of the calesh -</p>
+            <p>- The old mule let a f -</p>
+            <pb n="80" xml:id="pb-80" facs="#i86"/>
+            <p>CHAP. XXIII.</p>
+            <p>WE are ruin'd and undone, my child, said the abbess to Margarita - we shall be here all night - we shall be plunder'd - we shall be ravish'd -</p>
+            <p>- We shall be ravish'd, said Margarita, as sure as a gun.</p>
+            <p>Sancta Maria! cried the abbess (forgetting the O!) - why was I govern'd by this wicked stiff joint? why did I leave the convent of Andoüillets? and why didst thou not suffer thy servant to go unpolluted to her tomb?</p>
+            <p>O my finger! my finger! cried the novice, catching fire at the word servant</p>
+            <pb n="81" xml:id="pb-81" facs="#i87"/>
+            <p>- why was I not content to put it here, or there, any where rather than be in this strait?</p>
+            <p>- Strait! said the abbess.</p>
+            <p>Strait - said the novice; for terrour had struck their understandings - the one knew not what she said - the other what she answer'd.</p>
+            <p>O my virginity! virginity! cried the abbess.</p>
+            <p>- inity! - inity! said the novice, sobbing.</p>
+            <pb n="82" xml:id="pb-82" facs="#i88"/>
+            <p>CHAP. XXIV.</p>
+            <p>MY dear mother, quoth the novice, coming a little to herself, - there are two certain words, which I have been told will force any horse, or ass, or mule, to go up a hill whether he will or no; be he never so obstinate or ill-will'd, the moment he hears them utter'd, he obeys. They are words magic! cried the abbess, in the utmost horrour - No; replied Margarita calmly - but they are words sinful - What are they? quoth the abbess, interrupting her: They are sinful in the first degree, answered Margarita, - they are mortal - and if we are ravish'd and die unabsolved of them, we shall both - but you may pronounce them</p>
+            <pb n="83" xml:id="pb-83" facs="#i89"/>
+            <p>to me, quoth the abbess of Andouillets - They cannot, my dear mother, said the novice, be pronounced at all; they will make all the blood in one's body fly up into one's face - But you may whisper them in my ear, quoth the abbess.</p>
+            <p>Heaven! hadst thou no guardian angel to delegate to the inn at the bottom of the hill? was there no generous and friendly spirit unemploy'd - no agent in nature, by some monitory shivering, creeping along the artery which led to his heart, to rouze the muleteer from his banquet? - no sweet minstrelsy to bring back the fair idea of the abbess and Margarita, with their black rosaries!</p>
+            <p>Rouse! rouse! - but 'tis too late - the horrid words are pronounced this moment -</p>
+            <pb n="84" xml:id="pb-84" facs="#i90"/>
+            <p>- and how to tell them - Ye, who can speak of every thing existing, with unpolluted lips - instruct me - guide me -</p>
+            <p>CHAP. XXV.</p>
+            <p>ALL sins whatever, quoth the abbess, turning casuist in the distress they were under, are held by the confessor of our convent to be either mortal or venial: their is no further division. Now a venial sin being the slightest and least of all sins, - being halved - by taking, either only the half of it, and leaving the rest - or, by taking it all, and amicably halving it betwixt yourself and another person - in course becomes diluted into no sin at all.</p>
+            <pb n="85" xml:id="pb-85" facs="#i91"/>
+            <p>Now I see no sin in saying, bou, bou, bou, bou, bou, a hundred times together; nor is there any turpitude in pronouncing the syllable ger, ger, ger, ger, ger, were it from our matins to our vespers: Therefore, my dear daughter, continued the abbess of Andouillets - I will say bou, and thou shalt say ger; and then alternately, as there is no more sin in fou then in bou - Thou shalt say fou - and I will come in (like fa, sol, la, re, mi, ut, at our complines) with ter. And accordingly the abbess, giving the pitch note, set off thus:</p>
+            <note>The names below have double line brackets</note>
+            <p>Abbess, } Bou - bou - bou</p>
+            <p>Margarita, } - ger, - ger, - ger</p>
+            <p>Margarita, } Fou - fou - fou</p>
+            <p>Abbess, } - ter, - ter, - ter</p>
+            <pb n="86" xml:id="pb-86" facs="#i92"/>
+            <p>The two mules acknowledged the notes by a mutual lash of their tails; but it went no further. - 'Twill answer by an' by, said the novice.</p>
+            <note>The names below have double line brackets</note>
+            <p>Abbess, } Bou - bou - bou - bou - bou - bou</p>
+            <p>Margarita, } - ger, ger, ger, ger, ger, ger.</p>
+            <p>Quicker still, cried Margarita.</p>
+            <p>Fou, fou, fou, fou, fou, fou, fou, fou, fou.</p>
+            <p>Quicker still, cried Margarita.</p>
+            <p>Bou, bou, bou, bou, bou, bou, bou, bou, bou.</p>
+            <p>Quicker still - God preserve me! said the abbess - They do not understand us, cried Margarita - But the Devil does, said the abbess of Andouillets.</p>
+            <pb n="87" xml:id="pb-87" facs="#i93"/>
+            <p>CHAP. XXVI.</p>
+            <p>WHAT a tract of country have I run! - how many degrees nearer to the warm sun am I advanced, and how many fair and goodly cities have I seen, during the time you have been reading, and reflecting, Madam, upon this story! There's FONTAINBLEAU, and SENS, and JOIGNY, and AUXERRE, and DIJON the capital of Burgundy, and CHALLON, and Mâcon the capital of the Mâconese, and a score more upon the road to LYONS - and now I have run them over - I might as well talk to you of so many market-towns in the moon, as tell you one word about them: it will be this chapter at the least, if not both this</p>
+            <pb n="88" xml:id="pb-88" facs="#i94"/>
+            <p>and the next entirely lost, do what I will -</p>
+            <p>- Why, 'tis a strange story! Tristram.</p>
+            <p>- Alas! Madam, had it been upon some melancholy lecture of the cross - the peace of meekness, or the contentment of resignation - I had not been incommoded: or had I thought of writing it upon the purer abstractions of the soul, and that food of wisdom, and holiness, and contemplation, upon which the spirit of man (when separated from the body) is to subsist for ever - You would have come with a better appetite from it -</p>
+            <p>- I wish I never had wrote it: but as I never blot any thing out - let us</p>
+            <pb n="89" xml:id="pb-89" facs="#i95"/>
+            <p>use some honest means to get it out of our heads directly.</p>
+            <p>- Pray reach me my fool's cap - I fear you sit upon it, Madam - 'tis under the cushion - I'll put it on -</p>
+            <p>Bless me! you have had it upon your head this half hour. - There then let it stay, with a</p>
+            <p>Fa-ra diddle di</p>
+            <p>and a fa-ri diddle d</p>
+            <p>and a high-dum - dye-dum</p>
+            <p>fiddle - dumb - c.</p>
+            <p>And now, Madam, we may venture, I hope, a little to go on.</p>
+            <pb n="90" xml:id="pb-90" facs="#i96"/>
+            <p>CHAP. XXVII.</p>
+            <p>- All you need say of Fontainbleau (in case you are ask'd) is, that it stands about forty miles (south something) from Paris, in the middle of a large forest - That there is something great in it - That the king goes there once, every two or three years, with his whole court, for the pleasure of the chase - and that during that carnival of sporting, any English gentleman of fashion (you need not forget yourself) may be accommodated with a nag or two, to partake of the sport, taking care only not to out-gallop the king -</p>
+            <p>Though there are two reasons why you need not talk loud of this to every one.</p>
+            <pb n="91" xml:id="pb-91" facs="#i97"/>
+            <p>First, Because 'twill make the said nags the harder to be got; and</p>
+            <p>Secondly, 'Tis not a word of it true. - Allons!</p>
+            <p>As for SENS - you may dispatch it in a word - "'Tis an archiepiscopal see."</p>
+            <p>- For JOIGNY - the less, I think, one says of it, the better.</p>
+            <p>But for AUXERRE - I could go on for ever: for in my grand tour through Europe, in which, after all, my father (not caring to trust me with any one) attended me himself, with my uncle Toby, and Trim, and Obadiah, and indeed most of the family, except my mother, who being</p>
+            <pb n="92" xml:id="pb-92" facs="#i98"/>
+            <p>taken up with a project of knitting my father a pair of large worsted breeches - (the thing is common sense) - and she not caring to be put out of her way, she staid at home at SHANDY HALL, to keep things right during the expedition; in which, I say, my father stopping us two days at Auxerre, and his researches being ever of such a nature, that they would have found fruit even in a desert - he has left me enough to say upon AUXERRE: in short, wherever my father went - but 'twas more remarkably so, in this journey through France and Italy, than in any other stages of his life - his road seemed to lie so much on one side of that, wherein all other travellers had gone before him - he saw kings and courts and silks of all colours,</p>
+            <pb n="93" xml:id="pb-93" facs="#i99"/>
+            <p>in such strange lights - and his remarks and reasonings upon the characters, the manners and customs of the countries we pass'd over, were so opposite to those of all other mortal men, particularly those of my uncle Toby and Trim - (to say nothing of myself) - and to crown all - the occurrences and scrapes which we were perpetually meeting and getting into, in consequence of his systems and opiniatry - they were of so odd, so mixed and tragicomical a contexture - That the whole put together, it appears of so different a shade and tint from any tour of Europe, which was ever executed - That I will venture to pronounce - the fault must be mine and mine only - if it be not read by all travellers and travel-readers, till travelling is no more, - or which comes to the same point - till the</p>
+            <pb n="94" xml:id="pb-94" facs="#i100"/>
+            <p>world, finally, takes it into it's head to stand still. -</p>
+            <p>- But this rich bale is not to be open'd now; except a small thread or two of it, merely to unravel the mystery of my father's stay at AUXERRE.</p>
+            <p>- As I have mentioned it - 'tis too slight to be kept suspended; and when 'tis wove in, there's an end of it.</p>
+            <p>We'll go, brother Toby, said my father, whilst dinner is coddling - to the abby of Saint Germain, if it be only to see these bodies, of which monsieur Sequier has given such a recommendation. - I'll go see any body; quoth my uncle Toby; for he was all compliance thro' every step of the journey - Defend</p>
+            <pb n="95" xml:id="pb-95" facs="#i101"/>
+            <p>me! said my father - they are all mummies - Then one need not shave; quoth my uncle Toby - Shave! no - cried my father - 'twill be more like relations to go with our beards on - So out we sallied, the corporal lending his master his arm, and bringing up the rear, to the abby of Saint Germain.</p>
+            <p>Every thing is very fine, and very rich, and very superb, and very magnificent, said my father, addressing himself to the sacristan, who was a young brother of the order of Benedictines - but our curiosity has led us to see the bodies, of which monsieur Sequier has given the world so exact a description. - The sacristan made a bow, and lighting a torch first, which he had always in the vestry ready for the purpose; he led us into the</p>
+            <pb n="96" xml:id="pb-96" facs="#i102"/>
+            <p>tomb of St. Heribald - This, said the sacristan, laying his hand upon the tomb, was a renowned prince of the house of Bavaria, who under the successive reigns of Charlemagne, Louis le Debonair, and Charles the Bald, bore a great sway in the government, and had a principal hand in bringing every thing into order and discipline -</p>
+            <p>Then he has been as great, said my uncle, in the field, as in the cabinet - I dare say he has been a gallant soldier - He was a monk - said the sacristan.</p>
+            <p>My uncle Toby and Trim sought comfort in each others faces - but found it not: my father clapp'd both his hands upon his cod-piece, which was a way he had when any thing hugely tickled</p>
+            <pb n="97" xml:id="pb-97" facs="#i103"/>
+            <p>him; for though he hated a monk and the very smell of a monk worse than all the devils in hell - yet the shot hitting my uncle Toby and Trim so much harder than him, 'twas a relative triumph; and put him into the gayest humour in the world.</p>
+            <p>- And pray what do you call this gentleman? quoth my father, rather sportingly: This tomb, said the young Benedictine, looking downwards, contains the bones of Saint MAXIMA, who came from Ravenna on purpose to touch the body -</p>
+            <p>- Of Saint MAXIMUS, said my father, popping in with his saint before him - they were two of the greatest saints in the whole martyrology, added my father</p>
+            <pb n="98" xml:id="pb-98" facs="#i104"/>
+            <p>- Excuse me, said the sacristan - 'twas to touch the bones of Saint Germain the builder of the abby - And what did she get by it? said my uncle Toby - What does any woman get by it? said my father - MARTYRDOME; replied the young Benedictine, making a bow down to the ground, and uttering the word with so humble, but decisive a cadence, it disarmed my father for a moment. 'Tis supposed, continued the Benedictine, that St. Maxima has lain in this tomb four hundred years, and two hundred before her canonization - 'Tis but a slow rise, brother Toby, quoth my father, in this self same army of martyrs. - A desperate slow one, an' please your honour, said Trim, unless one could purchase - I should rather sell out entirely,</p>
+            <pb n="99" xml:id="pb-99" facs="#i105"/>
+            <p>quoth my uncle Toby - I am pretty much of your opinion, brother Toby, said my father.</p>
+            <p>- Poor St. Maxima! said my uncle Toby low to herself, as we turn'd from her tomb: She was one of the fairest and most beautiful ladies either of Italy or France, continued the sacristan - But who the duce has got lain down here, besides her, quoth my father, pointing with his cane to a large tomb as we walked on - It is Saint Optat, Sir, answered the sacristan - And properly is Saint Optat plac'd! said my father: And what is Saint Optat's story? continued he. Saint Optat, replied the sacristan, was a bishop -</p>
+            <pb n="100" xml:id="pb-100" facs="#i106"/>
+            <p>- I thought so, by heaven! cried my father, interrupting him - Saint Optat! - how should Saint Optat fail? so snatching out his pocket-book, and the young Benedictine holding him the torch as he wrote, he set it down as a new prop to his system of christian names, and I will be bold to say, so disinterested was he in the search of truth, that had he found a treasure in St. Optat's tomb, it would not have made him half so rich: 'Twas as successful a short visit as ever was paid to the dead; and so highly was his fancy pleas'd with all that had passed in it, - that he determined at once to stay another day in Auxerre.</p>
+            <p>- I'll see the rest of these good gentry to-morrow, said my father, as we cross'd over the square - And while you are paying</p>
+            <pb n="101" xml:id="pb-101" facs="#i107"/>
+            <p>that visit, brother Shandy, quoth my uncle Toby - the corporal and I will mount the ramparts.</p>
+            <p>CHAP. XXVIII.</p>
+            <p>- NOW this is the most puzzled skein of all - for in this last chapter, as far at least as it has help'd me through Auxerre, I have been getting forwards in two different journies together, and with the same dash of the pen - for I have got entirely out of Auxerre in this journey which I am writing now, and I am got half way out of Auxerre in that which I shall write hereafter - There is but a certain degree of perfection in every thing; and by pushing at something beyond that, I have brought myself into such a situation, as</p>
+            <pb n="102" xml:id="pb-102" facs="#i108"/>
+            <p>no traveller ever stood before me; for I am this moment walking across the market-place of Auxerre with my father and my uncle Toby, in our way back to dinner - and I am this moment also entering Lyons with my post-chaise broke into a thousand pieces - and I am moreover this moment in a handsome pavillion built by Pringello*, upon the banks of the Garonne, which Mons. Sligniac has lent me, and where I now sit rhapsodizing all these affairs.</p>
+            <p>- Let me collect myself, and pursue my journey.</p>
+            <note>below is a footnote</note>
+            <p>*The same Don Pringello, the celebrated Spanish architect, of whom my cousin Antony has made such honourable mention in a scholium to the Tale inscribed to his name.</p>
+            <p>Vid. p. 129, small edit.</p>
+            <pb n="103" xml:id="pb-103" facs="#i109"/>
+            <p>CHAP. XXIX.</p>
+            <p>I Am glad of it, said I, settling the account with myself as I walk'd into Lyons - my chaise being all laid higgledy-piggledy with my baggage in a cart, which was moving slowly before me - I am heartily glad, said I, that 'tis all broke to pieces; for now I can go directly by water to Avignon, which will carry me on a hundred and twenty miles of my journey, and not cost me seven livres - and from thence, continued I, bringing forwards the account, I can hire a couple of mules - or asses, if I like, (for no body knows me) and cross the plains of Languedoc, for almost nothing - I shall gain four hundred livres by the misfortune clear into my purse;</p>
+            <pb n="104" xml:id="pb-104" facs="#i110"/>
+            <p>and pleasure! worth - worth double the money by it. With what velocity, continued I, clapping my two hands together, shall I fly down the rapid Rhone, with the VIVARES on my right-hand, and DAUPHINY on my left, scarce seeing the ancient cities of VIENNE, Valence, and Vivieres. What a flame will it rekindle in the lamp, to snatch a blushing grape from the Hermitage and Cotê roti, as I shoot by the foot of them? and what a fresh spring in the blood! to behold upon the banks advancing and retiring, the castles of romance, whence courteous knights have whilome rescued the distress'd - and see vertiginous, the rocks, the mountains, the cataracts, and all the hurry which Nature is in with all her great works about her -</p>
+            <pb n="105" xml:id="pb-105" facs="#i111"/>
+            <p>As I went on thus, methought my chaise, the wreck of which look'd stately enough at the first, insensibly grew less and less in its size; the freshness of the painting was no more - the gilding lost its lustre - and the whole affair appeared so poor in my eyes - so sorry! - so contemptible! and, in a word, so much worse than the abbess of Andoüillet's itself - that I was just opening my mouth to give it to the devil - when a pert vamping chaise-undertaker, stepping nimbly across the street, demanded if Monsieur would have his chaise refitted - No, no, said I, shaking my head sideways - Would Monsieur chuse to sell it? rejoin'd the undertaker - With all my soul, said I - the iron work is worth forty livres - and the glasses worth forty more - and the leather you may take to live on.</p>
+            <pb n="106" xml:id="pb-106" facs="#i112"/>
+            <p>- What a mine of wealth, quoth I, as he counted me the money, has this post chaise brought me in? And this is my usual method of book-keeping, at least with the disasters of life - making a penny of every one of 'em as they happen to me -</p>
+            <p>- Do, my dear Jenny, tell the world for me, how I behaved under one, the most oppressive of its kind which could befall me as a man, proud, as he ought to be, of his manhood -</p>
+            <p>'Tis enough, said'st thou, coming close up to me, as I stood with my garters in my hand, reflecting upon what had not pass'd - 'Tis enough, Tristram, and I am satisfied, said'st thou, whispering these words in my ear, **** ** **** *** ******; - **** ** **** <note>29 asterisks</note></p>
+            <pb n="107" xml:id="pb-107" facs="#i113"/>
+            <p>- any other man would have sunk down to the center -</p>
+            <p>- Every thing is good for something, quoth I.</p>
+            <p>- I'll go into Wales for six weeks, and drink goat's whey - and I'll gain seven years longer life for the accident. For which reason I think myself inexcusable, for blaming Fortune so often as I have done, for pelting me all my life long, like an ungracious dutchess, as I call'd her, with so many small evils: surely if I have any cause to be angry with her, 'tis that she has not sent me great ones - a score of good cursed, bouncing losses, would have been as good as a pension to me.</p>
+            <pb n="108" xml:id="pb-108" facs="#i114"/>
+            <p>- One of a hundred a year, or so, is all I wish - I would not be at the plague of paying land tax for a larger.</p>
+            <p>CHAP. XXX.</p>
+            <p>TO those who call vexations, VEXATIONS, as knowing what they are, there could not be a greater, than to be the best part of a day in Lyons, the most opulent and flourishing city in France, enriched with the most fragments of antiquity - and not be able to see it. To be withheld upon any account, must be a vexation; but to be witheld by a vexation - must certainly be, what philosophy justly calls</p>
+            <p>VEXATION</p>
+            <p>upon</p>
+            <p>VEXATION.</p>
+            <pb n="109" xml:id="pb-109" facs="#i115"/>
+            <p>I had got my two dishes of milk coffee (which by the bye is excellently good for a consumption, but you must boil the milk and coffee together - otherwise 'tis only coffee and milk) - and as it was no more than eight in the morning, and the boat did not go off till noon, I had time to see enough of Lyons to tire the patience of all the friends I had in the world with it. I will take a walk to the cathedral, said I, looking at my list, and see the wonderful mechanism of this great clock of Lippius of Basil, in the first place -</p>
+            <p>Now, of all things in the world, I understand the least of mechanism - I have neither genius, or taste, or fancy - and have a brain so entirely unapt for</p>
+            <pb n="110" xml:id="pb-110" facs="#i116"/>
+            <p>every thing of that kind, that I solemnly declare I was never yet able to comprehend the principles of motion of a squirrel cage, or a common knife-grinder's wheel - tho' I have many an hour of my life look'd up with great devotion at the one - and stood by with as much patience as any christian ever could do, at the other -</p>
+            <p>I'll go see the surprising movements of this great clock, said I, the very first thing I do: and then I will pay a visit to the great library of the Jesuists, and procure, if possible, a sight of the thirty volumes of the general history of China, wrote (not in the Tartarian) but in the Chinese language, and in the Chinese character too.</p>
+            <pb n="111" xml:id="pb-111" facs="#i117"/>
+            <p>Now I almost know as little of the Chinese language, as I do of the mechanism of Lippius's clock-work; so, why these should have jostled themselves into the two first articles of my list - I leave to the curious as a problem of Nature. I own it looks like one of her ladyship's obliquities; and they who court her, are interested in finding out her humour as much as I.</p>
+            <p>When these curiosities are seen, quoth I, half addressing myself to my valet de place, who stood behind me - 'twill be no hurt if WE go to the church of St. Ireneus, and see the pillar to which Christ was tied - and after that, the house where Pontius Pilate lived - 'Twas at</p>
+            <pb n="112" xml:id="pb-112" facs="#i118"/>
+            <p>the next town, said the valet de place - at Vienne; I am glad of it, said I, rising briskly from my chair, and walking across the room with strides twice as long as my usual pace - "for so much the sooner shall I be at the Tomb of the two lovers."</p>
+            <p>What was the cause of this movement, and why I took such long strides in uttering this - I might leave to the curious too; but as no principle of clock-work is concern'd in it - 'twill be as well for the reader if I explain it myself.</p>
+            <pb n="113" xml:id="pb-113" facs="#i119"/>
+            <p>CHAP. XXXI.</p>
+            <p>O! There is a sweet aera in the life of man, when, (the brain being tender and fibrillous, and more like pap than any thing else) - a story read of two fond lovers, separated from each other by cruel parents, and by still more cruel destiny -</p>
+            <p>Amandus - He</p>
+            <p>Amanda - She -</p>
+            <p>each ignorant of the other's course,</p>
+            <p>He - east</p>
+            <p>She - west</p>
+            <p>Amandus taken captive by the Turks, and carried to the emperor of Morocco's court, where the princess of Morocco falling in love with him, keeps him</p>
+            <pb n="114" xml:id="pb-114" facs="#i120"/>
+            <p>twenty years in prison, for the love of his Amanda -</p>
+            <p>She - (Amanda) all the time wandering barefoot, and with dishevell'd hair, o'er rocks and mountains enquiring for Amandus - Amandus! Amandus! - making every hill and vally to echo back his name -</p>
+            <p>Amandus! Amandus!</p>
+            <p>at every town and city sitting down forlorn at the gate - Has Amandus! - has my Amandus enter'd? - till, - going round, and round, and round the world - chance unexpected bringing them at the same moment of the night, though by different ways, to the gate of Lyons their native city, and each in well known accents calling out aloud,</p>
+            <pb n="115" xml:id="pb-115" facs="#i121"/>
+            <note>The text below has one large bracket covering two lines, and a central reply</note>
+            <p>Is Amandus } still alive?</p>
+            <p>Is my Amanda }</p>
+            <p>they fly into each others arms, and both drop down dead for joy.</p>
+            <p>There is a soft aera in every gentle mortal's life, where such a story affords more pabulum to the brain, than all the Frusts, and Crusts, and Rusts of antiquity, which travellers can cook up for it.</p>
+            <p>- 'Twas all that stuck on the right side of the cullender in my own, of what Spon and others, in their accounts of Lyons, had strained into it; and finding, moreover, in some Itinerary, but in what God knows - That sacred to the fidelity of Amandus and Amanda, a tomb was built without the gates, where to this hour, lovers call'd upon them to</p>
+            <pb n="116" xml:id="pb-116" facs="#i122"/>
+            <p>attest their truths, - I never could get into a scrape of that kind in my life, but this tomb of the lovers, would some how or other, come in at the close - nay such a kind of empire had it establish'd over me, that I could seldom think or speak of Lyons - and sometimes not so much as see even a Lyons-waistcoat, but this remnant of antiquity would present itself to my fancy; and I have often said in my wild way of running on - tho' I fear with some irreverence - "I thought this shrine (neglected as it was) as valuable as that of Mecca, and so little short, except in wealth, of the Santa Casa itself, that some time or other, I would go a pilgrimage (though I had no other business at Lyons) on purpose to pay it a visit.</p>
+            <pb n="117" xml:id="pb-117" facs="#i123"/>
+            <p>In my list, therefore, of Videnda at Lyons, this, tho' last - was not, you see, least; so taking a dozen or two of longer strides than usual across my room, just whilst it passed my brain, I walked down calmly into the Basse Cour, in order to sally forth; and having called for my bill - as it was uncertain whether I should return to my inn, I had paid it - had moreover given the maid ten sous, and was just receiving the dernier compliments of Monsieur Le Blanc, for a pleasant voyage down the Rhône - when I was stopped at the gate -</p>
+            <pb n="118" xml:id="pb-118" facs="#i124"/>
+            <p>CHAP. XXXII.</p>
+            <p>- 'TWAS by a poor ass who had just turned in with a couple of large panniers upon his back, to collect eleemosunary turnip tops and cabbage leaves; and stood dubious, with his two forefeet on the inside of the threshold, and with his two hinder feet towards the street, as not knowing very well whether he was to go in, or no.</p>
+            <p>Now, 'tis an animal (be in what hurry I may) I cannot bear to strike - there is a patient endurance of sufferings, wrote so unaffectedly in his looks and carriage, which pleads so mightily for him, that it always disarms me; and to that degree, that I do not like to speak unkindly to him: on the contrary, meet him where I</p>
+            <pb n="119" xml:id="pb-119" facs="#i125"/>
+            <p>will - whether in town or country - in cart or under panniers - whether in liberty or bondage - I have ever something civil to say to him on my part; and as one word begets another (if he has as little to do as I) - I generally fall into conversation with him; and surely never is my imagination so busy as in framing his responses from the etchings of his countenance - and where those carry me not deep enough - in flying from my own heart into his, and seeing what is natural for an ass to think - as well as a man, upon the occasion. In truth, it is the only creature of all the classes of beings below me, with whom I can do this: for parrots, jackdaws, &amp;c. - I never exchange a word with them - nor with the apes, &amp;c. for pretty near the same reason; they act by rote, as the</p>
+            <pb n="120" xml:id="pb-120" facs="#i126"/>
+            <p>others speak by it, and equally make me silent: nay my dog and my cat, though I value them both - (and for my dog he would speak if he could) - yet some how or other, they neither of them possess the talents for conversation - I can make nothing of a discourse with them, beyond the proposition, the reply, and rejoinder, which terminated my father's and my mother's conversations, in his beds of justice - and those utter'd - there's an end of the dialogue -</p>
+            <p>- But with an ass, I can commune for ever.</p>
+            <p>Come Honesty! said I, - seeing it was impracticable to pass betwixt him and the gate - art thou for coming in, or going out?</p>
+            <pb n="121" xml:id="pb-121" facs="#i127"/>
+            <p>The ass twisted his head round to look up the street -</p>
+            <p>Well - replied I - we'll wait a minute for thy driver:</p>
+            <p>- He turned his head thoughtful about, and looked wistfully the opposite way -</p>
+            <p>I understand thee perfectly; answered I - if thou takest a wrong step in this affair, he will cudgel thee to death - Well! a minute is but a minute, and if it saves a fellow creature a drubbing, it shall not be set down as ill-spent.</p>
+            <p>He was eating the stem of an artichoke as this discourse went on, and in the little peevish contentions of nature</p>
+            <pb n="122" xml:id="pb-122" facs="#i128"/>
+            <p>betwixt hunger and unsavouriness, had dropt it out of his mouth half a dozen times, and pick'd it up again - God help thee, Jack! said I, thou hast a bitter breakfast on't - and many a bitter day's labour - and many a bitter blow, I fear, for its wages - 'tis all - all bitterness to thee, whatever life is to others. - And now thy mouth, if one knew the truth of it, is a bitter, I dare say, as soot - (for he had cast aside the stem) and thou hast not a friend perhaps in all this world, that will give thee a macaroon. - In saying this, I pull'd out a paper of 'em, which I had just purchased, and gave him one - and at this moment that I am telling it, my heart smites me, that there was more of pleasantry in the conceit, of seeing how an ass would eat a macaroon - than of benevolence</p>
+            <pb n="123" xml:id="pb-123" facs="#i129"/>
+            <p>in giving him one, which presided in the act.</p>
+            <p>When the ass had eaten his macaroon, I press'd him to come in - the poor beast was heavy loaded - his legs seem'd to tremble under him - he hung rather backwards, and as I pull'd at his halter, it broke short in my hand - he look'd up pensive in my face - "Don't thrash me with it - but if you will, you may" - If I do, said I, I'll be d-d.</p>
+            <p>The word was but one half of it pronounced, like the abbess of Andoüillet's - (so there was no sin in it) - when a person coming in, let fall a thundering bastinado upon the poor devil's crupper, which put an end to the ceremony.</p>
+            <p>Out upon it!</p>
+            <pb n="124" xml:id="pb-124" facs="#i130"/>
+            <p>cried I - but the interjection was equivocal - and, I think, wrong placed too - for the end of an osier which had started out from the contexture of the ass's pannier, had caught hold of my breeches pocket as he rush'd by me, and rent it in the most disasterous direction you can imagine - so that the</p>
+            <p>Out upon it! in my opinion, should have come in here - but this I leave to be settled by</p>
+            <p>The</p>
+            <p>REVIEWERS</p>
+            <p>of</p>
+            <p>MY BREECHES.</p>
+            <p>which I have brought over along with me for that purpose.</p>
+            <pb n="125" xml:id="pb-125" facs="#i131"/>
+            <p>CHAP. XXXIV.</p>
+            <p>WHEN all was set to rights, I came down stairs again into the basse cour with my valet de place, in order to sally out towards the tomb of the two lovers, &amp;c. - and was a second time stopp'd at the gate - not by the ass - but by the person who struck him; and who, by that time, had taken possession (as is not uncommon after a defeat) of the very spot of ground where the ass stood.</p>
+            <p>It was a commissary sent to me from the post-office, with a rescript in his hand for the payment of some six livres odd sous.</p>
+            <p>Upon what account? said I. - 'Tis upon the part of the king, replied the</p>
+            <pb n="126" xml:id="pb-126" facs="#i132"/>
+            <p>commissary, heaving up both his shoulders -</p>
+            <p>- My good friend, quoth I - as sure as I am I - and you are you -</p>
+            <p>- And who are you? said he. - Don't puzzle me; said I.</p>
+            <p>CHAP. XXXV.</p>
+            <p>- But it is an indubitable verity, continued I, addressing myself to the commissary, changing only the form of my asseveration - that I owe the king of France nothing but my good-will; for he is a very honest man, and I wish him all health and pastime in the world -</p>
+            <p>Pardonnez moi - replied the commissary, you are indebted to him six livres</p>
+            <pb n="127" xml:id="pb-127" facs="#i133"/>
+            <p>four sous, for the next post from hence to St. Fons, in your rout to Avignion - which being a post royal, you pay double for the horses and postillion - otherwise 'twould have amounted to no more than three livres, two sous -</p>
+            <p>- But I don't go by land; said I.</p>
+            <p>- You may if you please; replied the commissary -</p>
+            <p>Your most obedient servant - said I, making him a low bow -</p>
+            <p>The commissary, with all the sincerity of grave good breeding - made me one, as low again. - I never was more disconcerted with a bow in my life.</p>
+            <p>- The devil take the serious character of these people! quoth I - (aside)</p>
+            <pb n="128" xml:id="pb-128" facs="#i134"/>
+            <p>they understand no more of IRONY than this -</p>
+            <p>The comparison was standing close by with his panniers - but something seal'd up my lips - I could not pronounce the name -</p>
+            <p>Sir, said I, collecting myself - it is not my intention to take post -</p>
+            <p>- But you may - said he, persisting in his first reply - you may take post if you chuse -</p>
+            <p>- And I may take salt to my pickled herring, said I, if I chuse -</p>
+            <p>- But I do not chuse -</p>
+            <p>- But you must pay for it, whether you do or no -</p>
+            <p>Aye! for the salt; said I (I know) -</p>
+            <pb n="129" xml:id="pb-129" facs="#i135"/>
+            <p>- And for the post too; added he. Defend me; cried I -</p>
+            <p>I travel by water - I am going down the Rhône this very afternoon - my baggage is in the boat - and I have actually paid nine livres for my passage -</p>
+            <p>C'est tout egal - 'tis all one; said he.</p>
+            <p>Bon Dieu! what, pay for the way I go! and for the way I do not go!</p>
+            <p>- C'est tout egal; replied the commissary -</p>
+            <p>- The devil it is! said I - but I will go to ten thousand Bastiles first -</p>
+            <p>O England! England! thou land of liberty, and climate of good sense, thou tenderest of mothers - and gentlest of nurses, cried I, kneeling upon one knee, as I was beginning my apostrophè -</p>
+            <pb n="130" xml:id="pb-130" facs="#i136"/>
+            <p>When the director of Madam Le Blanc's conscience coming in at that instant, and seeing a person in black, with a face as pale as ashes, at his devotions - looking still paler by the contrast and distress of his drapery - ask'd, if I stood in want of the aids of the church -</p>
+            <p>I go by WATER - said I - and here's another will be for making me pay for going by OYL.</p>
+            <p>CHAP. XXXVI.</p>
+            <p>AS I perceived the commissary of the post-office would have his six livres four sous, I had nothing else for it, but to say some smart thing upon the occasion, worth the money:</p>
+            <p>And so I set off thus -</p>
+            <pb n="131" xml:id="pb-131" facs="#i137"/>
+            <p>- And pray Mr. commissary, by what law of courtesy is a defenceless stranger to be used just the reverse from what you use a Frenchman in this matter?</p>
+            <p>By no means; said he.</p>
+            <p>Excuse me; said I - for you have begun, sir, with first tearing off my breeches - and now you want my pocket -</p>
+            <p>Whereas - had you first taken my pocket, as you do with your own people - and then left me bare a-'d after - I had been a beast to have complain'd -</p>
+            <p>As it is -</p>
+            <p>- 'Tis contrary to the law of nature.</p>
+            <p>- 'Tis contrary to reason.</p>
+            <p>- 'Tis contrary to the GOSPEL.</p>
+            <p>But not to this - said he - putting a printed paper into my hand.</p>
+            <p>PAR LE ROY.</p>
+            <pb n="132" xml:id="pb-132" facs="#i138"/>
+            <p>- 'Tis a pithy prolegomenon, quoth I - and so read on <note>53 dashes follow</note></p>
+            <p>- By all which it appears, quoth I, having read it over, a little too rapidly, that if a man sets out in a post-chaise from Paris - he must go on travelling in one, all the days of his life - or pay for it. - Excuse me, said the commissary, the spirit of the ordinance is this - That if you set out with an intention of running post from Paris to Avignion, &amp;c. you shall not change that intention or mode of travelling, without first satisfying the fermiers for two posts further than the place you repent at - and 'tis founded, continued he, upon this, that the REVENUES</p>
+            <pb n="133" xml:id="pb-133" facs="#i139"/>
+            <p>are not to fall short through your fickleness -</p>
+            <p>- O by heavens! cried I - if fickleness is taxable in France - we have nothing to do but to make the best peace with you we can -</p>
+            <p>AND SO THE PEACE WAS MADE;</p>
+            <p>- And if it is a bad one - as Tristram Shandy laid the corner stone of it - nobody but Tristram Shandy ought to be hanged.</p>
+            <p>CHAP. XXXVII.</p>
+            <p>THOUGH I was sensible I had said as many clever things to the commissary as came to six livres four sous, yet I was determined to note down the imposition amongst my remarks before I</p>
+            <pb n="134" xml:id="pb-134" facs="#i140"/>
+            <p>retir'd from the place; so putting my hand into my coat pocket for my remarks - (which by the bye, may be a caution to travellers to take a little more care of their remarks for the future) "my remarks were stolen" - Never did sorry traveller make such a pother and racket about his remarks as I did about mine, upon the occasion.</p>
+            <p>Heaven! earth! sea! fire! cried I, calling in every thing to my aid but what I should - My remarks are stolen! - what shall I do? - Mr. commissary! pray did I drop any remarks as I stood besides you? -</p>
+            <p>You dropp'd a good many very singular ones; replied he - Pugh! said I, those were but a few, not worth above six livres two sous - but these are a large</p>
+            <pb n="135" xml:id="pb-135" facs="#i141"/>
+            <p>parcel - He shook his head - Monsieur Le Blanc! Madam Le Blanc! did you see any papers of mine? - you maid of the house! run up stairs - François! run up after her -</p>
+            <p>- I must have my remarks - they were the best remarks, cried I, that ever were made - the wisest - the wittiest - What shall I do? - which way shall I turn myself?</p>
+            <p>Sancho Pança, when he lost his ass's FURNITURE, did not exclaim more bitterly.</p>
+            <p>CHAP. XXXVIII.</p>
+            <p>WHEN the first transport was over, and the registers of the brain were beginning to get a little out of the confusion into which this jumble of cross</p>
+            <pb n="136" xml:id="pb-136" facs="#i142"/>
+            <p>accidents had cast them - it then presently occurr'd to me, that I had left my remarks in the pocket of the chaise - and that in selling my chaise, I had sold my remarks along with it, to the chaise-vamper. <note>Void SPACE</note> I leave this void space that the reader may swear into it, any oath that he is most accustomed to - For my own part, if ever I swore a whole oath into a vacancy in my life, I think it was into that - *** **** **, said I - and so my remarks through France, which were as full of wit, as an egg is full of meat, and as well worth four hundred guineas, as the said egg is worth a penny - Have I been selling here to a chaise-vamper - for four Louis d'Ors - and giving him a post-chaise (by heaven) worth six into the bargain; had it been to Dodsley, or Becket, or any creditable</p>
+            <pb n="137" xml:id="pb-137" facs="#i143"/>
+            <p>bookseller, who was either leaving off business, and wanted a post-chaise - or who was beginning it - and wanted my remarks, and two or three guineas along with them - I could have borne it - but to a chaise-vamper! - shew me to him this moment François - said I - the valet de place put on his hat, and led the way - and I pull'd off mine, as I pass'd the commissary, and followed him.</p>
+            <pb n="138" xml:id="pb-138" facs="#i144"/>
+            <p>CHAP. XXXIX.</p>
+            <p>WHEN we arrived at the chaise-vamper's house, both the house and the shop were shut up; it was the eighth of September, the nativity of the blessed Virgin Mary, mother of God -</p>
+            <p>- Tantarra - ra - tan - tivi - the whole world was going out a May-poling - frisking here - capering there - no body cared a button for me or my remarks; so I sat me down upon a bench by the door, philosophating upon my condition: by a better fate than usually attends me, I had not waited half an hour, when the mistress came in, to take the papilliotes from off her hair, before she went to the May-poles -</p>
+            <p>The French women, by the bye, love May-poles, a la folie - that is, as much as</p>
+            <pb n="139" xml:id="pb-139" facs="#i145"/>
+            <p>their matins - give 'em but a May-pole, whether in May, June, July, or September - they never count the times - down it goes - 'tis meat, drink, washing, and lodging to 'em - and had we but the policy, an' please your worships (as wood is a little scarce in France) to send them but plenty of May-poles -</p>
+            <p>The women would set them up; and when they had done, they would dance round them (and the men for company) till they were all blind.</p>
+            <p>The wife of the chaise-vamper step'd in, I told you, to take the papilliotes from off her hair - the toilet stands still for no man - so she jerk'd off her cap, to begin with them as she open'd the door, in doing which, one of them fell upon the</p>
+            <pb n="140" xml:id="pb-140" facs="#i146"/>
+            <p>ground - I instantly saw it was my own writing -</p>
+            <p>- O Seignieur! cried I - you have got all my remarks upon your head, Madam! - <note>FRENCH</note> J'en suis bien mortifiée, said she - 'tis well, thinks I, they have stuck there - for could they have gone deeper, they would have made such confusion in a French woman's noddle - She had better have gone with it unfrizled, to the day of eternity.</p>
+            <p>Tenez - said she - so without any idea of the nature of my suffering, she took them from her curls, and put them gravely one by one into my hat - one was twisted this way - another twisted that - ay! by my faith; and when they are published, quoth I, -</p>
+            <p>They will be worse twisted still.</p>
+            <pb n="141" xml:id="pb-141" facs="#i147"/>
+            <p>CHAP. XL.</p>
+            <p>AND now for Lippius's clock! said I, with the air of a man, who had got thro' all his difficulties - nothing can prevent us seeing that, and the Chinese history, &amp;c. except the time, said François - for 'tis almost eleven - then we must speed the faster, said I, striding it away to the cathedral.</p>
+            <p>I cannot say, in my heart, that it gave me any concern in being told by one of the minor canons, as I was entering the west door, - That Lippius's great clock was all out of joints, and had not gone for some years - It will give me the more time, thought I, to peruse the Chinese history; and besides I shall be able to give the world a better account of the</p>
+            <pb n="142" xml:id="pb-142" facs="#i148"/>
+            <p>clock in it's decay, than I could have done in its flourishing condition -</p>
+            <p>- And so away I posted to the college of the Jesuits.</p>
+            <p>Now it is with the project of getting a peep at the history of China in Chinese characters - as with many others I could mention, which strike the fancy only at a distance; for as I came nearer and nearer to the point - my blood cool'd - the freak gradually went off, till, at length I would not have given a cherry-stone to have it gratified - The truth was, my time was short, and my heart was at the Tomb of the Lovers - I wish to God, said I, as I got the rapper in my hand, that the key of the library may be but lost; it fell out as well -</p>
+            <pb n="143" xml:id="pb-143" facs="#i149"/>
+            <p>For all the JESUITS had got the cholic - and to that degree, as never was known in the memory of the oldest practitioner.</p>
+            <p>CHAP. XLI.</p>
+            <p>AS I knew the geography of the Tomb of the Lovers, as well as if I had lived twenty years in Lyons, namely, that it was upon the turning of my right hand, just without the gate, leading to the Fauxbourg de Vaise - I dispatch'd François to the boat, that I might pay the homage I so long ow'd it, without a witness of my weakness. - I walk'd with all imaginable joy towards the place - when I saw the gate which intercepted the tomb, my heart glowed within me -</p>
+            <pb n="144" xml:id="pb-144" facs="#i150"/>
+            <p>- Tender and faithful spirits! cried I, addressing myself to Amandus and Amanda - long - long have I tarried to drop this tear upon your tomb - I come - I come -</p>
+            <p>When I came - there was no tomb to drop it upon.</p>
+            <p>What would I have given for my uncle Toby to have whistled, Lillo bullero!</p>
+            <p>CHAP. XLII.</p>
+            <p>NO matter how, or in what mood - but I flew from the tomb of the lovers - or rather I did not fly from it - (for there was no such thing existing) and just got time enough to the boat to save my passage; - and e'er I had sailed a hundred yards, the Rhône and the Saôn met together, and carried me down merrily betwixt them.</p>
+            <pb n="145" xml:id="pb-145" facs="#i151"/>
+            <p>But I have described this voyage down the Rhône, before I made it -</p>
+            <p>- So now I am at Avignion - and as there is nothing to see but the old house, in which the duke of Ormond resided, and nothing to stop me but a short remark upon the place, in three minutes you will see me crossing the bridge upon a mule, with François upon a horse with my portmanteau behind him, and the owner of both, striding the way before us with a long gun upon his shoulder, and a sword under his arm, least peradventure we should run away with his cattle. Had you seen my breeches in entering Avignon, - Though you'd have seen them better, I think, as I mounted - you would not have thought the precaution amiss, or found in your heart to have taken it, in dudgeon: for my own</p>
+            <pb n="146" xml:id="pb-146" facs="#i152"/>
+            <p>part, I took it most kindly; and determined to make him a present of them, when we got to the end of our journey, for the trouble they had put him to, of arming himself at all points against them.</p>
+            <p>Before I go further, let me get rid of my remark upon Avignon, which is this; That I think it wrong, merely because a man's hat has been blown off his head by chance the first night he comes to Avignion; - that he should therefore say, "Avignion is more subject to high winds than any town in all France:" for which reason I laid no stress upon the accident till I had inquired of the master of the inn about it, who telling me seriously it was so - and hearing moreover, the windyness of Avignion spoke of in the country about as a proverb - I set it down, merely to ask the learned what can</p>
+            <pb n="147" xml:id="pb-147" facs="#i153"/>
+            <p>be the cause - the consequence I saw - for they are all Dukes, Marquisses, and Counts, there - the duce a Baron, in all Avignion - so that there is scarce any talking to them, on a windy day.</p>
+            <p>Prithee friend, said I, take hold of my mule for a moment - for I wanted to pull off one of my jack-boots, which hurt my heel - the man was standing quite idle at the door of the inn, and as I had taken it into my head, he was someway concerned about the house or stable, I put the bridle into his hand - so begun with my boot: - when I had finished the affair, I turned about to take the mule from the man, and thank him -</p>
+            <p>- But Monsieur le Marquis had walked in -</p>
+            <pb n="148" xml:id="pb-148" facs="#i154"/>
+            <p>CHAP. XLIII.</p>
+            <p>I Had now the whole south of France, from the banks of the Rhône to those of the Garonne to traverse upon my mule at my own leisure - at my own leisure - for I had left Death, the lord knows - and He only - how far behind me - "I have followed many a man thro' France, quoth he - but never at this mettlesome rate" - Still he followed, - and still I fled him - but I fled him chearfully - still he pursued - but like one who pursued his prey without hope - as he lag'd, every step he lost, softened his looks - why should I fly him at this rate?</p>
+            <p>So notwithstanding all the commissary of the post-office had said, I changed the</p>
+            <pb n="149" xml:id="pb-149" facs="#i155"/>
+            <p>mode of my travelling once more; and after so precipitate and rattling a course as I had run, I flattered my fancy with thinking of my mule, and that I should traverse the rich plains of Languedoc upon his back, as slowly as foot could fall.</p>
+            <p>There is nothing more pleasing to a traveller - or more terrible to travel-writers, than a large rich plain; especially if it is without great rivers or bridges; and presents nothing to the eye, but one unvaried picture of plenty: for after they have once told you that 'tis delicious! or delightful! (as the case happens) - that the soil was grateful, and that nature pours out all her abundance, &amp;c. ... they have then a large plain upon their hands, which they know not</p>
+            <pb n="150" xml:id="pb-150" facs="#i156"/>
+            <p>what to do with - and which is of little or no use to them but to carry them to some town; and that town, perhaps of little more, but a new place to start from to the next plain - and so on.</p>
+            <p>- This is most terrible work; judge if I don't manage my plains better.</p>
+            <p>CHAP. XLIV.</p>
+            <p>I Had not gone above two leagues and a half, before the man with his gun, began to look at his priming.</p>
+            <p>I had three several times loiter'd terribly behind; half a mile at least every time: once, in deep conference with a drum-maker, who was making drums for the fairs of Baucaira and Tarascone - I did not understand the principles -</p>
+            <pb n="151" xml:id="pb-151" facs="#i157"/>
+            <p>The second time, I cannot so properly say, I stopp'd - for meeting a couple of Franciscans straiten'd more for time than myself, and not being able to get to the bottom of what I was about - I had turn'd back with them -</p>
+            <p>The third, was an affair of trade with a gossip, for a hand basket of Provence figs for four sous; this would have been transacted at once; but for a case of conscience at the close of it; for when the figs were paid for, it turn'd out, that there were two dozen of eggs cover'd over with vine-leaves at the bottom of the basket - as I had no intention of of buying eggs - I made no sort of claim of them - as for the space they had occupied - what signified it? I had figs enow for my money -</p>
+            <pb n="152" xml:id="pb-152" facs="#i158"/>
+            <p>- But it was my intention to have the basket - it was the gossip's intention to keep it, without which, she could do nothing with her eggs - and unless I had the basket, I could do as little with my figs, which were too ripe already, and most of 'em burst at the side: this brought on a short contention, which terminated in sundry proposals, what we should both do -</p>
+            <p>- How we disposed of our eggs and figs, I defy you, or the Devil himself, had he not been there (which I am persuaded he was) to form the least probable conjecture: You will read the whole of it - not this year, for I am hastening to the story of my uncle Toby's amours - but you will read it in the collection of those which have arose out of the journey</p>
+            <pb n="153" xml:id="pb-153" facs="#i159"/>
+            <p>across this plain - and which, therefore, I call my</p>
+            <p>PLAIN STORIES.</p>
+            <p>How far my pen has been fatigued like those of other travellers, in this journey of it, over so barren a track - the world must judge - but the traces of it, which are now all set o' vibrating together this moment, tell me 'tis the most fruitful and busy period of my life; for as I had made no convention with my man with the gun as to time - by stopping and talking to every soul I met who was not in a full trot - joining all parties before me - waiting for every soul behind - hailing all those who were coming through cross roads - arresting all kinds of beggars, pilgrims, fiddlers, fryars - not passing by a woman in a mulberry-tree</p>
+            <pb n="154" xml:id="pb-154" facs="#i160"/>
+            <p>without commending her legs, and tempting her into conversation with a pinch of snuff - In short, by seizing every handle, of what size or shape soever, which chance held out to me in this journey - I turned my plain into a city - I was always in company, and with great variety too; and as my mule loved society as much as myself, and had some proposals always on his part to offer to every beast he met - I am confident we could have passed through Pall-Mall or St. James's-Street for a month together, with fewer adventures - and seen less of human nature.</p>
+            <p>O! there is that sprightly frankness which at once unpins every plait of a Languedocian's dress - that whatever is beneath it, it looks so like the simplicity</p>
+            <pb n="155" xml:id="pb-155" facs="#i161"/>
+            <p>which poets sing of in better days - I will delude my fancy, and believe it is so.</p>
+            <p>'Twas in the road betwixt Nismes and Lunel, where there is the best Muscatto wine in all France, and which by the bye belongs to the honest canons of MONTPELLIER - and foul befall the man who has drank it at their table, who grudges them a drop of it.</p>
+            <p>- The sun was set - they had done their work; the nymphs had tied up their hair afresh - and the swains were preparing for a carousal - My mule made a dead point - 'Tis the fife and tabourin, said I - I'm frighten'd to death, quoth he - They are running at the ring of pleasure, said I, giving him a prick - By saint Boogar, and all the saints at the backside of the door of purgatory,</p>
+            <pb n="156" xml:id="pb-156" facs="#i162"/>
+            <p>said he - (making the same resolution with the abbesse of Andoüillets) I'll not go a step further - 'Tis very well, sir, said I - I never will argue a point with one of your family, as long as I live; so leaping off his back, and kicking off one boot into this ditch, and t'other into that - I'll take a dance, said I - so stay you here.</p>
+            <p>A sun-burnt daughter of Labour rose up from the groupe to meet me as I advanced towards them; her hair, which was a dark chesnut, approaching rather to a black, was tied up in a knot, all but a single tress.</p>
+            <p>We want a cavalier, said she, holding out both her hands, as if to offer them -</p>
+            <pb n="157" xml:id="pb-157" facs="#i163"/>
+            <p>And a cavalier ye shall have; said I, taking hold of both of them.</p>
+            <p>Hadst thou, Nannette, been array'd like a dutchesse!</p>
+            <p>- But that cursed slit in thy petticoat!</p>
+            <p>Nannette cared not for it.</p>
+            <p>We could not have done without you, said she, letting go one hand, with self-taught politeness, leading me up with the other.</p>
+            <p>A lame youth, whom Apollo had recompenced with a pipe, and to which he had added a tabourin of his own accord, ran sweetly over the prelude, as he sat upon the bank - Tie me up this tress instantly, said Nannette, putting a piece of string into my hand - It taught</p>
+            <pb n="158" xml:id="pb-158" facs="#i164"/>
+            <p>me to forget I was a stranger - The whole knot fell down - We had been seven years acquainted.</p>
+            <p>The youth struck the note upon the tabourin - his pipe followed, and off we bounded - "the duce take that slit!"</p>
+            <p>The sister of the youth who had stolen her voice from heaven, sung alternately with her brother - 'twas a Gascoigne roundelay.</p>
+            <note>FRENCH</note>
+            <p>VIVA LA JOIA!</p>
+            <p>FIDON LA TRISTESSA!</p>
+            <p>The nymphs join'd in unison, and their swains an octave below them -</p>
+            <p>I would have given a crown to have it sew'd up - Nannette would not have given a sous - Viva la joia! was in her lips - Viva la joia! was in her eyes. A transient</p>
+            <pb n="159" xml:id="pb-159" facs="#i165"/>
+            <p>spark of amity shot across the space betwixt us - She look'd amiable! - Why could I not live and end my days thus? Just disposer of our joys and sorrows, cried I, why could not a man sit down in the lap of content here - and dance, and sing, and say his prayers, and go to heaven with this nut brown maid? capriciously did she bend her head on one side, and dance up insiduous - Then 'tis time to dance off, quoth I; so changing only partners and tunes, I danced it away from Lunel to Montpellier - from thence to Pesçnas, Beziers - I danced it along through Narbonne, Carcasson, and Castle Naudairy, till at last I danced myself into Perdrillo's pavillion, where pulling a paper of black lines, that I might go on straight forwards,</p>
+            <pb n="160" xml:id="pb-160" facs="#i166"/>
+            <p>without digression or parenthesis, in my uncle Toby's amours -</p>
+            <p>I begun thus -</p>
+            <p>END of the SEVENTH VOLUME.</p>
+            <pb n="iii recto" xml:id="pb-iiirecto" facs="#i167"/>
+            <pb n="iii verso" xml:id="pb-iiiverso" facs="#i168"/>
+            <pb n="back cover, inner" xml:id="pb-backcover-inner" facs="#i169"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i170"/>
+         </div>
+      </body>
+   </text>
+
+</TEI>
