@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.280</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.280</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Yorick's sentimental journey, continued to which is prefixed, some account of the life and writings of Mr. Sterne Vol. 3</title>
+                     <textLang mainLang="eng"/>
+                     <author>Sterne, Laurence 1713-1768</author>
+                     <editor role="pbl">pr. for S. Bladon</editor>
+                     <note>Described as volumes 3 &amp; 4; volumes 1 and 2 being Sterne's Sentimental journey through France and Italy, of which this is a spurious continuation.</note>
+                     <note>By 'Eugenius': usually attributed, probably wrongly, to John Hall Stevenson.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 v. ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1769" notAfter="1769">1769</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="PR-OATES-00280-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="4706px"
+                  width="3253px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="[i]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="[ii]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="[iii]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="[iv]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="i">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="ii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="iii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="iv">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="v">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="vi">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="vii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="viii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="ix">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="x">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="xi">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="xii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="xiii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="xiv">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="xv">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="xvi">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="xvii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="xviii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="1">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="2">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="3">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="4">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="5">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="6">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="7">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="8">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="9">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="10">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="11">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="12">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="13">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="14">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="15">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="16">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="17">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="18">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="19">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="20">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="21">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="22">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="23">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="24">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="25">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="26">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00050"/>
+      </surface>
+      <surface xml:id="i51" n="27">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00051"/>
+      </surface>
+      <surface xml:id="i52" n="28">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00052"/>
+      </surface>
+      <surface xml:id="i53" n="29">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00053"/>
+      </surface>
+      <surface xml:id="i54" n="30">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00054"/>
+      </surface>
+      <surface xml:id="i55" n="31">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00055"/>
+      </surface>
+      <surface xml:id="i56" n="32">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00056"/>
+      </surface>
+      <surface xml:id="i57" n="33">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00057"/>
+      </surface>
+      <surface xml:id="i58" n="34">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00058"/>
+      </surface>
+      <surface xml:id="i59" n="35">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00059"/>
+      </surface>
+      <surface xml:id="i60" n="36">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00060"/>
+      </surface>
+      <surface xml:id="i61" n="37">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00061"/>
+      </surface>
+      <surface xml:id="i62" n="38">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00062"/>
+      </surface>
+      <surface xml:id="i63" n="39">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00063"/>
+      </surface>
+      <surface xml:id="i64" n="40">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00064"/>
+      </surface>
+      <surface xml:id="i65" n="41">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00065"/>
+      </surface>
+      <surface xml:id="i66" n="42">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00066"/>
+      </surface>
+      <surface xml:id="i67" n="43">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00067"/>
+      </surface>
+      <surface xml:id="i68" n="44">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00068"/>
+      </surface>
+      <surface xml:id="i69" n="45">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00069"/>
+      </surface>
+      <surface xml:id="i70" n="46">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00070"/>
+      </surface>
+      <surface xml:id="i71" n="47">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00071"/>
+      </surface>
+      <surface xml:id="i72" n="48">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00072"/>
+      </surface>
+      <surface xml:id="i73" n="49">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00073"/>
+      </surface>
+      <surface xml:id="i74" n="50">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00074"/>
+      </surface>
+      <surface xml:id="i75" n="51">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00075"/>
+      </surface>
+      <surface xml:id="i76" n="52">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00076"/>
+      </surface>
+      <surface xml:id="i77" n="53">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00077"/>
+      </surface>
+      <surface xml:id="i78" n="54">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00078"/>
+      </surface>
+      <surface xml:id="i79" n="55">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00079"/>
+      </surface>
+      <surface xml:id="i80" n="56">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00080"/>
+      </surface>
+      <surface xml:id="i81" n="57">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00081"/>
+      </surface>
+      <surface xml:id="i82" n="58">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00082"/>
+      </surface>
+      <surface xml:id="i83" n="59">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00083"/>
+      </surface>
+      <surface xml:id="i84" n="60">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00084"/>
+      </surface>
+      <surface xml:id="i85" n="61">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00085"/>
+      </surface>
+      <surface xml:id="i86" n="62">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00086"/>
+      </surface>
+      <surface xml:id="i87" n="63">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00087"/>
+      </surface>
+      <surface xml:id="i88" n="64">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00088"/>
+      </surface>
+      <surface xml:id="i89" n="65">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00089"/>
+      </surface>
+      <surface xml:id="i90" n="66">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00090"/>
+      </surface>
+      <surface xml:id="i91" n="67">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00091"/>
+      </surface>
+      <surface xml:id="i92" n="68">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00092"/>
+      </surface>
+      <surface xml:id="i93" n="69">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00093"/>
+      </surface>
+      <surface xml:id="i94" n="70">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00094"/>
+      </surface>
+      <surface xml:id="i95" n="71">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00095"/>
+      </surface>
+      <surface xml:id="i96" n="72">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00096"/>
+      </surface>
+      <surface xml:id="i97" n="73">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00097"/>
+      </surface>
+      <surface xml:id="i98" n="74">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00098"/>
+      </surface>
+      <surface xml:id="i99" n="75">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00099"/>
+      </surface>
+      <surface xml:id="i100" n="76">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00100"/>
+      </surface>
+      <surface xml:id="i101" n="77">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00101"/>
+      </surface>
+      <surface xml:id="i102" n="78">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00102"/>
+      </surface>
+      <surface xml:id="i103" n="79">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00103"/>
+      </surface>
+      <surface xml:id="i104" n="80">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00104"/>
+      </surface>
+      <surface xml:id="i105" n="81">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00105"/>
+      </surface>
+      <surface xml:id="i106" n="82">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00106"/>
+      </surface>
+      <surface xml:id="i107" n="83">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00107"/>
+      </surface>
+      <surface xml:id="i108" n="84">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00108"/>
+      </surface>
+      <surface xml:id="i109" n="85">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00109"/>
+      </surface>
+      <surface xml:id="i110" n="86">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00110"/>
+      </surface>
+      <surface xml:id="i111" n="87">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00111"/>
+      </surface>
+      <surface xml:id="i112" n="88">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00112"/>
+      </surface>
+      <surface xml:id="i113" n="89">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00113"/>
+      </surface>
+      <surface xml:id="i114" n="90">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00114"/>
+      </surface>
+      <surface xml:id="i115" n="91">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00115"/>
+      </surface>
+      <surface xml:id="i116" n="92">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00116"/>
+      </surface>
+      <surface xml:id="i117" n="93">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00117"/>
+      </surface>
+      <surface xml:id="i118" n="94">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00118"/>
+      </surface>
+      <surface xml:id="i119" n="95">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00119"/>
+      </surface>
+      <surface xml:id="i120" n="96">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00120"/>
+      </surface>
+      <surface xml:id="i121" n="97">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00121"/>
+      </surface>
+      <surface xml:id="i122" n="98">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00122"/>
+      </surface>
+      <surface xml:id="i123" n="99">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00123"/>
+      </surface>
+      <surface xml:id="i124" n="100">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00124"/>
+      </surface>
+      <surface xml:id="i125" n="101">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00125"/>
+      </surface>
+      <surface xml:id="i126" n="102">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00126"/>
+      </surface>
+      <surface xml:id="i127" n="103">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00127"/>
+      </surface>
+      <surface xml:id="i128" n="104">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00128"/>
+      </surface>
+      <surface xml:id="i129" n="105">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00129"/>
+      </surface>
+      <surface xml:id="i130" n="106">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00130"/>
+      </surface>
+      <surface xml:id="i131" n="107">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00131"/>
+      </surface>
+      <surface xml:id="i132" n="108">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00132"/>
+      </surface>
+      <surface xml:id="i133" n="109">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00133"/>
+      </surface>
+      <surface xml:id="i134" n="110">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00134"/>
+      </surface>
+      <surface xml:id="i135" n="111">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00135"/>
+      </surface>
+      <surface xml:id="i136" n="112">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00136"/>
+      </surface>
+      <surface xml:id="i137" n="113">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00137"/>
+      </surface>
+      <surface xml:id="i138" n="114">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00138"/>
+      </surface>
+      <surface xml:id="i139" n="115">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00139"/>
+      </surface>
+      <surface xml:id="i140" n="116">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00140"/>
+      </surface>
+      <surface xml:id="i141" n="117">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00141"/>
+      </surface>
+      <surface xml:id="i142" n="118">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00142"/>
+      </surface>
+      <surface xml:id="i143" n="119">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00143"/>
+      </surface>
+      <surface xml:id="i144" n="120">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00144"/>
+      </surface>
+      <surface xml:id="i145" n="121">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00145"/>
+      </surface>
+      <surface xml:id="i146" n="122">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00146"/>
+      </surface>
+      <surface xml:id="i147" n="123">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00147"/>
+      </surface>
+      <surface xml:id="i148" n="124">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00148"/>
+      </surface>
+      <surface xml:id="i149" n="125">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00149"/>
+      </surface>
+      <surface xml:id="i150" n="126">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00150"/>
+      </surface>
+      <surface xml:id="i151" n="127">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00151"/>
+      </surface>
+      <surface xml:id="i152" n="128">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00152"/>
+      </surface>
+      <surface xml:id="i153" n="129">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00153"/>
+      </surface>
+      <surface xml:id="i154" n="130">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00154"/>
+      </surface>
+      <surface xml:id="i155" n="131">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00155"/>
+      </surface>
+      <surface xml:id="i156" n="132">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00156"/>
+      </surface>
+      <surface xml:id="i157" n="133">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00157"/>
+      </surface>
+      <surface xml:id="i158" n="134">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00158"/>
+      </surface>
+      <surface xml:id="i159" n="135">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00159"/>
+      </surface>
+      <surface xml:id="i160" n="136">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00160"/>
+      </surface>
+      <surface xml:id="i161" n="137">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00161"/>
+      </surface>
+      <surface xml:id="i162" n="138">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00162"/>
+      </surface>
+      <surface xml:id="i163" n="139">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00163"/>
+      </surface>
+      <surface xml:id="i164" n="140">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00164"/>
+      </surface>
+      <surface xml:id="i165" n="141">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00165"/>
+      </surface>
+      <surface xml:id="i166" n="142">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00166"/>
+      </surface>
+      <surface xml:id="i167" n="143">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00167"/>
+      </surface>
+      <surface xml:id="i168" n="144">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00168"/>
+      </surface>
+      <surface xml:id="i169" n="161">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00169"/>
+      </surface>
+      <surface xml:id="i170" n="162">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00170"/>
+      </surface>
+      <surface xml:id="i171" n="163">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00171"/>
+      </surface>
+      <surface xml:id="i172" n="164">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00172"/>
+      </surface>
+      <surface xml:id="i173" n="165">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00173"/>
+      </surface>
+      <surface xml:id="i174" n="166">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00174"/>
+      </surface>
+      <surface xml:id="i175" n="167">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00175"/>
+      </surface>
+      <surface xml:id="i176" n="168">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00176"/>
+      </surface>
+      <surface xml:id="i177" n="169">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00177"/>
+      </surface>
+      <surface xml:id="i178" n="170">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00178"/>
+      </surface>
+      <surface xml:id="i179" n="171">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00179"/>
+      </surface>
+      <surface xml:id="i180" n="172">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00180"/>
+      </surface>
+      <surface xml:id="i181" n="173">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2913px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00181"/>
+      </surface>
+      <surface xml:id="i182" n="174">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00182"/>
+      </surface>
+      <surface xml:id="i183" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="4615px"
+                  width="2862px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00183"/>
+      </surface>
+      <surface xml:id="i184" n="back cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="4678px"
+                  width="2984px"
+                  rend="portrait"
+                  url="PR-OATES-00280-000-00184"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+             <note>marbled inside cover, sticker that reads 'J.C.T. Oates' with a decorative border, sticker that reads 'Microfilmed'</note>
+            <pb n="[i]" xml:id="pb-i" facs="#i3"/>
+             <note>marbled cover</note>
+            <pb n="[ii]" xml:id="pb-ii" facs="#i4"/>
+             <note>handwritten library number Oates.280, 'Penny'</note>
+            <pb n="[iii]" xml:id="pb-iii" facs="#i5"/>
+            <pb n="[iv]" xml:id="pb-iv" facs="#i6"/>
+            <pb n="i" xml:id="pb-i" facs="#i7"/>
+             <p>YORICK'S</p> <p>SENTIMENTAL JOURNEY</p> <p>CONTINUED.</p> <p>TO WHICH IS PREFIXED</p> <p>SOME</p> <p>ACCOUNT</p> <p>OF THE</p> <p>LIFE AND WRITINGS</p> <p>OF</p> <p>MR. STERNE.</p> <p>VOL. III.</p> <p>LONDON:</p> <p>Printed for S. BLADON, in Paternoster-Row.</p> <p>MDCCLXIX.</p>
+            <pb n="ii" xml:id="pb-ii" facs="#i8"/>
+            <pb n="iii" xml:id="pb-iii" facs="#i9"/>
+             <p>PREFACE.</p> <p>THE following sheets are not presented to the Public as the offspring of Mr. Sterne's pen.</p> <p>The Editor has, however, compiled this Continuation of his Sentimental Journey, from motives, and upon such authority, as he flatters himself will form a sufficient</p>
+            <pb n="iv" xml:id="pb-iv" facs="#i10"/>
+             <p>apology to his readers for its publication.</p> <p>The abrupt manner in which the second volume concluded, seemed forcibly to claim a sequel; and doubtless, if the author's life had been spared, the world would have received it from his own hand, as he had materials already prepared. The intimacy which subsisted between Mr. Sterne and the Editor, gave the latter frequent occasion of hearing him relate the most remarkable incidents of the latter part of his last journey, which made such an impression on him, that he thinks he has retained them so</p>
+            <pb n="v" xml:id="pb-v" facs="#i11"/>
+             <p>perfectly as to be able to commit them to paper. In doing this, he has endeavoured to imitate his friend's stile and manner; but how far he has been successful in this respect, he leaves the reader to determine. The work may now, however, be considered as complete; and the remaining curiosity of the readers of Yorick's Sentimental Journey, will at least be gratified with respect to facts, events, and observations.</p> <p>The reader will not, probably, be displeased to find in this place, some account of the life and writings of Mr. Sterne.</p>
+            <pb n="vi" xml:id="pb-vi" facs="#i12"/>
+             <p>He was the son of an Irish officer, and born in the barracks at Dublin: but he was not without relations in the church, as his great-grandfather was an arch-bishop, and his uncle the prebendary of a cathedral. He was brought up at the university of Cambridge, where the vivacity of his disposition very early in life distinguished him.</p> <p>For some time he lived in a retired manner upon a small curacy in Yorkshire, and probably would have remained in the same obscurity, if his lively genius had not displayed itself upon an occasion which secured him a</p>
+            <pb n="vii" xml:id="pb-vii" facs="#i13"/>
+             <p>friend, and paved the way for his promotion. A person who filled a lucrative benefice, was not satisfied with enjoying it during his own life-time, but exerted all his interest to have it entailed upon his wife and son after his decease. The gentleman that expected the reversion of this post was Mr. Sterne's friend, who had not, however, sufficient influence to prevent the success of his adversary. At this critical time Sterne's satyrical pen operated so strongly, that the intended monopolizer informed him, if he would suppress the publication of his sarcasm, he would resign his pretensions to the next</p>
+            <pb n="viii" xml:id="pb-viii" facs="#i14"/>
+             <p>candidate. The title of this piece, it appears, was to have been, "The history of a good warm watch-coat, with which the present possessor is not content to cover his own shoulders, unless he can cut out of it a petticoat for his wife, and a pair of breeches for his son." The pamphlet was suppressed, and the reversion took place.</p> <p>Mr. Sterne was about this period in the coffee-house at York, when a stranger cam in, who gave much offence to the company, consisting chiefly of gentlemen of the gown, by descanting too freely upon religion and</p>
+            <pb n="ix" xml:id="pb-ix" facs="#i15"/>
+             <p>the hypocrisy of the clergy. The young fellow at length addressed himself to Mr. Sterne, asking him what were his sentiments upon the subject; when, instead of answering him directly, he told the witling that his dog was reckoned one of the most beautiful pointers in the whole country, was very good-natured, but that he had an infernal trick which destroyed all his good qualities. -- He never sees a clergyman (continued Sterne) but he immediately flies at him. "How long may he have had that trick?" - Sir, ever since he was a puppy. The young man felt the keenness of the satire,</p>
+            <pb n="x" xml:id="pb-x" facs="#i16"/>
+             <p>turned upon his heel, and left Sterne to triumph.</p> <p>His wit and humour were already greatly admired within the circle of his acquaintance; but his genius had never yet reached the capital, when his two first volumes of Tristram Shandy made their appearance. They were printed at York, and proposed to the booksellers there at a very moderate price; those gentlemen, however, were such judges of their value, that they scarce offered the price of paper and print; and the work made its way into the world without any of the artifices</p>
+            <pb n="xi" xml:id="pb-xi" facs="#i17"/>
+             <p>which are often practised to put off an edition. A large impression being almost instantaneously sold, the Booksellers were rouzed from their lethargy, and every one was eager to purchase the second edition of the copy. Mr. Sterne sold it for six hundred pounds, after being refused fifty pounds for the first impression and proprietorship.</p> <p>The two first volumes of Tristram Shandy were now in every body's hands. All read, most approved, but few understood them. Those who had not entered into the ludicrous manner of Rabelais, or the poignant satire</p>
+            <pb n="xii" xml:id="pb-xii" facs="#i18"/>
+             <p>of Swift, did not comprehend them; but they joined with the multitude, and pronounced Tristram Shandy d-d clever. A few who pretended to judge for themselves, were staggered at the asterisks, and disappointed with the digressions; and even the Reviewers themselves were surprized into an elogium upon our author, though they afterwards recanted. They recommended Mr. Sandy as a writer infinitely more ingenious and entertaining than any other of the present race of novelists; adding, his characters were striking and singular, his observations shrewd and pertinent, and, making a few exceptions,</p>
+            <pb n="xiii" xml:id="pb-xiii" facs="#i19"/>
+             <p>that his humour was easy and genuine.</p> <p>The publication of these two volumes brought Mr. Sterne into great repute. He was considered as the Genius of the age: his company was equally courted by the great, the literati, the witty, and the gay; and it was considered as a kind of honour to have past an evening with the author of Tristram Shandy. The acquaintance he now made, added to his former connections, procured him a Prebendaryship in York Cathedral.</p> <p>His next publication consisted of two volumes of Sermons,</p>
+            <pb n="xiv" xml:id="pb-xiv" facs="#i20"/>
+             <p>which the severest critics could not help applauding for the purity and elegance of their style, and the excellence of their moral: but at the same time, the manner in which they were ushered to public notice, was severely, and perhaps justly, condemned. Having in his preface acquainted the reader, that "The sermon which gave rise to the publication of these, having been offered to the public as a sermon of Yorick's, he hoped the serious reader would find nothing to offend him, in his continuing those two volumes under the same title;" this very apology was considered as an additional insult to religion; and it</p>
+            <pb n="xv" xml:id="pb-xv" facs="#i21"/>
+             <p>was asked, "Would any man believe that a preacher was in earnest, who should mount the pulpit in a Harlequin's coat?"</p> <p>When the third and fourth volumes of Tristram Shandy made their appearance, it must be acknowledged, that the Public was not so eager in purchasing and applauding them, as they had been with respect to the first two volumes. The novelty of the stile and manner no longer remained; his digressions began to be tedious, and the meaning of his asterisks, which by this time had been pretty clearly pointed out, were by many considered as too gross and indelicate for the eye of</p>
+            <pb n="xvi" xml:id="pb-xvi" facs="#i22"/>
+             <p>chastity. He had nevertheless a great number of admirers; and he was encouraged to publish a fifth and sixth volume. Their satire was still poignant, spirited, and most frequently extremely just. The characters, though somewhat outré, were lively and in nature. He constantly caught the Ridiculous, wherever he found it; and he never failed to present it to his readers in the most agreeable point of light. His story of Le Fevre was highly finished, and truly pathetic; and would alone rescue his name from oblivion, if his Sermons were not considered as some of the best moral discourses extant.</p>
+            <pb n="xvii" xml:id="pb-xvii" facs="#i23"/>
+             <p>The seventh, eight, and ninth volumes have not yet compleated that work; so that what was said upon the publication of his first volumes, has been verified: "Mr. Shandy seems so extremely fond of digressions, and of giving his historical readers the slip upon all occasions, that we are not a little apprehensive he may, some time or other, give them the slip in good earnest, and leave the work before the story be finished."</p> <p>In the above-mentioned volumes, Mr. Sterne carries his readers through France, and introduces some scenes and characters</p>
+            <pb n="xviii" xml:id="pb-xviii" facs="#i24"/>
+             <p>which are afterwards taken up in his Sentimental Journey, particularly that of Maria: so that this may in some measure be considered as a continuation of the Life and Opinions of Tristram Shandy.</p> <p>A very good judge of literature hath given his opinion of the Sentimental Journey in these words. "His last work may be considered as his greatest; since it contains a variety of agreeable pathetic descriptions, in an easy simple stile, cleared from much of the obscenity and levity which debase the former volumes."</p>
+            <pb n="1" xml:id="pb-1" facs="#i25"/>
+             <p>YORICK's</p> <p>SENTIMENTAL JOURNEY.</p> <p>CONTINUED.</p> <note>image</note> <p>THE CASE OF DELICACY,</p> <p>COMPLEATED.</p> <p> - CAUGHT hold of the fille-de-chambre's - "What?" says the critic. Hand. - "No, no, a plain subterfuge, Mr. Yorick," cries the casuist. - "Yes, 'Tis indeed but too plain, says the priest." Now I'll venture my black silk breeches, that have never been worn but upon this occasion, against a dozen of Burgundy, such as we drank</p>
+            <pb n="2" xml:id="pb-2" facs="#i26"/>
+             <p>last night - for I mean to lay with the lady - that their worships are all mistaken. "'Tis scarcely possible, reply these sagacious gentlemen: the consequence is too obvious to be mistaken." Now I think, that if we consider the situation - if we consider the occasion - notwithstanding the fille-de-chambre was as lively a French girl as ever moved, and scarce twenty - if we consider that she would naturally have turned her front towards her mistress, by the way of covering the breach occasioned by the removing of the corking-pins - it would puzzle all the geometricians that ever existed, to point out the section my arm must have formed to have caught hold of the fille-de-chambre's</p>
+            <pb n="3" xml:id="pb-3" facs="#i27"/>
+             <p>But we will allow them the position - was it criminal in me? was I apprized of her being so situated? could I imagine she would come without covering? for what, alas! is a shift only, upon such an occasion?</p> <p>Had she been as much disposed for taciturnity as my Parisian fille-de-chambre, whom I first met with her Egaremens de Coeur, all would have been well: But this loquacious Lionnoise no sooner felt my hand than she screamed like a stuck pig. had it contained a poniard, and had I been making an attempt upon her life as well as her virtue, she could not have been more vociferous. - Ah</p>
+            <pb n="4" xml:id="pb-4" facs="#i28"/>
+             <p>monseigneur! - Ah madame! - Monsieur l'Anglois - il y est! il y est!</p> <p>Such repeated exclamations soon brought together the hostess and the two voiturins; for as they thought nothing less than bloodshed was going on, their consciences would not let them remain absent. - The hostess, in a tremulous situation, was imploring St. Ignace, whilst she crossed herself with the greatest swiftness. The voiturins had forgot even their breeches in the hurry, and therefore had a less claim to decency in appearance than myself; for I had by this time jumped out of bed, and was standing bolt-upright</p>
+            <pb n="5" xml:id="pb-5" facs="#i29"/>
+             <p>close to the lady, when we received this visit.</p> <p>After the first testimonies of surprize had subsided, the fille-de-chambre was ordered to explain what she made the outcry for, and whether any robbers had broke into the inner room. To this she made no reply, but had presence of mind enough to make a precipitate retreat into the closet.</p> <p>As the explanation rested upon her, and she was unwilling to make it, I should have escaped all censure of suspicion, had I not, most unfortunately, in my tossing and tumbling in bed for want of rest, worked off</p>
+            <pb n="6" xml:id="pb-6" facs="#i30"/>
+             <p>a very material button upon my black silk breeches; and by some accident the other button-hole having slipt its hold, the stipulated article of the breeches seemed to have been intirely infringed upon.</p> <p>I saw the Piedmontoise lady's eye catch the object; and mine pursuing the course of her direction, I beheld what put me more to the blush, tho' in breeches, than the nakedness of the two voiturins, the hostess's tattered shift, or even her ladyship's dismantled charms.</p> <p>I was standing, Eugenius, bolt-upright close to her, when she made this discovery. - It brought back her</p>
+            <pb n="7" xml:id="pb-7" facs="#i31"/> 
+             <p>recollection - she jumped into bed, and covered herself over with the cloaths, ordering breakfast to be got immediately.</p> <p>Upon this signal our visitors retired, and we had an opportunity of conferring upon the articles of our treaty.</p>
+            <pb n="8" xml:id="pb-8" facs="#i32"/>
+             <p>THE NEGOCIATION.</p> <p>AS the security of the corking-pins had been ineffectual for some time, the Piedmontoise lady, like an able negociator, armed herself at all points, before she resumed the conference. She well knew the powers of dress as well as address; - though, believe me, I thought every argument of her revealed rhetoric insurmountable. But here comes the caffé a lait, and I have scarce time to huddle on my things.</p> <p>At BREAKFAST.</p><p>Lady. I wonder not, sir, that the misunderstandings between France</p>
+            <pb n="9" xml:id="pb-9" facs="#i33"/>
+             <p>and England are so frequent, when your nation are so often, and without provocation, guilty of the infraction of treaties.</p> <p>Yor. Bless me, madam, recollect yourself; it was stipulated by the third article, that Monsieur might say his prayers; - and I have to this moment done nothing more than ejaculate, though your fille-de-chambre, by her extraordinary, and as yet unintelligible outcries, threw me into violent convulsions, and such as were very far from being of the pleasantest sort.</p> <p>Lady. Pardon me, sir, you have infringed upon every article, except</p>
+            <pb n="10" xml:id="pb-10" facs="#i34"/>
+             <p>the first, which was dictated by external politeness; - but even here the barrier stipulation was broke down.</p> <p>Yor. Your ladyship will please to observe, that the barrier part of the treaty was broke down by yourself in the warmth of your argument concerning the third article.</p> <p>Lady. But then, sir, the breeches?</p> <p>Yor. There indeed, madam, you touch me to the quick. - I acknowledge the default; - but it was the effect of accident.</p> <p>Lady. But it was not the effect of accident, that occasioned you to lay</p>
+            <pb n="11" xml:id="pb-11" facs="#i35"/>
+             <p>violent hands upon my fille-de-chambre.</p> <p>Yor. Violent hands, madam! - I touched her but with one hand; and a jury of virgins, madam, could have brought it in nothing more than the chance-medley of sensation.</p> <p>After this congress, a new treaty was entered into, by which all possible care was taken for the exigencies of inns, beds, corking-pins, naked fille de chambres, unlucky breeches, buttons, &amp;c. &amp;c. &amp;c. So that if we had planned a new convention for the demolition of the harbour of Dunkirk, and that of Mardyke, it</p>
+            <pb n="12" xml:id="pb-12" facs="#i36"/>
+             <p>could not have been done with more political circumspection; nor could one have thought it possible to have been evaded, either by design or accident.</p>
+            <pb n="13" xml:id="pb-13" facs="#i37"/>
+             <p>A PROVISION FOR THE POOR.</p> <p>NATURE! whatever shape thou wearest, whether on the mountains of Nova Zembla, or in the parched soil of the torrid tropics, still thou art amiable! still shalt thou guide my foot-steps! With thy help, the life allotted to this weak, this tender fabric, shall be rational and just. Those gentle emotions, which thou inspirest by an organized congeniality in all thy parts, teach me to feel: - instruct me to participate another's woes, to sympathize at distress, and find an uncommon glow of satisfaction at felicity.</p>
+            <pb n="14" xml:id="pb-14" facs="#i38"/>
+             <p>How then can the temporary, transient misfortunes of an hour cloud this brow, where serenity was wont to fix its reign? - No, - avaunt ye wayward jaundice spleens! - seize on the hypocrite, whose heart recoils at every forged puritanic face; - assail the miser, who sighs even when he beholds his treasures, and thinks of the instability of bolts and locks. - Reflect, wretch, on the still greater instability of life itself: calculate, caitiff, the days thou hast to live - some ten years, or less; - allot the portion thou now spendest for that period, and give the rest to the truly needy.</p>
+            <pb n="15" xml:id="pb-15" facs="#i39"/>
+             <p>Could my prayers prevail, with zeal and reason joined, misery would be banished from earth, and every month be a vintage for the poor!</p>
+            <pb n="16" xml:id="pb-16" facs="#i40"/>
+             <p>FRIENDSHIP.</p> <p>SOME over-rigid priest may perhaps imagine my prayer should have preceded breakfast and business, and that then my negociation with the fair Piedmontoise might have been more successful. - It might so.</p> <p>My life hath been a tissue of incidents, interwoven by the hand of Fortune after a whimsical but not distasteful pattern: the ground is light and chearful, but the flowers are so variegated, that scarce any weaver of fancy will be able to imitate it.</p>
+            <pb n="17" xml:id="pb-17" facs="#i41"/>
+             <p>A letter from Paris, from London, from you, Eugenius! - Oh my friend! I'll be with thee, at the Hotel de Saxe, ere you have tarried the double rotation of diurnal reckoning.</p>
+            <pb n="18" xml:id="pb-18" facs="#i42"/>
+             <p>THE CONFLICT.</p> <p>"THEN I will meet thee, said I, fair spirit, at Brussels! - 'Tis only returning from Italy thro' Germany to Holland, by the route of Flanders." What a conflict between love and friendship! Ah madame De L- ! the Remise door hath ruined my peace of mind. - The monk's horn box recalls you every moment to my sight; - and those eyes, that view thy fair form in fancy, realize a stream that involuntarily flows.</p> <p>If ever I wished for an inflexible, insensible heart, 'tis now: but this</p>
+            <pb n="19" xml:id="pb-19" facs="#i43"/>
+             <p>is blasphemy against the religion of sentiment, and I will expiate my crime. - How? I will pay that tribute I owe to friendship, though it cost my affections the toll even of life.</p>
+            <pb n="20" xml:id="pb-20" facs="#i44"/>
+             <p>THE CASE OF FALSE</p> <p>DELICACY.</p> <p>WHEN I had come to this resolution, I just began to think, what apology I could politely make to the Piedmontoise lady, for my abrupt departure and non-performance of the treaty I have entered into as far as Turin. If any part of our former connection had the appearance of being infringed upon, the incidents and accidents that occasioned the seeming infraction, might in some measure palliate the circumstances; - but here is a direct violation of our second treaty,</p>
+            <pb n="21" xml:id="pb-21" facs="#i45"/>
+             <p>that was so religiously ratified. How then can the potentates of the earth be considered as culpable for the renewal of a war, after a definitive treaty of peace, considering the many unforeseen and unexpected events by which the temple of Janus may be thrown open! - Whilst I was in this soliloquy, she entered the room, and told me, that the voiturins were ready, and the mules harnessed. - Eugenius, if a blush be a mask of innate modesty, or shame, and not of guilt, I will reveal to thee, that whilst my face was crimsoned o'er with the tinge of conscious impropriety, my tongue faultered, and refused its office. - "Madam, said I, a letter" - and here I stopt. She saw my confusion,</p>
+            <pb n="22" xml:id="pb-22" facs="#i46"/>
+             <p>but could not account for it.</p> <p>"We can stay, sir, till you have wrote your letter." - My confusion increased; - and it was not till after a pause of some minutes, when I summoned to my aid the powers of resolution and friendship, that I was able to tell her, "I must be the bearer of it myself."</p> <p>Wast thou ever in want of money, and didst apply to a dubious friend to assist thee? What then were thy feelings, whilst thou wast viewing the agitations of his muscles, the terror or compassion of his eye; or sinking the tender emotions of the</p>
+            <pb n="23" xml:id="pb-23" facs="#i47"/>
+             <p>heart, and turning to thee with a malicious sneer, he asked thee, - "What security?" Or, wast thou ever enamoured with an imperious haughty fair one, on whom thou hadst lavished all thy wishes, hopes, and joys; when at length, having marshalled thy resolution to declare thy passion, catching her eyes at the first opening of thy soul, thou sawest indignation and contempt lurking in each pupil arming for thy destruction: - then, Eugenius, figure to yourself the beauteous Piedmontoise collecting all her pride and vanity into one focus, with female resentment for their engineer.</p>
+            <pb n="24" xml:id="pb-24" facs="#i48"/>
+             <p>C'est la politesse Angloise; mais cela ne convient pas à des honnêtes gens.</p> <p>This is English politeness; but it should not be exercised upon decent people.</p> <p>Why, in the name of fate, or chance, or fatal sway, or what you will, should the incidents of my life, the wayward shades of my canvass, draw upon a whole nation such an imputation?</p> <p>'Twere injurious, fair Piedmontoise! But thou art gone, and may the cherubims of felicity attend thee!</p>
+            <pb n="25" xml:id="pb-25" facs="#i49"/>
+             <p>OBSTINACY.</p> <p>THIS was not the only difficulty that rose from the change in the plan of my operations. The voiturin, with whom I had agreed to carry me to Turin, would not wheel about to St. Michael, before he had compleated his journey, as he there expected a returning traveller to defray the expence back. I in vain pleaded the advantage he would receive by so short a post, and that he would most probably find somebody there destined to Turin. No; - he was as obstinate as the mules he drove, and there seemed a congeniality of sentiment between</p>
+            <pb n="26" xml:id="pb-26" facs="#i50"/>
+             <p>them, which might perhaps be ascribed to their constant acquaintance and conversation. All my rhetoric, all my reasoning, made as little impression as the excommunications and anathemas religiously and devoutly pronounced by the French clergy against the intruding rats and caterpillars.</p> <p>Finding there was no other alternative than paying the double fare back, I at length consented, and with my usual philanthropy began to impute this thirst of gain, so universally prevalent, to some latent cause in our frame, or to some invisible particles of air which we suck</p>
+            <pb n="27" xml:id="pb-27" facs="#i51"/>
+             <p>in with our first breath, as soon as we are ushered into the world, with a scream of disapprobation at the journey we are compelled to perform.</p>
+            <pb n="28" xml:id="pb-28" facs="#i52"/>
+             <p>THE CHANCE-MEDLEY</p> <p>OF EXISTENCE.</p> <p>"THE scream of disapprobation at the journey we are compelled to perform!" This conceit pleased me, and I thought it both new and apposite to my present situation: so getting into the chaise, with a smile of complacency at the mules, who for once seemed to have conferred all their perverse disposition on their driver, I resolved in my mind some strange unconnected conclusions from the premises of my conceit.</p> <p>If then, said I, we are forced upon this journey of life; if we are brought into it without our knowledge or</p>
+            <pb n="29" xml:id="pb-29" facs="#i53"/>
+             <p>consent; and had it not been for the fortuitous concourse of atoms, we might have been a tobacco-pipe, or even a tobacco-stopper - a goose, or a monkey - why are we accountable for our passions, our follies, and our caprices? Were you or I, Eugenius, by some tyrant, compelled to be a courtier, ere we had learnt to dance, should he punish us for the aukwardness of our bow? Or, having learnt to dance, should know nothing of the etiquettes of courts, wherefore make me, against my will, a master of the ceremonies, to be impaled for my ignorance.</p> <p>Considre this, Eugenius, and laugh at the boasted self importance of the greatest monarchs of the earth.</p>
+            <pb n="30" xml:id="pb-30" facs="#i54"/>
+             <p>MARIA.</p> <p>UPON my arrival at Moulines, I inquired after this disconsolate maid, and was informed she had breathed her last ten days after I had seen her. I informed myself of the place of her burial, wither I repaired; but there was</p> <p>Not a stone to tell where she lay.</p> <p>However, by the freshness of the surface of the earth, that had been removed, I soon traced out her grave. - I paid her the last tribute due to virtue; - nor did I grudge a tear.</p>
+            <pb n="31" xml:id="pb-31" facs="#i55"/>
+             <p>Alas, sweet maid, thou art gone! - but it is to be numbered with angels, whose fair representative thou wast upon earth. - Thy cup of bitterness was full, too full to hold, and it hath run over into eternity. - There wilt thou find the gall of life converted into the sweets, the purest sweets of immortal felicity.</p>
+            <pb n="32" xml:id="pb-32" facs="#i56"/>
+             <p>THE POINT OF HONOUR.</p> <p>AFTER I had paid these sincere obsequies to the manes of Maria, I resumed my chaise, and fell into a train of thinking on the happiness and misery of mankind: - but this reverie was presently interrupted by the clashing of swords in a thicket adjacent to the road. I ordered the postillion to stop, and getting out, repaired to the spot from whence the noise issued. It was with some difficulty I reached the place, as the path that led to it was meandering and intricate.</p>
+            <pb n="33" xml:id="pb-33" facs="#i57"/>
+             <p>The first thing that presented itself to my sight was a handsome young man, who had just received his death-wound, breathing his last; and another not much older weeping over him, whilst he held the bloody instrument of destruction reeking in his hand. - I stood aghast for some moments to view this melancholy spectacle. When I had recovered myself from the surprise it had thrown me into, I enquired the cause of this bloody conflict; but I received no other answer than a fresh stream of tears.</p> <p>At length, wiping away the briny flood that had watered his cheeks, with a sigh he uttered, "My honour,</p>
+            <pb n="34" xml:id="pb-34" facs="#i58"/>
+             <p>sir, compelled me to the deed; my conscience condemned it: -- but all remonstrance was vain, and through the bosom of my friend I have pierced my own heart, whose wounds will never heal." Here a fresh gush of woe issued from the source of sorrow, which seemed inexhaustible.</p> <p>What is this phantom, Honour! that plunges a dagger where it should offer balsam? Traitor, persidious traitor! that stalkest at large under the habit of ridiculous custom, or more ridiculous fashion! unknown to our forefathers, unknown to those we stile unpolished and barbarous, thou art reserved for this age of</p>
+            <pb n="35" xml:id="pb-35" facs="#i59"/>
+             <p>luxury, learning, and refinement; for the seat of the Muses, the residence of the Graces. - Ah! is it possible? Are ye not the fair representatives of Gratitude, which so often runs counter to Honour and her fallacious blandishments?</p>
+            <pb n="36" xml:id="pb-36" facs="#i60"/>
+             <p>GRATITUDE.</p> <p>A FRAGMENT.</p> <p> - GRATITUDE being a fruit which cannot be produced by any other tree than beneficence, it must necessarily be a very perfect virtue, as it hath so noble an origin.</p> <p>I shall not hesitate to place it at the head of all the other virtues; for the Omnipotent himself requires no other at our hands; - this alone affording all the others necessary for salvation.</p>
+            <pb n="37" xml:id="pb-37" facs="#i61"/>
+             <p>Even the Pagans held this virtue in such high esteem, that in honour of it they imaged three divinities, under the name of the Graces: the first was called Thalia, the second Aglaia, and the third Euphrosyne. These three goddesses presided over Gratitude, judging that one alone was not sufficient to do honour to so rare a virtue. It is to be observed, that the poets have represented them naked, in order to point out, that in cases of beneficence and acknowledgment, we should act with the utmost sincerity, and without the least disguise. They were depicted vestals, and in the bloom of youth, to teach us that good offices should ever be remembered in their</p>
+            <pb n="38" xml:id="pb-38" facs="#i62"/>
+             <p>most verdant freshness, and that our gratitude should never slacken or sink under the weight of time; but that we should search for every possible occasion to testify our sensibility of benefits received. They have given a soft and smiling mien to these three divinities, to signify the joy we should feel, when we can express our sense of obligations received from our benefactors. They have fixed their number to three, to teach us that acknowledgments should be threefold, in proportion to the benefit received. They have described them holding each other by the hand, to instruct us that obligations and gratitude should be inseparable.</p>
+            <pb n="39" xml:id="pb-39" facs="#i63"/>
+             <p>Thus have we been taught by the Pagans, whom we condemn! - Christians, remember you are their superiors; - shew your superiority in virtue.</p>
+            <pb n="40" xml:id="pb-40" facs="#i64"/>
+             <p>THE FELLOW-TRAVELLER.</p> <p>WHILST he was lamenting the destruction of his friend, he forgot his own safety: I perceived at a distance some horsemen coming; and lest they should have gained any intelligence of the intended duel, and were coming in search of the combatants, I entreated him to get into my chaise, which should carry him with all possible speed to Paris, where he might either conceal himself till the affair was settled in his favour, or might escape to any part of Europe.</p>
+            <pb n="41" xml:id="pb-41" facs="#i65"/>
+             <p>My remonstrances had their proper effect, and with little farther intreaty, I prevailed on him to be my companion and fellow-traveller.</p> <p>By the time he had got about a league from the fatal spot, I observed the moisture of his eyes diminished, his bosom throbbed with less energy, and his whole frame began to tranquilize. We had not yet broke silence since my resuming the chaise; when, finding his propensity to make me acquainted with the cause of his misfortune increase, I politely, not impertinently, urged him to the task.</p>
+            <pb n="42" xml:id="pb-42" facs="#i66"/>
+             <p>THE STORY.</p> <p>"I AM, said he, the son of a member of the parliament of Languedoc. Having finished my studies, I had been for some months at Paris, where I made acquaintance with a gentleman somewhat younger than myself, who was a man of rank, and the heir to a considerable fortune. His relations had sent him upon his travels, till such as a match, which was upon the carpet, could be brought about, as well as to estrange him from a young lady, of inferior rank and fortune, who seemed too much to have engrossed his attention.</p>
+            <pb n="43" xml:id="pb-43" facs="#i67"/>
+             <p>He revealed to me his passion for this young lady, who, he said, had made so great an impression on him, that it was not in the power of time or absence to obliterate her dear image from his bosom. They kept up a constant correspondence by letters, and hers seemed to breathe the purest accents of sympathetic love. He consulted me how he should act, and I advised him always to the best of my judgment. I could not pretend to dissuade him from loving the lady, whose form, he told me, was the representation of Venus; and, if it were possible to be enamoured with a portrait drawn by such a warm admirer, That, surely, had the powers of exciting all the</p>
+            <pb n="44" xml:id="pb-44" facs="#i68"/>
+             <p>emotions of the tender passion. i therefore applauded his choice; and as our sentiments entirely agreed upon the impotence of wealth and grandeur, when placed in competition with happiness, we considered the tyranny of parents in compelling their children to marry against their inclinations, as the greatest of all temporal evils.</p> <p>About this time I received a letter from my father, ordering me to return home. As there was something very positive in the command, without any reason being assigned, I was apprehensive that some of my little gallantries, which you know are inevitable at Paris, had reached</p>
+            <pb n="45" xml:id="pb-45" facs="#i69"/>
+             <p>his ears; and I prepared myself for the journey with a contrite heart, and a penitential aspect. I had indeed the more reason for this gloominess, as my last remittance, which was to have served me three months, was exhausted at the end of the first, and there was no possibility of travelling without money. But my generous friend anticipated even a hint upon the occasion; and presenting me with a small box, which he begged I would keep for his sake, I found in it a draft upon a banker for a larger sum that I required to perform the journey.</p> <p>As he never omitted any opportunity of writing to his dear Angelica,</p>
+            <pb n="46" xml:id="pb-46" facs="#i70"/>
+             <p>he begged I would deliver a letter to her, as she resided in my father's neighbourhood, and also his picture, which had been executed by one of the most celebrated artists in Paris, and was richly set with brilliants for a bracelet.</p>
+            <pb n="47" xml:id="pb-47" facs="#i71"/>
+             <p>THE PRODIGAL's RETURN.</p> <p>"IT was with the greatest reluctance I left Paris, and its various amusements; but they did not affect me nearly so much as the loss of my friend's company, as we had lived together upon the footing of brothers, and were by some called Pylades and Orestes. On my way, every stage brought me nearer, I thought, to parental reproach for my follies and extravagance, and I was preparing myself to receive the severest castigation with the humility and respect due from a son (a prodigal son) to his father.</p>
+            <pb n="48" xml:id="pb-48" facs="#i72"/>
+             <p>What was my surprize, when he came running to meet me at the gate with joy depicted in his countenance. "My son, said he, this mark of your ready obedience endears you still more to me, and renders you worthy the good fortune that awaits you." I thanked him for the kindness he expressed for me, but testified my surprize at this good fortune he talked of. "Walk in, said he, and that mystery will be revealed." Saying this, he introduced me to an elderly gentleman, and a young lady; adding, "Sir, this is to be your wife."</p> <p>There was an honest sincerity and friendly bluntness in my father,</p>
+            <pb n="49" xml:id="pb-49" facs="#i73"/>
+             <p>very different from the fawning of court sycophants, a species of beings he had ever been estranged from.</p> <p>The young lady blushed, and I stood motionless; my tongue was deprived of the powers of utterance, my hands forgot their office, and my legs tottered under me. Surprized at the sight of so much beauty and innocence, I had not time to reflect, but found a thousand Cupids at once seize upon my heart, and force it into inevitable captivity.</p> <p>As soon as I recovered myself from the consternation this unexpected event had thrown me into, I paid my respects to the company in</p>
+            <pb n="50" xml:id="pb-50" facs="#i74"/>
+             <p>the best manner I was able, and was wished joy upon my happy alliance, as if my nuptials had really taken place. It is true, it was impossible to view so divine an object and not be enamoured; or not to have judged my lot completely happy, when my father's approbation had forerun my own.</p>
+            <pb n="51" xml:id="pb-51" facs="#i75"/>
+            <p>THE INTERVIEW.</p> <p>DINNER was served, when mirth and festivity reigned in every countenance, except that of my intended bride: this I ascribed to her modesty and bashfulness at my sudden arrival, and abrupt introduction. I took the earliest opportunity of being alone with her, to unfold my sentiments, and acquaint her with the deep impression she had made upon my heart.</p> <p>Soon after dinner this opportunity occurred. Walking in the garden, we found ourselves sequestered from</p>
+            <pb n="52" xml:id="pb-52" facs="#i76"/>
+            <p>the rest of the company, in a little grove, which Nature, in her kindest hours, seemed to have destined for the retreat of lovers. "Madam, said I, after the declaration that has been made, and our happy introduction, with the consent of both our fathers, I flatter myself I shall not offend you, when I tell you, that there is nothing wanting to complete my felicity, and make me the happiest of beings, but your telling me that the alliance which is going to take place, is as agreeable to you as it seems to every one else. Oh! tell me, my angel, that I am not forced upon you: - say, at least, I may hope to find some small share in your</p>
+            <pb n="53" xml:id="pb-53" facs="#i77"/>
+            <p>affections; - for the most earnest assiduity, and the most constant desire of pleasing you, shall be the task of my whole life."</p> <p>"Sir, replied she, there is a noble generousness in your countenance, that must abhor deception. Were I to tell you I ever could love you, I should deceive you - it is impossible."</p> <p>"Heavens! what do I hear? - Impossible to love me! - Am I then of so hideous, so monstrous a form? - Hath Nature cast me in so barbarous a mould, that I am repugnant to the sight, and detestable to the fairest and most</p>
+            <pb n="54" xml:id="pb-54" facs="#i78"/>
+            <p>amiable of the creation? - If so - "</p> <p>"No, sir, you wrong nature, and injure yourself. - Your mien is graceful, your person elegant, your countenance pleasing, and every embellishment of art seems exhausted upon you; - but it is my cruel lot" - Here a stream of tears stopt her farther utterance. - </p> <p>"Oh! madam, said I, kneeling, I beseech you to hear the prayer of the most earnest of your suppliants. - It is not because the mandates of a parent may seem to entitle me to your hand; - I scorn</p>
+            <pb n="55" xml:id="pb-55" facs="#i79"/>
+            <p>to force it, or have it without your heart: - but I beseech you to endeavour to let me merit you, and convince you of the reality of my passion, which is ardent as it is insurmountable." - </p> <p>Heavens! what was my surprise, when uttering these last words, I perceived my friend, my honoured friend, rushing from behind the thicket, and drawing his sword.</p> <p>- "Villain, said he, thou shalt pay for thy treachery." </p> <p>The lady fainting, he sheathed his sword to assist her. When she was carried into the house, he bid</p>
+            <pb n="56" xml:id="pb-56" facs="#i80"/>
+            <p>me follow him. Unknowing how I had offended, or by what magic he could be at my father's house when I thought him in Paris, I accompanied him. As we walked on towards the forest, he thus explained himself:</p> <p>"Sir, your treachery to me I was acquainted with a few hours after your departure from Paris; and tho' you thought proper to conceal the subject of your journey from me, the whole city echoed with your nuptials before night. I accordingly immediately set out post, and you find I have come in time to prevent your union with Angelica."</p>
+            <pb n="57" xml:id="pb-57" facs="#i81"/>
+            <p>"Angelica! said I. - Heaven knows how unjustly you accuse me: - I was ignorant that this was Angelica."</p> <p>"Childish evasion! said he; this may impose on fools and drivellers, - but I must have other satisfaction. - Have you delivered my letter and picture?"</p> <p>"No; - it was impossible. -"</p> <p>"Villain, villain! - No, - you thought it more prudent to recommend your own suit. -- I heard every word that passed, and therefore it were needless to add to your guilt by the violation of truth."</p>
+            <pb n="58" xml:id="pb-58" facs="#i82"/>
+            <p>In vain did I expostulate with him to prove my innocence, promised to give up all my pretensions to Angelica, and travel to the most distant parts of the world to forget her. - He was inexorable. - It was impossible to convince him that I had not deceived him at Paris, or that I had not known it was Angelica I proposed paying my addresses to. In a word, we reached the spot where you found us, when with the greatest reluctance I drew to defend myself, after being branded with the repeated epithets of dastardly coward, and infamous poltroon. - You know the rest."</p>
+            <pb n="59" xml:id="pb-59" facs="#i83"/>
+            <p>Here a flood of tears concluded my fellow-traveller's narration, and seemed a very pertinent epilogue.</p>
+            <pb n="60" xml:id="pb-60" facs="#i84"/>
+            <p>THE INN.</p> <p>THIS affecting story had preyed so much upon my spirits, and I had entered so deeply into the circumstances, that I was very glad to see a little inn on the side of the road, as I stood in great need of some refreshment.</p> <p>The hostess, who welcomed us soon after we entered, was a comely well-looking woman, embonpoint, neither old nor young, or, as the French express it, d'un certain age; - which by the way is a very uncertain method of determining it: I shall</p>
+            <pb n="61" xml:id="pb-61" facs="#i85"/>
+            <p>therefore class he about thirty-eight. A Cordelier was taking his leave of her, and there was reason to judge, from the sanctity with which she eyed him, she had been at confession. Her handkerchief was somewhat rumpled, and deficient in a few pins; the center of her cap was also not directly upon the center of her head; but this may be attributed to the fervour of her devotion, and the hurry in which she was called to salute her new guests.</p> <p>We called for a bottle of Champaign, when she told me, "She had some of the best in all France: That she perceived I was an Englishman; and though the two nations</p>
+            <pb n="62" xml:id="pb-62" facs="#i86"/>
+            <p>were at war, she would always do justice to individuals, and must own that My Lords Anglois were the most generous Seigneurs in Europe; that she should therefore think herself guilty of much injustice, if she were to offer an Englishman a glass of wine which was not fit for the Grand Monarque."</p> <p>There was no disputing with a female upon so delicate a subject; and therefore, though my companion with myself judged it the worst bottle of Champaign we had ever tasted, I highly applauded it, as highly paid for it, and as highly complimented my landlady for her politesse.</p>
+            <pb n="63" xml:id="pb-63" facs="#i87"/>
+            <p>I had deposited my fellow-traveller at his old lodgings in La Rue Gueneguad, where he proposed disguising himself in the habit of an Abbé, a character the least taken notice of in Paris, except they are professed wits, or determined critics. He was to meet me at the Caffé Anglois, over-against the Pont Neuf, at nine, that we might sup together, and determine what would be the properest steps for him to take for his security. It was now five, so that I had four hours of lounging and lodging-hunting; how then could I better employ my time than in a short (perhaps a long) conference with the agreeable Marchande de Gands?</p>
+            <pb n="64" xml:id="pb-64" facs="#i88"/>
+            <p>In the first place, no woman in the whole city was better informed where lodgings were to be lett; her shop was a kind of bureau d'addresse for empty hotels. This, indeed, I did not know, when I entered her shop: - but why should the circumstance be less in my favour, because not pre-acquainted with it? In the second place, no female had more early intelligence with respect to the news of the day, and it was necessary I should know if my friend's affair had yet reached the capital: but this I was to learn with caution and address; it was, therefore, necessary we should retire into the back-shop.</p>
+            <pb n="65" xml:id="pb-65" facs="#i89"/>
+            <p>THE TILT OF ARMS.</p> <p>PARIS AND LONDON.</p> <p>PARIS - thy emblem is a ship; - yet thy Seine is not navigable. - Take London's cross - (you may drop the bloody dagger in the streights of Dover and Calais, to cleanse its sanguinary blade) and with it emblazon Notre Dame; whilst thy ship sails with the tide up the Thames, and casts anchor in the port of commerce.</p> <p>In which of the nine hundred streets - I mean lanes - of this capital</p>
+            <pb n="66" xml:id="pb-66" facs="#i90"/>
+            <p>of the world - for who can dispute a Parisian's word, who never had excursed beyond the gates? - I say, in which shall I take up my lodging? But softly: - there lives my beautiful Marchande de Gands. - Those silken eye-lashes! there she is at the door - the nets of love fabled by poets are surely realized by them. - "Madame, la fortune m'a jetté encore une fois dans vôtre quartier sans y penser. - Comment se porte, madame?" - "A merveille, monsieur; - charmez de vous voir."</p> <p>What urbanity in a stranger! - what a polite language! - and how happily expressed by a glover's wife.</p>
+            <pb n="67" xml:id="pb-67" facs="#i91"/>
+            <p>THE BACK-SHOP.</p> <p>WE had not made this retreat many minutes, before my beautiful Marchande had run over all the news of the day. I was presently informed of every fresh connection between the opera dancers, les filles d'honneur, &amp; les filles de joye, avec Messieurs les Anglois, les Barons Allemands, &amp; les Marquis Italiens. The rapidity with which she dispatched these connections, could be compared to nothing but the torrent of the Rhone, or the fall of Niagara. I had sucked in more scandal in the space of ten</p>
+            <pb n="68" xml:id="pb-68" facs="#i92"/>
+            <p>minutes, than would have furnished a modern Atalantis writer with memoirs for a couple of volumes. "But, said she, àpropos: - have you seen any of our new manufacture of gloves?" -- "What are they?" I asked. - Upon which she took down a band-box, and produced a very curious collection. "These, said she, are les gands d'amour: they were invented par Mr. le Duc de - . The cause was singular, and worth mentioning. Madame La Duchesse had for her cicisbeo a Scotch officer, who had some eruptions of a particular kind. - You know, sir, that nation has a disorder peculiar to themselves as well as we: - all the countries have their misfortunes.</p>
+            <pb n="69" xml:id="pb-69" facs="#i93"/>
+            <p>Madame's valet-de-chambre told his master in confidence, that he was afraid Mr. le Capitaine had communicated something to her ladyship that he did not dare mention. - Qui est ce que c'est? What is it, said the duke. - Ce n'est pas la gale? It is not the itch? The valet shrugged up his shoulders, and the dutchess entered. La politesse would not allow the duke to proceed upon an eclaircissement with his lady; he therefore set about divining a means to avoid the infection. He had heard of an English colonel who had hit upon a lucky expedient, in a case not unsimilar; but his name was so barbarous, which the manufacture bore, that it could never be</p>
+            <pb n="70" xml:id="pb-70" facs="#i94"/>
+            <p>pronounced with decency; he therefore called his device les gands d'amour, and now they are in great esteem throughout Paris. But I should have informed you the dutchess was never inoculated, and that she died of the small-pox a few months after. Her physicians, it is said, mistook her disorder; and having never been in your country, they forgot that la gale, or any other disorder, whether cutaneous or not, might be transplanted hither. I hope," continued she, casting a most amorous leer through those beautiful eye-lashes, which penetrated farther than I thought it possible for a single look to perforate, "that you'll be a customer! - you'll certainly wear them</p>
+            <pb n="71" xml:id="pb-71" facs="#i95"/>
+            <p>when they are so universally the fashion."</p> <p>Saying this, she produced some of various sizes and patterns; but I objected to most of them, as being too large for my hand. At length she produced a pair that I thought were near the mark: "I'll try them on, sir; - but your hand must be very small to fit these." "It is rather warm now, madam; so that I believe you may try a size larger." She placed herself on my side, and with both her hands had almost effected the design, when her husband passed through the parlour; - who nodding his head as he passed said, "Faites - faites - ne bougez pas."</p>
+            <pb n="72" xml:id="pb-72" facs="#i96"/>
+            <p>THE EFFECT.</p> <p>I Know not how to account for it; but I always found something of a tremor come over me, when I was detected by a lady's husband in private conversation with her, though in the most innocent attitude. -- That our's was the most innocent in the world at this time, cannot possibly be controverted: - besides, it was a matter of business. Who could blame a female vender of gloves for trying them on in the back-shop?</p>
+            <pb n="73" xml:id="pb-73" facs="#i97"/>
+            <p>But, be this as it may, the unexpected arrival of the bon homme had almost rendered the gloves useless. - My hand shook so (by what kind of sympathy I know not) that it was unable to do its office: - it slipt through the glove, and fell from the fair one's hand. "Mon dieu! said she; qui est ce que vous avez?" To which I replied with some pertinacity - "Ma foi, madame, je n'ai rien." "You are ill, sir - take a drop of liqueur;" which she immediately produced from an adjacent closet. The cordial was of some efficacy; but not sufficient to remove the perturbation of my spirits, occasioned solely by the entrance of the husband: so that I</p>
+            <pb n="74" xml:id="pb-74" facs="#i98"/>
+            <p>had not resolution sufficient to undergo a second trail of the gloves from her fair hand; but I desired her to put up a couple of pair of the smaller size. She asked me what colour. -- I replied black. -- "Comment, said she, avec des rubans noir, sans être en deuil." But I cleared up this, by telling her a clergyman, though not in mourning, could not in decency wear any gloves (even gands d'amour) of a gay colour.</p> <p>The subject of my first entrance into the lady's shop, may be thought to have evaporated in the trying on the gloves, and the fright from the host. - But the truth is, I had taken my measures in the fore-shop</p>
+            <pb n="75" xml:id="pb-75" facs="#i99"/>
+            <p>before our retreat. I mean, I had secured a lodging; and as to the intelligence concerning my unfortunate fellow-traveller, it did not come within the compass of her knowledge. This much I thought due to myself, and to my new acquaintance.</p>
+            <pb n="76" xml:id="pb-76" facs="#i100"/>
+            <p>THE OPERA GIRL.</p> <p>IT hath ever been a rule with me to think the goods of this world of no benefit, unless enjoyed. I had two pair of gands d'amour in my pocket scarcely tried on. - I went to the opera, finding, my dear Eugenius, that you were not arrived. - I saw mademoiselle De La Cour dance à merveille. - I beheld the finest limbs from the parterre, that could possibly have been chisselled by a Protogenes or a Praxiteles. I conversed with the abbé De M- upon the subject. - He said he would introduce me to her. I waited upon her</p>
+            <pb n="77" xml:id="pb-77" facs="#i101"/>
+            <p>to her coach, and had the honour of handing her into it. She gave my hand such a squeeze, upon being informed that I was an Englishman, that I felt an emotion immediately at my heart, communicated from the extremity of my fingers, which may be better imagined than described.</p> <p>She gave us an elegant petit soup r, and the abbé hastily retired after drinking a single glass. the conversation had already taken a turn towards the tender passion, and I expatiated upon sentimental felicity, and was setting forth all the blandishments of Platonic love, when she burst into a loud laugh - saying, she frankly owned she was not a</p>
+            <pb n="78" xml:id="pb-78" facs="#i102"/>
+            <p>professed disciple to my system, and thought it would go down much better with a sprinkling of the practical.</p> <p>At any other time I should have been disgusted with the grossness of the thought in a female; but at present I was disposed for a frolic, and gave her a bumper to Vive la bagatelle. I shewed her my new purchase, and asked her whether I should be in the fashion. She said they were of a scanty pattern, though à la grec; but recommended me for the future always to have my gloves à la mousquetaire.</p>
+            <pb n="79" xml:id="pb-79" facs="#i103"/>
+            <p>Just as we had come to a final resolution upon this interesting subject, Sir Thomas G-, was announced. The servant attempted to open the door; but finding it made some resistance, as it was by accident bolted on the inside, his confusion was greater than our's. - He imagining the knight at his heels, did not dare turn to inform him of the impediment. He whispered through the key hole, "Madame, le chevalier s'y trouve:" but the gands d'amour were come into play, and she was pulling one on plus badinant than even the Marchande herself. It was when she had brought herself to approve of the sitting - that this fatal whisper</p>
+            <pb n="80" xml:id="pb-80" facs="#i104"/>
+            <p>once more disconcerted the trial of the duke's novel invention. "Cachez vous sous le lit," said mademoiselle La Cour.</p> <p>Was ever ecclesiastic in such a piteous predicament! Sir Thomas G- would have been very glad to have seen Yorick in any other situation; but mademoiselle La Cour had persuaded him she never had any male visitors except himself; and to prove he believed her, he flung a hundred louis d'ors into her lap every Sunday morning.</p> <p>My mortification would not have been so very great, if an early retreat into the bed chamber had</p>
+            <pb n="81" xml:id="pb-81" facs="#i105"/>
+            <p>not rendered my situation almost intolerable. My rival triumphed over me without knowing it, and I was compelled to perform the character of Mercury, under all these disadvantages, in spite of my teeth.</p>
+            <pb n="82" xml:id="pb-82" facs="#i106"/>
+            <p>THE RETREAT,</p> <p>IT was finely said of the duke of Marlborough, That the only part of generalship he was unacquainted with was retreating. Love has often been compared to war, and with much propriety. When I thought to have carried La Cour by a coup de main, armed with les gands d'amour, the commander in chief made a sally, and compelled me to a most disgraceful capitulation. "How dissimilar to the conduct of the duke of Marlborough! said I. - Can this ever be told in my Sentimental</p>
+            <pb n="83" xml:id="pb-83" facs="#i107"/>
+            <p>Journey? - But I've not abandoned the place." - But I've not abandoned the place." - Just as I had made these reflections, La Cour put her hand down the side of the bed, and I had an opportunity of kissing it without being perceived.</p> <p>Sir Thomas having, as he thought, secured the garrison, retired from his post. - To quit the metaphor, - I had an opportunity of making a decent retreat, without danger, about four in the morning.</p>
+            <pb n="84" xml:id="pb-84" facs="#i108"/>
+            <p>NOTHING.</p> <p>"ABOUT four in the morning! says the ill natured reader. - What then were you doing till that hour - with an opera-dancer, a fille-de-joye?" To which I answer literally, Nothing. "No! - Mr. Yorick, the imposition is too gross to pass upon us even from the pulpit. What did you do with the gands d'amour -- invented to avoid infection? Did not mademoiselle La Cour resume her application to try them on, and make them fit close? - If so, what was the event?" - Once more I reply - Nothing.</p> 
+            <pb n="85" xml:id="pb-85" facs="#i109"/>
+            <p>How hard it is, my dear Eugenius, to be pressed to divulge an imaginary truth, or rather a falsity. If I were to be interrogated these ten years - I could add nothing to the reply - but nothing! - nothing! - nothing! -</p> <p>"Poor mademoiselle La Cour! says the saturist; - you had reason then to wish monsieur Yorick had been retroussé à la mousquetaire." But, Mr. Critic, this is nothing, nothing at all to the purpose. - "No more is this chapter," says the Snarler.</p> <p>Why then, here is an end of it.</p>
+            <pb n="86" xml:id="pb-86" facs="#i110"/>
+            <p>THE UNEXPECTED</p> <p>MEETING.</p> <p>TURNING the corner of the Rue La Harpe upon my retreat from madame La Cour, the morning beginning to dawn, I heard a voice from a fiacre, crying hist, hist, hist. This to a theatric performer, or a dramatic writer, might be a very grating sound; and were he inclined to superstition, he might consider it as the foreboder of future d-na-n; but as I never exhibited upon the stage, or ever wrote a comedy, tragedy, or farce, the sounds were not so very dissonant to my ears as they otherwise might have been.</p>
+            <pb n="87" xml:id="pb-87" facs="#i111"/>
+            <p>Turning about, I perceived my temporary Abbé popping his head out of the fiacre window, and beckoning to me. "Heavens! said I, what can this mean? -- He is taken up by Marechaussé, or the Chasseurs, and is conducting to the Chatelet of Bicêtre." - Not so: his honest landlord having given him intelligence that these gentry were in search of him, and advised him to make a retreat early in the morning, to avoid the consequences, he was setting out for Flanders, to get beyond the jurisdiction of their power.</p> <p>I was both happy and miserable on the occasion. - I was wretched to think this unfortunate young man</p>
+            <pb n="88" xml:id="pb-88" facs="#i112"/>
+            <p>was thus harrassed for an event which he would have used his utmost endeavours to have prevented: - but I was also pleased to think he would in some hours be beyond the frontiers of France, and out of the reach of their micalled justice.</p> <p>In taking my leave of him, after a very tender scene, I could not refrain hinting to him, that so precipitate a departure and so long a journey might exhaust his finances sooner than he expected; and that as money was the sinew of every thing that was vigorous, if he would borrow my purse, I would call upon him, in my return to England,</p>
+            <pb n="89" xml:id="pb-89" facs="#i113"/>
+            <p>and, if convenient to him, then accept of a reimbursement.</p> <p>Had I gone through Flanders, the cupidity of a recovery of the kind would the least have engaged my attention.</p> <p>He replied he had a sufficient sum to carry him to Nieuport, and from thence he would write to his friends.</p> <p>Oh! Eugenius, thou knowest my feelings upon this occasion. I did not dare press him for fear of offending a delicacy I myself was too susceptible of. - I retired with a flood of tears, as involuntary as they were sincere.</p>
+            <pb n="90" xml:id="pb-90" facs="#i114"/>
+            <p>THE CONSUMMATION.</p> <p>MY ideas were too scattered and eccentric, to be concentered in sleep. - I took a fiacre, and drove all round Paris. It is strange that passions, which are the gales of life, and under a certain subordination the only incentives to action, should at the same time create all our misery, all our misfortunes. I could not refrain repeating with Pope,</p> <p>Why charge mankind on heav'n their own offence,</p> <p>And call their woes, the crimes of Providence</p> <p>Blind, who themselves their miseries create,</p> <p>And perish by their folly, not their fate.</p>
+            <pb n="91" xml:id="pb-91" facs="#i115"/>
+            <p>Just as I had uttered these lines, (which by the bye would have been more sonorous, and of course more affecting, in their original Greek, and in the words of my old friend Homer) I perceived an inscription over a door, that a good deal puzzled me.</p> <p>L'ON FAIT NÔCES ICI.</p> <p>Whilst I was gazing at this uncommon information, my ears were regaled with some very pleasing music, which was playing to a set of convivial friends at a dance. I ordered the fiacre to stop, and enquired whether I might not faire nôces ici.</p> 
+            <pb n="92" xml:id="pb-92" facs="#i116"/>
+            <p>I cannot refrain remarking in this place, that a coachman and his coach are looked upon in Paris to be so inanimate, that it is the same expence to draw upon and run through the one, as the other: and also, that the performing the Nuptial rites, though much boasted of by every married and unmarried man in Paris, prevails more upon the outside of the walls, than with-inside of the houses.</p> <p>L'ON FAIT NÔCES ICI.</p> <p>J'en suis bien aise; said I, it suits the gloomy habit of my soul, and love alone can remove it.</p>
+            <pb n="93" xml:id="pb-93" facs="#i117"/>
+            <p>When the Cocher had brought the master of the house to the door, and informed him that an English gentleman proposed to faire nôces, - the question he put was how many soupes, how many tourtes, how many fricassé, and how much music?</p> <p>To which I replied, None.</p> <p>Monsieur l'Hôte shrugged up his shoulders, and said, "Pauvre monsieur Anglois, il est gris."</p>
+            <pb n="94" xml:id="pb-94" facs="#i118"/>
+            <p>THE TRAITEUR.</p> <p>ALTHOUGH the price of running through a cocher or a fiacre (either animate or inanimate) is stipulated to a liard, the putting to death a traiteur is a very serious affair, and might be attended with very serious consequences. The etiquette and punctilio of killing a man in France, from a science of themselves, and are as useful a kind of knowledge as quadrille or piquet. Having made some short study of these matters, I judged it prudent only to diable, peste, and f-e a little, and bid the coachman drive home to my lodgings.</p>
+            <pb n="95" xml:id="pb-95" facs="#i119"/>
+            <p>LA FILLE DE JOYE.</p> <p>SCARCE had I entered into La Rue St. Jaques, before I perceived a party of the Guêt hurrying, a young woman into a coach, whilst she was weeping with great bitterness, and imploring their mercy. - Mercy! thou divine attribute, estranged from the brutal breasts of such violators of humanity!</p> <p>As my coach passed, she gave a look towards me, that pierced me to the heart. - I ordered my coachman to turn, and follow the vehicle in which was the fair prisoner.</p> 
+            <pb n="96" xml:id="pb-96" facs="#i120"/>
+            <p>It was now near seven in the morning, and they conducted her directly to the Commissaire. They stopt, when my heart panted with secret joy, on finding it was the house belonging to Monsieur De L-, my intimate acquaintance. I alighted, and went to wait upon him: he was not yet up. The young woman was conducted into a kind of office, whilst I was ushered into the closet of the Commissaire, which commanded a view of the office.</p> <p>After an uncommon flood of tears, she wiped her face with her handkerchief; when I presently discovered the features (though much bloated with crying) of my pretty</p>
+            <pb n="97" xml:id="pb-97" facs="#i121"/>
+            <p>little fille-de-chambre whom I first met with her égarements de coeur. "Heavens! said I, is this possible! Do not my eyes deceive me? No - it is she! - My sympathetic heart involuntarily led me to her assistance, and if Mr. De L- hath the least susceptibility of sentiment in his, this unfortunate young woman shall not fall a sacrifice to - "</p> <p>Just as I had come to this resolution, the Commissaire entered; and after many compliments and some professions of friendship, I seized upon the opportunity of telling him, he had it now in his power to convince me of the sincerity of his assertions.</p>
+            <pb n="98" xml:id="pb-98" facs="#i122"/>
+            <p>He required an explanation, and I gave him one.</p> <p>To this, he replied, "it would be impossible to afford the young woman any relief till he had heard the allegations there were against her; but that if there was a possibility of mitigating her punishment, without losing sight of justice, he would certainly do it to oblige me."</p> <p>She was examined; and though I could perceive she gathered some confidence from my presence, there was so much innocence and unaffected simplicity in her countenance, that methought the Commissaire</p>
+            <pb n="99" xml:id="pb-99" facs="#i123"/>
+            <p>seemed somewhat prepossessed in her favour.</p> <p>The Guêt alledged against her, that there had been a riot at her lodgings, and that the neighbourhood had been disturbed. To which she replied, "she acknowledged there had been some disturbance, but it was owing to her not admitting some troublesome visitors, who had come to pay their compliments to a lady, who had before her those lodgings." The air of truth with which she delivered this, made the Commissaire immediately commence her advocate, and he told the leader of the Guêt, "he was liable to be punished, for forcing the lady out of her apartments</p>
+            <pb n="100" xml:id="pb-100" facs="#i124"/>
+            <p>upon such a pretence; that the most virtuous women in Paris were liable to the same inconvenience from troublesome visitors; and that if they could not prove her to be a woman of disorderly conduct in any other respect, they might think the lady very merciful if she forgave them, upon their asking her pardon." This they readily consented to, and they retired, leaving the Commissaire, their late prisoner, and myself.</p> <p>When they were gone, the Commissaire said, "notwithstanding the step he had taken in her favour, he was very sensible she was a fille-de-joye, she being down upon his</p>
+            <pb n="101" xml:id="pb-101" facs="#i125"/>
+            <p>list; but that, as she was a young practitioner, and the Guêt were as yet ignorant of her profession, at the entreaty of Mr. Yorick, he had released her; but strongly recommended her to avoid coming before him, upon that or any other occasion."</p> <p>I was greatly surprized to find she was actually upon the Commissaire's list, and my curiosity was much excited to know her story. We retired after paying Mr. De L- all the compliments to which he was so justly entitled for his polite behaviour, and I accompanied her back to her lodgings.</p>
+            <pb n="102" xml:id="pb-102" facs="#i126"/>
+            <p>THE STORY.</p> <p>AFTER after she had returned me repeated thanks for my kind intercession, I intreated her to inform me by what accident she had come into that situation of life, which, according to the Commissaire, she now unfortunately acted in. A flood of tears prevented her immediate reply; but when she had recovered herself, she gave me the following account.</p> <p>"The day after the visit I paid you at your Hôtel, I was sent by Madame R-, my mistress, to present</p>
+            <pb n="103" xml:id="pb-103" facs="#i127"/>
+            <p>her compliments to you, and desire to know when you proposed waiting on her with the letter you were entrusted with for her from Amiens, being surprized you had not yet transmitted it to her; when I was informed you had set out for the South of France, and it was uncertain when you would return. Having carried back this information to my mistress, she flew into a violent passion for having omitted bringing with me it the day before, when I was purposely sent for it, but when, by some unaccountable accident, we both forgot it. She hinted, that she imagined something had passed between us of a very singular nature; and went</p>
+            <pb n="104" xml:id="pb-104" facs="#i128"/>
+            <p>so far as to say, it was no wonder we had not thought of her or the letter, when we were so differently engaged. Such an accusation, innocent as I was, greatly nettled me, and I believe I made her some answer, which so much disgusted her, as to order me immediately to quit her service. This sudden discharge greatly confused me; and as I had no relations in Paris, I applied to a milliner who used to serve madame R-, to recommend me to a lodging till I could get a place. She perceived my anxiety, and told me to make myself quite easy, as she at that time wanted a workwoman, and we should not disagree about terms. Accordingly I carried my</p>
+            <pb n="105" xml:id="pb-105" facs="#i129"/>
+            <p>cloaths to her house, and from this instant was considered as one of the family.</p> <p>"My province was, in fore-noon to carry home the goods. As she worked chiefly for gentlemen, and particularly foreigners, she always cautioned me to dress myself to the best advantage upon these occasions, as she said the gentlemen always paid the most generously, when they met with a tidy milliner. She also recommended me to be very complaisant to the gentlemen, and never to contradict them; "And, continued she, I do not know a more likely fille in all the Rue St. Honoré, or any that is more likely to make her fortune,</p>
+            <pb n="106" xml:id="pb-106" facs="#i130"/>
+            <p>if she minds her hits. For, added she, there are but three female professions in Paris, which promise promotion: These are, opera-dancers, pretty bar-keepers aux caffés, and milliners; but we have the advantage, as we are considered the most modest, and are the least exposed in public.</p> <p>Though I was not possessed of any great portion of vanity, I could not help being pleased to find my mistress thought I had some claim to make my fortune; and as I had been a fille de chambre near four years without one tolerable offer being made me, except it was from a maître perruquier, in Rue Guenegand,</p>
+            <pb n="107" xml:id="pb-107" facs="#i131"/>
+            <p>I began to think, that the loss of madame R-'s place might turn out a benefit to me."</p> <p>I could not help interrupting her in this place, to enquire whether the maître perruquier had proposed honourable terms; and if so, whether it was pride, or personal distaste to him that had made her refuse his offer.</p> <p>"To this she very ingenuously replied, "that the terms he offered were nothing less than marriage; that he was considered as a man of opulence, and she thought him a very good match; that as to</p>
+            <pb n="108" xml:id="pb-108" facs="#i132"/>
+            <p>person, he was remarkably handsome, having been valet-de-chambre to La Duchesse de L-, and obliged to quit that lady's service, on account of a discovery made by Monsieur le Duc, who had been for some time before jealous of him; but that, upon his dismission, his good lady, as an acknowledgement of past services, had given him a sum of money to set him up as a master perruquier."</p> <p>When she had got thus far in her narration, she was interrupted by an accident, equally awful, alarming, and tremendous.</p>
+            <pb n="109" xml:id="pb-109" facs="#i133"/>
+            <p>THE CONFLAGRATION.</p> <p>OF all the temporary misfortunes, calamities and accidents of civil life, the greatest is that of sudden fire. - Its effects are so rapid and astonishing, that they not only frequently deprive an alarmed neighbourhood of all their property, and reduce them to a state of beggary, but often dispossess them of their reason, at least for the time, and render them incapaple of affording themselves that assistance which they might otherwise have obtained.</p>
+            <pb n="110" xml:id="pb-110" facs="#i134"/>
+            <p>At this instant all these horrors presented themselves to our view: - the whole range of houses opposite to us seemed entirely surrounded by flames. Out cries, shrieks, confusion and tumult at once assailed out ears.</p> <p>Oh! Eugenius, what would have been the emotions of your sympathetic heart upon this occasion? - Might I judge by those of mine, they would be too pungent for reason and philosophy to temper with prudence. I rushed into the midst of the populace, and was giving all the assistance that my feeble frame could permit - exerted far beyond</p>
+            <pb n="111" xml:id="pb-111" facs="#i135"/>
+            <p>its natural strength - when perceiving at a two-pair-of-stairs a female almost naked, just risen from bed, rending her hair, tearing her beautiful tresses, and imploring the clemency of heaven, - I flew to her assistance, and, though the floor on which she lodged had already taken fire, brought her off without hurt. i conveyed her to the apartment from whence I issued, and there procured not only warm wine, and other restoratives, but also cloaths to cover her; for at the time I conducted her thither, she had no other apparel than her shift. Her distresses had, however, made so strong an impression on her, that shame, which at another time, under</p>
+            <pb n="112" xml:id="pb-112" facs="#i136"/>
+            <p>such circumstances, would have overwhelmed her with blushes, crimsoned not her cheek, but left the lilly to prevail with the utmost force of its pallid hue: - Alas! too powerfully; - nature sunk beneath the oppression of calamity. - I ran for some drops, and by a speedy application restored her to life and to herself.</p> <p>"Where am I? -- Surely in another world? - All things round me are strange! - Are you inhabitants of the earth - or spirits of departed souls? - or has it all been a dream, and am I still in a reverie? - No - this surely is a room - that is a bed - this is a chair - and that a</p>
+            <pb n="113" xml:id="pb-113" facs="#i137"/>
+            <p>table: these too are cloaths, - but very different from any I ever wore. All around seem in equal consternation. -- Tell me, I beseech you, as you appear in a human form, sir, who are you, and what are you, and where am I?"</p> <p>Having said this, she fell again into a swoon; and this relapse seemed more dangerous than her first attack. I could have dwelt for ever in gazing upon her angelic countenance, which indeed resembled the picture of a heavenly resident, and seemed then with a most benignant smile to be taking a flight to the mansions of her celestial abode. But this was no time for such divine</p>
+            <pb n="114" xml:id="pb-114" facs="#i138"/>
+            <p>meditations; her earthly part still required our assistance.</p> <p>After having again somewhat recovered her, I thought it adviseable to have her put to bed, and recommended to my female friend to take the greatest care of her. This she promised, and I found afterwards, most religiously fulfilled; having taken my leave for the present to endeavour at giving some farther assistance to the unhappy sufferers in the conflagration.</p>
+            <pb n="115" xml:id="pb-115" facs="#i139"/>
+            <p>THE CASQUET.</p> <p>FROM an upper window I was called to, and desired to hold my hat, in which presently I found a small casquet, with which I retired, in order to return it to the proprietor after the confusion occasioned by the present calamity. I carefully conveyed it to my apartment, when opening it, I found it to contain some very valuable jewels, and a picture that made a deep impression on my heart. - It was the miniature of that divine creature whom I first met with at Calais, and whom I had proposed meeting at Brussels. - "Heavens! said I, by what</p>
+            <pb n="116" xml:id="pb-116" facs="#i140"/>
+            <p>accident came this picture here? - Surely that charming woman is not now perishing in the flames! Forbid it, justice! Forbid it, love!"</p> <p>I had resolved upon retiring to rest after so many fatigues: - but rest was a stranger to my eyes - I had already thrown off my coat and put on my night-cap, before I had made this discovery: but I instantly departed to fly to the spot where I had received the casquet, to obtain some intelligence of the proprietor, and, if possible, by what uncommon chance, the portrait of this lady was in it.</p>
+            <pb n="117" xml:id="pb-117" facs="#i141"/>
+            <p>The fire was by this time completely extinguished; but the agitations of my mind were still as great as ever. - If the original hath perished - Perish that thought! - distraction! Oh! Eugenius, I flew, I ran, I knew not whither.</p>
+            <pb n="118" xml:id="pb-118" facs="#i142"/>
+            <p>RUE TIREBOUDIN.</p> <p>MISTAKING my way, in my great confusion, instead of finding myself in the Rue St. Jaques, I found myself in the Rue Tireboudin. - What a name! said I. - "It had a much worse, sir, said my informer, before a great lady, riding through in her coach, and asking the name of it, was told; which so shocked her delicacy, that from that period it has bore this comparatively decent one." - "Draw your pudding, might, in England, favour of a proper attention to baking and a Sunday's desert - Oh</p>
+            <pb n="119" xml:id="pb-119" facs="#i143"/>
+            <p>the roast beef of old England! - but in a country where no puddings are either made, baked or eaten, it seems absurd." "Yes, sir, but Tire V*** was a great deal more shocking; and that was its primitive name."</p>
+            <pb n="120" xml:id="pb-120" facs="#i144"/>
+            <p>THE UNSUCCESSFUL</p> <p>ENQUIRY.</p> <p>AT length I reached the spot where the calamity had happened. Amidst the general confusion that still prevailed, I inquired if any lodger had lost a casquet of jewels; - adding, that upon giving a proper description of them, they should be restored. I then inquired if a lady resembling the picture I had in my hand, was any where to be found; but this research was as ineffectual as the former. No such lady was known in the neighbourhood.</p>
+            <pb n="121" xml:id="pb-121" facs="#i145"/>
+            <p>I could not point out the house, from the window of which they were thrown, for the walls were all levelled, and it was impossible to discriminate one house from another.</p> <p>In this perplexity I went to my acquaintance Mademoiselle Laborde (for that was the name of my female acquaintance, whom I have hitherto distinguished only by being fille-de-chambre to madame R-). I acquainted her with the accident, and my distress at not being able to discover the proprietor of the casquet, and the situation of the dear original of the miniature.</p>
+            <pb n="122" xml:id="pb-122" facs="#i146"/>
+            <p>Great was my astonishment, on being informed that the lady whom I had conveyed to Mademoiselle Laborde's lodging had, as soon as she recovered from her terror and astonishment, expressed the greatest concern at the loss of a similar casquet.</p>
+            <pb n="123" xml:id="pb-123" facs="#i147"/>
+            <p>THE DEFINITION.</p> <p>I Was ruminating upon the absurdity of the name of that street which formerly bore a still more absurd name, whilst I unfolded half a dozen pair of silk stockings, which I had just purchased, and which were wrapt up in an old manuscript that seemed of very ancient date. It was written in old French, and upon a piece of paper that required some reparations to make it legible. I had at first conceived the thought of</p>
+            <pb n="124" xml:id="pb-124" facs="#i148"/>
+            <p>transcribing it; but recollecting it would cost me little more trouble to translate it, I set about it, and produced the following.</p>
+            <pb n="125" xml:id="pb-125" facs="#i149"/>
+            <p>TRANSLATION OF A</p> <p>FRAGMENT.</p> <p>"JEAN François de Vancourt of Franche Comté, by his marriage articles with Marie Louise Anne de Rochecoton, of Champagne, doth agree, that considering the disparity of their years, he being now in his eighty-third, and she in her sixteenth, and also the warmth of her constitution, and the amorousness of her complexion, to allow unto the Vicar of the said parish all the rights of cuisage and jambage, in their full extent, agreeable to the just claims of the</p>
+            <pb n="126" xml:id="pb-126" facs="#i150"/>
+            <p>holy church; and moreover, doth permit him to continue the same, in his absence, during the natural life of him the said Jean François de Vancourt. Provided, nevertheless, that the said Vicar, upon the return of the said Jean François, should, after the said Jean François had pronounced in an audible voice at the door of the bed-chamber, Tire V-t, three times, withdraw himself therefrom, and leave the said Jean François in the full possession of Marie Louise Anne, his said wife, any thing to the contrary that may herein be contained notwithstanding.</p>
+            <pb n="127" xml:id="pb-127" facs="#i151"/>
+            <p> - Provided always, on the part of the said Marie Louise Anne, that she hath a negative voice in favour of the Curate, when the said Vicar shall be above the age of thirty-five, or otherwise, in her opinion, disqualified for the rites of cuisage and jambage, in their full extent; he the said Curate, in case of such election on her part, submitting to the same proviso, in favour of the said Jean François, upon his pronouncing in an audible voice, at the said chamber-door, Tire V-t three times."</p> <p>Having translated thus much of this Fragment, I shall leave the reader to make his own sentimental reflections, after observing, that the</p>
+            <pb n="128" xml:id="pb-128" facs="#i152"/>
+            <p>good queen who ordered the name to be changed, seemed to display more knowledge than delicacy: - but it must be observed in her favour, that according to the Salique law, a queen of France never wields the scepter in her widowhood, and is therefore glad of every opportunity of displaying her authority during the life of her husband.</p> <p>If this be not a sufficient apology for a queen, let any lady of any quality or fashion, from a duchess down to a milk-maid, take both names (without the Tire) and make the most of them.</p>
+            <pb n="129" xml:id="pb-129" facs="#i153"/>
+            <p>AN ANECDOTE.</p> <p>WHEN Mr. G-s made his first trip to Paris, he had not studied so much of the rudiments of the French language, as always to be critically grammatical in his genders: he would confound them together, and blend the masculine and the feminine in the most heterogeneous manner.</p> <p>He was recounting to a lady at Versailles, remarkable for the smartness of her repartee even at the price of decency, the impositions he had met with upon the</p>
+            <pb n="130" xml:id="pb-130" facs="#i154"/>
+            <p>road from Calais, on account of his being an Englishman, and not speaking the language with the strictest propriety: and he particularized having paid a postillion twice, who asked him even a third time for the money. "Oui, Madame, j'avois déchargé deux fois sur mon vie. -" "Beaucoup mieux, replied she, que sur mon Con-te." The division of the last word had the desired effect, and raised such a laugh in the gallery, that the king could not refrain asking what they tittered at, as he passed along.</p>
+            <pb n="131" xml:id="pb-131" facs="#i155"/>
+            <p>THE DENOUEMENT.</p> <p>THE reader, I believe, was not apprised, that I was informed by mademoiselle Laborde, that the lady whom I had saved from perishing, and had conducted to the apartments of Mademoiselle, was then withdrawn from thence, and conveyed by her friends to another lodging, which had been provided for her; whereby I was frustrated in my hopes of obtaining an eclaircissement from that quarter, concerning the picture and the jewels.</p>
+            <pb n="132" xml:id="pb-132" facs="#i156"/>
+            <p>Having discovered the lodging to which the frighted lady was carried, I was not flattered with the pleasing intelligence concerning the fair original.</p> <p>The reader may perhaps fancy that he has anticipated the unravelling of this story, by pronouncing the lady, whom I was instrumental in assisting, the identical original herself. But to prevent any such erroneous conclusions, I shall here inform him, that any such anticipation is a groundless mistake. Though there was a general resemblance in their features, their height and shape were very different.</p>
+            <pb n="133" xml:id="pb-133" facs="#i157"/>
+            <p>I waited upon her with the casket, at the sight of which she expressed great satisfaction; and after having more gratefully than politely thanked me for the care I had taken of her, by which I had probably prevented her perishing in the flames, she informed me that the picture was her sister's, whose husband was expected at Paris in a few days; and that he had sent his cloaths, with these jewels, and a great quantity of plate, consigned to her care, until his arrival; but that unfortunately they must all be lost, except the jewels I had preserved, as she had not yet had any tidings of them any more than of her own cloaths and furniture.</p>
+            <pb n="134" xml:id="pb-134" facs="#i158"/>
+            <p>I condoled with her upon the occasion, whilst I expressed my satisfaction at having been instrumental in saving two such valuable objects - herself, and the portrait of her amiable sister.</p> <p>I then told her, I believed I had had the honour of seeing her sister at Calais, and that from the conversation which passed between us, I had reason to believe she was not then in the married state. To which the lady replied, That she had not been married above six weeks, and that her husband was coming to Paris to compromise a suit which had been subsisting between</p>
+            <pb n="135" xml:id="pb-135" facs="#i159"/>
+            <p>his relations, and his present wife's; this marriage having brought about a general reconciliation of the parties.</p> <p>This information, I acknowledge, greatly mortified me, and I could almost have wished that the litigation had still subsisted between the parties, and she had still been single. - But a moment's reflection told me, the wish was uncharitable, unworthy a sentimental breast. - Far distant then be it from my heart to desire the continuation of another's misfortunes, even for my own satisfaction! Oh! the Remise door! -</p>
+            <pb n="136" xml:id="pb-136" facs="#i160"/>
+            <p>Heigh-ho! - I could not banish the thought; and finding a gloominess seize on the conversation, I retired somewhat precipitately.</p>
+            <pb n="137" xml:id="pb-137" facs="#i161"/>
+            <p>THE SEQUEL.</p> <p>WHERE can a disturbed bosom find repose, when agitated by the tender passion? A forsaken swain hath but one solace, - another nymph more kind. My footsteps seemed by instinct to carry me to Mademoiseele Laborde's. I found her alone, and in tears. Alas! said I, why should nature, in her fickle moods, thus make the very center of gaiety and pastime the scene of misery! - How contradictory - how paradoxical! - But why impute it to Nature? she cannot err.</p>
+            <pb n="138" xml:id="pb-138" facs="#i162"/>
+            <p>"Mademoiselle, (said I, after this reverie) it were perhaps an unwelcome office, to request the favour of the continuation of your story, which was so unexpectedly interrupted by the melancholy accident during my late visit."</p> <p>"Indeed, said she, sir, it will indulge my melancholy, which alone I could not sufficiently gratify, with the strongest retrospect of my past misfortunes; but now I am happy in having this opportunity of giving vent to my affliction.</p> <p>Upon my first excursion from the shop, waiting upon an Italian</p>
+            <pb n="139" xml:id="pb-139" facs="#i163"/>
+            <p>count, who was supposed to be as generous as he was magnificent, his valet-de-chambre was rubbing his eyes between eleven and twelve, after waiting for his master's return to bed, not having been home all night. The count came to the door, whilst I was conferring with his man, who informing him I was come to wait upon him with some ruffles, I was desired to walk up stairs. Innocent then of the design of such a customer, I readily consented. The count just glanced his eye upon the ruffles, when chucking me under the chin with one hand, he thrust his other into my bosom: this behaviour I thought so great</p>
+            <pb n="140" xml:id="pb-140" facs="#i164"/>
+            <p>an insult, that in my passion I gave him a slap of the face. "Oh miss, said he, if you give yourself airs, I shall teach you better manners." He rang the bell, and his valet-de-chambre appeared. "Now miss, added he, take your choice - fair means or foul." - I fell upon my knees, and implored mercy; - but he was inexorable to my entreaties. The ruffian valet held me, whilst he - - Oh spare me the blush of recollection!"</p> <p>"That I will, my little unfortunate! What a villain! - Perpetrate a deed by violence, which perhaps by solicitation he might</p>
+            <pb n="141" xml:id="pb-141" facs="#i165"/>
+            <p>have obtained your consent!"</p> <p>"Oh no, sir, said she, weeping - I never would have consented. - </p><p>"That indeed alters the case. - But then his generosity - what recompence did he make you?" - </p> <p>"Why, I was just going to mention. - From the character my mistress had given him, I imagined he could not possibly have presented me with less than a hundred louis d'ors, considering the difficulty he had, and the opposition I made. - I dare say an English</p>
+            <pb n="142" xml:id="pb-142" facs="#i166"/>
+            <p>nobleman would have thought it very trifling." - </p> <p>"Very trifling, I can assure you; I have known an English nobleman pay fifty times the sum for such an affair, without having committed half so good rape, as was committed upon you."</p> <p>"Why, look ye there, so I thought; - and considering what was past could not be recalled, I thought I might as well accept the wages of - "</p> <p>"Of iniquity." - </p>
+            <pb n="143" xml:id="pb-143" facs="#i167"/>
+            <p>"Yes, iniquity, I think you call it, as go without them."</p> <p>"Every whit - quite orthodox reasoning."</p> <p>"So I waited and sobbed - and cried, and waited - expecting every moment a handsome recompence for such an insult - when at length he asked me if I was a maid." - </p> <p>"What an insult after such an attack! -- But what did you reply?"</p> <p>"I told him I might have had some little egaremens de coeur; but that I never had been guilty of such a crime before."</p>
+            <pb n="144" xml:id="pb-144" facs="#i168"/>
+            <p>"The guilt lay on his side, according to the opinion of all the casuists in the world."</p> <p>"There was much to be said on both sides, but this I kept to myself."</p> <p>"But the recompence?"</p> <p>"He told me to call to-morrow, and he should pay me for what ruffles he had occasion for - and would make me a present."</p> <p>"Did you call?"</p> <p>"Yes, punctually."</p> <p>"Was you not afraid? -"</p>
+            <pb n="161" xml:id="pb-161" facs="#i169"/>
+            <p>"No - I thought he could not use me worse than he had done: - but in this I was mistaken; -- for he had decamped the night before, with his valet-de-chambre, and in the hurry had forgot to pay his lodging."</p> <p>"Amazing!!</p> <p>"Not at all: - he was a gamester; and the morning I saw him, he had lost his last louis d'or at the Academy."</p>
+            <pb n="162" xml:id="pb-162" facs="#i170"/>
+            <p>THE ACADEMY.</p> <p>"THE Academy! What, in the name of wonder, astonishment and learning, do they allow in the seminaries of science, in such a polished nation, and such a well regulated metropolis at Paris, where scarce an obvious vice goes unpunished; I say, do they allow of gaming to a degree that can ruin a man?"</p> <p>"Je ne vous entends pas!"</p> <p>"I do not understand you," said Miss Laborde.</p>
+            <pb n="163" xml:id="pb-163" facs="#i171"/>
+            <p>"Ni moi non plus, ce que vous voulez dire."</p> <p>"Nor I what you mean."</p> <p>"Did you not say, the Count had lost his money at the Academy?"</p> <p>"Well, and what astonishment can arise from that? Are not immense sums lost there every night?"</p> <p>"And are the Police acquainted with it?"</p> <p>"It is under their immediate protection."</p> <p>"Impossible!"</p>
+            <pb n="164" xml:id="pb-164" facs="#i172"/>
+            <p>"Nothing more certain."</p> <p>"And what say the professors?"</p> <p>"The professed gamesters are very well pleased with it: - sometimes a run of ill luck may break them, when they meet with one as knowing as themselves; but this is such a phenomenon, that the Count's precipitate departure astonished all Paris.</p> <p>"Pray explain to me the nature of this Academy; for I believe, after all, we are in a state of some misunderstanding concerning it. -- By an Academy I should comprehend the seat of the muses, the</p>
+            <pb n="165" xml:id="pb-165" facs="#i173"/>
+            <p>garden of science, and the vineyard of learning."</p> <p>"No, it is neither a seat, a garden, nor a vineyard, but a gaming house licensed by the magistrates, where gamblers may cheat with impunity if they can do it with dexterity, and where the credulous and unwary may be ruined, without remedy or relief."</p> <p>"What a prostitution of names!"</p> <p>"Not at all: - C'est l'Academie des Grecs. - It is the Academy of Sharpers."</p>
+            <pb n="166" xml:id="pb-166" facs="#i174"/>
+            <p>"If cheating be a privileged science, I acknowledge the title very proper: - but as it is one of the occult sciences which I shall never study, I beg we may leave this seminary that you may purse your narration."</p> <p>END OF THE THIRD VOLUME.</p>
+            <pb n="167" xml:id="pb-167" facs="#i175"/>
+            <pb n="168" xml:id="pb-168" facs="#i176"/>
+            <pb n="169" xml:id="pb-169" facs="#i177"/>
+            <pb n="170" xml:id="pb-170" facs="#i178"/>
+            <pb n="171" xml:id="pb-171" facs="#i179"/>
+            <pb n="172" xml:id="pb-172" facs="#i180"/>
+            <pb n="173" xml:id="pb-173" facs="#i181"/>
+            <pb n="174" xml:id="pb-174" facs="#i182"/>
+            <note>marbled back cover page</note>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i183"/>
+            <note>marbled back cover page</note>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i184"/>
+         </div>
+      </body>
+   </text>
+</TEI>

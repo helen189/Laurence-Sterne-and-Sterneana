@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.462</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.462</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Joineriana or the book of scraps. Vol. 2</title>
+                     <textLang mainLang="eng"/>
+                     <author>Paterson, Samuel 1728-1802</author>
+                     <editor role="pbl">printed for Joseph Johnson</editor>
+                     <note>Essays.</note>
+                     <note>Anonymous. By Samuel Paterson.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 v. ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1772" notAfter="1772">1772</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="PR-OATES-00462-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3748px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="1">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="2">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="3">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="4">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="5">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="6">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="7">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="8">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="9">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="10">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="11">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="12">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="13">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="14">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="15">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="16">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="17">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="18">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="19">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="20">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="21">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="22">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="23">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="24">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="25">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="26">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="27">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="28">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="29">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="30">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="31">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="32">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="33">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="34">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="35">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="36">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="37">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="38">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3587px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="39">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="40">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="41">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="42">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="43">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="44">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="45">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="46">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="47">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="48">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00050"/>
+      </surface>
+      <surface xml:id="i51" n="49">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00051"/>
+      </surface>
+      <surface xml:id="i52" n="50">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00052"/>
+      </surface>
+      <surface xml:id="i53" n="51">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00053"/>
+      </surface>
+      <surface xml:id="i54" n="52">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00054"/>
+      </surface>
+      <surface xml:id="i55" n="53">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00055"/>
+      </surface>
+      <surface xml:id="i56" n="54">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00056"/>
+      </surface>
+      <surface xml:id="i57" n="55">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00057"/>
+      </surface>
+      <surface xml:id="i58" n="56">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00058"/>
+      </surface>
+      <surface xml:id="i59" n="57">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00059"/>
+      </surface>
+      <surface xml:id="i60" n="58">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00060"/>
+      </surface>
+      <surface xml:id="i61" n="59">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00061"/>
+      </surface>
+      <surface xml:id="i62" n="60">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00062"/>
+      </surface>
+      <surface xml:id="i63" n="61">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00063"/>
+      </surface>
+      <surface xml:id="i64" n="62">
+         <graphic decls="#downloadImageRights #download"
+                  height="5301px"
+                  width="3649px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00064"/>
+      </surface>
+      <surface xml:id="i65" n="63">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00065"/>
+      </surface>
+      <surface xml:id="i66" n="64">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00066"/>
+      </surface>
+      <surface xml:id="i67" n="65">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00067"/>
+      </surface>
+      <surface xml:id="i68" n="66">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00068"/>
+      </surface>
+      <surface xml:id="i69" n="67">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00069"/>
+      </surface>
+      <surface xml:id="i70" n="68">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00070"/>
+      </surface>
+      <surface xml:id="i71" n="69">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00071"/>
+      </surface>
+      <surface xml:id="i72" n="70">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00072"/>
+      </surface>
+      <surface xml:id="i73" n="71">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00073"/>
+      </surface>
+      <surface xml:id="i74" n="72">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00074"/>
+      </surface>
+      <surface xml:id="i75" n="73">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00075"/>
+      </surface>
+      <surface xml:id="i76" n="74">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00076"/>
+      </surface>
+      <surface xml:id="i77" n="75">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00077"/>
+      </surface>
+      <surface xml:id="i78" n="76">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00078"/>
+      </surface>
+      <surface xml:id="i79" n="77">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00079"/>
+      </surface>
+      <surface xml:id="i80" n="78">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00080"/>
+      </surface>
+      <surface xml:id="i81" n="79">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00081"/>
+      </surface>
+      <surface xml:id="i82" n="80">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00082"/>
+      </surface>
+      <surface xml:id="i83" n="81">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00083"/>
+      </surface>
+      <surface xml:id="i84" n="82">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00084"/>
+      </surface>
+      <surface xml:id="i85" n="83">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00085"/>
+      </surface>
+      <surface xml:id="i86" n="84">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00086"/>
+      </surface>
+      <surface xml:id="i87" n="85">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00087"/>
+      </surface>
+      <surface xml:id="i88" n="86">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00088"/>
+      </surface>
+      <surface xml:id="i89" n="87">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00089"/>
+      </surface>
+      <surface xml:id="i90" n="88">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00090"/>
+      </surface>
+      <surface xml:id="i91" n="89">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00091"/>
+      </surface>
+      <surface xml:id="i92" n="90">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00092"/>
+      </surface>
+      <surface xml:id="i93" n="91">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00093"/>
+      </surface>
+      <surface xml:id="i94" n="92">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00094"/>
+      </surface>
+      <surface xml:id="i95" n="93">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00095"/>
+      </surface>
+      <surface xml:id="i96" n="94">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00096"/>
+      </surface>
+      <surface xml:id="i97" n="95">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00097"/>
+      </surface>
+      <surface xml:id="i98" n="96">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00098"/>
+      </surface>
+      <surface xml:id="i99" n="97">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00099"/>
+      </surface>
+      <surface xml:id="i100" n="98">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00100"/>
+      </surface>
+      <surface xml:id="i101" n="99">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00101"/>
+      </surface>
+      <surface xml:id="i102" n="100">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00102"/>
+      </surface>
+      <surface xml:id="i103" n="101">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00103"/>
+      </surface>
+      <surface xml:id="i104" n="102">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00104"/>
+      </surface>
+      <surface xml:id="i105" n="103">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00105"/>
+      </surface>
+      <surface xml:id="i106" n="104">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00106"/>
+      </surface>
+      <surface xml:id="i107" n="105">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00107"/>
+      </surface>
+      <surface xml:id="i108" n="106">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00108"/>
+      </surface>
+      <surface xml:id="i109" n="107">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00109"/>
+      </surface>
+      <surface xml:id="i110" n="108">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00110"/>
+      </surface>
+      <surface xml:id="i111" n="109">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00111"/>
+      </surface>
+      <surface xml:id="i112" n="110">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00112"/>
+      </surface>
+      <surface xml:id="i113" n="111">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00113"/>
+      </surface>
+      <surface xml:id="i114" n="112">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00114"/>
+      </surface>
+      <surface xml:id="i115" n="113">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00115"/>
+      </surface>
+      <surface xml:id="i116" n="114">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00116"/>
+      </surface>
+      <surface xml:id="i117" n="115">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00117"/>
+      </surface>
+      <surface xml:id="i118" n="116">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00118"/>
+      </surface>
+      <surface xml:id="i119" n="117">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00119"/>
+      </surface>
+      <surface xml:id="i120" n="118">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00120"/>
+      </surface>
+      <surface xml:id="i121" n="119">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00121"/>
+      </surface>
+      <surface xml:id="i122" n="120">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00122"/>
+      </surface>
+      <surface xml:id="i123" n="121">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00123"/>
+      </surface>
+      <surface xml:id="i124" n="122">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00124"/>
+      </surface>
+      <surface xml:id="i125" n="123">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00125"/>
+      </surface>
+      <surface xml:id="i126" n="124">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00126"/>
+      </surface>
+      <surface xml:id="i127" n="125">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00127"/>
+      </surface>
+      <surface xml:id="i128" n="126">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00128"/>
+      </surface>
+      <surface xml:id="i129" n="127">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00129"/>
+      </surface>
+      <surface xml:id="i130" n="128">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00130"/>
+      </surface>
+      <surface xml:id="i131" n="129">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00131"/>
+      </surface>
+      <surface xml:id="i132" n="130">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00132"/>
+      </surface>
+      <surface xml:id="i133" n="131">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00133"/>
+      </surface>
+      <surface xml:id="i134" n="132">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00134"/>
+      </surface>
+      <surface xml:id="i135" n="133">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00135"/>
+      </surface>
+      <surface xml:id="i136" n="134">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00136"/>
+      </surface>
+      <surface xml:id="i137" n="135">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00137"/>
+      </surface>
+      <surface xml:id="i138" n="136">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00138"/>
+      </surface>
+      <surface xml:id="i139" n="137">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00139"/>
+      </surface>
+      <surface xml:id="i140" n="138">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00140"/>
+      </surface>
+      <surface xml:id="i141" n="139">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00141"/>
+      </surface>
+      <surface xml:id="i142" n="140">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00142"/>
+      </surface>
+      <surface xml:id="i143" n="141">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00143"/>
+      </surface>
+      <surface xml:id="i144" n="142">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00144"/>
+      </surface>
+      <surface xml:id="i145" n="143">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00145"/>
+      </surface>
+      <surface xml:id="i146" n="144">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00146"/>
+      </surface>
+      <surface xml:id="i147" n="145">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00147"/>
+      </surface>
+      <surface xml:id="i148" n="146">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00148"/>
+      </surface>
+      <surface xml:id="i149" n="147">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00149"/>
+      </surface>
+      <surface xml:id="i150" n="148">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00150"/>
+      </surface>
+      <surface xml:id="i151" n="149">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00151"/>
+      </surface>
+      <surface xml:id="i152" n="150">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00152"/>
+      </surface>
+      <surface xml:id="i153" n="151">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00153"/>
+      </surface>
+      <surface xml:id="i154" n="152">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00154"/>
+      </surface>
+      <surface xml:id="i155" n="153">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00155"/>
+      </surface>
+      <surface xml:id="i156" n="154">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00156"/>
+      </surface>
+      <surface xml:id="i157" n="155">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00157"/>
+      </surface>
+      <surface xml:id="i158" n="156">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00158"/>
+      </surface>
+      <surface xml:id="i159" n="157">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00159"/>
+      </surface>
+      <surface xml:id="i160" n="158">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00160"/>
+      </surface>
+      <surface xml:id="i161" n="159">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00161"/>
+      </surface>
+      <surface xml:id="i162" n="160">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00162"/>
+      </surface>
+      <surface xml:id="i163" n="161">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00163"/>
+      </surface>
+      <surface xml:id="i164" n="162">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00164"/>
+      </surface>
+      <surface xml:id="i165" n="163">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00165"/>
+      </surface>
+      <surface xml:id="i166" n="164">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00166"/>
+      </surface>
+      <surface xml:id="i167" n="165">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00167"/>
+      </surface>
+      <surface xml:id="i168" n="166">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00168"/>
+      </surface>
+      <surface xml:id="i169" n="167">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00169"/>
+      </surface>
+      <surface xml:id="i170" n="168">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00170"/>
+      </surface>
+      <surface xml:id="i171" n="169">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00171"/>
+      </surface>
+      <surface xml:id="i172" n="170">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00172"/>
+      </surface>
+      <surface xml:id="i173" n="171">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00173"/>
+      </surface>
+      <surface xml:id="i174" n="172">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00174"/>
+      </surface>
+      <surface xml:id="i175" n="173">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00175"/>
+      </surface>
+      <surface xml:id="i176" n="174">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00176"/>
+      </surface>
+      <surface xml:id="i177" n="175">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00177"/>
+      </surface>
+      <surface xml:id="i178" n="176">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00178"/>
+      </surface>
+      <surface xml:id="i179" n="177">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00179"/>
+      </surface>
+      <surface xml:id="i180" n="178">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00180"/>
+      </surface>
+      <surface xml:id="i181" n="179">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00181"/>
+      </surface>
+      <surface xml:id="i182" n="180">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00182"/>
+      </surface>
+      <surface xml:id="i183" n="181">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00183"/>
+      </surface>
+      <surface xml:id="i184" n="182">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00184"/>
+      </surface>
+      <surface xml:id="i185" n="183">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00185"/>
+      </surface>
+      <surface xml:id="i186" n="184">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00186"/>
+      </surface>
+      <surface xml:id="i187" n="185">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00187"/>
+      </surface>
+      <surface xml:id="i188" n="186">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00188"/>
+      </surface>
+      <surface xml:id="i189" n="187">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00189"/>
+      </surface>
+      <surface xml:id="i190" n="188">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00190"/>
+      </surface>
+      <surface xml:id="i191" n="189">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00191"/>
+      </surface>
+      <surface xml:id="i192" n="190">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00192"/>
+      </surface>
+      <surface xml:id="i193" n="191">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00193"/>
+      </surface>
+      <surface xml:id="i194" n="192">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00194"/>
+      </surface>
+      <surface xml:id="i195" n="193">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00195"/>
+      </surface>
+      <surface xml:id="i196" n="194">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00196"/>
+      </surface>
+      <surface xml:id="i197" n="195">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00197"/>
+      </surface>
+      <surface xml:id="i198" n="196">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00198"/>
+      </surface>
+      <surface xml:id="i199" n="197">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00199"/>
+      </surface>
+      <surface xml:id="i200" n="198">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00200"/>
+      </surface>
+      <surface xml:id="i201" n="199">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00201"/>
+      </surface>
+      <surface xml:id="i202" n="200">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00202"/>
+      </surface>
+      <surface xml:id="i203" n="201">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00203"/>
+      </surface>
+      <surface xml:id="i204" n="202">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00204"/>
+      </surface>
+      <surface xml:id="i205" n="203">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00205"/>
+      </surface>
+      <surface xml:id="i206" n="204">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3787px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00206"/>
+      </surface>
+      <surface xml:id="i207" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="5388px"
+                  width="3511px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00207"/>
+      </surface>
+      <surface xml:id="i208" n="back cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="5419px"
+                  width="3884px"
+                  rend="portrait"
+                  url="PR-OATES-00462-000-00208"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+             <note>sticker with decorative border readers 'J.C.T. Oates', handwritten classmark 'Oates.462'</note>
+            <pb n="1" xml:id="pb-1" facs="#i3"/>
+             <p>JOINERIANA:</p> <p>OR</p> <p>THE BOOK OF</p> <p>SCRAPS.</p> <p>HOMO SUM: humani nihil a me alienum puto. <note>Latin</note></p> <p>Terent. Heaut. A. I. S. I. L. 25.</p> <p>VOL. II.</p> <p>LONDON:</p> <p>Printed for JOSEPH JOHNSON, No. 72, ST. PAUL'S</p> <p>CHURCH-YARD. 1772.</p>
+            <pb n="2" xml:id="pb-2" facs="#i4"/>
+            <pb n="3" xml:id="pb-3" facs="#i5"/>
+             <p>JOINERIANA.</p> <p>NEWS and NEWSWRITERS.</p> <p>NEwspapers, at this period, in this free country, may be considered in a threefold light - as vehicles of soreign and domestic intelligence, as an object of trade and manufacture, and as the means of raising vast sums to government, by one of the most enormous taxes, without being grievous, that ever was laid upon a people.</p>
+            <pb n="4" xml:id="pb-4" facs="#i6"/>
+             <p>Scarcely any are dissatisfied - nor can be said to groan under the grievance of this weighty impost - so that, at first sight, it appears to be none: - on the contrary, the public receiving thereby a particular gratification, consonant to modern ideas of liberty; are so far from murmuring, that every one pays it with the utmost pleasure.</p> <p>'Tis the price of the thing - and not at all extravagant, when we come to consider the quantity as well as the quality.</p> <p>Those, who agreeable to the practice of their profession, are obliged to procure the earliest intelligence for their guests and customers, profit by the expence they are at - </p>
+            <pb n="5" xml:id="pb-5" facs="#i7"/>
+             <p>Town and country are daily furnished with an amazing variety of new and extraordinary matter! - </p> <p>Students of every class, may now burn their books, like so much useless lumber; and circumscribe their studies hereafter to the Newspaper productions of the press: - They will therein find employment with instruction sufficient, for all the purposes of social and civil life.</p> <p>The common people, of late years, are become so wonderfully learned among us, by the vast increase of Diurnals and Nocturnals - Gazettes and Gazetteers - Papers and Packets - Journals and Ledgers - Mercuries and Flying-posts - Courants and Chronicles - that you will</p>
+            <pb n="6" xml:id="pb-6" facs="#i8"/>
+             <p>hardly find the meanest peasant, or the sootiest chimney-sweeper so unlettered, as not to be able to spell a Newspaper.</p> <p>Points of all sorts, many of which were formerly accounted difficult and crabbed; are now discussed by all sorts of people, with the utmost ease and perspicuity  - whose attention is taken up, not only with government, continental, colony, company, country and corporation affairs - but they have also their neighbours business to mind, as well as their own: - private domestic occurrences, and particular transactions of individuals, being thought subjects of general curiosity and inquiry, no less than public and ministerial measures.</p>
+            <pb n="7" xml:id="pb-7" facs="#i9"/>
+             <p>A great number of hands, who would otherwise be idle - and many of them useless to society, or, if possible, more wickedly occupied - are now fully employed; and may truly be said to have their hands full - </p> <p>Rag-merchants, paper-makers, stationers, stampers, paragraph-mongers, printers, hawkers, &amp;c. &amp;c.</p> <p>Authors innumerable are fed by those channels of light amusement, and profound speculation -</p> <p>Adepts in all sciences! - Divines in masquerade! - Anonymi Anonymorum, an endless train! <note>Latin</note></p>
+            <pb n="8" xml:id="pb-8" facs="#i10"/>
+             <p>Tippling philosophers, who discover from time to time - where the best brewage is to be had - </p> <p>Who appear to be better acquainted with wine-caves and beer-cellars, than with the starry concave and blue expanse - more interested in the contents of butts and brandy-bottles, than with what is going forward in the planets - more elated with the gingling of glasses than the music of the spheres: - they are tolerable gaugers, but indifferent astronomers - and predict the fall of kingdoms and states, not astrologically - but by the revolutions of the tankard.</p> <p>Pot-valiant Freethinkers, who arraign all order - and labour to make the sober</p>
+            <pb n="9" xml:id="pb-9" facs="#i11"/>
+             <p>part of mankind as enlightened, in the important points of LIBERTY and NECESSITY, as they themselves are - when in their cups.</p> <p>Politicasters, poetasters - Declaimers, profaners - Extracters, detracters - Jeerers, sneerers - Nibblers, quibblers - Libellers, lampooners, &amp;c.</p> <p>Certainly Newspapers by this time, ought to be reckoned among the staple commodities of this country!</p> <p>What an advantage to the community! - What a benefit to the state! - Which, tho' last named, we begin to suspect is the primary object with our great men) - procured</p>
+            <pb n="10" xml:id="pb-10" facs="#i12"/>
+             <p>at so easy a charge - as that of distracting the heads of the whole nation!</p> <p>A trifling objection, it should seem, when ballanced in the consideration-scale of WAYS and MEANS - for the people are happy and in spirits! - so are madmen, commonly, for a season.</p>  <p>But before we consider further the present state of Newspapers, it will not be amiss to have a retrospect to what they were formerly - even within the memory of many still living - at a time when GREAT-BRITAIN was upon full as respectable a footing as now - and shone no less in arms, in manufactures and trade than in our day.</p>
+            <pb n="11" xml:id="pb-11" facs="#i13"/>
+             <p>If we look back some fifty or three-score years, we shall find the Newswriter, or sober Journalist, a meer abstract and brief chronicle of the time - a translator of foreign gazettes, and a recorder of such domestic occurrences as were fit to be divulged, or immaterial either to be communicated, or to be concealed.</p> <p>We commonly discover him to have been a curious impertinent, watching the heels of the great - more intent upon their motions, than their measures - and giving the earliest notice when his Lordship stole out of town, and when he returned - and when her Ladyship was happily delivered, to the great joy of that noble family.</p>
+            <pb n="12" xml:id="pb-12" facs="#i14"/>
+             <p>When the accomplished Mr. A. was blessed in the possession of the beautiful Miss B. a young lady endowed with every charm and every grace of mind and feature, which could render the marriage state completely happy! - What more could be desired, where nature had bestowed so lavishly? - You shall hear - and a fortune of TEN THOUSAND POUNDS! - A vast sum formerly! - and would be accounted so still - were it not that people have forgot to limit the desire of wealth within any bounds.</p> <p>He was also the faithful register of promotions, common and unavoidable casualties, deaths and successions.</p> <p>Besides these, he enriched his packet with storms and tempests and blazing</p>
+            <pb n="13" xml:id="pb-13" facs="#i15"/>
+             <p>stars, as they chanced to fall out - and, for the marvellous, a few of Mr. PARTRIDGE'S predictions - some strange sights seen in the air! - a story of supposed witchcraft, without head or tail! - a relation of a haunted house, which the stoutest man in the neighbourhood had not courage enough to approach within a hundred yards! - somewhat about the monstrous fruit of a LINCOLNSHIRE ewe, or a LANCASHIRE grimalkin! - and still more surprizing account of a poor SURREY woman (a), who having no means to bring up human creatures, was wonderfully delivered of full-grown rabbits, who were able to shift for themselves as soon as they came into the world!</p> <note>footnote</note> <p>(a) MARY TOFTS of GODALMIN.</p>
+            <pb n="14" xml:id="pb-14" facs="#i16"/>
+         <p>With such witless and guileless matter, under the notion of News, did our sober progenitors doze over their coffee, and smoke away an idle hour - but still intent upon the main chance!</p> <p>Every man had his proper business to mind, and he pursued it - his neighbour's, was no concern of his, unless they happened to have dealings together - in which case, if affairs went wrong, it rested between the parties concerned to settle and adjust them.</p> <p>They never dreamt of degrading Majesty, whom they knew it was their bounden duty, as Subjects and Christians, to honour and obey: - and him, for whose prosperity they daily prayed,</p>
+            <pb n="15" xml:id="pb-15" facs="#i17"/>
+         <p>they could not vilify in the same breath, without mocking heaven, and incurring the complicated guilt of treason and hypocrisy.</p> <p>They had learned, in their early years, to submit themselves to their Governors - and they saw the force and reasonableness of that precept, more and more, as they became men - for without submission, there can be no government.</p> <p>'The Judge, said they, is not to be insulted upon the bench! - the Magistrate menaced in his chair! - the Divine pelted in his pulpit! - O fie! fie! fie! - </p> <p>'But such abuses, heaven be praised! can never happen in any civilized country</p>
+            <pb n="16" xml:id="pb-16" facs="#i18"/>
+             <p> - Dr. PARTRIDGE himself could not foresee so sore an evil, hanging over the head of any nation! - even savages would blush at his prediction!</p> <p>' 'Tis the inexpressible blessing of rational and constitutional Liberty, in which we rejoice! - but we contend not for anarchy - we are no advocates for national licentiousness - no abettors of open-mouthed sedition! - That indeed would be to hazard the total overthrow of our darling principle, which we prize above earthly consideration, and which, we foresee, can only be preserved by unanimity, good order, and wise and virtuous administration.'</p>
+            <pb n="17" xml:id="pb-17" facs="#i19"/>
+             <p>As a people, blest in the free choice of their representatives - a privilege so absolute, that no regal power nor ministerial influence, without their concurrence, can lessen - they considered it for their honour and interest to abide by them - to maintain their dignity, support their privilege, assist their inquiries, and further their measures.</p> <p>'If these men, said they, cannot serve us, who shall? - Are they not (as indeed they ought to be) - are they not our friends? - not only personally to all, but particularly and intimately known to many of us? - our brother burgesses, our fellow-citizens, our neighbour knights? - Can such men, whose deserts we knew beforehand, ever fail us? - Besides, are</p>
+            <pb n="18" xml:id="pb-18" facs="#i20"/>
+             <p>they not of our own free election? - chosen with such precaution too? - is it possible they should have any interest at heart but ours? - and further, are we not bound to one another by oath?</p> <p>'What reasonable ground of complaint can that people have, which may not, and shall not be redressed; who have a representative body of themselves, deliberately chosen out of themselves,s and by themselves, in support of the common cause?</p> <p>'After all, should any of these men deceive us, 'tis fit we should take the shame to ourselves: - Many may mislead one - but it happens not every day, that one can mislead a multitude forewarned</p>
+            <pb n="19" xml:id="pb-19" facs="#i21"/>
+             <p> - we shall, possibly, profit in the end by this disappointment, and be enabled to make a happier choice in future.</p> <p>'But we will raise no outcry against them, for example sake! - lest we bring a scandal upon legislation, and incite the ignorant to revile their rulers; while foreigners admire at our unreasonable railing and inconstancy.'</p> <p>Such and such like was, probably, the old-fashioned mode of reasoning upon moral and political premises; before scandal, and stocks, and scheming, and swearing, and lying, and quackery, and profaneness, and prodigality, and paper-credit, and bulls, and bears, and bankruptcies were so rife among us.</p>
+            <pb n="20" xml:id="pb-20" facs="#i22"/>
+             <p>Newspapers, as they have been carried on of late years, are a standing reproach to this nation - by publishing to all the world, that a certain frantic freedom subsists among us, which every rational member of society must blush to avow - and totally disallow, as inconsistent with the spirit of manly liberty.</p> <p>They are indeed a NATIONAL REPROACH - for they bring a charge against us of no less a nature  than NATIONAL DEPRAVITY! - Ay, and establish it too!</p> <p>Every species of guilt, every mode of extravagance, every method of gambling, and every possible way of subverting order, and setting the laws at defiance,</p>
+            <pb n="21" xml:id="pb-21" facs="#i23"/>
+             <p>are daily intimated, comforted, and propagated by our Newswriters.</p> <p>The virtue of that people is much to be suspected; who are continually gaping after slander, misfortune, invented lies.</p> <p>Newswriters by profession are the rudest brawlers for Liberty - a subject which they seem to have considered least of any.</p> <p>By their writings, we may venture to conclude they are as ignorant of the first principles of manly liberty, as of moral rectitude.</p>
+            <pb n="22" xml:id="pb-22" facs="#i24"/>
+             <p>They seem better versed int he rules and orders of Bucaniers and Banditti, than in the law of Nature and Nations - FALSTAFF's question will suit them to a hair - Shall there be gallows standing in ENGLAND, when thou art King? and resolution thus sub'd as it is, with the rusty curb of old father Antick the LAW? Do not thou, when thou art King, hand a thief (a). - Tho' I think pillories and whipping posts were a sufficient cure for the distemper, if taken in time.</p> <note>footnote</note> <p>(a) See SHAKESPEARE'S K. Hen. 4. part I. sc. 2. STEEVENS'S Edit. - I prefer the verb sub to snub, as we find it in some Editions - FALSTAFF in this place is an advocate for thieves and dissolute men, and therefore may be allowed to make choice of a low, or cant word.</p>
+            <pb n="23" xml:id="pb-23" facs="#i25"/>
+             <p>'Tis very rare that any material good to a state has followed upon Newspaper clamour and invective.</p> <p>Some evils in this kingdom may arise from the nature of its constitution; but more from the unsteadiness of the people - some from the verbosity of the laws; but far more from the remiss and corrupt execution of them: - But most of all, from the licentiousness of our Newspapers.</p> <p>Licentious Freedom is incompatible with the nature of Civil Society.</p> <p>We should endeavour to distinguish between what is called, the sense of the people, and what may be only the sense</p>
+            <pb n="24" xml:id="pb-24" facs="#i26"/>
+             <p>of a party - and is possibly no more than the nonsense of a NEWSWRITER.</p> <p>We should also separate as well as we can, useful intelligence, from political squabble - sober accusation, from personal calumny - serious truths, from solemn lies.</p> <p>The law of nature, the law of God, and the law of civil society, are perfectly consistent in this golden precept - To do as we would be done unto.</p> <p>It becomes lovers of liberty to be no less jealous of the freedom of every individual, than of the general freedom - My fellow's case to-day, may be mine to-morrow.</p>
+            <pb n="25" xml:id="pb-25" facs="#i27"/>
+             <p>No man should be condemned 'ere he has been brought before his proper judges. - To prejudice the wretched and unfortunate by Newspaper paragraphs, invective essays, wanton advertisements, ludicrous impromptues, biting jests, quibling epigrams - is not only manifestly illegal, bu inhuman!</p> <p>It matters not how innocent the character may prove - the mortal stabs which his reputation has suffered from those dark assassins, frequently baffle the skill of surgery: - Some, indeed have recovered - but many have never more been able to lift their heads!</p> <p>There are various complexions of the human mind, of which witless gazetters</p>
+            <pb n="26" xml:id="pb-26" facs="#i28"/>
+             <p>seem incapacitated to judge: - An idle paragraph may affect a delicate spirit, far more sensibly, than the legal and wholsome discipline of the cart'stail, or exaltation to the pillory may work upon a callous Newswriter.</p> <p>Private calamity was formerly (as now) the sore grief of relations and friends - private calamity is now become a public jest - and frequently adds considerably to the sorrow of such, whose sufferings need no addition!</p> <p>The foul breath of CALUMNY was heretofore only respired in whispers, and generally confined to a corner: - it seldom made any progress, but commonly died away of itself, like the unmeaning</p>
+            <pb n="27" xml:id="pb-27" facs="#i29"/>
+             <p>tell-tale voice of ECHO: - But now she mounts aloft, and is born on thousands of paper kites, to every point of the compass - even to the extremest ends of the world!</p> <p>Errors in conduct - (Humanum est errare!) <note>Latin</note> - were condemned formerly, as now - but the delinquent was not left hopeless: - his future virtues might repair his past indiscretions, and the man become more confirmed in goodness, form the recollection of his past folly. - At present, the error, of what nature soever, magnified and tortured by misrepresentation, is irreparable! - He is held up in scorn and derision - 'Those that go by shake their heads, and make mouths at him' - He is thrown into a state of listless</p>
+            <pb n="28" xml:id="pb-28" facs="#i30"/>
+             <p>indifference, or, perhaps, driven to desperation!</p> <p>The law condemns the culprit to the pillory - (the punishment of shame! - the severest that can be inflicted on the human mind!) - The virulent Newswriter, with his malignant pen, slap-dash! changes the sentence into lapidation!</p> <p>The publication of the diurnal proceedings, and enormous weekly-bills of commitments from JUSTICE-SHOPS and ROTATION-OFFICES, may be very entertaining to a certain unreflecting class of readers - more especially as many of them are told in a jocular way - on purpose to excite laughter: - yet, surely nothing can be more pernicious, more fatal</p>
+            <pb n="29" xml:id="pb-29" facs="#i31"/>
+             <p>in its consequences - serving no better purpose than that of keeping manifold vice in countenance - establishing the profligate, staggering the weak, and filling their heads with the different modes of perpetrating crimes, and evading detection - and every now and then starting some new species of guilt, which it were an absolute sin to blazon, save in a court of justice!</p> <p>Foreigners, upon the faith of our Newspapers, which are circulated all over EUROPE, are reading such horrible accounts of our commitments by scores, conclude it impossible for a man to travel five miles upon the high road of ENGLAND, without being robbed - or to walk a street's length in our capital, after</p>
+            <pb n="30" xml:id="pb-30" facs="#i32"/>
+             <p>dark, without manifest hazard of being knocked on the head - that our sharpers are the most dextrous villains in the world, and so thorough-bred, that they will look you full in the face, and, at the same time, pick your pocket - and, in short, that one half of the nation is supported, by robbing the other half!</p> <p>Crimes are, unquestionably, multiplied by the circulation of Newspapers - Forgeries are become common - threatning letters increase - inconsiderate youth are impassioned with the love of dueling, suicides are committed to memory - with numberless other evils! - How should it be otherwise, when the people have them constantly before their eyes?</p>
+            <pb n="31" xml:id="pb-31" facs="#i33"/>
+             <p>A paper without murders and robberies, and rapes, and incest, and bestiality, and sodomy, and sacrilege, and incendiary letters, and forgeries, and executions, and duels, and suicides, is said to be void of News: - For such are the melancholy themes that a corrupted and forsaken people are gaping after. - Without such inspiring articles of intelligence, a Newspaper, to readers, is as insipid as a tragedy, without daggers and poison-chalices - and ghosts and graves - and funeral processions and solemn dirges. - They attend not to the old proverb - No News, is good News.</p> <p>If paragraphs, of so much importance to the sale of a Newspaper, fall</p>
+            <pb n="32" xml:id="pb-32" facs="#i34"/>
+             <p>short - 'tis the business of the Newswriter, for the credit of his paper, to invent. - </p> <p>To kill men in the dark, is evidently a part of his trade - to murder one day, and bring them to life again the next - to set fire to people's houses, and extinguish them without any damage - to commit divers burglaries and impunity - to gag and bind some of his Majesty's subjects over night, and set them at liberty the next morning - to construe the miserable effect of a delirium and the negligence of a nurse, into an act of premeditated suicide - to bury some, while in perfect health; and marry others, without bans or licence.</p>
+            <pb n="33" xml:id="pb-33" facs="#i35"/>
+             <p>It were an endless task to enumerate all the self-evident mischiefs, and contagious abominations comprised in modern Newspapers! - Every sensible and unprejudiced man (for to such only I address myself) who has the fear of God before his eyes, and the true interest and cordial love of his country at heart, will, I am confident, agree in this particular - That of all the countless publications, under the pretence of NEWS, seldom one appears (the GAZETTE, given out by authority, and the DAILY ADVERTISER excepted) which merits not to be burnt by the hands of the COMMON HANGMAN.</p> <p>They are no longer what they were originally intended to be - Chronicles of events, not improper to be communicated;</p>
+            <pb n="34" xml:id="pb-34" facs="#i36"/>
+             <p>and registers of lawful business - But they are FIREBRANDS, which it behoves every honest man to quench - they are FIREBDRAKES, which every good subject should endeavour to destroy!</p> <p>They are the avowed disturbers of national repose, and no less of private, domestic peace - the fomenters of restless riot, and boundless extravagance - the general wasters of time - the interrupters of every man's business - the distracters of a sensible and spirited people! - </p> <p>The confounders of all rule and order - so that men of acknowledged integrity and ability, in the senate, in the council, on the bench, and in the first departments, are totally at a loss how to act, so as to avoid censure!</p>
+            <pb n="35" xml:id="pb-35" facs="#i37"/>
+             <p>The most virtuous characters, by them, are stigmatized and pointed out to public ridicule and detestation - the most factious and worthless justified and abetted - the wisest measures overset - the weakest adopted and extolled to the skies!</p> <p>The deity of to-day with them, may be a devil to-morrow - and, indeed, nothing is more common.</p> <p>As they profess to be Open to all parties, but influenced by none - (What an insolent profession! - Who constituted them judges and umpires?) - so you shall frequently find the same character, traduced in one anonymous letter, and exonerated in the following - most heartily abused in one paragraph, and</p>
+            <pb n="36" xml:id="pb-36" facs="#i38"/>
+             <p>complimented in the subsequent: - The reader is at liberty to decide upon the different portraits of the same person, as he chooses; or to suppose either a little overstrained and over-coloured, if he thinks proper - </p> <p>As to the gentleman so treated (to reason after the manner of a modern Newswriter) - 'How is it possible he should take any thing amiss? - for tho' I handled him rather roughly in the beginning, and called him scoundrel and pickpocket - yet all the world will see, and he himself must acknowledge - that I allowed him to be a very honest fellow, before I had done with him.'</p> <p>The same openness, freedom, and impartiality which they profess, render them</p>
+            <pb n="37" xml:id="pb-37" facs="#i39"/>
+             <p>the lords paramount in all causes ecclesiastical and civil - through them we beg leave to appeal to the public, against our governors, representatives, judges, directors.</p> <p>In all discontents, divisions and party disputes, we acknowledge no other tribunal - but the public. - And pray what is the public to do for you?</p> <p>The public, in general, cannot be judges - 'tis impossible they should! - None but madmen, and malecontents, and wrong-headed Newswriters ever considered them as such.</p> <p>Every man nowadays has a case - and nothing will serve his turn, but he must and will submit it to the public! - Thou</p>
+            <pb n="38" xml:id="pb-38" facs="#i40"/>
+             <p>simpleton! - the public will only laugh at thee.</p> <p>Every private altercation and transgression becomes matter of public conversation - </p> <p>A wanton wight is caught tripping with his maid - and may, possibly, have interest enough to buy off his own parish-sheet - but is, nevertheless, enjoined by the Newswriter, to do penance in every parish in the three kingdoms.</p> <p>People offend in private - and beg pardon in public.</p>
+            <pb n="39" xml:id="pb-39" facs="#i41"/>
+             <p>Some get drunk together, quarrel in their cups, are incited to duelling, and give and accept challenges, through the channels of Newspapers.</p> <p>They fight it out in the field - and make it up in the papers.</p> <p>The madness is epidemical, and so inconceivably diversified as to harass all description.</p> <p>I have already pointed out many improper subjects of Newspapers - and the following appears to me no less deserving of censure.</p> <p>Every man who wishes well to his country, of course, wishes the success</p>
+            <pb n="40" xml:id="pb-40" facs="#i42"/>
+            <p>of the chartered and private trade thereof, as conducing to the general welfare: - But as every man's business is said to be nobody's, surely, with equal truth we may assert, the public can have nothing to do with the affairs of private counting-houses, nor even of companies - but such and such only as are immediately concerned and interested therein.</p> <p>As private business is transacted by the merchant and his clerks; so company-affairs, being a fare more extensive concern, is commonly submitted to the direction of a chosen few, who are presumed to be capable of managing the same with prudence, fidelity, secrecy. - All lawful questions then relating to the merchant or the company, are to be resolved,</p>
+            <pb n="41" xml:id="pb-41" facs="#i43"/>
+            <p>by enquiring at their respective offices.</p> <p>But in what country was it ever known before (for other countries have their companies, as well as we) that the concerns of a few interested in the success of a particular trade, should be daily published, and made the object of general attention and speculation?</p> <p>What other purpose is it to answer - but to shew how ready some men are to expose themselves? - that no commercial business nowadays, can be transacted by fair and candid debate? - that the most important points are carried by wrangling, and a majority of noisy voices (many of which voices have been procured by the lowest subterfuges, and</p>
+            <pb n="42" xml:id="pb-42" facs="#i44"/>
+            <p>and most dishonest means?) - that the men they intrust, are not fit to be trusted? - that every man has a view of his own, independent of the prosperity of the Company? - and that the Company might sink into the bottomless perdition of its own iniquity! - were it not that each has some favourite scheme to further - friends to advance - jobs to promote - stock to raise or fall?</p> <p>Are not such debates, intended to be published for sinister ends, within the spirit of offence, tho', perhaps, not against the letter of the laws which condemn STOCKJOBBING? - and is it not high time for every worthy and ingenuous proprietor to bethink himself of withdrawing from such a brawling,</p>
+            <pb n="43" xml:id="pb-43" facs="#i45"/>
+            <p>shameless society! - (no longer a company of merchants, but a junto of jobbers!) - who are growing every day, more and more, a disgrace to the character of merchant - and leave them to fall unpitied, into the pit which they have been so long digging?</p> <p>In an inquiry of so much importance as that of Newspapers - upon which hangs no less than the well-being, the good government, and incorrupt freedom of the state - it is not fit the subject of advertisements should pass unnoticed: - Every one sees the evident utility of some - and every one must also see the shocking abuse, mischievous tendency and enormity of others.</p>
+            <pb n="44" xml:id="pb-44" facs="#i46"/>
+            <p>Benefices and Presentations, to the scandal of our Holy Church, are publickly advertised, bought and sold, like common chattels: - and Chaplainships are as merchantable as bunting (a) and flag-staves!</p> <p>Benefices are also exchanged by public advertisement - with a proportionable consideration on which ever side happens to weigh lightest! - A whole parish of HUMAN SOULS is advertised to be transferred by their fickle pastor! - after the same manner that a frolicksome farmer swops his flock of sheep, against his neighbour's!</p> <note>footnote</note> <p>(a) A coarse worsted stuff, of which ships-colours are commonly made.</p>
+            <pb n="45" xml:id="pb-45" facs="#i47"/>
+            <p>I have an advertisement before me of a man who writes himself Reverent - but who has certainly undertaken the most irreverent employment that ever entered the head or heart of a Christian Minister - </p> <p>It is addressed to the Clergy - whom he acquaints, without any ceremony, or having the fear of GOD, or the Bishop before his eyes, that - he continues to exchange LIVINGS, &amp;c. to buy and sell CHAPLAINSHIPS, &amp;c. - I don't rightly comprehend what is meant by the two et caetera's - but I take it for granted, any man so void of ministerial principle, would buy, or sell, or exchange any thing else, for the sake of turning the penny.</p>
+            <pb n="46" xml:id="pb-46" facs="#i48"/>
+            <p>He appears to have opened an office for that purpose, to which the public is invited - just as they are to those of Messieurs HAZARD, GOODLUCK, and GO-LIGHTLY for the purchase of shares and chances of lottery tickets.</p> <p>These things are not done in a corner - but in the face of all the world! - with the same matchless impudence, that an other Reverend Divine, who writes himself D.D - (which may stand for DEVIL-DOCTOR, as well as any thing else) - steals printed SERMONS, has them engraved in a writing hand, publickly advertises and vends the same, to young and ignorant Deacons and Curates, to be by them palmed upon the deluded vulgar, for compositions of their own.</p>
+            <pb n="47" xml:id="pb-47" facs="#i49"/>
+            <p>These are offences so glaring, and of such a scandalous sort, that those who are not struck with the heinousness of them - (Bishops or Benchers, Clergy or Laity) - must have their understanding totally obscured! - The committers of such flagitious sins, in open violation of every thing sacred and serious, merit not only reprehension, but, should they persevere, deprivation (a).</p> <p>Numerous candidates, void of grace as of understanding, are continually offering themselves for LECTURESHIPS - and dividing a parish into half a dozen or half a score different parties, in support of a minister, unknown to every Canonist, - and who has no right of</p> <note>footnote</note> <p>(a) See the 26th Article of Religion, the latter clause.</p>
+            <pb n="48" xml:id="pb-48" facs="#i50"/>
+            <p>maintenance by any Canon: - Many of which candidates, it is notorious, have their proper flocks to attend - who, wanting their shepherd's eye, may be stolen, or slain, or straying the Lord knows where!</p> <p>Instead of Sunday-afternoon Lectures, it is well known to be the duty of every parish-priest, according to the constitution of the CHURCH of ENGLAND, to devote a portion of time, immediately after the Service, to Catechetical Instruction - a duty of the highest importance! - from the total neglect of which, I may venture to affirm, is owing the general depravity of the present age.</p> <p>There are other days for Lectures - which well-disposed people would soon</p>
+            <pb n="49" xml:id="pb-49" facs="#i51"/>
+            <p>fall into the habit of attending and encouraging; even from the moment they discovered the preachers were in earnest.</p> <p>In the mean time, instead of SUNDAY-LECTURERS, let us have SUNDAY-CATECHISTS - Abolish the one, revive and establish the other! - for it is a shame to think, the rising generation, amidst so many able instructors, should be lost for want of necessary instruction!</p> <p>Consecrated Chapels are no despicable freeholds, and copyholds and leaseholds now-a-days: - We find them advertised in common with houses, and wharfs, and granaries and beer-cellars.</p> <p>Something like the following, let me tell you, would make a number of young parsons prick up their ears - </p>
+            <pb n="50" xml:id="pb-50" facs="#i52"/>
+            <p>ADVERTISEMENT.</p> <p>For the service of GOD, and the honour of</p> <p>CHRIST'S church:</p> <p>To be let for one year certain, or leased for a longer term,</p> <p>SIMONY-CHAPEL;</p> <p>Well-situate, standing and being</p> <p>Upon a rising ground,</p> <p>In a genteel, substantial and generous neighbourhood:</p> <p>There is, on the outside, a good CLOCK, by the noted PIKE,</p> <p>And an elegant TURRET,</p> <p>Capp'd after the pleasing manner of a CHINESE TEMPLE;</p> <p>On the central top whereof is a Weathercock,</p> <p>Which to those who have courage and curiosity to bestride;</p> <p>Affords the most delicious prospect in the world!</p> <p>The SURREY-hills, to the delighted eye,</p> <p>Appear like playful lambkins! - like sporting kids</p> <p>The Middlesexian OSSA and OLYMPUS,</p> <p>HAMPSTEAD and HIGHGATE hight!* - while ISLINGTON</p> <note>footnote</note> <p>* PF. 114. ver. 4.</p>
+            <pb n="51" xml:id="pb-51" facs="#i53"/>
+            <p>Salubrious shines serene - sweetly contrasted</p> <p>With BAGNIGGE-BOTTOM and dread HOCKLET - 'th'-HOLE!</p> <p>There is also a well-toned Bell - not ear-piercing sharp, nor melancholy deep - by the famous Gloucestershire bell-founder.</p> <p>The Time-piece within the chapel, is by the celebrated GRIGNION, wonderful horometer and horologist! - and so just are its movements, that, it is observable, the women of fashion esteem it a perfect regulator; and commonly set their repeaters by it - during the psalm-singing part of the service.</p> <p>The Pulpit and Reading-desk, which are richly carved with grotesque heads and ornaments, cost seventy-two pounds - and the sounding-board is so admirably constructed, that the gentlest whisper, may be conveyed to the dullest ear, in the remotest corner!</p> <p>The TEN COMMANDS, the LORD'S PRAYER and the CREED are highly finished, flourished, and beautifully diversified in all the known characters of EUROPE - and set in matchless Papier-maché frames, gleaming with burnished gold!</p> <p>The coved-canopy-roof, or cieling is FRET in FRESCO - the walls stuccoed - the pavement, modern Mosaic of finest fancy - the whole insuperably brilliant!</p>
+            <pb n="52" xml:id="pb-52" facs="#i54"/>
+            <p>The pews, many of which are faced with azure blue and Saxon green, studded with lacquered broad-headed spikes - at present, bring in only two hundred and fourscore pounds a year - but may be easily improved to four hundred and forty or fifty, without crowding the company, and allowing sufficient lolling-room.</p> <p>There is no expence of clerk, or pew-openers - they being amply considered out of the Christmas offerings, commonly called box-money - </p> <p>No expence of organist - for, as yet, there is no organ - but there is one building - which, when put up, the organist, together with the voices and minstrels to be provided, will be compensated by VOLUNTARY SUBSCRIPTION.</p> <p>There are only twenty-five coaches and chariots, and seventeen sedans, who honour the chapel with their devotions at present - but it is computed the number will be trebled - as soon as the ORCHESTRA is opened.</p> <p>The surplice-fees (which should rather be stiled sublime considerations and stately donatives) - are evidently upon the increase; from the amiable and benevolent disposition of the better sort - who choose to have the mystical rite of MATRIMONY and the solemnity of BAPTISM, performed by the chaplain, in preference to their parish-rector.</p>
+            <pb n="53" xml:id="pb-53" facs="#i55"/>
+            <p>The cryptic dormitory, in which will be deposited only the remains of people of fashion, promises, in a short time, to bring in a genteel harvest of golden orbicular memorials, silk scarves, hatbands, &amp;c.</p> <p>The surplices, pulpit-cloths and cushions, BASKERVILLE'S great bible, little thumbed and bound in blue Turkey, with broad silk registers and gold fringes - three folio common-prayers, in rich bindings - the communion-plate, &amp;c. to be taken at a fair appraisement.</p> <p>Any young clergyman, of a pleasing person, an engaging demeanour, a musical voice, and a graceful delivery, may now have an opportunity of displaying such envied and rarely-united talents, to the best advantage - nor need any other apply.</p> <p>A genteel premium is expected.</p> <p>For further particulars, inquire of A. B. at the MITRE, in PETTY FRANCE - or C. D. at the CROSS KEYS, in LITTLE BRITAIN - or E. F. at SIMON MAGUS'S Head, in the OLD JEWRY.</p> <p>Secresy if required.</p>
+            <pb n="54" xml:id="pb-54" facs="#i56"/>
+            <p>Civil employments of considerable trust and profit, requiring virtue and knowledge to discharge (to the disgrace of Government, and the eternal infamy of such governors as profit themselves thereby, or connive at it in others) are cried in public Newspapers, and bought and sold, and chopt and swopt - and even knocked down to the highest bidder.</p> <p>Military men, however deserving, if they expect promotion, must owe it to their money - not merit.</p> <p>Men of interest advertise for moneyed-men - moneyed-men for men of interest.</p>
+            <pb n="55" xml:id="pb-55" facs="#i57"/>
+            <p>I don't remember, as yet, to have seen any men of war, either floating, or upon the stocks, advertised for sale - but Indiamen, both ways, are bought and sold every day.</p> <p>However, a rich man may buy a borough - (they have been frequently advertised) sooner than a poor man can buy a beef-steak - according to the present advanced price of markets.</p> <p>The man who purchases his employment, or his seat - concludes he has a right to make the best - that is, the most of it.</p> <p>In short, we have among us, as is apparent from the daily prints, church-brokers,</p>
+            <pb n="56" xml:id="pb-56" facs="#i58"/>
+            <p>state-brokers, borough-brokers, army-brokers, navy-brokers, India-brokers, Jew-brokers, - with such an infinity of other brokers, as sufficiently announces, this once Christian and flourishing country to be (if not suddenly prevented) - upon the eve of its bankruptcy.</p> <p>Abuses have been too frequent in all times - but they were never openly avowed in print till now - We have not only parted with our conscience, but we appear to have lost all decency.</p> <p>Usurious offices are declared to be opened - usurious bargains are driven in Newspaper advertisements - any man</p>
+            <pb n="57" xml:id="pb-57" facs="#i59"/>
+            <p>may gamble from day to day at forty different offices for twenty thousand pounds, or double it - scarcely having five pounds in his pocket; to procure which, he may have pawned his own effects, or another's - or robbed his master - or committed an act of forgery!</p> <p>Many office-keepers undertake to lend thousands, and tens of thousands - ay, and hundreds of thousands, upon iniquitous chances and presumptions of lives, reversions, &amp;c. - who are themselves known not to possess ten thousand pence of property: - Such, by their connexions, are the common resources of the profligate and extravagant - who, in their extremest necessity, are sure to find</p>
+            <pb n="58" xml:id="pb-58" facs="#i60"/>
+            <p>friends that will supply them at - two or three hundred per Cent. discount.</p> <p>The spirit of gambling among us is now at such a height, fomented by news and advertisements, that we may venture to pronounce, there is full as much foul gambling as fair trade carried on in our emporium.</p> <p>The spirit of gambling and thirst for gold is become so insatiable, as to absorb every generous and manly passion - We are deaf to the cries and senseless to the softest sympathies of nature - in proof of which, we pit (as the witless phrase it) our dearest friends, and open policies upon the lives of our nearest relations.</p>
+            <pb n="59" xml:id="pb-59" facs="#i61"/>
+            <p>It should seem as if one half of the nation were the avowed bawds and brokers, to the imaginary wants and inordinate desires of the other half.</p> <p>Churches and charity-sermons - declared bawdy-houses and notorious private receptacles, we commonly find advertised in the same papers, and often in the same page: - Surely we don't stand in need of Newspapers to direct us to our parish-churches? - and houses of improper entertainment (thanks to our justices!) are to be found in plenty - without public advertisements.</p> <p>Panders thereby publish their abilities - bawds make offer of their freshest goods - prostitutes proclaim their apartments</p>
+            <pb n="60" xml:id="pb-60" facs="#i62"/>
+            <p>- and infamous dealers offer to public sale, such wares, as they dare not cry in any other open market, not even sell in the open face of day.</p> <p>Quacks seem to be the only adepts and men of genius among us - and quackery, another term for liberal art, profound science and acknowledged sufficiency: - Every one will hearken to the voice of him, who impudently asserts, and plausibly presents - and, however ill-qualified to discharge or demonstrate what he may have undertaken, let him not be discouraged; but, with unblushing confidence, set his face to the matter, and there can be no doubt of the public favour and patronage: - The public, as well as their betters, are remarkably</p>
+            <pb n="61" xml:id="pb-61" facs="#i63"/>
+            <p>generous and well-disposed - towards the most undeserving. - Every day's advertisements confirm this truth.</p> <p>The many mischiefs in private life, which we owe to public advertisements, may be more easily imagined than asserted: - But imagination must not be wantonly indulged, in a work wherein the writer professes to have no other object, but truth, and an earnest desire of being useful: - After hinting at some of the most striking, the reader is left to judge for himself.</p> <p>The young, the giddy and the inexperienced of both sexes, are in hourly danger of being seduced and drawn aside to incurable mischiefs by Newspaper invitations:</p>
+            <pb n="62" xml:id="pb-62" facs="#i64"/> <p>- Boys and girls are instructed how they may shake off the obedience due to their parents: - Wards are directed where they may find, A GENTLEMAN of undeniable character, who will enable them to get rid of their troublesome guardians: - Minors, of great expectation, may meet with generous, advertising friends, who commiserate their unhappy state, and join with them in chiding the dull HOURS, that limp so heavily away! - and, after some few preliminaries settled, will point out to them the best and most effectual means of - spending their fortunes before they come of age.</p> <p>Apprentices are taught how they may, after the easiest manner - forfeit their indentures:</p>
+            <pb n="63" xml:id="pb-63" facs="#i65"/>
+             <p>- And covenanted workmen, are most earnestly invited and sweetly tempted - to break their contracts.</p> <p>A YOUNG LADY of great BEAUTY and MERIT (jaded out with tramping the streets, sick of a town-life, and sort with midnight bruises! - and apprehending another BRIDEWELL-lying-in, may go harder with her than the last) advertises for a PARTNER for LIFE -</p> <p>She is not without FRIENDS, FORTUNE, nor ADMIRERS - but she has not yet met with the MAN, for whom she has hitherto preserved her spotless HEART - and has made a Vow never to part with her HAND till she does! - Her sentiments of the DELICATE PASSION, correspond with the antient</p>
+            <pb n="64" xml:id="pb-64" facs="#i66"/>
+            <p>Heraldry - 'The Hearts of old, says our inimitable SHAKESPEARE, gave HANDS.' - Not that she is affectedly nice respecting his person, years, or exterior qualities: - A young man, she charitably presumes, may be virtuous; a man of middle age, discreet; and if somewhat advanced in life, she would hope to profit herself by his wisdom and experience: - 'Tis a MIND she seeks, more than a MAN; and a chaste COMPANION she wants, more than a HUSBAND. - Letters directed to, &amp;c.</p> <p>A fool at any age might be hooked by such a bait.</p> <p>An infamous sharper  - and a tradesman upon the brink of destruction - (the one urging his insuperable modesty, as</p>
+            <pb n="65" xml:id="pb-65" facs="#i67"/>
+            <p>an apology for his mode of application - the other pleasing the immensity of his affairs, which will not afford him time to go through the usual formalities of wooing) - make shift to draw in a couple of simple girls, to their utter ruin, and disquiet and disgrace of their families! - 'But such calamities,' said the ill-starred brides, 'being destined to us by the over-ruling powers, were not be avoided!' - 'My spark!' (meaning the sharper) said one of the young ladies, 'was foretold me in a dream, three nights before I read his advertisement; which only brought it fresh to my memory!' - 'And my gentleman,' said the other, ' I married out of a frolic! - it seemed to me such a handy way of getting</p>
+            <pb n="66" xml:id="pb-66" facs="#i68"/>
+            <p>a husband! - and, you know, I was always a mad, unaccountable girl!'</p> <p>Some gentlemen publickly avow their preference of concubinage, to the matrimonial tie - and make such proposals, as are not likely to pass unregarded: - Some ladies, voluntarily offer themselves to go into keeping.</p> <p>Frequent and various courtships are carried on by advertisements - Love-assignations are too common to be insisted upon.</p> <p>Unmarried ladies, who have been so unfortunate as to sprain their ankles, or to acquire dropsical habits; may have</p>
+            <pb n="67" xml:id="pb-67" facs="#i69"/>
+            <p>them reduced with the greatest ease and delicacy: - And married ladies, of less frigidity in the absence of their spouses, than dame PENELOPE of old - (after covering their shame with long stays, and long aprons, as long - as they possibly can be concealed) - may lie in privately - and be treated with the utmost tenderness and consideration - and their brats be provided for, somehow or somehow - so as never to give them any further concern.</p> <p>I have often conceited the possibility of carrying on INFERNAL CORRESPONDENCE, and conspiracies of the most treasonable and damnable cast, thro' the channels of Newspapers, in anonymous advertisements! - Another POWDER-PLOT!</p>
+            <pb n="68" xml:id="pb-68" facs="#i70"/>
+            <p> - another FIRE of LONDON! - the seizing upon the TOWER, or the BANK of ENGLAND! - This presumption is by no means strained, if you will vouchsafe it a fair and candid consideration.</p> <p>A knot of villains might easily fix upon a PAROLE, to be so communicated: - or A. B. requesting the favour of C. D. to acquaint E. F. and the rest of the parties concerned, that every thing was now amicably adjusted, and the parchments ready for execution - (or any other rigmarole stuff) - might be inserted to answer the most flagitious purposes. - </p> <p>This is no justifiable manner of transacting lawful business: - No men in their</p>
+            <pb n="69" xml:id="pb-69" facs="#i71"/>
+            <p>right senses ever dreamt of such a method: - No governors poffest of virtue, and endued with common capacity, ever permitted it: - But in a venal and disjointed state, what wickedness may not be winked at? - what absurdities may not be tolerated?</p> <p>And who are to be the judges and inspectors of matters of so much moment? - Common Newspaper-printers? - 'Tis pretty plain they make no conscience of any thing they print! - Blasphemy, treason, sedition, bawdry! - nothing comes amiss to them - so that they can get money, pay their stamp-duties, and promote the sale of their papers.</p>
+            <pb n="70" xml:id="pb-70" facs="#i72"/>
+            <p>There are among us a set of cruel witlings, the disgrace of human kind - for they are wanting in the common feelings of humanity: - a set of wanton wretches, unknown in every other age and country! - How should it be otherwise? - for, indeed, no other age or country ever afforded them the same opportunities: - Such are the authors of paragraphs and advertisements, calculated to amuse, to mislead, and to distract: - But chiefly intended for their own private diversion, and the entertainment of their knots, and parties, and clubs.</p> <p>A virtuous character who has slightly offended one of those wicked wits, will be sure to draw down upon himself the united</p>
+            <pb n="71" xml:id="pb-71" facs="#i73"/>
+            <p>vengeance of a whole posse: - They will marry him to his maid, or his drynurse; or father a bastard upon him - they will break his neck in a fox-chase, or his circumstances at a gaming-table - they will raise him, by disreputable means, to affluence; or send him waddling out of the alley - they will feed him with a hearty supper over-night, and find him dead in his bed next morning - they will providentially rush in, time enough to hawl him out of his fishpond alive; or leave him, hanging in his garters, in his own hayloft.</p> <p>They invent probable and striking wants, and tempting services, which thousands are capable of and anxious to supply - merely to put people to the expence</p>
+            <pb n="72" xml:id="pb-72" facs="#i74"/>
+            <p>of advertisements - or to procure letters - many of which may come hereafter to be printed - and, doubtless, will make very genteel miscellanies, according to the present system of printing and reading.</p> <p>They endeavour to make common things, rare; and take in the credulous, by offering handsome premiums, for what is to be found every where: - The story of the tabby cat, by this time, is somewhat stale.</p> <p>They send some people of sleeveless errands from LONDON to YORK - and bring others from YORK to LONDON.</p>
+            <pb n="73" xml:id="pb-73" facs="#i75"/>
+            <p>A poor labouring man, in a far distant country, seeing, some two years ago, an advertisement, offering a large sum for a Queen ANNE's farthing, luckily bethought himself he was possessed of two! - (wretched casts! as the understanding reader will readily suppose.) - But having no suspicion that a farthing, could be any thing less than a farthing - and finding that, by the greatest good fortune in the world! - two farthings were so much better than a halfpenny, as even to promise a little portion to a poor man! - Off sets the simple peasant, leaving his work and family behind, and begging his way onward to our witty capital! - But who can express the sorrow of the sorely-fatigued and anxious-minded traveller; or be totally insensible to his disappointment?</p>
+            <pb n="74" xml:id="pb-74" facs="#i76"/>
+            <p> - who, after careful enquiry, but in vain, for the wanton advertiser - was obliged to beg his way back again!</p> <p>They must have sorry hearts, indeed, who can enjoy such jests!</p> <p>Hitherto we have endeavoured to point out some of the most glaring enormities of Newspapers - which we flatter ourselves will appear so self-evident to every rational and understanding reader, that, from the foregoing premises, we may safely conclude - Newswriters, Newsmanagers and Newsprinters can only rank with the lowest, and most worthless of all men who disgrace the press! - for we can have no idea that any man of</p>
+            <pb n="75" xml:id="pb-75" facs="#i77"/>
+            <p>honour would make a profession of living by conducting, or printing a Modern Newspaper.</p> <p>They must be void of principle - for they make a jest of every principle of virtue! - </p> <p>They must be dissolute - for they decry all order! - </p> <p>Without humanity - for they delight in public calamity and private misfortune! - </p> <p>The declared enemies of their country - for they spread sedition, and scatter discontent in every quarter! - and endeavour, as much as in them lies, to</p>
+            <pb n="76" xml:id="pb-76" facs="#i78"/>
+            <p>kindle the fire of intestine and foreign war!</p> <p>A word or two concerning proprietors, or part-owners of Newspapers (independent of printers and managers) may not be amiss - as it is well known that almost every paper is the joint-interest and concern of a number of partners - some papers being lotted out into no less than twenty, thirty, forty different shares.</p> <p>To such gentlemen, I shall beg leave to observe - that as he only can be accounted a just man, who advances his fortune by just and honourable means; so also is he universally allowed to be an unjust man, who seeks to profit himself by unjustifiable measures.</p>
+            <pb n="77" xml:id="pb-77" facs="#i79"/>
+            <p>In that predicament stands every proprietor, or part-owner of a licentious Newspaper: - they make unworthy and unmanly gain, of mischievous and opprobrious merchandize: - They stimulate the worst of men to collect and invent such paragraphs, essays and presumptions, as they know to be improper food for the public - subversive of good order and good government - and many of them false and scandalous: - They know also, that without such wretched materials, their circulation must cease. From whence it is natural to infer, that, with respect to such connexions, they are men of no more virtue, than those who would run shares with BROTHELS and GAMBLING-HOUSES - provided they could be carried on with impunity, and their</p>
+            <pb n="78" xml:id="pb-78" facs="#i80"/>
+            <p>names remain a secret. - I therefore think it will become every gentleman of character among them, to withdraw his countenance and support of such despicable craft - and to despise every possible advantage which may arise from such lawless, seditious and defamatory publications.</p> <p>There are published per week, of London-News only, including morning and evening posts, gazettes and weekly journals, sixty-six or sixty-seven distinct papers: - There are also about forty printed in different country towns of SOUTH BRITAIN: - The average of impressions per week, cannot fall short of TWO HUNDRED THOUSAND! - a sufficient number, we may reasonably conclude,</p>
+            <pb n="79" xml:id="pb-79" facs="#i81"/>
+            <p>to render a restless people, neither more nor less than downright stark-staring Newspaper-mad!</p> <p>And what is this, I pray you, but keeping up a monstrous army of irregulars? - composed of incendiaries, seditious persons, pretended reformers, mischievous politicasters, mock-patriots, brawling detracters, insinuating slanders, professed liars, restless idlers! - to fight against government and the laws?</p> <p>Again, if we multiply the given number by twenty (which is very moderate for the hands and eyes by which each paper is pass) the multiple will be FOUR MILLIONS per week! - Out of so many readers, let any dispassionate man</p>
+            <pb n="80" xml:id="pb-80" facs="#i82"/>
+            <p>judge of the probably mischiefs that may arise - by poisoning the affection, perverting the will, and depraving the understanding of thousand of worthy and well-disposed subjects.</p> <p>I have already excepted the GAZETTE (printed by authority, and therefore out of the question) and the DAILY ADVERTISER - </p> <p>And here I think it but common justice due to Messrs. JENOUR, the printers, part-owners, and publishers of the DAILY ADVERTISER - (the best conducted and most useful paper in the three kingdoms) - to testify my approbation of their public conduct respecting articles of news, amidst the just censure I have thrown out against their brethren.</p>
+            <pb n="81" xml:id="pb-81" facs="#i83"/>
+            <p>I declare I am no proprietor in their paper, nor particularly connected with any who are: - neither do I speak from partiality to those gentlemen, of whom I have but a very slight knowledge: - in proof of which, their candour will pardon me for adding, that in regard to idle and anonymous advertisements, they themselves cannot be too cautious.</p> <p>I shall not take upon me to determine with exactness, the revenue which arises to government, by the iniquitous craft of Newspapers with their advertisements - I judge somewhat about TWO HUNDRED THOUSAND POUNDS per annum!</p> <p>But was every penny a pound, and every pound a hundred - the sum would be by</p>
+            <pb n="82" xml:id="pb-82" facs="#i84"/>
+            <p>far too inconsiderable - to be obtained at the price of the virtue and allegiance of the people - and the peace and good order of the state!</p> <p>At present, the knaves bid defiance to their rulers! - and daringly trumpet of what consequence they are to the public revenue! - </p> <p>'They exact a price, say they, and we pay it! - what would they have more? - We have no privilege but what we pay for! - They will hardly think of restraining us, while a much greater proportion goes int heir coffers, than comes into our pockets! - And punish us, 'tis plain they cannot - or they dare not - or certainly they would have done</p>
+            <pb n="83" xml:id="pb-83" facs="#i85"/>
+            <p>it long ago! - No, no, we know our masters wants and their weaknesses, as well as they know themselves! - They cannot do without us - and hardly make shift as it is! - Our stamps, let me tell you, make a pretty sum-total at the year's end - there's the mystery, if you must know! - Besides, do you imagine they will ever have the impudence to attack our darling freedom? - the privilege which we have purchased with so much sweat and blood! - and maintained with so much unchastised noise and hubbub! - the MAGNA-CHARTA-LIBERTY of the PRESS! - 'Sblood and thunder! - that would be to strike at the very VITALS and HEART-FAT of LIBERTY!'</p>
+            <pb n="84" xml:id="pb-84" facs="#i86"/>
+            <p>Insolent reasoners! - but enough of the cause - 'tis now time to add a few words touching on the cure, and the probably means to effect it.</p> <p>Men who have no sense of their duty, should be brought to it by some means or other.</p> <p>The method is short and obvious - 'tis as easy as lying! - and happily for us, Administration has the indisputable power in their own hands!</p> <p>They may raise a clamour against the measure - but what of that? - so let them: - So they would, most likely, against any other measure, proposed for the nation's honour and the kingdom's</p> 
+            <pb n="85" xml:id="pb-85" facs="#i87"/>
+            <p>safety: - they have raised groundless and unjustifiable clamours enow already - that would be only adding one more to the number.</p> <p>The same power which enables Government to grant, it may be presumed, en-enables Government to withhold: - STAMPS are, unquestionably, the Newsprinters LICENCES - without which they dare not print and publish Newspapers with advertisements - </p> <p>The same wild and preposterous matter, published after any other manner, would fall far short of the mischievous effects produced by the present mode.</p> <p>The public may be wrought upon, in</p>
+            <pb n="86" xml:id="pb-86" facs="#i88"/>
+            <p>some measure, by a wicked book, or a wretched pamphlet - but nothing captivates the vulgar, and the public in general, like a Newspaper - </p> <p>Few read books and pamphlets; but every body reads what passes under the denomination of NEWS: - Books and Pamphlets cost money, and some trouble to procure - Newspapers may be had for nothing, or next kin to't - without any trouble at all.</p> <p>I therefore humbly propose, that the first seditious, malicious and wanton offender, after previous notice given, be refused his Stamps at the Office: - Deny him his Stamps, and his business must stand still: - Distract his business</p>
+            <pb n="87" xml:id="pb-87" facs="#i89"/>
+            <p>but for a week, or even four-and-twenty hours, and you will bind him over, most effectually, to his good behaviour for seven years after.</p> <p>This method, if once tried and resolutely maintained, will, I persuade myself, be found far more efficacious than prosecutions - or ever corporal punishments.</p> <p>Again - 'tis fit those men should be kept in awe, and be put under some direction - for 'tis pretty evident they are not capable of directing themselves.</p> <p>The further method I have to propose, has nothing in it against the general LIBERTY of the PRESS; which I</p>
+            <pb n="88" xml:id="pb-88" facs="#i90"/>
+            <p>have no intention should be in the least affected by it: - The press, as every man of sense and candour will see, is left as open to the writers of BOOKS and PAMPHLETS, and REMONSTRANCES as ever: - 'Tis the mode of publishing which is the GRAND EVIL to be remedied - for, as I observed before, books and pamphlets find few readers, in comparison with Newspapers.</p> <p>As the matter stands at present, the News-printer who prints palpable blasphemy, treason, sedition, slander - provided he gives up his author, is, as he apprehends, free from every imputation of offence: - But is it sufficient to acquit the active perpetrator of guilt, that he makes discovery of the wretch who set him on?</p>
+            <pb n="89" xml:id="pb-89" facs="#i91"/>
+            <p>- For the printer, in sober judgment, respecting the public or the party injured, is absolutely the committer of the trespass: - the common plea of ignorance, in most cases, is childish, and not worth notice.</p> <p>I therefore further humbly propose, a board of regulation and inquiry to be appointed - and no place more proper, in my opinion, than at the STAMP-OFFICE: - It naturally falls under that department - </p> <p>Offences and abuses respecting the CUSTOMS, EXCISE, &amp;c. are determinable by their several commissioners: - Offences against legal administration, the quiet order of the state, and the peace of</p>
+            <pb n="90" xml:id="pb-90" facs="#i92"/>
+            <p>individuals (who should have a right of preferring their complaints) committed by Newspaper-printers, should be adjudged by the commissioners of the stamp-duties - who should be invested with the power of increasing, or diminishing the number of their stamps, according to their civil or criminal conduct - and, after repeated reprehensions, of depriving them altogether.</p> <p>In which last extremity, it would be highly proper for the commissioners to give public notice of such their proceeding in the LONDON GAZETTE; setting forth the nature of their offences, and the repeated provocations they had passed by - that all mankind might be left to judge of the lenity they had shewn, and</p>
+            <pb n="91" xml:id="pb-91" facs="#i93"/>
+            <p>approve the justice of their final judgment.</p> <p>News and advertisements would still be read - but improper and pernicious publications, under the notion of public News, ought not to be read, nor to be suffered in any well-regulated country: - Neither would such restriction (I repeat it again) have the smallest tendency towards abridging the LIBERTY of the PRESS.</p> <p>The system would be soon changed by this evident and practicable mode - mankind might be instructed, instead of being distracted, as they are now: - A set of sensible, moral essayists might arise - another set of STEELES and ADDISONS! - </p>
+            <pb n="92" xml:id="pb-92" facs="#i94"/>
+            <p>but the present wretched race of Hackney-writers of Newspapers, deter and keep them off - Men are not fond of herding with savages.</p> <p>The insolence and injustice of Hackney-coachmen, &amp;c. are cognizable before their proper commissioners - but the just punishment which falls upon those delinquents, don't debar the public from riding in Hackney-coaches - but enables them to ride with greater ease and security.</p> <p>It is for the nation's honour - it is for the kingdom's safety - it is for the public good, and no less for the private peace of every individual, that the Newspaper-productions of the press, should</p>
+            <pb n="93" xml:id="pb-93" facs="#i95"/>
+            <p>be immediately put under some regulation.</p> <p>To curtail LICENTIOUSNESS, can never be deemed an infringement upon LIBERTY - but rather establishing it upon a surer and more permanent foundation.</p> <note>footnote</note> <p>ERRATUM in Pa. 48. L. 12. for after - read before.</p> <p>See CANON 59. - Ministers to catechize every SUNDAY - under the penalties of REPREHENSION, SUSPENSION, EXCOMMUNICATION - upon the first, second, third wilful neglect therein.</p>
+            <pb n="94" xml:id="pb-94" facs="#i96"/>
+            <p>ORATORS and ORATORY.</p> <p>ORATORS and ORATORY.</p> <p>I Have heard much of ORATORS, and have attended to many who have been cried up for such; but I can safely say - I never saw one in my life.</p> <p>If ORATORY is the gift of JUST PERSWASION, as I would fain understand it to be - 'tis certainly among the rarest good qualities, of which we have any idea.</p> <p>In that light, and that only - I beg leave to take it up at present: - for merely to perswade, is not the matter - it must have some commendable epithet prefixed, or I deny it to be ORATORY.</p>
+            <pb n="95" xml:id="pb-95" facs="#i97"/>
+            <p>It must be useful in some good and important end, or it is no part of necessary knowledge - no branch of education - for nothing ought to be admitted into a virtuous institution, which is not useful to good purposes and to good ends.</p> <p>Instead of the ART of ORATORY - (by which something more is meant than the bare ART of SPEAKING and HARANGUING) - let us call it, in some cases, the ART of AMUSING with vain words, or The ART of BABBLING.</p> <p>In others, the ART of PREVARICATION, or the ART of COZENING.</p>
+            <pb n="96" xml:id="pb-96" facs="#i98"/>
+            <p>In polite phrase - the ART of CHICANERY, and the ART of DEUCTION - In plain English, the ART of CHEATING.</p> <p>When youth an inexperience were to be the dupes of designing knaves, during the two last centuries, it was called, the ART of CONEY-CATCHING: - But we who have refined upon the vices of our forefathers, more than upon their virtues, have happily hit upon a better word - more expressive and general - we now call it the ART of BAMBOOZLING.</p> <p>The art of turning truth into falshood, falshood into truth - commonly called the art of making black, white; white,</p>
+            <pb n="97" xml:id="pb-97" facs="#i99"/>
+            <p>black - is too well known to be insisted upon.</p> <p>We have also among us, the ART of CONFOUNDING - commonly called the ART of DUMFOUNDING - (a happy change enough, tho' vulgar) for people had better be dumb, than speak to no purpose; or to the worst purposes - or be deaf, than hearken to what is not worth hearing.</p> <p>All these seem wide of the intended mark, and directly contrary to true ORATORY - whose end is JUST PERSWASION, whose point is TRUTH.</p> <p>But it will not be amiss to mention one more, into which all the former, and</p>
+            <pb n="98" xml:id="pb-98" facs="#i100"/>
+            <p>every species of false gloss may be solved - namely, the ART of SOPHISTRY, or false reasoning, against immutable TRUTH and JUSTICE - in direct opposition to the dictates of NATURE refined by REASON.</p> <p>The Sophists lost all credit, from the time they quitted good sense, for jargon; sound reasoning, for fallacious argumentation: - Nobody was interested, in what they did not understand - at length, nobody believed any thing they said - (the common case with liars, prevaricators, false reasoners, and frontless declaimers!) - For they had drawn such a thick and mystical veil over the face of TRUTH - that the poor auditors began to despair of ever more being illumined by her refulgency,</p>
+            <pb n="99" xml:id="pb-99" facs="#i101"/>
+         <p>or cheered by her bright beams!</p> <p>The tables were turned upon them presently - those who had looked up to them with the eye of admiration, now beheld them with scorn! - their wisdom, even in the judgment of their late partial favourers, became FOOLISHNESS - or, in other words, WISDOM and FOLLY were synonymous.</p> <p>'If this is your boasted WISDOM, said the soul-wounded hearers - henceforward whatever is obscure, whatever far-fetched, whatever fallacious, impertinent and inconclusive; shell be called, in derision, WISDOM - and as you style yourselves SOPHISTS - that is WISE MEN,</p>
+            <pb n="100" xml:id="pb-100" facs="#i102"/>
+            <p>and professors of virtuous knowledge and useful science - and are generally acknowledged to be, and would fain pass for such - (for we have no intention of stripping you of your title) - be SOPHISTS still: - But remember that henceforward, for your sake, every trifling disputant, every smatterer in logic, every trope-monger and figure-caster - shall be deemed SOPHISTS as well as you.</p> <p>'Our ambition was to learn things, rather than words - and tho' method we allow to be necessary, yet matter we hold more essential: - A little more of the one, a little less of the other, if your wisdoms please! - More matter and less art, said the Queen (smiling) - </p>
+            <pb n="101" xml:id="pb-101" facs="#i103"/>
+            <p>'While TRUTH was your guide, we acknowledged you (under her) for our honoured sages - You were our venerable masters, we your suppliant disciples - You were our wise fathers, we your docile children: - With what delight you taught! - with what rapture we heard! - What honey distilled from your lips! - what harmonious sweets bestruck our ears! - thence to the head, the heart, the soul! - </p> <p>'Each day our minds waxed stronger! - Can it be wondered then, that we should so far follow you implicitly? - Implicitly did I say? - How can that be? - when every sentence you uttered, seemed to carry conviction along with it?</p>
+            <pb n="102" xml:id="pb-102" facs="#i104"/>
+            <p>'We found your reasonings, for the most part, just - but chiefly we admired the generosity of your nature, the manliness of your principles, and the rectitude of your intentions! - they were self-evident. - The seaman's compass could not direct more true! - And sooner would, as we fondly believed, the Polar star, the mariner's hope and safety, err from its destined point, than you, designedly, o'erleap theline of truth!</p> <p>'Not but that demonstration might sometimes fall short - But what of that? - We well knew, that truth is not always developed, but always to be developed.'</p>
+            <pb n="103" xml:id="pb-103" facs="#i105"/>
+            <p>Methinks some of my impatient readers already begin to beg the question - What has all this to do with ORATORY?</p> <p>By their leave it has - for we must learn to speak, before we can speak to purpose.</p> <p>A little ornament, where the heart feels, and the soul speaks, suffices ORATORY. - It is not studious of figure - which is often false. - It delights not in fluency, nor even choice, far less in a redundancy of words.</p> <p>The end must be honest, and, if possible, totally disinterested - that I maintain to the last: - For otherwise, every son of iniquity may set up for an Orator - </p>
+            <pb n="104" xml:id="pb-104" facs="#i106"/>
+            <p>since every wicked man can play the Orator in wickedness.</p> <p>Would you profane the sacred name of ORATOR, by giving it to a wretch? - Would you not rather style him seducer, wrangler, brawler, blasphemer - than ORATOR?</p> <p>'Where are we to look for our Orators? - In our schools and seminaries? - '</p> <p>No, surely - What among pupils? - striplings in arts? - There only the first principles are taught.</p> <p>'Where then shall we look for them?'</p>
+            <pb n="105" xml:id="pb-105" facs="#i107"/>
+            <p>In the world - in ripe and full-fledged manhood.</p> <p>Many there are whose dignity, preeminence, profession, place - shine more illustrious having this rare gift.</p> <p>For few, we should suppose, would rush on service, which he can't acquit - accept an office, which he cannot fill - discharge a duty, which he never learnt - nor ever meant to learn - </p> <p>'O, but deputies may discharge, so that principals can prate - '</p> <p>Can man be so preposterous to himself? - at once his own pride and shame! - creating wants, only to want still more! - a voluntary cipher, or a drudge! - </p>
+            <pb n="106" xml:id="pb-106" facs="#i108"/>
+            <p>plunging in never-ending care! - For what? - for fame, for admiration, place, ambition! - to be distinguished, courted, feared - but most, to shine in eloquence! - to charm the volatile, and lull the looby!</p> <p>'Still, I say, where are we to look for these Orators?'</p> <p>Why, every where - where they are to be found: - In the Senate, at the Bar, in the Pulpit, on the Stage.</p> <p>In the first, you'll find, all is venality and mock-patriotism - At the second, nothing but sordid interest prevails - In the third, indifference is too common, or supineness that distastes, or affectation that shocks - In the fourth, grimace supplies</p>
+            <pb n="107" xml:id="pb-107" facs="#i109"/>
+            <p>the want of sensibility; false fire, or just feeling.</p> <p>But first - to the first -</p> <p>'How shall I hereafter confide in the man, who seduced my innocence? - (for i had been innocent, but for him!) - who soothed me with promises, which he never meant to perform? - and, making an advantage of my necessity - (a necessity which, God forgive me! I had wantonly, nay wickedly brought upon myself) - bribed me with glittering gold, which he had begged, or borrowed, or sharped, or stolen!</p> <p>'Shall I hearken once more to what he says? - (would I have never hearkened</p>
+            <pb n="108" xml:id="pb-108" facs="#i110"/>
+            <p>to him!) - be again soothed, or rather gulled with the voice of the charmer? (for he sings sweetly, as they say!) - believe him white as snow, whose false heart, by fatal experience! I know to be dark as soot? - </p> <p>'Impossible! - he is not to be credited! - no honest man, who knows his story, which all know by this time, shall henceforward believe a syllable of what falls from his base lips! - </p> <p>'And what has he got by it? - a seat: - which, in a virtuous senate, he would disgrace! - </p> <p>'Nay more - they say he is placed, or pensioned, or both -'</p>
+            <pb n="109" xml:id="pb-109" facs="#i111"/>
+            <p>Nay then, to be sure, we must believe all - it comes from the heart, no doubt - It is not for the place or pension he harangues; but for the public: - he has no job of journeywork in hand - no wicked scheme to further, no wife to overset - his and his country's interest are inseparable!</p> <p>What's here, another Orator? - </p> <p>'Ay, I ha' good cause to remember him! - 'tis my londlord, you must know - and that's his friend, whom he brought in at last electioneering (if it may be called so) - on whose account, I had like to ha' been turned out of house and home - I and my poor family! - because, forsooth, I wou'dn't know a gentleman,</p>
+            <pb n="110" xml:id="pb-110" facs="#i112"/>
+            <p>that I have never seen with my eyes afore! - nor nobody else, in our part of the world: - for, they say, he lives among the blacks, when he's at home - whose blood, belike, he has been sucking these seven years, as they say - and now, ma'hap, he wants to suck ours, if we'll let him - </p> <p>'But londlord, they say, has paid off the blacks score, in some measure, and has suckt him pretty handsomely, tho' not bone-dry. - Now to take ALL, you know, and leave his poor tenants in the lurch, was not fair, nor acting like a Christian - for I cou'd ha' had som'at handsome a t'other side - '</p> <p>How was it?</p>
+            <pb n="111" xml:id="pb-111" facs="#i113"/>
+            <p>'Nay, I can't call to mind the whole - 'twas short, but very terrible, that's sure, while it lasted! - He took an advantage of my want of compacity, and almost terrified me out o' my wits, into the bargain! - Lord a marcy! what a mortal passion he was in! - for nothing at all, as I thought - </p> <p>'For, d'ye see me - I knew I was free! - I had often heard my mother say as how, all her children were sons of FREEDOM! - But when it came to the push, I found I had not words to justify my sense of that blessing! - but he was well stored with words - and there he got the better o' me - '</p> <p>He speaks well, does he?</p>
+            <pb n="112" xml:id="pb-112" facs="#i114"/>
+            <p>'O, a main speaker! - the greatest Horacle in all our country! - you shall hardly come nigh his fellow! - I verily think, in my soul and conscience! if he was to set about it, in less than a quarter of an hour, he could make you believe - the moon was made of green cheese, as the saying is! - '</p> <p>Such men are always dangerous, never useful.</p> <p>'You shall hear what words he gi'd me - words that would brook no answer: - I but begged his honour to consider a bit, and have a morsel o' patience! - "PATIENCE?" cry'd he, in a fury! - adod! I thought he'd a knockt me down! - But if a had - as sure as ever</p>
+            <pb n="113" xml:id="pb-113" facs="#i115"/>
+            <p>I'd a got up - adod! I'd a knockt him down, what thof he wur my londlord! -'</p> <p>You'd have served him very right - </p> <p>'Right or wrung, I'ad sartainly done it! - "Don't prate to me of patience! said he - I have considered! said he - and that's enough! said he - Who taught you to consider? said he - who made you a judge of mine and the country's interest? said he - but I waste time! said he - Harkee? said he - comply with my good will and pleasure, or, Get out! - Our! out! get out!" - (just as thof I'd been a dog!) - "Turn out! - troop! - bag and baggae! said he - Now you know my mind! said he</p>
+            <pb n="114" xml:id="pb-114" facs="#i116"/>
+            <p>- I'll ha' no mutineers in my camp! said he" - That's all, an' please you.'</p> <p>This liberal gentleman appears to have resolution enough to be a stout Speaker - but, according to our definition, can be no ORATOR.</p> <p>Yonder fine gentleman parades it prettily, speaks neatly, harangues plausibly, declaims powerfully! - never tired, nor out of breath! - has words at will' ay, and the art of arranging them too.</p> <p>His motives to a seat arose from his gift of utterance: - He pretended to be a lover of fame - but what sort of fame? so he affected popularity - but such kind</p>
+            <pb n="115" xml:id="pb-115" facs="#i117"/>
+            <p>of popularity, as a wise man would studiously shun.</p> <p>GOLD was his idol, tho' he abounded - (strange passion!) - in short, before every consideration of laws, divine or human - of moral obligations - of offices, of which he knew well the force and extent - of gratitude to heaven, for what was lent him (for he had more, far more than thousands, who wanted nothing) - In spite of all, GAIN was his goal!</p> <p>'Having succeeded, says he, no matter what is cost - my fortune must be made, my consequence confirmed! - they shall not put me off shabbily - little places befit little men - dead men, as we</p>
+            <pb n="116" xml:id="pb-116" facs="#i118"/>
+            <p>Call them - men of meer local interest, without talents. - For me, I know my abilities, and I rate them accordingly: - Nothing, in this world, is to be had for nothing - in proof of which, I purchased my seat - (one of the last things a wise man would think, should be set to sale - but so it is, for all his wisdom) - and paid a round sum for it! - Still am I blest with independency - and they shall pay me a round sum, and something else, if they have me - </p> <p>'At present, I flourish only, for my diversion! - like a skilful master in the science of defence - who gets fame, in getting himself in wind, before he mounts in earnest - </p>
+            <pb n="117" xml:id="pb-117" facs="#i119"/>
+            <p>'And have me, I know, they must - they cannot do without me. - Wise administration, supports itself; corrupt, must be supported. - Thenceforward may I be truly called, a PROP and BUTTRESS of the STATE.</p> <p>Shortly after he lost his independency - but he found a place, equal to his most sanguine wishes! - What can that man be said to have found - who has lost himself?</p> <p>'We are undone! we are undone! is the common, hackneyed cry, for want of directors!'</p> <p>How can that be, say I - while we have so many able ORATORS? - (spokesmen, I mean)</p>
+            <pb n="118" xml:id="pb-118" facs="#i120"/>
+            <p>'Well then, the City and the India-Company are undone! - undone! undone! - '</p> <p>Recollect yourself, I pray you! - for, surely, men may be presumed to stand firm upon their legs - as long as they can speechify.</p> <p>Numberless are the instances which might be produced, of successful brawlers, void of meaning, as of shame - placement, without parts - patriots, without probity - senators, without virtue - all owing to the abuse of words - </p> <p>But to what purpose to produce them? - since we are well assured such characters, armed on the one hand with</p>
+            <pb n="119" xml:id="pb-119" facs="#i121"/>
+            <p>matchless confidence, supported on the other by powerful interest, have made their way in all periods: - tho' I think it is generally agreed, those have been the most virtuous times, in which bad men prevailed least.</p> <p>But enough of that Senate - lest it should be suspected we descend to point out particular characters: - That's odious! - and should be always avoided.</p> <p>No moralist who censures vice and folly, directs point-blank at the delinquents: - That were a breach of what himself professes; to leave me shameless, whom he meant to mend.</p>
+            <pb n="120" xml:id="pb-120" facs="#i122"/>
+            <p>Morality arraigns, but scourges not - condemns the knavery, but spares the knaves - points out the error, but leaves the punishment thereof to justice and the law - </p> <p>And where misdeeds are dark as blackest night - and may be fixed! - the law condemns - </p> <p>Hear the dread voice of JUSTICE! - hear, and tremble! - ye, whom your own consciences already have condemned! - </p> <p>Where the OFFENCE lies - (in spite of riches, which may purchase favour - or blood, which binds to one another's interest) - there let the GREAT AXE fall!</p>
+            <pb n="121" xml:id="pb-121" facs="#i123"/>
+            <p>Descend we next into the Hall - the largest Hall in EUROPE, as it is said - but if not quite so large, 'tis very spacious.</p> <p>What an army of black gowns and white bands have we here! - enough, we may conclude, to save or sink a nation! - All ORATORS, no doubt, to a man!</p> <p>The cause of JUSTICE, the right of property, the case of the fatherless and widow - of the oppressed, the indigent, the captive, must be well supported - where there are so many gentlemen bred in their defence! - This is, surely, among the most essential blessings of freedom and civilization! - </p>
+            <pb n="122" xml:id="pb-122" facs="#i124"/>
+            <p>'Fall back! - stand aside! - clear the passage! - and make way for the counsel!'</p> <p>'Tis done as you commanded. - Now for a few specimens of Bar Oratory - </p> <p>Do but shut your eyes a moment - and tell me, if that pleader brings not to your ear, the ungrateful din of SOUNDING BRASS? - Now open them again - when every sense must be convinced, that 'tis the very thing itself!</p> <p>That gentleman is angry! - Hark! how he treats the bashful evidence, who blush to speak the truth! - they tremble at his confidence! - What can have put him out of humour?</p>
+            <pb n="123" xml:id="pb-123" facs="#i125"/>
+            <p>' 'Tis love of JUSTICE and his client's cause, that so bestir him - '</p> <p>JUSTICE, ever sedate, requires no such matter - when joined with JUDGMENT, she is all composure - when paired with MERCY, all tenderness! - </p> <p>His client's cause, indeed, being a bad one, may require no less - but, methinks, I shall be sorry if he succeeds, by dint of noise and impudence.</p> <p>Is this what is called Bar-Oratory, about which so much is said? - </p> <p>BAR-ORATORY then is BEAR-ORATORY! - the barest and the baldest form of words, that ours, or any language is</p>
+            <pb n="124" xml:id="pb-124" facs="#i126"/>
+            <p>capable of. - That a set of rational beings, should have ever thought of setting up, upon such a sorry set of words - is astonishing!</p> <p>The judge laughs! - and seems to enter into the spirit of the jest! - That's unbecoming! - a judge should never laugh! - JUSTICE is always sober, majestic, awful! - What's the joke?</p> <p>Something foreign to the business in hand, and must interrupt it - It may prove of fatal consequence to one side, and, in the end, turn the scale on the wrong - </p> <p>That the ill-timed blunder of a green-horn counsel, should occasion so much</p>
+            <pb n="125" xml:id="pb-125" facs="#i127"/>
+            <p>mirth, in so serious a business as property, on which the peace of families depends - is much to be admired! - But I observe these black gentlemen are much given to laughter - too much! - </p> <p>Their client's sorrow, is their joy! - the widow's tears, their triumph! - the mourning of the distressed, their festivity! - Fie! fie! fie! - </p> <p>I have no particular enmity to lawyers - I own I should like them better, if their profession would suffer them to be honester men - or that they would even permit other people to be so.</p> <p>Far from prejudice am I in these matters - for, in my judgment, no garment</p>
+            <pb n="126" xml:id="pb-126" facs="#i128"/>
+            <p>ought to sit more gracefully than the LONG-ROBE.</p> <p>'Where are we now? - and who have we here?'</p> <p>This is DOCTORS-COMMONS - these learned advocates, civilians, canonists! - </p> <p>Mark that gentleman who presides! - and learn by him, what manly gravity befits a judge - </p> <p>Note his attention! - Catch his eye vacant if you can! - Believe me, he labours in mind, more abundantly than them all! - </p>
+            <pb n="127" xml:id="pb-127" facs="#i129"/>
+            <p>Learn also, by his example, to be patient under the worst evil that may befal you!</p> <p>Stay and hear his judgment - it may prove a lesson to you for life! - I should have said, if that gentleman means to give over baiting his ears before bedtime - </p> <p>He has been up three hours and three quarters already, by the dial! - yet he has said nothing, but what was better said before - Nevertheless he has prevailed - </p> <p>'How has he prevailed?'</p> <p>He has prevailed upon one half of his Audience to leave the court - and among</p>
+            <pb n="128" xml:id="pb-128" facs="#i130"/>
+            <p>them, the very persons who were most interested in the cause.</p> <p>But the case is far different with our clergy - (the best and ablest of them) - to those two classes of gentlemen, of whom I have been speaking - </p> <p>Many of their compositions do the highest honour to their profession, their language, themselves. - It were frequently to be wished, they had somebody, better able to preach their discourses for them, than themselves - that they might shew to better advantage, even from that place for which they were originally calculated: - For many of them compose well, who preach ill.</p>
+            <pb n="129" xml:id="pb-129" facs="#i131"/>
+            <p>They have the full power of JUST PERSUASION - ay, and of conviction too, in their hands - but they might as well be locked up in their studies, if they persuade not.</p> <p>Either from a modest diffidence of their own sufficiency, or palpable negligence - or fearing to exert themselves, or judging it unnecessary - or want of simplicity, or not taking right aim at the head and heart - still PERSUASION is wanting.</p> <p>Many of them proceed but as indifferent readers - 'tis starched, not free - 'tis cramped, not easy - the wig, or something else one would suspect to be in the</p>
+            <pb n="130" xml:id="pb-130" facs="#i132"/>
+            <p>way: - How then should such succeed as persuasive preachers?</p> <p>The characters which approached the nearest to excellency in PULPIT-ORATORY (according to my idea) of all that I have ever met with, are the Reverend JOHN WESLEY - and a poor Flemish Capuchin, upon whom I chanced to stumble some years ago, in the great church at ALOST.</p> <p>WHITEFIELD, I confess, had great powers - but he wanted judgment, even in that excellency in which he was superiorly gifted. - A close observer, free from the partiality and enthusiasm which commonly accompanied his congregation, I think, might have discovered,</p>
+            <pb n="131" xml:id="pb-131" facs="#i133"/>
+            <p>his was rather the artifice, than the art of Oratory.</p> <p>Those young clergymen who labour at the false stage-manner, and think they have gained a great point - are undone to a man! - They will never more be able to read, or pray, or preach as long as they live! - Better to have no manner, than a feigned and affected manner.</p> <p>I lately heard one of those apes, murder the fifteenth chapter of PAUL'S first Epistle to the CORINTHIANS, appointed for the BURIAL SERVICE - in such tones, false pointing and gesticulation - that, had it not been for shame, I had ran out of the church! - </p>
+            <pb n="132" xml:id="pb-132" facs="#i134"/>
+            <p>I would much sooner have been buried quick with the corpse, than have heard it over again! - </p> <p>The STING of DEATH, I conceived must be light, in comparison with the unfledged darts, and pointless daggers, which that undisciplined Christian combatant, incessantly spurted at my eyes and ears! - to teaze and torment - (mistaking chapter and verse entirely) - not to pierce the heart, and harrow up the soul!</p> <p>Yet I must do the young gentleman the justice to declare (for justice is due to every man) - that most of the company, allowed it was very fine! - They had never heard any thing like it before - (nor I neither, and I hope I never</p>
+            <pb n="133" xml:id="pb-133" facs="#i135"/>
+            <p>shall again) and therefore concluded it to be very fine.</p> <p>Some of them appealed to me - which I was sorry for - as it laid me under the painful necessity of speaking what I felt - for to tell you the truth, I was not yet recovered of the smart he had given me.</p> <p>If we go to look for just oratory upon the stage, we shall be sure to be disappointed - tho' there the excellence is confined to utterance; the invention being another's.</p> <p>Indeed if we lay more stress upon the action of snatching a lance, shamming a fall, brandishing a sword, holding a</p>
+            <pb n="134" xml:id="pb-134" facs="#i136"/>
+            <p>dagger, or dropping a hat (as is usual with the bulk of a theatrical audience) than upon the words which incite such action - there is an end of all dispute upon this head: - the actor is, out and out, a much greater character than the author - And so he looks upon himself to be - and so the world looks upon him.</p> <p>The actor's art is no other than that of catching the poet's fire - of feeling what he felt, and strongly marked - and of repeating his words, so as to convey the passion. - But this requires far more understanding, than we find in the generality of actors.</p> <p>They are either too vehement - o'er-stepping the modesty of nature (as their great master says) or too tame.</p>
+            <pb n="135" xml:id="pb-135" facs="#i137"/>
+            <p>The most sublime ideas, the finest feelings, and the happiest expressions of the poet - we must pick up and make out, as well as we can, from the strut, and noise, and bluster of the actor.</p> <p>'Tis unmeaning, or false meaning, and commonly wide of the mark: - 'tis every thing, but what it should be - </p> <p>'Tis a body charmed with its figure, and much taken up with the fitness and elegance of its habit - with a mind, too confident for great and just action; too fond of Applause, to deserve it.</p> <p>From the foregoing premises, it follows, according to our idea of ORATORY - that - </p>
+            <pb n="136" xml:id="pb-136" facs="#i138"/>
+            <p>No venal statesman - no greedy place-man - no mock-patriot - no self-admiring, nor mob-applauding haranguer - can be an ORATOR.</p> <p>No crafty lawyer - no quirking barrister - no brow-beating, unfeeling, fee-loving pleader - no wrangling serjeant - no endless advocate - can be an ORATOR.</p> <p>No starch pedant - no quaint prig - no lifeless student - no litigious rector - no jovial vicar - no negligent curate - no stage-ape - can be an ORATOR.</p> <p>No strutting, bawling, bellowing, drawling, wining, ogling, intriguing, grimacing actor - more intent upon his</p>
+            <pb n="137" xml:id="pb-137" facs="#i139"/>
+            <p>figure and dress, and the applause he covets, than upon his part - can be an ORATOR.</p> <p>And further - that every natural gift, acquired endowment, and studied grace, will fall short of the character; unless untied in the genuine spirit of LIBERTY and INDEPENDENCY: - a thorough disinterested mind, fearless and hopeless, appears to me absolutely necessary - whence I beg leave to conclude, that - only a JUST MAN, can be a JUST ORATOR.</p>
+            <pb n="138" xml:id="pb-138" facs="#i140"/>
+         <p>PAINT and WASHES.</p> <p>PAINT and WASHES.</p> <p>TO you, my fair readers! this article is particularly addressed - and, heaven send it may have a happy influence upon some of you!</p> <p>What a collection of filth and trumpery have we here! - PAINT and PASTES! - GREASE and WASHES! - choicely disposed and carefully preserved in boxes and gallipots - in pans and platters!</p> <p>What a labour to live, if all these are necessary!</p>
+            <pb n="139" xml:id="pb-139" facs="#i141"/>
+            <p>Know ye not the wretches who invented and compounded them? - Why then I'll tell you - </p> <p>They were, of human form, such as made a livelihood, of cheating and corrupting the understanding of frailest humanity - </p> <p>They would, by the gross, sell lovely ladies (once sparkling) eyes - for no more than twelve-pence! - to be after afterwards dissected, displayed and retailed in object-glasses! - </p> <p>Strip softest skins! - (once pure and lilly-white, now parched and crusted!) - and vend them to beastly chapmen, for basest purposes - at less than half-a-</p>
+            <pb n="140" xml:id="pb-140" facs="#i142"/>
+            <p>crown a hide! - (they deserved not a comelier name, nor a better price, by that time) - </p> <p>Pluck out their pearly teeth! - and wantonly sell them to idle boys, for chuck-stones, at doits a dozen! - </p> <p>Their delicate nails! - they valued no more than the rude parings of their own! - </p> <p>Their dainty locks! - (once descending in sweetest ringlets!) - by wicked artifice much changed in hue - would they next mischievously eradicate! - still drawing out, from day to day, by hairs and handfuls - till they had not left them a single hair upon their heads!</p>
+            <pb n="141" xml:id="pb-141" facs="#i143"/>
+            <p>'That was wanton cruelty indeed! - for what end could they answer?'</p> <p>None, but the most vile - for the life was gone! - much better might be gathered among the mansions of the dead, even after several years interment! - Still they might be useful in some sort - nothing is cast away in a trading nation - they might serve to stuff cushions and pack-saddles.</p> <p>Think what time you waste in deforming; where you propose decoration and amendment!</p> <p>Think to what nobler purposes, that time might be allotted!</p>
+            <pb n="142" xml:id="pb-142" facs="#i144"/>
+            <p>Think what pains you take to render yourselves distasteful, whom nature had made so charming, so inviting! - sweetest of all her sweets!</p> <p>A moment's reflection will point out to you, that no ingratitude towards heaven, can equal yours!</p> <p>Figure to yourselves the most ghastly and horrible spectre, that ever affrighted FANCY made up! - Such is the figure of that monster, INGRATITUDE-TOWARDS-HEAVEN!</p> <p>What lifts the head, and gracefully falls the shoulders - like conscious INNOCENCE?</p>
+            <pb n="143" xml:id="pb-143" facs="#i145"/>
+            <p>What vermilion can vie with the maiden-blush of MODESTY?</p> <p>Only BENEVOLENCE can add lustre to the eye.</p> <p>The ear is deaf to true harmony, at which the Voice of DISTRESS finds not a ready entrance.</p> <p>No feeling, like PITY - no smell, like the fragrant breath of LOVE - no taste, without GOODNESS.</p> <p>All PAINT and WASHES are pernicious! - ye bedaub your MINDS, in the self-same instant that ye decorate your BODIES! ye leave stains there, which no fullers-earth nor time can expunge.</p>
+            <pb n="144" xml:id="pb-144" facs="#i146"/>
+            <p>Believe me, LADIES! - nothing clears the complexion, smooths the skin, and keeps wrinkles at due distance - like FAIR VIRTUE and FAIR WATER.</p>
+            <pb n="145" xml:id="pb-145" facs="#i147"/>
+            <p>SLEEP.</p> <p>SLEEP.</p> <p>HOW few enjoy, what all admit, sweet SLEEP?</p> <p>CARE's cure, SOUL's rest, and BODY's comforter!</p> <p>Measure the goods of life by that sole GOOD:</p> <p>See what invites, delays, distracts, destroys</p> <p>The coy, yet common guest - </p> <p>Strange that mankind's</p> <p>Chiefest blessing, another air and ailment,</p> <p>Should fail to visit in our greatest need!</p> <p>Whence comes it? - Proceeds it not from ourselves?</p> <p>That's the question - well worth a moment's pause - </p> <p>VIRTUE and virtuous INDUSTRY invite - </p> <p>PLEASURE delays - sad GRIEF, tumultuous CARE,</p> <p>Insatiable AVARICE, mad REVENGE,</p> <p>False FEAR, false GLORY, fruitless HOPE distract - </p> <p>While glaring WRONG consigns to banishment,</p> <p>What splendid GUILT wholly eradicates!</p> <p>Only the good gather the genuine fruit</p> <p>Of SLEEP - All else is rank, or out of season - </p>
+            <pb n="146" xml:id="pb-146" facs="#i148"/>
+            <p>Tasteless, or artificial - cloying, or Innutritious! - </p> <p>NIGHT may invite to SLEEP - </p> <p>But NIGHT alone composes not to PEACE!</p> <p>Pleasures in dreams fatigue, but refresh not - </p> <p>Sore SORROW sickens into LANGUOR - Fears</p> <p>Multiply - SUSPICION keeps watch and ward - </p> <p>Ruthless REVENGE meditates the big MISCHIEF - </p> <p>GLORY waxes great, anon diminishes - </p> <p>Wavering HOPE, in bed or stirring, true</p> <p>To no point, except its own SELF-TORMENT!</p> <p>Mid-day CARE, is broadest awake at midnight!</p> <p>The time allotted AVARICE for rest,</p> <p>Is spent, 'twixt Sleep and waking, hunting bargains,</p> <p>Untimely legacies, usurious contracts,</p> <p>In what he has left - and what he dreads to leave!</p> <p>The mind's sedition must be first appeas'd,</p> <p>Before the man finds SLEEP - 'ere that is quell'd,</p> <p>REST is restless - Repose is not REPOSE!</p> <p>The BODY may be stretched at full length,</p> <p>And by inaction of itself recover;</p> <p>But the perplex'd, deform'd and wrinkled MIND,</p> <p>Is not so easily made smooth and strait.</p>
+            <pb n="147" xml:id="pb-147" facs="#i149"/>
+            <p>Mark the proud tenant of the stately mansion - </p> <p>See how he provides for SLEEP - that no noise,</p><p>No sound - not even the gentlest breeze may breathe</p> <p>Upon his lightest slumbers; which SILENCE,</p> <p>And th' apothecary's aid, hardly procure! - </p> <p>All is hush'd, save himself! - his tiptoe servants</p> <p>Know not after what fashion to approach;</p> <p>Yet fear they may be wanted! - dreading still</p> <p>To lift their feet and set them down again!</p> <p>Mean while the victim'd Lord to his own guilt</p> <p>And avarice, partakes but scanty rest;</p> <p>Tossing with discontent from side to side! - </p> <p>Starting with horror, where no danger is! - </p> <p>And hearing, thro' IMAGINATION'S ear,</p> <p>What is not to be heard!</p> <p>Again he shrinks! - </p> <p>As tho' the midnight raven croak'd for him alone! - </p> <p>Wherefore should that affect th' unconscious man?</p> <p>The screech-owl startes not the innocent - </p> <p>They know 'tis only NATURE'S endless voice</p> <p>In vary'd tones, thro' different organs.</p> <p>Dost envy him his PELF and want of PEACE?</p> <p>Has he not far more cause to envy thee,</p> <p>Who know'st, in guileless POVERTY, the SWEETS of SLEEP?</p>
+            <pb n="148" xml:id="pb-148" facs="#i150"/>
+            <p>THEATRE.</p> <p>THEATRE than we learn - that, I apprehend, will hardly admit of a question - </p> <p>In which case - we pay sauce for our WIT with a vengeance!</p> <p>The Theatre nurses those follies, which is meant to correct.</p> <p>The best plays (those of a moral cast, of which we have but few) are seldom acted, and to thin audiences - </p> <p>But those which are accounted the best - which shine in wit, in language,</p>
+            <pb n="149" xml:id="pb-149" facs="#i151"/>
+            <p>and allure to modish vice and fashionable folly, by the most specious artifices - and draw the rabble of pit - box and gallery from all quarters of the town - are certainly the worst plays, for public representation, that were ever wrote.</p> <p>Whence we conclude, that a play, such as it ought to be - would stand the fairest chance of being damned the first night.</p> <p>This article may possibly be enlarged in future: - at present, my little work begins to swell beyond its intended bulk - and my bookseller whispers me, 'tis necessary to preserve the volumes of a just and equal size. - There ought, no doubt,</p>
+            <pb n="150" xml:id="pb-150" facs="#i152"/>
+            <p>to be a measure and proportion in every thing, when one comes to consider the matter - so far my worthy little friend is right.</p> <p>For the same reason, I am obliged to omit my article of SHAKESPEARE - which might have been rather amusing to some, tho', perhaps, not very instructive - not from a want of respect and reverence for that inimitable genius - (for I love the man, and honour his memory, on this side idolatry, as much as any*) - but that it seems to fit to prefer, in every work, the MORAL to the CRITICAL.</p> <note>footnote</note> <p>* BEN JONSON.</p>
+            <pb n="151" xml:id="pb-151" facs="#i153"/>
+            <p>TRISTRAM SHANDY.</p> <p>TRISTRAM SHANDY.</p> <p>WE cannot easily divest the man of his character, nor separate the author from his book - could that be done, as I am much fonder of bestowing praise than censure, I should certainly commend a writer, in whom there is much to be commended, and more to be admired - but far, far more, when we come to consider his function, to be condemned.</p> <p>He wrote to the folly of the age - which it was his duty, as a christian minister, to have checked - not to have encouraged.</p>
+            <pb n="152" xml:id="pb-152" facs="#i154"/>
+            <p>A clergyman and a wit! - I had rather he had been a clergyman and a wise man - </p> <p>It will not be safe, nor adviseable, in my opinion, for any young clergyman to tread in his steps - altho' he was successful.</p> <p>I hope I have introduced the caution in time - throw up the gown at once, if you have any intention of professing licentious wit - before the pious suffragan is compelled to strip it over your ears.</p> <p>It will not accord, by any means, with the serious and important charge you have undertaken.</p>
+            <pb n="153" xml:id="pb-153" facs="#i155"/>
+            <p>All your knowledge of the Latin and Greek, is out of the question - many things we take for granted - and, among others, that shall be admitted, without any examination - </p> <p>Nay, I'll go farther in your favour, and conclude it won't be an easy matter to pose you in WELSHMAN upon the THIRTY-NINE ARTICLES - and that, by this time, you are as well acquainted with GROTIUS De Veritate, as GROTIUS was himself.</p> <p>But that is not enough - to learn books, and not to have learned a thorough sense of the duty incumbent, from the particular charge we have taken upon us - is not enough.</p>
+            <pb n="154" xml:id="pb-154" facs="#i156"/>
+            <p>Yours is a SERIOUS CALL indeed! - and must not only be undertaken seriously, but also discharged as seriously.</p> <p>And here I beg leave to remind the young clerk of that admirable exhortation (beginning, You have heard, BRETHREN) pronounced by the bishop in the solemn FORM of ORDERING PRIESTS. - He will have heard it, no doubt - but the solemnity of the occasion! - awestruck, as we may imagine with the bishop's presence! - and being filled with the HOLY SPIRIT, upon the imposition of his lordship's and his chaplain's hands! - might have confused the matter, so that he may have totally forgot the sum and substance of what passed - provided</p>
+            <pb n="155" xml:id="pb-155" facs="#i157"/>
+            <p>he has not seriously considered it since.</p> <p>It is commonly annexed to our most excellent FORM of PRAYER, the LITURGY of the CHURCH of ENGLAND - I venture to call it so still - tho' I am aware it has been pretty much the fashion of late years to flout at it: - But was there a possibility of procuring an ACT of PARLIAMENT to have it burnt - in my conscience! I don't know where we should find a set of men who would be able to frame such another: - they were, past all question (if not literally filled with the SPIRIT, which might admit of a dispute) spiritual-minded men who composed it.</p>
+            <pb n="156" xml:id="pb-156" facs="#i158"/>
+            <p>- A SERIOUS CALLING indeed! - so serious, that it cannot - at least, it ought not to be done but in propria persona.</p> <p>There is no such character to be presumed, as an itinerant clergyman, from the perfect establishment of christianity to the present time - save in the day of PERSECUTION: - They, of all men, are fixed to a point and determined residence, by the importance of their function, and by a just and necessary provision. - Curates are not of choice - but only as assistants, or allowed of in cases of necessity: - whoever argues otherwise, argues in favour of the abuse, but against the express canon and sense of the church.</p>
+            <pb n="157" xml:id="pb-157" facs="#i159"/>
+            <p>Your parishioners should know you - and you should know them.</p> <p>What questions are these, and such as these, which the absentee-rector or vicar, is reduced to the necessity of asking, once a year - when he goes down to settle tithe and surplice accounts?</p> <p>'Who is such-a-one, and such-a-one, and such-a-one? - How long have they lived in MY parish? - Whence came them? For I never heard of them before - </p> <p>'How fares such a farmer - and such a miller - and such a malster?</p> <p>'What say you? - One dead of grief, upon the fall of grain! - Another hanged</p>
+            <pb n="158" xml:id="pb-158" facs="#i160"/>
+            <p>himself in his mill! - the third broke and gone off! - This is strange! - </p> <p>'And who have succeeded to the farm, the mill, and the malthouse? - </p> <p>'And all this to fall out (I think you say) some six, eight and ten months ago! - And I not know any thing of the matter, in all that time, is strange! - very strange, indeed! - '</p> <p>"I don't know how the devil your reverence should! - God forgive me for swearing! (replied the sexton) - when you was above a hundred and fifty miles off! - or, ma'hap, beyond sea! - or may be dead, for all we knew! - or cared. (aside)"</p>
+            <pb n="159" xml:id="pb-159" facs="#i161"/>
+            <p>Don't you think, young gentleman, this would be giving but a sorry account of the PARISH - if you should chance to be called upon suddenly?</p> <p>Again - should you reside - which to me is a fundamental in benefices - </p> <p>For my own part, had I one or more in my gift, I declare I would not present any person, who did not promise me he would reside: - of so much consequence I look upon it to be, regarding it in a national light. - Nay, unless I knew him well, so that I might rely upon his word, he should give bond: - for where, I pray you, would be the absurdity of BONDS of RESIDENCE, any more than of BONDS of RESIGNATION? - </p>
+            <pb n="160" xml:id="pb-160" facs="#i162"/>
+            <p>I say, should you reside - I should choose your residence to be complete - an honour to yourself - an instrument of good to your parish.</p> <p>But should you chance to turn out a hare-brained wit - an irregular humourist - a rambling-scambling genius! - in the name of parochial peace and harmony! what is to become of your poor flock?</p> <p>The door of the sheepfold (a) will soon be off the hinges - and the poor sheep scattered abroad, having no shepherd! (b) - The sheep, no longer, hear his voice - </p> <note>footnote</note> <p>(a) John, ch. 10. (b) Matt. ch. 9.</p>
+            <pb n="161" xml:id="pb-161" facs="#i163"/>
+            <p>for, knowing his voice, could they but hear it, they would abide with and follow him: - But a stranger will they not follow, but will flee from him - for they know not the voice of strangers. (c)</p> <p>I say, how are they to be tended? - while you are capering and prancing, not only thro' this world, but in the WORLD of the MOON - with MERLIN DE COCCAIE, RABELAIS, BERGERAC and TRISTRAM SHANDY? - or dangling after stage-managers? - where 'tis more than a hundred to one, you will be left in the lurch.</p> <p>What have you to do with the MOON, but from your observatory? - or with the STAGE, but in your closet?</p> <note>footnote</note> <p>(c) John, ch. 10.</p>
+            <pb n="162" xml:id="pb-162" facs="#i164"/>
+            <p>The MOON affords no bread for you - unless you can ascertain her face, her motion, her path, her distance and diameter with more accuracy than has been already done; and thereby enlarge the field of ASTRONOMY. - For the STAGE, that's entirely out of the question.</p> <p>'Tis your indispensable duty, young gentleman, to abide with your parish, in all times and seasons - no less in the severity and nakedness of the WINTER, than in the chearfulness of the SPRING, the luxuriancy of the SUMMER, and the fulness of the AUTUMN.</p> <p>This, believe me, is no light and idle charge which you have taken upon you! - Write for the Stage! - what have you to do with writing for the stage? - </p>
+            <pb n="163" xml:id="pb-163" facs="#i165"/>
+            <p>Are you not surrounded with philosophers, scriptures, fathers? - the wise and good of all ages! - men, who not only set the living example, but left the unerring precept to posterity?</p> <p>The stage, I say once more, is absolutely out of the question! - you must be contented, in conformity with the solemn vow you have made, and the important function you have undertaken - sooner to starve upon your glebe, than to eat the bread of the stage!</p> <p>Neither can you, of all men - (so I read it in my Greek Testament without the help of a comment) - desert your post, in any time of pubic or partial calamity! - </p>
+            <pb n="164" xml:id="pb-164" facs="#i166"/>
+            <p>In SICKNESS, in PESTILENCE, in FAMINE! - the greater the extremity! - the more dreadful the visitation! - (so says my edition) - the less may you be spared from your duty.</p> <p>We read of one good bishop, in the early ages of christianity (HELIODORUS by name) - who was deprived of his bishopric, as it is said, for writing, or rather for avowing himself to have been the author (for it was written when he was a young man) of a chaste romance.</p> <p>Indeed he ought not to have been deprived, in my opinion - for he was a virtuous man, and made a virtuous book: - In my judgment, he should have kept his book and his bishopric too - </p>
+            <pb n="165" xml:id="pb-165" facs="#i167"/>
+            <p>But the sense of antiquity was different from mine - or, perhaps, yours either: - They condemned not the moral any more than you: - nay, had any other person, save a bishop avowed himself to have been the author - 'tis possible they would have commended it.</p> <p>They might even have overlooked, or winked at it in a deacon, or a priest - but not in a bishop, a man of the highest order in the church.</p> <p>'If any of the inferior clergy, said they, should misemploy their time in writing profane songs, and poems, and romances - who shall check them, but their suffragan?</p>
+            <pb n="166" xml:id="pb-166" facs="#i168"/>
+            <p>'But should their bishop stand in the same predicament - in that case, they will have no one to call them to account.'</p> <p>I conclude that after some such rigid manner of reasoning - (tho', doubtless, more refined) - the good Doctor HELIODORUS was deprived of his bishopric.</p> <p>If TRISTRAM SHANDY was to come to life again - TRISTRAM would gain a thousand pounds in a month, sooner than I am like to gain a thousand pence in a year, at this rate of going on - </p> <p>The gentlemen would subscribe to TRISTRAM'S works, without any solicitation - he preaches BAWDRY so genteely - nay, elegantly!</p>
+            <pb n="167" xml:id="pb-167" facs="#i169"/>
+            <p>The ladies would subscribe to TRISTRAM - the ladies abominate foul-mouthed BAWDRY! - but such BAWDRY as TRISTRAM's, they are over head0and-ears in love with! - ' 'Tis, surely, the most delicious BAWDRY in the world! - for it makes you laugh at OBSCENITY, without blushing - there's the sweet of it!'</p> <p>The clergy would subscribe - 'How, the clergy subscribe?' - Yes; the young clergy - who know no better.</p> <p>The bishops would not subscribe - to his LIFE and OPINIONS - No: - But some of them, would give in secret, that their heavenly father, who sees in secret, may reward them openly! - </p> 
+            <pb n="168" xml:id="pb-168" facs="#i170"/>
+            <p>But they would subscribe to his SERMONS - because they made them laugh - </p> <p>'How, Sermons make people laugh?'</p> <p>Did not you know that? - Why Sermons and Moral Essays are the most fashionable vehicles for jests - and we seem to be upon the improving hand - </p> <p>You shall find all sorts of matter in many of them - except matter of COMPOSITION, matter of WISDOM, matter of TRUTH, matter of PIETY.</p>
+            <pb n="169" xml:id="pb-169" facs="#i171"/>
+            <p>WANT.</p> <p>WANT.</p> <p>WANT! - that's a vague word and vast! - according to sophisticated reason! - 'tis multiplied no less than LEGION! - </p> <p>Shew me the man who has so few as a thousand wants! - what can they arise from?</p> <p>Often from this - because he is possessed of ten thousand times more than he really wants.</p> <p>In such unhappy cases, a radical cure is hardly to be expected - we may patch up and patch up - but that keeps the</p>
+            <pb n="170" xml:id="pb-170" facs="#i172"/>
+            <p>patient lingering, and discourages the most skilful in the faculty - </p> <p>To separate and treat them one by one, will be very tedious! - besides, where shall we find time now?</p> <p>'Tis a dreadful complication, indeed! - what the doctors agree in calling a gone CASE!</p> <p>Yonder poor caitiff's wants are manifest! - famine is in his face! feed him and make him well. - He is almost naked too! - cover him, for shame! - and send him thankful away. - Happy for him, that all his wants are visible!</p> <p>I am sorry to see you so distressed! - support it if you can! - we must be patient! - we came crying here! - </p>
+            <pb n="171" xml:id="pb-171" facs="#i173"/>
+            <p>- Perhaps, some common mistake about true happiness? - for that appears to be the greatest sore! - not like mine, I hope - bordering upon frenzy! - </p> <p>Send for a parson! - if he chances to understand that text, you may be comforted - if not saved - </p> <p>But no one brings comfort, like a consolatory friend!</p> <p>Some, I have noted, having the means - want only a mind to make a just use of them - </p> <p>Some, I have noted, having the means - want only a mind to make a just use of them - </p> <p>Others, possessed (as they fondly imagine) of generous minds - want only means to give them fruitful action.</p>
+            <pb n="172" xml:id="pb-172" facs="#i174"/>
+            <p>But have a care for what thou wishest! - the means may come! - the mind may change! - thou'rt safest as thou art - </p> <p>Better a mind without means - than means without a mind.</p> <p>Is your estate in danger? - go, seek a lawyer! - stop the first man you meet! - and ask him, if he is not an attorney? - he will not be affronted - </p> <p>For there are as many lawyers now, as causes - as many causes, as attornies - as many counsellors, as either! - still we want counsel! - but not such as they administer.</p>
+            <pb n="173" xml:id="pb-173" facs="#i175"/>
+            <p>Or, are you really sick? - send for FORDYCE (a) at once! - my life against yours! he'll heal you - if medicine can effect it.</p> <p>But what are fancied ailments? - chimeras! - not to be named with mine! - </p> <p>What are vexatious suits - wherein the greatest suffering is the LAW? - </p> <p>But would you have those gentlemen toil for nothing? - confound themselves and all mankind with parchments endless, and papers without end? - </p> <note>footnote</note> <p>(a) Dr. GEORGE FORDYCE, one of the Physicians of St. Thomas's Hospital.</p>
+            <pb n="174" xml:id="pb-174" facs="#i176"/>
+            <p>See how incessantly they labour for private and public good - to confuse all order! - confound all sense of RIGHT and WRONG! - </p> <p>Your case, I grant you, was tolerably clear in the beginning - well stated, and very promising: - but since those honest men have undertaken it - who the devil can make head or tail of it - besides themselves?</p> <p>This is a real evil, I confess - yet still it must be endured.</p> <p>But what are sickness and compound fractures! - the amputating knife and lateral operation! - to what I feel? - </p>
+            <pb n="175" xml:id="pb-175" facs="#i177"/>
+            <p>You may trepan my skull - I'll strive to bear it! - but while a particle of brain remains, I still shall grieve in spirit! - </p> <p>Conscience upbraids me not - 'tis only I upbraid myself! - that till these years, I scarce have looked into myself! - (a fool past forty - that's a fool indeed!)</p> <p>- Beheld things as they seemed, not as they are! - believed things good, because they glittered in my sick eye! - contemned things common, for that they only afforded BREAD and PEACE! - for this ingratitude towards heaven, am I now justly punished! - </p> <p>'What, is this all?'</p>
+            <pb n="176" xml:id="pb-176" facs="#i178"/>
+            <p>All and enough! - </p> <p>'But surely insufficient to provoke such an extremity of feeling?'</p> <p>What should a just man feel, but from that want, which in himself he can't supply? - </p> <p>Suppose I owe more money than I can pay? - is not that single want sufficient? - consummate wretchedness! - </p> <p>All EGYPT'S plagues combined, are light to that one suffering! - some may be borne - others shook off: - but that fell plague, to bear, is insupportable! - to be shook off, impossible!</p>
+            <pb n="177" xml:id="pb-177" facs="#i179"/>
+            <p>Save that sole plague - (the plague of plagues!) - I am, at this hour, heaven be praised! though penniless - one of the richest of his majesty's subjects.</p>
+            <pb n="178" xml:id="pb-178" facs="#i180"/>
+            <p>WISDOM.</p> <p>WISDOM.</p> <p>WISDOM! - where shall we find it? - who has it? - or having, dares to make profession of it?</p> <p>- For to be wise, as this world goes - is to be the greatest fool in the world! - </p> <p>So heathen sages taught - so Christian pastors experimented and confirmed - </p> <p>The WISDOM of this World is FOLLISHNESS (a).</p> <note>footnote</note> <p>(a) 2 Ep. to the Corinth. c. 3. v. 19.</p>
+            <pb n="179" xml:id="pb-179" facs="#i181"/>
+            <p>For who is just - further than the law constrains him?</p> <p>Who is temperate - even tho' self-preservation, the most convincing argument with frail mortality - (for what is so precious to a man as himself?) seems to require it?</p> <p>Who is courageous? - save in doing evil.</p> <p>Who without fear? - except the fear of God.</p> <p>Who is grateful? - There is no written law which compels a man to be grateful - save a few characters, illegible to most, which NATURE, with her own</p>
+            <pb n="180" xml:id="pb-180" facs="#i182"/>
+            <p>hand, originally engraved upon the HUMAN HEART.</p> <p>Who loves his country, more than himself? - That's a figure - and may shew well enough in ORATORY - but let that pass - </p> <p>Who would lay down his life for his friend? - Another pretty conceit! - what hardly ever existed, but in imagination - some two, or three, or half a dozen, from the beginning of Time, until this present writing.</p> <p>One of our sagest, tho' no longer one of our sweetest bards, who had considered this subject, as well as most other, which could add grace and dignity to the</p>
+            <pb n="181" xml:id="pb-181" facs="#i183"/>
+            <p>mind (a) - has resolved this riddle in a single line - </p> <p>'There have been fewer FREINDS on earth than KINGS.'</p> <p>Tho' by a vague resolution - I can't help thinking but he has considerably overdone it.</p> <p>Who desires a thousand times more than he is possessed of? - Every body.</p> <p>Who is content? - Nobody.</p> <p>What need of a thousand words, where twenty may suffice? - </p> <note>footnote</note> <p>(a) COWLEY.</p>
+            <pb n="182" xml:id="pb-182" facs="#i184"/>
+            <p>Words serve only to beget words - arguments to provoke arguments - we read, and we read, and we read! - but rarely reason upon what we read - </p> <p>We are delighted with the matter and composition! - our eyes sparkle with the novelty! - our ears eagerly suck in all! - our blood thrills with the harmony! (of persuasion and conviction, as we imagine) - our hearts dance to the measures! - but our understanding is blind to the scope and drift of the author!</p> <p>I grant you, if the book has a bad tendency, 'twill make a speedier way - so far the author is to be applauded for</p>
+            <pb n="183" xml:id="pb-183" facs="#i185"/>
+            <p>his ingenuity: - the falser the system, the more convinced we are that it is true.</p> <p>' 'Tis very wicked! I must confess - ay, but 'tis very true!'</p> <p>I say, 'tis profane and damnable heresy against the majesty of TRUTH!</p> <p>'You may say so, if you think proper, and see who will second you - but for all your assertions to the contrary - we're all convinced 'tis very true!</p> <p>'Mankind is admirably well taken by that Lover of VIRTUE, and Professor of WISDOM! - surely his wit will last the round of TIME! - What greater demonstration would you have - when</p>
+            <pb n="184" xml:id="pb-184" facs="#i186"/>
+            <p>each, from his own feeling, pronounces it a true bill?'</p> <p>What a number of wicked wits, have some two or three set up?</p> <p>But let us not suffer any longer the prevalency of WIT and FASHION, to transport us from our true interest - nor believe the means to happiness unattainable, or even difficult to be acquired.</p> <p>No path so plain, tho' little footed, as the broad path of PEACE.</p> <p>No purchase so cheap as PEACE - when once we know how to go to market.</p>
+            <pb n="185" xml:id="pb-185" facs="#i187"/>
+            <p>Nothing so plenteous - for it is to be found every where.</p> <p>It sprouts up spontaneously in deserts, where no men abide! - </p> <p>Even in the midst of Lybian wastes and Arabian sands, you may find the flowers of peace beneath your feet! - they spring up as you tread - and even with treading!</p> <p>They are not to be eradicated - for they are indigenous to every soil!</p> <p>Hail! holy PEACE! - the fruition of every thing to be desired! - the consummation of all good!</p>
+            <pb n="186" xml:id="pb-186" facs="#i188"/>
+            <p>I charge ye then, my friends and fellow-pilgrims! as ye prize the only PEACE - that PEACE which the WORLD cannot give! - that henceforward ye hearken to the voice of TRUTH - in preference to the fallacious systems of MACHIAVEL, ROCHEFOUCAULT, and MANDEVILLE.</p> <p>They propagated falshood, and they knew it - if so, they were not men of virtue.</p> <p>They were not sober architects, but confused Babel-builders.</p> <p>See, how the rubbish topples down upon their own mischievous heads!</p> <p>Now, all must come down - and to work afresh! - </p>
+            <pb n="187" xml:id="pb-187" facs="#i189"/>
+            <p>See, with what greater dexterity they pull down, than they built up!</p> <p>Excellent pioneers they would have made! - but sorry engineers!</p> <p>They were better at springing mines - than at defending the outworks.</p> <p>They were bad limners - they gave not the true life, the fair proportion, the just image.</p> <p>Unsophisticated man is no such animal, as they wantonly misrepresented him.</p> <p>What judicious painter selects for his subjects, filth and nastiness - blood and</p>
+            <pb n="188" xml:id="pb-188" facs="#i190"/>
+            <p>carnage - thieves and cut-throats - racks and executions?</p> <p>Are these to delight, or to shock? - to amend, or to corrupt the mind? - to lead the heart to humanity, or to open the door to profligacy?</p> <p>But, after all, if mankind is really so bad, as those gentlemen represent - 'tis certainly the duty of some of us, to endeavour to make them better.</p> <p>MOSES and the Prophets, at present, seem to be a little out of the question - so that I sha'n't touch upon them.</p> <p>Some doctrines we may safely disallow - and FAITH, we begin to suspect,</p>
+            <pb n="189" xml:id="pb-189" facs="#i191"/>
+            <p>may be enlarged upon - till we leave it - mere matter of speculation. - </p> <p>But nothing can sully the clear glass of REASON - nothing shake the foundation of the LAW of NATURE - nothing change the immutability of TRUTH.</p> <p>Let us speak then as to natural men - </p> <p>Every virtue is self-existent in nature, in reason, in truth.</p> <p>Every virtue is the delight, the action, and the heaven of the human mind!</p> <p>Every vice, as it is the enemy of man - so also is it his abhorrence and detestation!</p>
+            <pb n="190" xml:id="pb-190" facs="#i192"/>
+            <p>Man, in the most abject state of nature - as well in the weakness of infancy, as the decrepitude of age - never wants some faint glimmering of the loveliness of VIRTUE, and the loathsomeness of VICE.</p> <p>The smallest assistance would push him on, and enlarge his ideas, in a much greater proportion than we are aware of - </p> <p>If he is wrong, he only wants to be set right - his most earnest desire, his chief ambition, is to advance, step by step, in knowledge, in wisdom, in virtue.</p>
+            <pb n="191" xml:id="pb-191" facs="#i193"/>
+            <p>The love of the propagation of his kind, is not more strongly ingrafted in his nature, than in the love of virtue.</p> <p>Every man has a particular interest in virtue.</p> <p>No man can have any interest in vice.</p> <p>I shall not enter into a dispute of WHITES and BLACKS - I contend for MAN, not for exterior complexion; and for VIRTUE inherent in MAN - which cannot choose but to partake of her own bright feature.</p> <p>But, as I said before, no man can have any interest in vice.</p>
+            <pb n="192" xml:id="pb-192" facs="#i194"/>
+            <p>Vice has no interest - but from foolish and corrupt opinion.</p> <p>You would swear the man was mad, who would gather Hemlock and Nightshade for wholesome herbs! - call for a draught of poison to quench his thirst! - and eagerly embrace a column of fire for his mistress!</p> <p>No such contradiction - such palpable mistake of right and wrong, is to be found in simple nature - but who will deny its existence in opinion, and in the world?</p> <p>Neither is it such an easy matter, as some imagine, to betray to vice - </p>
+            <pb n="193" xml:id="pb-193" facs="#i195"/>
+            <p>'Tis with vast regret - from ignorance and want of reflection, that the poor, unenlightened image of his Maker, inclines to that side - his heart never consents in the beginning.</p> <p>He is precipitated into the commission of somewhat which he dreads! - he knows not how! - </p> <p>Had he had a monitor at his elbow, when he was first tempted - it ne'er had happened.</p> <p>He proceeds unwillingly to the second offence - and awkwardly even to the third and fourth repetition - </p>
+            <pb n="194" xml:id="pb-194" facs="#i196"/>
+            <p>It becomes necessary to encourage him, from time to time - and to assure him, there's nothing in it!</p> <p>He grows bolder in vice - yet virtue still seizes every occasion of gentle admonition.</p> <p>Warmed and impassioned with the strumpet! - it may be that he hears not the soft whisper of his once loved mistress - save in the hour of danger and dismay! - </p> <p>As such hours frequently occur to the guilty - 'tis likely that, throughout a life of guilt, seldom a day passes, but he feels some remorse - </p>
+            <pb n="195" xml:id="pb-195" facs="#i197"/>
+            <p>And what is remorse, I pray you, but the check of virtue? - the lingering sickness - but not a total dissolution of that principle in him.</p> <p>'Tis plain, that from the beginning he has been stimulated by older practitioners in iniquity, than himself - wretches hackneyed and hardened therein.</p> <p>Guilt seeks the society of guilt - it cannot long subsist singly and by itself: - But virtue may - and will to all eternity!</p> <p>A villain must be trained to villainy - no less than a soldier to arms.</p> <p>The raw recruit has seldom courage of himself, to be the first to mount the</p>
+            <pb n="196" xml:id="pb-196" facs="#i198"/>
+            <p>bastion, or to man the breach - but where the veterans lead, he'll follow.</p> <p>Even so it is in the warfare and siege of life! - </p> <p>We enter a corrupt world, and are fashioned in corruption, from our earliest dawn of reason - </p> <p>We act not from ourselves - but from the opinion of others - </p> <p>Opinion, another general name for folly - first corrupts, then countenances.</p> <p>We conclude the practice to be right - for we have never known any other.</p>
+            <pb n="197" xml:id="pb-197" facs="#i199"/>
+            <p>Childish amusements, drudging business, sating pleasures, with all their insignificant and dire attendants - rob us of our time and of ourselves - leaving us no room for reflection!</p> <p>Could we but spare a small portion of that time we lavish upon our delights, to look into ourselves! - (a small portion I call it - one hour out of four-and-twenty might suffice) - we should presently by convinced - That the VIRTUES, for which we contend, are more natural to man, than the VICES - </p> <p>That JUSTICE, TEMPERANCE, FORTITUDE, FRIENDSHIP, LOVE of our COUNTRY, BENEVOLENCE, GRATITUDE - are rooted in the HUMAN SOUL - and meant</p>
+            <pb n="198" xml:id="pb-198" facs="#i200"/>
+            <p>by Heaven to be the only springs of HUMAN ACTION.</p> <p>These naturally lead to calm PEACE and sweet CONTENT - the highest objects of our desire! - </p> <p>Neither can any human felicity exist, save in the contemplation and practice of VIRTUE - the only WISDOM.</p>
+            <pb n="199" xml:id="pb-199" facs="#i201"/>
+            <p>VANITY.</p> <p>VANITY.</p> <p>WHEN we can no longer be of any service to ourselves, 'tis high time we should think of something for the benefit of others.</p> <p>Upon that principle I set about digesting these SCRAPS.</p> <p>What effect they may have upon my readers, is their business, not mine - 'tis sufficient for me, that I put them together: - my task, for the present, is finished - they may choose now - either to set about correcting the author, or themselves.</p>
+            <pb n="200" xml:id="pb-200" facs="#i202"/>
+            <p>But should they chance to be productive of some good - (and I am fully satisfied they will do no harm) - that they serve to lop the light and loose imaginations of some; and compose the disquiet, and almost distracted minds of others - those who are benefitted by them, at least, must allow 'tis no bad composition.</p> <p>Something whispers me, they will be read - nay more, they will be commended - and further, they will do good - </p> <p>'Was there every such an odious instance of VANITY and self-applause?'</p> <p>Thousands! - Every witling, void of meaning, presumes no less within himself: - but only those who were conscious</p>
+            <pb n="201" xml:id="pb-201" facs="#i203"/>
+            <p>of the rectitude of their intentions, have had candour enough to avow it.</p> <p>Every man who means well, and acts upon just and steady principles, is vain of his endeavours; and approves himself, before he can possibly receive commendation from another.</p> <p>Conscious rectitude - (or what you call VANITY and self-applause) - is commonly the only reward a good man shares - Indeed he seeks no greater.</p> <p>The fool, I grant you, sickens you with his VANITY! - how should he do otherwise? - for it begins and ends with nothing but his nauseous self!</p>
+            <pb n="202" xml:id="pb-202" facs="#i204"/>
+            <p>The bold adventurer deafens you with his! - But we must not hastily abstract from military glory: - In many cases, the SOLDIER of his COUNTRY has full warrant, to sound the trump of his own praise.</p> <p>And shall the sober MORALIST be denied the privilege of vaunting his GOOD WILL - together with his sanguine HOPE - that what he sincerely felt, others may also passionately feel?</p> <p>If Heaven has been pleased to make him the instrument of good to society - however humble he may be at the throne - he cannot choose but to be vain at the footstool.</p>
+            <pb n="203" xml:id="pb-203" facs="#i205"/>
+            <p>'I am proud, says he, to be the happy minister of GOOD to my fellows! - and I dare avow it! - You may call it VANITY, if you like.</p> <p>'In God's name! then - let us continue vain - so that we restrain our pride within the limits of just action - and that all emulation, henceforward, be comprised in the VANITY of intentional, or actual GOODNESS.</p> <p>FINIS.</p>
+            <pb n="204" xml:id="pb-204" facs="#i206"/>
+            <p>Speedily will be published,</p> <p>I. THE History of Ireland, from the Invasion of Henry II; with a preliminary Discourse on the antient State of that Kingdom. By Tho. Leland, D. D. Fellow of Trinity College, Dublin.</p> <p>II. Poems by Miss Aikin. 4to. pr. 6s. boards.</p> <p>III. Musae Seatonianae; a complete Collection of the Prize Poems printed at the University of Cambridge, from the first Institution in 1750 to the present Time. pr. 3s. sewed.</p> <p>IV. Letters by sundry eminent Persons deceased; including the Correspondence of John Hughes, Esq. Author of The DIEGE of DAMASCUS. 2 vol. pr. 6s. sewed.</p> <p>Printed for Joseph Johnson, No. 72, Saint Paul's Church-yard.</p>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i207"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i208"/>
+         </div>
+      </body>
+   </text>
+</TEI>
