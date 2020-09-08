@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.528</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under a Creative Commons
+                  Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.528</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Fragments: in the manner of Sterne</title>
+                     <textLang mainLang="eng">English</textLang>
+                     <author>Brandon, Isaac.</author>
+                     <editor role="pbl">printed for the author: and sold by Debrett; and Murray
+                        &amp; Highley</editor>
+                     <note>With a half-title.</note>
+                     <note>Anonymous. By Isaac Brandon.</note>
+                     <note>Also available on microfilm. - Woodbridge, CT : Research Publications,
+                        Inc., 1986. - 1 reel ; 35mm. - (The Eighteenth Century ; reel 2069, no. 4)
+                        [For microfilm ask in Rare Books Room].</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>[6],139,[1]p.,plates ; 17cm (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="gregorian" notBefore="1797" notAfter="1797">1797</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref
+                              target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term> Sterne, Laurence 1713-1768 -- -- Parodies, imitations, etc</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail" rend="portrait" url="PR-OATES-00528-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3547px"
+            rend="portrait" url="PR-OATES-00528-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="I">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3230px"
+            rend="portrait" url="PR-OATES-00528-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="ii">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="iii">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="iv">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="v">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="vi">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="vii">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="viii">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="1">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="2">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="3">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="4">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="5">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="6">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="7">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="8">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="9">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="10">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="11">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="12">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="13">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="14">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="15">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="16">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="16ar">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="16av">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="16br">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="16bv">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="17">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="18">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="19">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="20">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="21">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="22">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="23">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="24">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="25">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="26">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="27">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="28">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="29">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="30">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="31">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="32">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="33">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="34">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="35">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="36">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00050"/>
+      </surface>
+      <surface xml:id="i51" n="37">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00051"/>
+      </surface>
+      <surface xml:id="i52" n="38">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00052"/>
+      </surface>
+      <surface xml:id="i53" n="39">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00053"/>
+      </surface>
+      <surface xml:id="i54" n="40">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00054"/>
+      </surface>
+      <surface xml:id="i55" n="41">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00055"/>
+      </surface>
+      <surface xml:id="i56" n="42">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00056"/>
+      </surface>
+      <surface xml:id="i57" n="43">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00057"/>
+      </surface>
+      <surface xml:id="i58" n="44">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00058"/>
+      </surface>
+      <surface xml:id="i59" n="45">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00059"/>
+      </surface>
+      <surface xml:id="i60" n="46">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00060"/>
+      </surface>
+      <surface xml:id="i61" n="47">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00061"/>
+      </surface>
+      <surface xml:id="i62" n="48">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00062"/>
+      </surface>
+      <surface xml:id="i63" n="49">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00063"/>
+      </surface>
+      <surface xml:id="i64" n="50">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00064"/>
+      </surface>
+      <surface xml:id="i65" n="51">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00065"/>
+      </surface>
+      <surface xml:id="i66" n="52">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00066"/>
+      </surface>
+      <surface xml:id="i67" n="53">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00067"/>
+      </surface>
+      <surface xml:id="i68" n="54">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00068"/>
+      </surface>
+      <surface xml:id="i69" n="55">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00069"/>
+      </surface>
+      <surface xml:id="i70" n="56">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00070"/>
+      </surface>
+      <surface xml:id="i71" n="57">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00071"/>
+      </surface>
+      <surface xml:id="i72" n="58">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00072"/>
+      </surface>
+      <surface xml:id="i73" n="59">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00073"/>
+      </surface>
+      <surface xml:id="i74" n="60">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00074"/>
+      </surface>
+      <surface xml:id="i75" n="61">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00075"/>
+      </surface>
+      <surface xml:id="i76" n="62">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00076"/>
+      </surface>
+      <surface xml:id="i77" n="63">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00077"/>
+      </surface>
+      <surface xml:id="i78" n="64">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00078"/>
+      </surface>
+      <surface xml:id="i79" n="65">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00079"/>
+      </surface>
+      <surface xml:id="i80" n="66">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00080"/>
+      </surface>
+      <surface xml:id="i81" n="67">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00081"/>
+      </surface>
+      <surface xml:id="i82" n="68">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00082"/>
+      </surface>
+      <surface xml:id="i83" n="69">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00083"/>
+      </surface>
+      <surface xml:id="i84" n="70">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00084"/>
+      </surface>
+      <surface xml:id="i85" n="71">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00085"/>
+      </surface>
+      <surface xml:id="i86" n="72">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00086"/>
+      </surface>
+      <surface xml:id="i87" n="73">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00087"/>
+      </surface>
+      <surface xml:id="i88" n="74">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00088"/>
+      </surface>
+      <surface xml:id="i89" n="75">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00089"/>
+      </surface>
+      <surface xml:id="i90" n="75ar">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00090"/>
+      </surface>
+      <surface xml:id="i91" n="75av">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00091"/>
+      </surface>
+      <surface xml:id="i92" n="76">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00092"/>
+      </surface>
+      <surface xml:id="i93" n="77">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00093"/>
+      </surface>
+      <surface xml:id="i94" n="78">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00094"/>
+      </surface>
+      <surface xml:id="i95" n="79">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00095"/>
+      </surface>
+      <surface xml:id="i96" n="80">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00096"/>
+      </surface>
+      <surface xml:id="i97" n="81">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00097"/>
+      </surface>
+      <surface xml:id="i98" n="82">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00098"/>
+      </surface>
+      <surface xml:id="i99" n="83">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00099"/>
+      </surface>
+      <surface xml:id="i100" n="84">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00100"/>
+      </surface>
+      <surface xml:id="i101" n="85">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00101"/>
+      </surface>
+      <surface xml:id="i102" n="86">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00102"/>
+      </surface>
+      <surface xml:id="i103" n="87">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00103"/>
+      </surface>
+      <surface xml:id="i104" n="88">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00104"/>
+      </surface>
+      <surface xml:id="i105" n="89">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00105"/>
+      </surface>
+      <surface xml:id="i106" n="90">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00106"/>
+      </surface>
+      <surface xml:id="i107" n="91">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00107"/>
+      </surface>
+      <surface xml:id="i108" n="92">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00108"/>
+      </surface>
+      <surface xml:id="i109" n="93">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00109"/>
+      </surface>
+      <surface xml:id="i110" n="94">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00110"/>
+      </surface>
+      <surface xml:id="i111" n="95">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00111"/>
+      </surface>
+      <surface xml:id="i112" n="96">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00112"/>
+      </surface>
+      <surface xml:id="i113" n="96ar">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00113"/>
+      </surface>
+      <surface xml:id="i114" n="96av">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00114"/>
+      </surface>
+      <surface xml:id="i115" n="97">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00115"/>
+      </surface>
+      <surface xml:id="i116" n="98">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00116"/>
+      </surface>
+      <surface xml:id="i117" n="99">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00117"/>
+      </surface>
+      <surface xml:id="i118" n="100">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00118"/>
+      </surface>
+      <surface xml:id="i119" n="101">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00119"/>
+      </surface>
+      <surface xml:id="i120" n="102">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00120"/>
+      </surface>
+      <surface xml:id="i121" n="103">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00121"/>
+      </surface>
+      <surface xml:id="i122" n="104">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00122"/>
+      </surface>
+      <surface xml:id="i123" n="105">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00123"/>
+      </surface>
+      <surface xml:id="i124" n="106">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00124"/>
+      </surface>
+      <surface xml:id="i125" n="107">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00125"/>
+      </surface>
+      <surface xml:id="i126" n="108">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00126"/>
+      </surface>
+      <surface xml:id="i127" n="109">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00127"/>
+      </surface>
+      <surface xml:id="i128" n="110">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00128"/>
+      </surface>
+      <surface xml:id="i129" n="111">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00129"/>
+      </surface>
+      <surface xml:id="i130" n="112">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00130"/>
+      </surface>
+      <surface xml:id="i131" n="113">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00131"/>
+      </surface>
+      <surface xml:id="i132" n="114">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00132"/>
+      </surface>
+      <surface xml:id="i133" n="115">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00133"/>
+      </surface>
+      <surface xml:id="i134" n="116">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00134"/>
+      </surface>
+      <surface xml:id="i135" n="117">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00135"/>
+      </surface>
+      <surface xml:id="i136" n="118">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00136"/>
+      </surface>
+      <surface xml:id="i137" n="119">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00137"/>
+      </surface>
+      <surface xml:id="i138" n="120">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00138"/>
+      </surface>
+      <surface xml:id="i139" n="121">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00139"/>
+      </surface>
+      <surface xml:id="i140" n="122">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00140"/>
+      </surface>
+      <surface xml:id="i141" n="123">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00141"/>
+      </surface>
+      <surface xml:id="i142" n="124">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00142"/>
+      </surface>
+      <surface xml:id="i143" n="125">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00143"/>
+      </surface>
+      <surface xml:id="i144" n="126">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00144"/>
+      </surface>
+      <surface xml:id="i145" n="127">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00145"/>
+      </surface>
+      <surface xml:id="i146" n="128">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00146"/>
+      </surface>
+      <surface xml:id="i147" n="129">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00147"/>
+      </surface>
+      <surface xml:id="i148" n="130">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00148"/>
+      </surface>
+      <surface xml:id="i149" n="131">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00149"/>
+      </surface>
+      <surface xml:id="i150" n="132">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00150"/>
+      </surface>
+      <surface xml:id="i151" n="133">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00151"/>
+      </surface>
+      <surface xml:id="i152" n="134">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00152"/>
+      </surface>
+      <surface xml:id="i153" n="135">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00153"/>
+      </surface>
+      <surface xml:id="i154" n="136">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00154"/>
+      </surface>
+      <surface xml:id="i155" n="137">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00155"/>
+      </surface>
+      <surface xml:id="i156" n="138">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00156"/>
+      </surface>
+      <surface xml:id="i157" n="139">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00157"/>
+      </surface>
+      <surface xml:id="i158" n="140">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00158"/>
+      </surface>
+      <surface xml:id="i159" n="141">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00159"/>
+      </surface>
+      <surface xml:id="i160" n="142">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00160"/>
+      </surface>
+      <surface xml:id="i161" n="143">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00161"/>
+      </surface>
+      <surface xml:id="i162" n="144">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00162"/>
+      </surface>
+      <surface xml:id="i163" n="145">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00163"/>
+      </surface>
+      <surface xml:id="i164" n="146">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3303px"
+            rend="portrait" url="PR-OATES-00528-000-00164"/>
+      </surface>
+      <surface xml:id="i165" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3280px"
+            rend="portrait" url="PR-OATES-00528-000-00165"/>
+      </surface>
+      <surface xml:id="i166" n="back cover">
+         <graphic decls="#downloadImageRights #download" height="5301px" width="3640px"
+            rend="portrait" url="PR-OATES-00528-000-00166"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+             <note>sticker with decorative boarder reads 'J.C.T. Oates'</note>
+            <pb n="I" xml:id="pb-I" facs="#i3"/>
+             <note>handwritten note '1st Edition', 'By isaac Brandon', 'LCase'</note>
+            <pb n="ii" xml:id="pb-ii" facs="#i4"/>
+             <p>handwritten library number 'Oates.528'</p>
+            <pb n="iii" xml:id="pb-iii" facs="#i5"/>
+             <p>FRAGMENTS.</p>
+            <pb n="iv" xml:id="pb-iv" facs="#i6"/>
+            <pb n="v" xml:id="pb-v" facs="#i7"/>
+             <p>FRAGMENTS:</p> <p>IN THE MANNER</p> <p>OF</p> <p>STERNE.</p> <note>image</note> <p>LONDON,</p> <p>PRINTED FOR THE AUTHOR:</p> <p>AND SOLD BY DEBRETT, PICCADILLY; AND</p> <p>MURRAY &amp; HIGHLEY, PLEET STREET.</p><p>1797.</p>
+            <pb n="vi" xml:id="pb-vi" facs="#i8"/>
+             <note>stamp reads 'BIBLCANTACAD, handwritten number reads '431: '62'</note>
+            <pb n="vii" xml:id="pb-vii" facs="#i9"/>
+             <p>CONTENTS</p> <p>PAGE</p> <p>ADDRESS TO THE SHADE OF YORICK 1</p> <p>WAR ... 9</p> <p>PROSPERITY AND HUMANITY ... 21</p> <p>JUSTICE ... 47</p> <p>RELIGIOUS MISSIONS ... 57</p> <p>THE GENTOO STORY ... 67</p> <p>NECESSITY ... 75</p> <note>handwritten number '81'</note> <p>ANNA ... 97</p>  <p>ANNA, continued ... 111</p> <p>ANNA, concluded ... 127</p>
+            <pb n="viii" xml:id="pb-viii" facs="#i10"/>
+            <pb n="1" xml:id="pb-1" facs="#i11"/>
+             <p>ADDRESS</p> <p>TO THE</p> <p>SHADE OF YORICK.</p>
+            <pb n="2" xml:id="pb-2" facs="#i12"/>
+            <pb n="3" xml:id="pb-3" facs="#i13"/>
+             <p>ADDRESS</p> <p>TO THE</p> <p>SHADE OF YORICK.</p> <p>DEEM not, GENTLE SPIRIT! that, Presumption, which only wears Presumption's garb. If I have given language to beings of thy creation - my pen was not guided by vanity in doing so! - if thy "pen governed thee - not thou it," - my Spirits govern me - not I them. Warmed by thy native fire - thou hast conducted me through paths that thy "fancy has scattered over with rose-buds of delight." - Moved by MARIA'S piteous lesson on her pipe,</p>
+            <pb n="4" xml:id="pb-4" facs="#i14"/>
+             <p>I flew with thee from thy chaise - placed myself on the bank on which thou sattest with her - I saw thee dry her tears - then thy own - then hers - then steep thy handkerchief in thy own again. - And when thou askedst her, - what the likeness between thee and her goat - I saw thy reflection written on thy countenance*. - Alas! thought I - that maxim which tells us we are blind to errors of our own, may be further urged - We are sometimes blind even to our virtues. Yes! thou, Gentle YORICK! - thou, at that very moment, provedst how little thy feelings - so placid - so urbane - so much in unison with pity - how little they partook the nature of a brute. - </p> <note>footnote</note> <p>I do intreat the candid Reader to believe me, that it was from the humblest conviction of what a beast Man is, that I asked the question. STERNE.</p>
+            <pb n="5" xml:id="pb-5" facs="#i15"/>
+             <p>I have followed my uncle Toby, and his faithful Trim, in the field - when their brows have been twined with laurel - or with cypress - or with myrtle - I have seen their advances - their retreats - their defeats - their victories - and their amours - their generosity - their simplicity - and their humanity. - I followed my uncle Toby to Le Fevre's bed-side; and saw him open the curtain with that frankness - "the cause, not the effect, of familiarity;" - and if, when that sweet youth knelt by the bed-side of his father - kissed the ring that hung suspended from his neck - and bathed his hand (which was waxing cold) with the innocent tears of a fond child - if then the tears that rolled down the cheek of my uncle Toby, in unison with young Le Fevre's, transmitted their dew upon my cheek - 'twas thou, Gentle YORICK! that touched my soul with sympathy.</p>
+            <pb n="6" xml:id="pb-6" facs="#i16"/>
+             <p>* I, too, mingled in the dance - where RELIGION, shaking the gloomy folds from her fore-head, stepped it hand in hand with MIRTH - her countenance open, free, and compressed; - and though her heart beat lightly - still was her eye inclined to Heaven, - while INNOCENCE and a glowing sun-set brightened up the scene. - I would rather see her thus engaged - or kneeling on a wheat-sheaf at an harvest-home, - than prostrate at an Altar carved and gilt by ART, singing Te Deum - <note>Latin</note> for a blood-stained Victory. - </p> <p>I have heard my father speculate how men might learn virtue - and seen my uncle Toby, and Trim - give an example how to practise it! - I have turned my head with honest</p> <note>footnote</note> <p>* I thought I beheld Religion mixing in the dance.</p> <p>The Grace, Sentimental Journey.</p>
+            <pb n="7" xml:id="pb-7" facs="#i17"/>
+             <p>Toby, as he has been sitting at his supper - and detected Trim, in disobedience to the commands of his superior officer - standing behind his chair, instead of sitting - (Generous mutiny!) - My knee has been sympathised with Trim's knee - and my heart with Toby's heart; - for, in such moments, a sensation made up of pity, dash'd with a shade of anger, came across the feelings of my uncle Toby, and blunted his appetite. - My heart, with his, beat lighter and lighter, as Trim gradually seated himself; - and when Toby found his faithful and modest Trim was sitting - each mouthful, then, was certain to refresh him.</p> <p>BELOVED YORICK! - if, in reading thee, I learned to feel, - and, in feeling, to admire thee! - is it not one of the simplest movements of Nature - in admiring - I attempt to</p>
+            <pb n="8" xml:id="pb-8" facs="#i18"/>
+             <p>imitate thee? - Thus shelt'ring myself behind NATURE, (whom thou lovedst as tenderly as young Le Fevre loved his father) - I pray thy Spirit not to cast its gentle eye upon me, as on PRESUMPTION - but rather as one - who, in imitating thee, is but seeking to cultivate a closer knowledge - with the sources of thy feelings.</p>
+            <pb n="9" xml:id="pb-9" facs="#i19"/>
+             <p>WAR.</p> <p>A FRAGMENT.</p>
+            <pb n="10" xml:id="pb-10" facs="#i20"/>
+            <pb n="11" xml:id="pb-11" facs="#i21"/>
+             <p>WAR.</p> <p>A FRAGMENT.</p> <p> - THAT spirit - cried my father - which fired the Athenian soul when Aristides led forth his legions, seems to animate them: - they are fighting for glory! - They are fighting for Freedom, brother - quoth my uncle Toby, (wishing to set my father right.) - They are fighting for the evacuation of the body politic - exclaimed Doctor Slop. - They are magnanimous - cried my father. - They are brave - said my uncle Toby - They are Infidels - quoth Doctor Slop; - they have melted</p>
+            <pb n="12" xml:id="pb-12" facs="#i22"/>
+             <p>the blessed images of our Saints, and converted them into the wages of blasphemy: - they are Murderers! - they are Atheists! - They pay more worship to the GREAT BEING who made us - cried my uncle Toby - by defending the cause, and promoting the good of his creatures - than all the knees that ever bent to idols. - (Here Yorick entered the parlour) - </p> <p>They fight for Glory! - cried my father, raising his voice.</p> <p>Glory! - said Yorick, (while benevolence reddened on his countenance) - Glory blooms on the Olive! I never see a Laurel but methinks there's blood upon its leaf: - the Laurel springs near the Wolf, - the Olive is a shelter for the Lamb! To bind up the wounds of Affliction - to feed the Hungry - to make Woe forget her troubles - and Misery to smile - is Glory! It is Glory to shelter our fellow-creatures! - but</p>
+            <pb n="13" xml:id="pb-13" facs="#i23"/>
+             <p>AMBITION and RAPINE, retired behind the walls of their castles, level their engines of destruction on the heads of the Helpless; - myriads actuated by them, and blind to fear, rise with the Sun, and mingle with the blessed dews of Heaven, the blood of their fellow-creatures!</p> <p>I would not fight under such commanders - quoth Trim, (in a low voice to my uncle Toby, while standing beside him) - though I were to be made a General for it! - A corporal, Trim - quoth my uncle Toby - with Mercy at his side, and Valour in his heart, is a braver soul - Courage not guided by Humanity (continued he) is not the bravery of a Man, but the ferocity of a Savage. - An' so it is, an' please your Honour - replied Trim - Why, there's the long-whisker'd mercenaries, though a woman with her baby at her breast were to cry quarter, they wouldn't grant it. - They have more</p>
+            <pb n="14" xml:id="pb-14" facs="#i24"/>
+             <p>whiskers than pity, then - cried Yorick, smiling.</p> <p>I wish - cried my father, (looking stedfastly at Dr. Slop) - I wish that one example held out by this Nation of Plunderers and Atheists, may be followed in every other, - that the pleasure-grounds of Priests may be converted into the grounds of usefulness, where INDUSTRY may smile upon her plough, while the Dove resteth upon it.</p> <p>Here Doctor Slop was filled with inflammable matter: The holy ground of Priests - cried he - encroached upon! the Scriptures spurned at! the Cross despised! the Saints sneered at! - Religion! Religion! what will become of thee? - Time will improve it - quoth my uncle Toby, in the simplicity of his heart. - As if an electric shock had been conducted to the body of Doctor Slop, his movement could not have</p>
+            <pb n="15" xml:id="pb-15" facs="#i25"/>
+             <p>been more sudden: he struck his feet on the ground, and bolted as upright as his uncouth form would let him: his curses on Obadiah, and the green-baize bag, were nothing to this - curses flashed from his eyes - curses sat on his forehead; - every nerve, every vein, every ligament, seemed to unite in his frame, and utter with his lips, "O GOD! in mercy to thy holy Religion, eternally d-n this Toby Shandy!"</p> <p>My uncle Toby felt this insult - but said nothing.</p> <p>Are these arguments? - cried my father.</p> <p>Peace! - exclaimed Yorick.</p> <p>Peace! - cried Doctor Slop - though Germany were depopulated - England starved, - though the blood of Nations stained the seas - War! ! - for it is a War of Religion!</p> <p>It is a Crusade - cried my uncle Toby.</p> <p>It is the sentiment of COWARDICE - of</p>
+            <pb n="16" xml:id="pb-16" facs="#i26"/>
+         <p>CRUELTY - exclaimed Yorick - to force opinion by invective, by the dungeon, by the bayonet - (Yorick sigh'd) - or by any force, but force of REASON! If there be any absolute power, let it be the power of TRUTH! - it yields to none - it conquers all, sooner or later. - Let Blood be banished! - I see the starving children of thousands torn from their home to fight AMBITION'S quarrels - I see the supplicating eye of Want ask its famished mother for a morsel! - "Cling not round her knees - for she has nought to give you!" - I see - continued Yorick, (casting his eyes on Dr. Slop) - I see, in this War of Religion, her best duties profaned! - I see the virgin ravished before the eyes of ages - eyes filled with a father's tears: - I see his silver locks spotted o'er with blood - his hut in flames - his field trampled on - his heart broken. Ye Princes of the Earth!</p>
+            <pb n="16ar" xml:id="pb-16ar" facs="#i27"/>
+            <pb n="16av" xml:id="pb-16av" facs="#i28"/>
+            <pb n="16br" xml:id="pb-16br" facs="#i29"/>
+             <note>image</note> <p>I see the Virgin ravished before the eyes of Age.</p> <p>Published as the Act directs Sep. 1. 1797.</p>
+            <pb n="16bv" xml:id="pb-16bv" facs="#i30"/>
+            <pb n="17" xml:id="pb-17" facs="#i31"/>
+             <p>look down on this, and learn the novelty of feeling.</p> <p>What Yorick said had little effect on the mind of Doctor Slop; - persecution still lingered in his eye. My father shook his head in piteous eloquence. My uncle Toby seemed grieved that a Soldier could do these things: He had forgotten Doctor Slop, and his illiberality - for his soul was tempered with forgiveness. - He would say, that an insult had the same effect upon the feelings, as a wasp had upon the skin; - both irritated the surface, but did not endanger the fundamental principles, either of our happiness or our health. To an injury (he would say) that puts the means of my well-being or existence in alarm, I would apply the Laws of my Country. - INJURY is an assassin who levels his pistol at my head; but for INSULT, who is but a deserter from the ranks of Honour, my own bosom should</p>
+            <pb n="18" xml:id="pb-18" facs="#i32"/>
+             <p>be the Court-martial that I would try him by - And a merciful Court it is, brother Toby - (cried my father one day as my uncle said this) - a thousand drops of blood would sooner flow from thy feeling heart, than the sentence of a hundred lashes fall from thy lips!</p> <p>But discipline! - cried my uncle Toby - The discipline of Humanity! - said Yorick - </p> <p>My uncle Toby blushed deeply; for he blushed from two distinct causes: My father's eulogium on his Court-martial touched that natural diffidence so predominant in the mind of my uncle Toby - he blushed from modesty: He blushed too on the reflection of Yorick - The discipline of Humanity, (thought he to himself), and the discipline of an Army, are not the same things, then. - </p> <p> - Doctor Slop quitted the room. - Trim followed him. How often do we see a composition</p>
+            <pb n="19" xml:id="pb-19" facs="#i33"/>
+         <p>of worthlessness in front, with modest merit lagging in the rear! - </p> <p>My father, my uncle Toby, and Yorick, drew closer round the fire, which seemed to burn brighter - while the Genius of Humanity hovered over their heads!</p> <p>O BENEVOLENCE! eternal ocean of our joys! source divine of pure delight! what being would not cast his cup within thy stream, and drink the precious draught! - Thou art the SPRING of comfort, which bloweth to birth all the blossoms life can give, or mortal enjoy! 'Tis thou who causest the lovely dew-drop of Gratitude to gem the eye of Human Nature, promptest thy children to relieve the hopeless, and shed the tear of fellow-feeling! - Thou art the noblest link in the great chain of existence; and when thou breakest, NATURE must divide!</p>
+            <pb n="20" xml:id="pb-20" facs="#i34"/>
+            <pb n="21" xml:id="pb-21" facs="#i35"/>
+             <p>PROSPERITY AND HUMANITY.</p> <p>A FRAGMENT.</p>
+            <pb n="22" xml:id="pb-22" facs="#i36"/>
+            <pb n="23" xml:id="pb-23" facs="#i37"/>
+             <p>PROSPERITY AND HUMANITY.</p> <p>A FRAGMENT.</p> <p> - HE has brought the Nation to ruin! - (cried my father, rising from his chair) - How long will the fabric of Commerce stand upon a paper-foundation? - It will fall - it will sink - it will be annihilated. - * O Athens! where are thy treasures - thy temples - thy gymnasiums - thy theatres - thy lyceums! - Where is imperial Rome - her forums - her senates - her porticos - her courage - her conquests? - </p> <note>footnote</note> <p>* My father's contemplations were something like these on the death of my brother Bobby.</p>
+            <pb n="24" xml:id="pb-24" facs="#i38"/>
+             <p>Where the refinements, the wisdom, the grandeur of Egypt - where is Babylon, Toby? - Trim - quoth my uncle Toby, (taking his pipe from his mouth) - Trim, hand me the Bible from off the window-seat. - By heavens! Toby - cried my father - you are sure to rend the web of my discourse by some unreasonable request. - My dear brother - quoth my uncle Toby, (with a look that would have interested a stoic - much more a brother) - I called for the Bible merely for your information. - My father smiled at the simplicity of my uncle - gave him a look that said, Toby, I forgive thee - and continued his harangue - He has stopped the wheel - and the distaff - and the shuttle - he has pressed on the souls of the Poor, and emptied the coffers of the Generous - And filled the eyes of the Widow, and the Orphan! - exclaimed Yorick - He</p>
+            <pb n="25" xml:id="pb-25" facs="#i39"/>
+             <p>has ruined our Credit - said my father - He has ruined our Armies - quoth my uncle Toby. - One man out of a battalion, an' please your Honour - quoth Trim - is but a poor muster - but it is to be hoped - (continued he, directing his eyes towards the ceiling) - the remainder of them are upon good allowance now. - They deserve it, Trim - said my uncle Toby - for, poor souls! they have been piteously drilled in this world. - It is not the Army, brother Toby - cried my father, peevishly - on which the Nation depends - it is our Commerce! - "Perish our Commerce!" - exclaimed Doctor Slop. - The commerce of cruelty - replied Yorick. - I presume, Mr. Yorick - quoth Doctor Slop, with a sneer - you mean the Slave Trade. - </p> <p>This was touching on the tenderest string in Yorick's soul - at the mention of a Slave,</p>
+            <pb n="26" xml:id="pb-26" facs="#i40"/>
+             <p>Yorick was always filled with indignation - but such Slaves as these! - Yorick wept. - O PITY! - thy tear is a diamond of the mind - polished by Humanity, which sparkles in the eye, but beams throughout the soul. - </p> <p>Pray, Mr. Yorick - said Doctor Slop - is it not the fulfilling of the Divine Command - that these Blacks are held in perpetual slavery? - it is almost certain that they are the descendants of Ham - </p> <p>They are the descendants of MISERY! - replied Yorick; - as such, they have my pity.</p> <p>Pity! - exclaimed Dr. Slop, (warmly) - our faith, Mr. Yorick, never doubts the justice of the Supreme Being. - Neither does our's - replied Yorick; - it would be well if every Sect and Nation would rather contemplate him, clothed in the light of Mercy and Benevolence - than crookedly pervert his attributes</p>
+            <pb n="27" xml:id="pb-27" facs="#i41"/>
+             <p>to sanctify their crimes! - It appears to me, Mr. Yorick - quoth Doctor Slop - that there is a particular mark set upon them, that we should know them. - It would rather puzzle thy philosophy, to prove it - said Yorick. - Cain - quoth Doctor Slop - was cursed as a vagabond, and a mark was fixt upon him - By a parity of reasoning - continued Doctor Slop - Canaan and his race being cursed also - it is natural to suppose that they were also marked. - It is true - quoth Yorick - that Cain was marked - that none might slay him. - But what that mark was, we are not informed; - might it not have been a particular prominence of belly? - said Yorick, smiling - at the same time casting his eyes on the waist-coat of Doctor Slop. - Or a scantiness of car-case? - replied Doctor Slop, laughing loudly - his eyes returning the compliment of Yorick. - </p>
+            <pb n="28" xml:id="pb-28" facs="#i42"/>
+             <p>That was exchanging shot - said my uncle Toby.</p> <p>It is not our duty - continued Yorick, (resuming seriousness) - is it not our duty, to be certain that they are one of these, before we make Slaves of them? - Even allowing the certainty - and that certainty constituting the right - we should not forget, that although their complexion is different to our own - their feelings are not; - it is sufficient that they are in the house of bondage - without adding scourges to their degradation - God gave us minds, to make whips unnecessary; - the horse must be lashed into a knowledge of his use - a needless stripe even on him, is but the gift of a ruffian. - I would more willingly - said Yorick, - (pressing his hand upon his bosom - ) I would more willingly become one of these children of affliction - be lashed like them - faint like them</p>
+            <pb n="29" xml:id="pb-29" facs="#i43"/>
+             <p> - weep - close a wretched eye - sleep and dream of my plantain-tree - wake to disappointment like them - die beneath the brutal stroke - be buried as a dog like them, - than even speak to justify such dealing.</p> <p>They are happier than our poor - quoth Doctor Slop. - </p> <p>I deny the position - replied Yorick - Whatever our poverty - there is something cheering in the faintest smile of FREEDOM; - such is the structure of our mind, that we can more easily reconcile a blow - when we possess a power to resent it - but when CRUELTY strikes, and expects submission from the Negro - it is at best but taking a scoundrel-like advantage; - and if it is any thing that makes revenge one of the properties of a slave - it is this.</p>
+            <pb n="30" xml:id="pb-30" facs="#i44"/>
+            <pb n="31" xml:id="pb-31" facs="#i45"/>
+             <p>A SHANDEAN MINISTER.</p> <p>A FRAGMENT.</p> 
+            <pb n="32" xml:id="pb-32" facs="#i46"/>
+            <pb n="33" xml:id="pb-33" facs="#i47"/>
+             <p>A SHANDEAN MINISTER.</p> <p>A FRAGMENT.</p> <p> - As my father keeps a horse - he has an undoubted right to ride him. - </p> <p>Not without taking his chance towards sending a man and beast into the Cavalry Corps, Sir! - </p> <p>It is a hobby-horse, Sir. - Be careful, then, Mr. Shandy, of his kicks, and of his turns, in Political corners. - That's my father's business. - He has an undoubted right, Sir - either to amble it - or canter it - or trot it - or gallop it - through high roads - or bye roads - or no</p>
+            <pb n="34" xml:id="pb-34" facs="#i48"/>
+             <p>roads at all - through lanes, or through streets. - But my father was not content with this - He must scamper it through alleys, and through courts - If "No Thoroughfare" stared him in the face, down the court or alley he must go - It is but turning the horse's head - (he'd say to himself) - if there's room enough - if not, I can but back out - He was as out o' the way and eccentric an horseman, and his horse as out o' the way and eccentric an animal, as ever press'd hoof on speculative ground.</p> <p>- Now, were I the King of Great Britain - said my father, taking his pipe from his mouth, and blowing with as much force as his cheeks were capable of blowing with, a whiff as thick and spreading as if it had escaped from the funnel of a furnace, - were I King of Great Britain, - (for it is a Nation of gallantry</p>
+            <pb n="35" xml:id="pb-35" facs="#i49"/>
+             <p> - and spirit - and genius; as well as of folly - servility - and dupedom *) - my Prime Minister should be a Man, and not a being who would look with indifference on the Female Sex. - My uncle Toby shook his head - it was a movement of something like sorrow; - the word gallantry brought the idea of an engagement into the mind of my uncle Toby - the idea of an engagement - put him in recollection of his wound.</p> <p> - How does the widow Wadman, Mr. Shandy? - Ask my uncle Toby, Madam. - He should be a man - continued my father - with all his faculties about him - mental and corporeal; - so that he might be the proper Minister - in the proper place - the Minister of</p> <note>footnote</note> <p>* DUPEDOM, s. from Dupe - the quality of a Dupe.</p> <p>SHANDY.</p>
+            <pb n="36" xml:id="pb-36" facs="#i50"/>
+             <p>War* - when War was necessary to our political existence - the Minister of Peace - for that is absolutely necessary - the Minister of Love - for population is the riches of a State. - </p> <p>Doctor Slop looked at my father - then at his green baize-bag - then at my father again; - there was professional gratitude in every movement.</p> <p> - He should be - said my father - (still continuing his picture) - the best and wisest man in my dominions - Generosity should dwell on his countenance; - he should look the Mister of all that's great and good - not the Minister of Mammon - or the Minister of Bacchus, Toby. - I am satisfied, to the fulness of my conscience, that a Minister should be the father</p> <note>footnote</note> <p>* My father does not mean the Officer under Government by that name.</p>
+            <pb n="37" xml:id="pb-37" facs="#i51"/>
+             <p>of a People; - and, to be the father of a People, he should be the father of a Family. -</p> <p>My uncle Toby sighed - </p> <p>What did he sigh for, Mr. Shandy? - </p> <p>Ask the widow Wadman, Madam.</p> <p> - He should feel the sincerity of heart-felt joy, - on beholding every individual of that Family - with a smiling and contented countenance - (when I speak of his family, Toby - I like-wise mean it as the epitome of a State.) - He should be liberal and benevolent, yet frugal - courageous, yet peaceful; - one, that would not sport with the life of his meanest creature - nor his cat - nor his dog - much less the lives of the members of his Family. - He should be a man of strong mind, - and sound memory - I should not care for what was conceived to be the bad acts of his boyhood; - but, if ever he forgets his bad acts - </p>
+            <pb n="38" xml:id="pb-38" facs="#i52"/>
+             <p>He should forget his bad acts - quoth my uncle Toby. - He should cease to practise them - replied my father emphatically; - but if ever he forget his bad acts, 'tis ten to one but he'll forget his duty to perform good ones - for it is by remembering our faults, Toby, - and the shame that ought to be attached to them, - that puts us in a position to resist the attacks of vice, and of present and future temptation. - Temptation, brother - quoth my uncle Toby - is an enemy that mostly comes upon us - by stolen marches. - Therefore, Toby - (replied my father in my uncle's style) - it is necessary to review our works, - and always be on the defensive.</p> <p>This was patting the neck of my uncle Toby's hobby-horse.</p> <p>He should not be (said my father, resuming his discourse) - he should not be a vane, Toby,</p>
+            <pb n="39" xml:id="pb-39" facs="#i53"/>
+             <p>that shifts with the gale of selfish fortune - he should act as a conductor - to draw off the lightning, and preserve the fabric that it is fixed upon: - In this manner, Toby, he might fortify the strong-holds of a Free Nation - and always be in a posture to chastise her enemies.</p> <p>Pray, brother - quoth my uncle Toby - what is a Conductor?</p> <p>It is a metalline rod, Toby - replied my father.</p> <p>I should think, brother, said my uncle Toby, looking up gravely into the face of my father, - that the metal of one culverin would be a greater defence - and chastise our enemies better than a thousand rods; - and besides, brother, they could only be used at close quarters. - </p> <p>My uncle Toby paused for a few seconds - He was contemplating, with his cheek resting on his left hand, and his eyes fixed on</p>
+            <pb n="40" xml:id="pb-40" facs="#i54"/>
+             <p>the table - Then, suddenly, raising his head, and looking my father full in his face - They must scourge most cruelly, brother - quoth he. - </p> <p>Had a wasp come full speed against, and struck its sting into the right side of my father's nose - he could have not more suddenly jerked his head to the left - leaving my uncle Toby's eyes fixed on his profile.</p> <p>My uncle looked alarmed - he thought my father had been seized with a paralytic stroke.</p> <p>Gentle Soul! little didst thou think that thou wert the bestower of it!</p> <p>Such repeated (though unintentional) attacks on my father's speculations, reduced him to that resignation which we are sometimes forced into, when we cannot turn the current that crosses us in our way. This was not always the case with my father - it was so here. - He put down his pipe; and, casting his eyes upwards, he gently</p>
+            <pb n="41" xml:id="pb-41" facs="#i55"/>
+             <p>clasped his hands together - and, with a slow and almost religious-like motion, he drew them up to about the pit of his stomach - his thumbs (which crossed each other) pressing on that part; - then let them suddenly drop - yes, Madam - he let them suddenly fall - as all bodies should fall - strictly and agreeably to the rules of philosophy - seeking the centre of gravitation.</p> <p>These accidental hints at my father were only splinters. - His arguments bounding against a body which partially resisted the impression, it is natural that - sometimes being of brittle composition - a few splinters should fly off; - which unfortunately gave my father some strokes. - It is not less natural that these splinters should wound my father - as they hit him in his most tender part - than that the</p>
+            <pb n="42" xml:id="pb-42" facs="#i56"/>
+             <p>splinters of the parapet wounded my uncle Toby, by striking him on his - </p> <p>The wounds of my father soon healed; - they were healed by that delight which he took in convincing the mind of my uncle - or rather that pride which he took of throwing the day-light of his own mind into the windows of that of my uncle Toby - which, by the by, were sometimes so be-dim'd, and sometimes so be-curtain'd - that the Sun himself might as well have thrown his rays through a brick-wall - as my father have thrown his - through such barricadoes - into the arsenal of my uncle Toby's ideas. - My father's countenance brightened up, and he continued the delineation of his Prime Minister. - </p> <p>He should promote good institutions - said my father - and good institutions would rectify</p>
+            <pb n="43" xml:id="pb-43" facs="#i57"/>
+             <p>our follies and our errors. - Then, Toby, we should not see Boxers and Bruisers patronized by leather-sifted, and, I may add, leather-headed Lords - We should have no more Bull-bates - nor Bear-bates - nor Badger-bates - nor Cock-signts, Toby. - We should not give cruelty where Nature has denied it. - Our Children - </p> <p>I have none - quoth my uncle Toby, shaking his head.</p> <p>That's more than I know - replied my father. - </p> <p>Indeed, brother, I have none - legally or illegally begotten - said my uncle Toby. - </p> <p>Then those who have - quoth my father, (testily) - would not see them practise cruelty to Brutes, which grows up into cruelty to Man; - the harmless fly might then take his perpendicular walk up the panes of our windows - without</p>
+            <pb n="44" xml:id="pb-44" facs="#i58"/>
+             <p>danger of being mutilated by the mischief of childhood: - Good institutions would rectify these things; - we should then, my dear Toby, be in the high road to become a civilized Nation.</p> <p>I thought, brother - quoth my uncle Toby, with surprize - we were a civilized Nation.</p> <p>Pray, Toby - said my father - what is a civilized State?</p> <p> - Not a savage one - replied my uncle Toby.</p> <p>'Tis very civil, (and in truth, Toby, very unlike a savage) - quoth my father - to deprive millions of men, who will not shed blood, of the produce of their own Country - and so starve them; - 'tis very refined, Toby, to attempt driving the real possessors of an island into the most barren parts of their own territories - in order to seize on the most fertile - because - </p>
+            <pb n="45" xml:id="pb-45" facs="#i59"/>
+             <p>the drivers were a civilized people, and happened to fancy themselves stronger - (which, by the by, they were not; for a pin of virtue has more power - than a sword of vice, Toby.)</p> <p> - Not in battle - quoth my uncle Toby - </p> <p>It is merciful and civilized - because some of our relatives, (branches of the same tree) - scattered over a Country far away from us - would not suffer their purses to be opened against their consent - that the civilized people should murder the rebels, and burn their habitations. It is the highest picture of civilization, Toby, to tear friends and relations - mothers and fathers - brothers, sisters - husbands and wives - from each other - and drag them from their Country, - because their noses are flat, and their faces black. - 'Tis humane to lash them like obstinate beasts - in order to render them as civilized as their whippers - It is liberal to burn</p>
+            <pb n="46" xml:id="pb-46" facs="#i60"/>
+             <p>the house of the man of science, - because the owner does not think corruption, soundness - and self-interest, generosity. - Isn't this civilization, Toby?</p> <p>I thought, brother - quoth my uncle Toby - that these things were only practised in a savage State.</p> <p> - The civilized savage, Toby, is the worst of savages - replied my father.</p>
+            <pb n="47" xml:id="pb-47" facs="#i61"/>
+             <p>JUSTICE.</p> <p>A FRAGMENT.</p>
+            <pb n="48" xml:id="pb-48" facs="#i62"/>
+            <pb n="49" xml:id="pb-49" facs="#i63"/>
+             <p>JUSTICE.</p> <p>A FRAGMENT.</p> <p> - POOR fellow! - cried Trim - he was as honest a lad as ever handled a musket; - but hunger, an' please your Honour, will break through stone walls - It is different, your Honour knows, in a garrison besieged - we all fare alike then. - </p> <p>It is fit we should, Trim - quoth my uncle Toby.</p> <p>But it is a hard struggle, an' please your Honour, to starve, - when we see others eating - who have done nothing for their Country.</p>
+            <pb n="50" xml:id="pb-50" facs="#i64"/>
+             <p>Thou mightest have added, Trim - quoth Yorick - and those, feasting - and making their hearts glad, - who have ruined it.</p> <p> - To see a man, an' please your Honour, with an arm and an eye less than God bestowed upon him, - a scar here - a patch there, with an hungry family around him! - a brother soldier cannot help feeling it! - </p> <p>IT is an afflicting sight, Trim - quoth my uncle Toby.</p> <p>An' please your Honour - continued Trim - such a Pension could not maintain a man and six children. - </p> <p>If he had a Pension - quoth Doctor Slop - I think he might have been honest.</p> <p> - Pray, Doctor Slop - cried my father - are Pensions and Honesty so closely united? - Doctor Slop nodded - </p> <p>To see Bravery, an' please your Honour - </p>
+            <pb n="51" xml:id="pb-51" facs="#i65"/>
+             <p>quoth Trim - bare-footed - starving - and neglected! - </p> <p>And pension'd Vice - added my father - respected - pamper'd - and insulting - is a disgrace to our dignity as a Nation - </p> <p>And a blot upon our feelings as Men - added Yorick. - </p> <p>He was as brisk a lad as any in the kingdom - quoth Trim - and as industrious too. - But glory - quoth Yorick - by depriving him of a limb, has brought his family to hunger - And himself to an untimely end - cried Trim, (the tears trickling down his cheek.)</p> <p>I wish he had been unmarried - quoth my uncle Toby, - (sighing deeply.)</p> <p>Now, were I a Minister of State - quoth Doctor Slop, - (striking his hand upon the table) - * I would lay a heavy tax on Marriage - It</p> <note>footnote</note> <p>* Hints for Ministers.</p>
+            <pb n="52" xml:id="pb-52" facs="#i66"/>
+             <p>would not only be productive - but it would prevent such fellows getting beggars for the parishes. - It would be more productive - replied Yorick - to lay a tax on Teeth, under the penalty of losing them - you might then become rich - continued he - by being appointed the State Tooth-drawer. - Whatever your raillery, Mr. Yorick - quoth Dr. Slop - I maintain that such men have no right to marry. - </p> <p>After fighting for the maintenance of Peace, and good Order, and Religion - said Yorick, (sarcastically) - still you would deny him a right that Nature gives - a propensity breathed into us by the wise Constructor of our frames. - Was it not for this propensity - quoth my uncle Toby - his Majesty would not be able to muster a single battalion. - If it were not for this</p>
+            <pb n="53" xml:id="pb-53" facs="#i67"/>
+             <p>propensity - cried my father - the pocket of Doctor Slop would rather be inclined to a consumption.</p> <p> - That he should be hanged like a dog - after behaving like a man! - I wish he had died in battle! - quoth Trim, (pressing his hands together with the earnestness of sincerity.)</p> <p>As for his children - quoth my uncle Toby - you and I, Trim, will plan the best means to fortify them. - </p> <p>How much easier, an' please your Honour, would many a man sleep, with such a heart as your Honour's! - </p> <p>Or thine, Trim - quoth my uncle Toby. - </p> <p>The Corporal bowed. - </p> <p>How long, exclaimed Yorick, will CRUELTY stain the Judgment-seat of Nations! - Methinks I see, kneeling, INNOCENCE pleading</p>
+            <pb n="54" xml:id="pb-54" facs="#i68"/>
+             <p>for a father's life, - guilty - but repentant - "Save him, lest I perish too!" - Mercy streams from every eye but that of JUSTICE - She has forgot to feel! - her dominion is blood - distinctions are beneath her. - Her sword is unsheathed, but her scales are thrown aside. - The hungry man who steals my bread - or the wanton villain who accompanies the act of despoiling me of my property, by depriving me of my life - are the same to her.</p> <p>You see, Mr. Yorick - quoth Doctor Slop - that was this Government ruled by our holy Catholic Religion - these things could not be - a man might buy off such a cruel sentence - </p> <p>And be dragged to the stake for an opinion - replied Yorick. - </p> <p>Ruled by your own faith - quoth Doctor Slop - you are not much better on that account. - </p> <p>Thousands, and ten of thousands - continued</p>
+            <pb n="55" xml:id="pb-55" facs="#i69"/>
+             <p>Yorick - that our Superstition or our Ignorance have murdered, - might have lived and honoured us. - If any thing calls for blood, 'tis blood itself - We dare not spill e'en that - but for the purpose of determent. How many might have been saved! - how many may be saved, and the cheering sunshine of gladness poured upon their days! - if Nations will not tremble to reform their errors! - Surely Mildness might supply the place of Rigour, and " * a man might see his last crime without dying for it!"</p> <note>footnote</note> <p>* GOLDSMITH.</p>
+            <pb n="56" xml:id="pb-56" facs="#i70"/>
+            <pb n="57" xml:id="pb-57" facs="#i71"/>
+             <p>RELIGIOUS MISSIONS.</p> <p>A FRAGMENT.</p>
+            <pb n="58" xml:id="pb-58" facs="#i72"/>
+            <pb n="59" xml:id="pb-59" facs="#i73"/>
+             <p>RELIGIOUS MISSIONS.</p> <p>A FRAGMENT.</p> <p> - AN' please your Honour - quoth Trim - I think it would be much kinder, to leave them alone; - they cannot be more than happy! * - I am no Parson, - but I should think, your Honour, that God takes a peaceful life as the best part of Religion. - But Trim - quoth my uncle Toby - it is to spread the light of the Gospel! - The Gospel, an' please your Honour - cannot do more than make them harmless and happy: - and besides, as they are, your</p> <note>footnote</note> <p>* Trim speaks of the Gentoos.</p>
+            <pb n="60" xml:id="pb-60" facs="#i74"/>
+             <p>Honour, they are not selfish; - they think every thing has a right to live, as well as themselves - and that's more than many a Christian can say, an' please your Honour. - If we may judge, Trim - quoth my uncle Toby, (with a look of timid presumption) - I should think it must be pleasing to the kind BEING who made us - to see the lowest of his creatures respected as a part of his workmanship! - </p> <p>An' please your Honour - said Trim - I think there's more fuss, than honesty, in such an expedition; - it's more for the look, your Honour, than the thing itself. - </p> <p>It is out of our power, Trim - quoth my uncle Toby - to fathom any heart but our own; - it may arise from a goodness of intent - and generosity of feeling - as they conceive the light of the Gospel, Trim, as the only light of happiness. - </p>
+            <pb n="61" xml:id="pb-61" facs="#i75"/>
+             <p>And does your Honour think - quoth Trim, (with a look upwards) - that such a wise Commander would throw all succour into a little corner of the world, - while he left open the greater part of his works unsheltered and undefended? - An' please your Honour, it would be like dismounting the cannon from a citadel - to defend a sentry-box.</p> <p>I do think, Trim - quoth my uncle Toby - that we should review our own conscience, and the conscience of those about us - repair the works and raise the mounds of Religion within ourselves - before we venture into the territories of Innocence and Simplicity. - </p> <p>They are better able to teach us, an' please your Honour - than we them! - For I should think peace and good-will to one another - is better than a sermon from the Archbishop of Canterbury himself. - </p>
+            <pb n="62" xml:id="pb-62" facs="#i76"/>
+             <p>Peace and good-will is the real spirit of Religion, Trim - quoth my uncle Toby; - and, if generally practised - we should have little to fear from the outward attacks of an enemy, or the inward ones of our own reflections. - I think - quoth Trim - that we read enough of old times - and see enough in the present - to make us leave off troubling our heads about other people's opinions and religion; - let every one pray as he likes! - An' please your Honour, every Engineer has his particular notions of Fortification, and the Science of Defence; - and, as long as he doesn't point his cannon against the castle of any man, - no one has a right to see into his plans. - An old brother-soldier, who served in India, was telling me - (I'll tell your Honour some of his stories, when your Honour has leisure to hear them.) - As we are in winter-quarters, Trim - quoth my uncle</p>
+            <pb n="63" xml:id="pb-63" facs="#i77"/>
+             <p>Toby, (laying his left leg on a chair which was at the side of him) - as we are in winter-quarters, Trim - with a good fire before us - An' please your Honour - quoth Trim, interrupting my uncle, (and with a look that changed a smile into an air of sympathy) - how many a brave lad, after a long march up to his knees in snow - would be glad to sit down before it! - his hands so numbed as scarce to feel whether he had a firelock or no! - He should be as welcome, Trim - said my uncle Toby, (his eyes sparkling with generosity) - as though he were Commander in Chief of the bravest troops in the whole world. - </p> <p>My uncle Toby lighted his pipe - Let me hear one of the stories; - come nearer, Trim - said my uncle Toby. - Trim drew a chair opposite to my uncle Toby, and began: - </p>
+            <pb n="64" xml:id="pb-64" facs="#i78"/>
+             <p>An' please your Honour - there was a Gentoo - </p> <p>As Trim began, my father opened the parlour door - Now what attack (said he to himself) are those two military noddles planning? - Trim rose up - Sit down, Corporal! - said my father, with a twist of his head, and flourish of politeness. -</p> <p>My father drew a chair to the fire-side - </p> <p>Go on with the story, Trim - quoth my uncle Toby.</p> <p> - There was a Gentoo, an' please your Honour - who sat so long in one position, as to give himself a most cruel cramp - Now what does your Honour think - continued Trim, (in a tone of the most artless simplicity) - that he crampt himself in such a manner for? - I cannot guess, Trim - quoth my uncle Toby.</p>
+            <pb n="65" xml:id="pb-65" facs="#i79"/>
+             <p> - He crampt himself so, - an' please your Honour - for fear he should kill a fly! - </p> <p>The generous blood remembered, - it was so habituated to do so - that it never forgot it, - to fly to the face of my uncle Toby. - Whenever a sentiment, or an action, that did honour to Humanity - was said, or done - his blood, ever faithful to his cheek, was sure to rise, and tally it there.</p> <p>There's many a man, Trim - quoth my uncle Toby - who is called social being - that would not give himself half so much trouble to save the life of a fellow-creature.</p> <p>An' please your Honour - when I tell you the story of this poor soul - it will wring a tear from your Honour's eye, and a sigh from your heart. - I beg your Honour's pardon for saying</p>
+            <pb n="66" xml:id="pb-66" facs="#i80"/>
+             <p>"wring;" - for your Honour's tear is always ready for the mischance - even of a worm. - </p> <p>There was a something that moved my frame with such a sweet and gentle hand, - when Trim complimented - I would say - when Trim delineated - the real touches of my uncle's humanity, - that I felt an indescribable titillation about my heart-strings - which I would not exchange - for all the laughter in the universe.</p>
+            <pb n="67" xml:id="pb-67" facs="#i81"/>
+             <p>THE GENTOO STORY.</p> <p>SOME parts of Bengal - an' please your Honour - quoth Trim - are governed by the English. - I know it, Trim, - quoth my uncle Toby, - and what business have they to govern there? - </p> <p>I wish they never had governed there - said Trim - for the honour of our country. - They found an excuse - and a bitter cruel one it was, as ever made a man's heart ach! - it was as rank hypocrisy, your Honour - as if a Murderer had put on a Parson's gown, to hide the blood upon his cloaths. - They found an excuse - an'</p>
+            <pb n="68" xml:id="pb-68" facs="#i82"/>
+             <p>please your Honour - to crush the leases of those that possessed them - sold their houses over their heads - took their fields out of their hands - and passed them into those of Monopolisers. - </p> <p>MONOPOLISER, Trim - said my uncle Toby - is but another word for a - SELFISH SCOUNDREL. - </p> <p>In the general rout, an' please your Honour - continued Trim - much of the land remain'd untill'd - which caused a scarcity of provision - Hard-hearted Monopolisers, your Honour, filled their magazines with what little was left. - </p> <p>They could not have done more, Trim, to a cruel and an obstinate enemy, who was at last obliged to surrender at discretion.</p> <p>- But they were their Governors! an' please your Honour - quoth Trim, (raising his voice.) - </p>
+            <pb n="69" xml:id="pb-69" facs="#i83"/>
+             <p>The greater the crime, Trim. - We should not forget that it is our duty to fulfil the post that we are placed in; - it is our duty to be honourable at all times: - but to give up a garrison that we have sworn to defend, Trim, is the basest of all acts - that of Treachery.</p> <p> - An' please your Honour, this Gentoo had a wife and six children. - He possessed a little land, - and, by the sweat of his brow - </p> <p> - They sweat dreadfully in those countries, Trim! - quoth my uncle Toby - </p> <p> - And, by the sweat of his brow, had saved up a little money. - When his house and fields were taken from him - an' please your Honour - continued Trim, (almost choaked with indignation) - it makes my blood work to think of such cruel wretches! - </p> <p>Drink a little sack, Trim - quoth my uncle Toby.</p>
+            <pb n="70" xml:id="pb-70" facs="#i84"/>
+             <p>Then here's your Honour's health - and may your Honour's heart be a model for every Englishman to form his own by! - </p> <p>Thank ye, Trim - said my uncle Toby - with his usual smile, that spoke a generous disposition.</p> <p>Courteous Reader! Conceive not the tender heart of Trim capable of a willing offence - He did not drink my father's health, although my father was in the room: - That my father was seated at the left hand of Trim, is true - but then my father's chair was not in a direct line with Trim's - it was full a foot and a half behind it. - Now, Trim was looking, - neither to the right, nor to the left, nor behind him; - he was looking full in my uncle Toby's face. - My uncle Toby, and the misfortunes of the Gentoo, were all that Trim thought on. - My father was too interested to notice it. Trim continued - </p>
+            <pb n="71" xml:id="pb-71" facs="#i85"/>
+             <p>When he found his house and fields were to be taken from him, he told his wife of his mishap. - It would almost break your Honour's heart, - to hear the description that Dick - (for that is the soldier's name that told me, your Honour) - it would almost break your Honour's heart - to hear how mournfully they marched out of their little garrison, with all their baggage - every eye wet, - the children that could walk, moving disconsolately, - and three that could not, carried by the father - mother - and eldest son. - it must have been as mournful, your Honour, as marching to the grave of a beloved Officer who had fallen in battle. - Every three or four steps they took, they turned their heads back - looked at the field - then at their children - then at the field again. - Confound their mask'd batteries! - they had better</p>
+            <pb n="72" xml:id="pb-72" facs="#i86"/>
+             <p>have sprung a mine, your Honour, and blown them up at once! - than plunder them first, and starve 'em out afterwards - as your Honour will soon hear. - Poor souls! - continued Trim, (in a mixed tone of pity and resentment) - they were forced to retreat, - by as foul an attack, an' please your Honour, as ever coward made! - They had a few rupees which they had saved, - and this little stock was to carry them to the stores of their Murderers, to buy rice. - When all their money was gone - continued Trim - they fed upon decayed roots, and unwholesome weeds! - An' will your Honour believe, that these innocent souls wouldn't take away the life of any living thing, to keep their own within them? - There was humanity! - said Trim, in a tone of exultation.</p>
+            <pb n="73" xml:id="pb-73" facs="#i87"/>
+             <p>Never did I see the countenance of my uncle so filled with anguish - His lip trembled - and the drop of pity, which had lodged there, trembled with it. - He took out his handkerchief, and hid his face in it; - whether it was to dry his tears, or to hide the shame he felt for his countrymen - I cannot decide. - My father looked disconsolate. - And is this the work of the generous Englishman! said he. - An' please your Honour - said Trim - I cannot help feeling it!</p> <p>In one of those confused moments of grief, which prompts us involuntarily to do, what, in the moments of coolness, we would not, - Trim took up the sack, and put it to his lips, without being told. - It was a mixed draught - for the tears of my uncle Toby, who drank before him, and his own tears, composed part of the cup. - </p>
+            <pb n="74" xml:id="pb-74" facs="#i88"/>
+             <p>Trim continued - An' please your Honour, what must have been the feelings of a father - to see his family set down to such a meal! - But it couldn't last long, your Honour! - Pestilence and Famine came into their doors. - Poor father! - to see five of his children drop - and breathe their last before his eyes - and then his wife, who had shared all his pleasures; - but, alas! your Honour, - not all his pains - </p> <p>Here Trim burst into tears - Indeed, your Honour, I cannot continue! - </p> <p>Go on, my good fellow - said my uncle Toby - while the tears rolled down his cheeks like those of an infant.</p> <p> - He took, an' please your Honour - I cannot go on! - </p> <p>What did he take, Trim? - quoth my uncle</p>
+            <pb n="75" xml:id="pb-75" facs="#i89"/>
+             <p>Toby, (reaching across the table, and laying his hand on Trim's.)</p> <p> - An' please your Honour - said Trim, - he stripp'd the cloaths from his dead wife and children, to go to the stores - (dam'n 'em!) - to barter for another meal, to preserve his only child. - It was too late - he had scarcely left her - but she sunk dead upon the body of her mother! - When he reached the store, he gave it that curse, which an unfortunate father gives to the destroyer of his family - cast a faint eye upon the damn'd walls - sunk before 'em, and gasped his last! - </p> <p>There was havock! - an engagement is nothing to it! - An' please your Honour - three millions of souls met this fate!</p> <p>Thou merciful Being! - who delightest in the honest workings of the human heart - look down! - behold the eyes of three as generous</p>
+            <pb n="75ar" xml:id="pb-75ar" facs="#i90"/>
+            <pb n="75av" xml:id="pb-75av" facs="#i91"/>
+             <note>image</note> <p>Poor Father - P.74</p> <p>Published as the Act directs Sep. 1. 1797.</p>
+            <pb n="76" xml:id="pb-76" facs="#i92"/>
+             <p>souls as ever adorned thy creation - wet for sorrows which they had never caused, or even felt, but by the greatness of sympathetic kindness!</p> <p> - It was cruel to let them starve, an' please your Honour, because they would not shed blood! - </p> <p>I would rather have been the Gentoo, Trim - said my uncle Toby - with all his starving family about him - than one who had put his profits in his purse, at the expence of the life of a fellow-creature.</p> <p> - An' please your Honour - as old Dick said - every pagoda that they pocketed was covered with blood - I wonder, your Honour - if they could sleep o'nights? - </p> <p>If they did, Trim - quoth my uncle Toby - I trust they were not refreshed by it. - INNOCENCE is to a man, Trim - what a CRADLE</p>
+            <pb n="77" xml:id="pb-77" facs="#i93"/>
+             <p>is to a child; it rocks him into such sweet sleep! - Which comes upon him - added my father - as softly and gradually, Trim, as a summer's evening closing-in a fine day!</p> <p> - I should think, your Honour, that their consciences, and those of their allies, (at home or abroad) - must have been dreadfully stormed - however fortified; for they must have known, your Honour - that they could not hold out in the next life, whatever succours they may have had in this. - </p> <p>An' please your Honour, I think it would have been more to the happiness of the poor Gentoos, - and our honour, - that we had never set foot in their country. - When they were governed by themselves - LABOUR always smiled, and Cheerfulness made her forget the sweat upon her brow.</p>
+            <pb n="78" xml:id="pb-78" facs="#i94"/>
+            <pb n="79" xml:id="pb-79" facs="#i95"/>
+             <p>NECESSITY.</p> <p>A FRAGMENT.</p>
+            <pb n="80" xml:id="pb-80" facs="#i96"/>
+            <pb n="81" xml:id="pb-81" facs="#i97"/>
+             <p>NECESSITY.</p> <p>A FRAGMENT.</p> <p> - Now the mind of Man - cried my father - is equally open to good and bad impressions. - </p> <p>You see, my dear Toby - continued my father, - (taking his watch from his pocket, and pressing the seal upon a letter which he had just dropped the wax on) - you see, my dear Toby, a perfect picture of the human mind and education, exemplified by this. - </p> <p>When we consider the great body of Society, my dear brother, we may say that it is as a large seal of Ignorance and Error - and the</p>
+            <pb n="82" xml:id="pb-82" facs="#i98"/>
+             <p>youthful mind as the wax. - Or, to further illustrate my argument - continued my father - the mind may be compared to a camera-obscura, which takes in all the objects that are presented before it, and which become, as it were, drawn on the intellectual wall: - Now, Toby, if the prospect be a corrupt and vicious one, it follows of course, that the wall, as I have termed it, must receive the vice that is thrown upon it; - that is, Toby, the being impressed by bad example, must necessarily become vicious. - </p> <p>My dear brother - quoth my uncle Toby, (rubbing his had across his fore-head) - it never once entered my thoughts that vice was necessary!</p> <p> - Clearly so, (replied my father, in the rapidity of speculation) - for if a man, in a fit of provocation, were to seize his father by the throat - and, hurried on by a combination of</p>
+            <pb n="83" xml:id="pb-83" facs="#i99"/>
+             <p>ideas, were to seize a knife, and thrust it into him - </p> <p>God in his mercy forbid it! - cried my uncle Toby, (clasping his hands together) - it chills my blood, my dear brother, to think on such a scene. - But pray, brother - (continued he, while inquisitiveness dwelt on his countenance) - would it not be brought in Man-slaughter? - </p> <p>Yes! cried my father, (in a tone of peevish irritation) - a man for stealing a pair of leather breeches may be found guilty of Man-slaughter. * - </p> <note>footnote</note> <p>* Such an event took place some years back at Pevensy, at the Quarter Sessions - the man was found guilty. When the Court were informed that the offence was capital, and that they must proceed to pass sentence, the Jury were so much alarmed, that they wished to reverse the verdict in such words as to make the consequence less than death; they adjourned the Court, and dispatched a messenger to Thomas Willard, Esq. </p>
+            <pb n="84" xml:id="pb-84" facs="#i100"/>
+             <p>This struck so forcibly on the intellectual wall of my uncle Toby, that it stunned him - a vacant stupidity looked out of his eyes for several seconds.</p> <p>Now, my uncle Toby had never studied Lindwood, or Coke, or Hale, or Blackstone, or Burne - he was as little of a Lawyer as any one man within the compass of his Majesty's dominions.</p> <p> - Now, Toby - continued my father - if a man were to seize his father by the throat, - without provocation - but by inward depravity, - and led on by a combination of ideas - each new idea pressing more forcibly on the last</p> <note>continuation of footnote</note> <p>of East Bourne, where Lord Wilmington and the then Chief Baron of the Exchequer were at dinner. When the message was made known to them, the Chief Baron jocosely said, "Instruct them to reverse the verdict, and bring it in Man-slaughter." A new verdict to that effect was the consequence.</p>
+            <pb n="85" xml:id="pb-85" facs="#i101"/>
+             <p> - till the brain, inflamed by the velocity of their motion, - and the combustibleness of their nature - in such a case, my dear Toby - were this man to massacre his father - it would be but an act of Necessity. - </p> <p> - It is an act of Murder! - exclaimed my uncle Toby - and punishable with death - by the laws of God and our Country. - </p> <p>True, Toby, - as we cut off a joint or a limb, to preserve the human body from dissolution - so we are under the Necessity of amputating such a member, to preserve the body of society. - But, my dear brother - continued my father, (pressing the palm of his right-hand on the back of my uncle Toby's) - my dear brother, there are two kinds of Necessity; - you confound one with the other - For instance, food is necessary for our existence, - and cloathing, to shelter us from the climate: - </p>
+            <pb n="86" xml:id="pb-86" facs="#i102"/>
+             <p> - Now, Toby, this is not the Necessity I speak of; - it is Philosophical Necessity. - </p> <p>I presume, brother - quoth my uncle Toby - you mean the Necessity of Philosophy to bear us up in time of trouble, - as you describe in the character of Socrates. - </p> <p>No, Toby - replied my father, (fretfully) - that is the same Necessity I first described. - </p> <p>This puzzled my uncle Toby.</p> <p> - Philosophical Necessity, Toby - said my father - is that universal dependence, from the smallest atom up to ourselves, on the immutable Laws of Nature. - From the dropping of our nail-pairings, to the velocity of a ball from the mouth of a cannon - NECESSITY binds us, and we cannot fly from it. - </p> <p>There have been instances, brother - quoth my uncle Toby - but very seldom, if the elevation of the cannon - </p>
+            <pb n="87" xml:id="pb-87" facs="#i103"/>
+             <p>By heavens! Toby - cried my father, (interrupting my uncle) - I wish there was not an engineer, or a cannon, or a fortification, through-out the world.</p> <p>We should be subject to continual inroads - quoth my uncle Toby.</p> <p>Then be it so, Toby - replied my father, in a tone of the most splenetic resignation, his head moving to the right and to the left, like the pendulum of a clock, while he distinctly pronounced each word.</p> <p>My father paused - he felt an inward, but momentary resentment, at being thus interrupted in his career; - but eloquence, such eloquence as my father's, was not to be stopped in its road by a few twigs accidentally scattered in its way.</p> <p> - I would say, Toby - continued my father</p>
+            <pb n="88" xml:id="pb-88" facs="#i104"/>
+             <p> - that we cannot fly from the laws of Necessity, - that every atom, every man, act agreeable to Nature, and act right.</p> <p>My dear brother - quoth my uncle Toby - if that were the case, how many a brave lad might now march in the field who has been sacrificed in it, by inexperience - by treachery - by rashness, or by cowardice. - </p> <p> - Every thing in Nature - continued my father, (emphatically) - every atom - yes, Toby, every man acts as he is obliged to act.</p> <p>An' may it please your Honour - quoth Trim, bowing low to my father - that would be but a cruel excuse for putting a whole garrison to the sword - after they had surrendered at discretion.</p> <p> - Trim - (cried Yorick, while Philanthropy expanded on his brow) - if thy Philosophy were the practice of Mankind, we should have</p>
+            <pb n="89" xml:id="pb-89" facs="#i105"/>
+            <p>little need of garrisons! - and he who disciplines his mind to the dictates of Mercy and Benevolence, may be satisfied in his conscience that he never acts wrong.</p> <p>An' please your Honour - replied Trim - I think that we should give quarter in this world, or how are we to expect it in the next? - in the same proportion, Trim, that we give it in this - replied Yorick. - </p> <p>My father was mounted - nor a style - nor a hedge - nor a ditch - nor a turnpike-gate - nor half a forest fell'd, and jumbled in the high-way - could stop him; - he was on the back of his philosophic nag - and his philosophic nag was prick'd into a full gallop.</p> <p>Every effect, (cried my father, pursuing his doctrine) - every effect must be produced by a cause; - that effect becoming a cause in turn, producing</p>
+            <pb n="90" xml:id="pb-90" facs="#i106"/>
+            <p>an effect - so running on in one perpetual race - </p> <p>I do not comprehend you, brother - quoth my uncle Toby. - </p> <p>* It is MOTION communicated and received one after another, that establishes the connexion and relation in the system of things. - </p> <p>What things? - quoth my uncle Toby. - </p> <p>My father pulled up the waistband of his breeches, took three or four strides across the room, and continued - </p> <p>Our great-grandfather - </p> <p>Heaven rest his soul! - quoth my uncle Toby - </p> <p>Or, to speak with more certainty - for we may not know who he was, Toby; - for as our aunt Dinah made a slip, so might some of the</p> <note>footnote</note> <p>* Mirabaud.</p>
+            <pb n="91" xml:id="pb-91" facs="#i107"/>
+            <p>other branches of our family - (My uncle Toby blushed) - To speak with more certainty - our great-grandmother was the cause that produced our grandmother - </p> <p>That could not have been without the aid of our great-grandfather! - quoth my uncle Toby. - </p> <p>He communicated motion undoubtedly - quoth Yorick, gravely. - </p> <p> - Our grandmother the effect, (continued my father) - becomes a cause by producing our mother. - </p> <p>This chain - quoth Yorick - arises from the connexion of things and their relations. - </p> <p>Again, (continued my father) - our mother the effect, becomes a cause; - she produced you Toby, and myself - </p> <p>That is very clear - quoth my uncle Toby.</p> <p>Now it came to pass, that the first part of my father's speculation brushed on the wings of recollection</p>
+            <pb n="92" xml:id="pb-92" facs="#i108"/>
+            <p>through the mind of my uncle Toby - Pray, brother - quoth he - looking up earnestly in the face of my father - "Does all this prove that a man may slay his nearest kin?" - By no means, Toby - replied my father - but the same laws that produce the one - produce the other - those laws which govern all Nature - from the stopping of a wheel, to the motion of the earth round its own axis. - </p> <p>This was too refined for the brain of my uncle Toby - Are children begotten, (thought he to himself) - fathers murder'd - wheels stopped - and earth moved, in the same way! - </p> <p>Yorick had listen'd to my father's dissertation on Necessity with the greatest gravity - the honest simplicity of my uncle Toby oft excited his smile, the heart-felt smile of disinterested friendship. - </p> <p>Tell me, SIMPLICITY! what secret magic is</p>
+            <pb n="93" xml:id="pb-93" facs="#i109"/>
+            <p>there in thee, that so powerfully works upon our feelings, and interests affection? - Is it, that we are so used to envy, treachery, and malice, that we are happy to see Nature making holiday in the bosom of harmless Innocence? - </p> <p>That there is a necessity for education, Mr. Shandy - quoth Yorick - is one of those truths which every day confirms; - it is the wisdom - the interest - the duty of a State - to spread it through the remotest corners of its empire. - Trace those who have felt the cruelty of the Law, and we shall find them for the most part trained in those numberless parts of the metropolis, which are the very dens of immorality, and kennels of plunder; - bred without the advantages of instruction, the only polisher of Nature; - from their infancy, taught those lessons which lead them to execution. - Trace one of these - Perhaps, while clinging to its mother's</p>
+            <pb n="94" xml:id="pb-94" facs="#i110"/>
+            <p>breast, this child of misery is sheltered by a garment which its mother has purloined. - Such scenes familiarized, become woven in the nature; - bold and daring the parent, the child becomes the fame. - The wretch knows that part of the Laws, which his Country marks as due to his offences; - it is impressed on his mind by a father's lips, - who warns him - not for the good of society, or the sake of morality - but as he would - to shun the border of a river, or the brink of a precipice - to escape death. - Inured to one eternal scene of peril and debauchery, he holds his life upon a chance, and revels at his return. - As the Seaman ventures on the formidable ocean - the Soldier in the field - with mind made up, to live or die - this wretch hurries from his den, and prowls for prey.</p>
+            <pb n="95" xml:id="pb-95" facs="#i111"/>
+            <p>ANNA.</p> <p>A FRAGMENT.</p>
+            <pb n="96" xml:id="pb-96" facs="#i112"/>
+            <pb n="96ar" xml:id="pb-96ar" facs="#i113"/>
+            <pb n="96av" xml:id="pb-96av" facs="#i114"/>
+            <note>image</note> <p>She was sitting at the door of a cottage</p> <p>with two of the sweetest Babes - P97.</p> <p>Published as the Act directs Sep.1.1797.</p>
+            <pb n="97" xml:id="pb-97" facs="#i115"/>
+            <p>ANNA.</p> <p>A FRAGMENT.</p> <p> - SHE was sitting, an' please your Honour, at the door of a cottage - with two of the sweetest babes, scarce higher than your Honour's knee: - her eyes were fixed on the Moon, which was at the full; - she might be pale, - but the Moon, I think, made her more so. - I do not know what was in her countenance - but the moment I saw her, I could have sat down, and wept with her. - </p> <p> - She is bewilder'd, Trim - quoth my uncle Toby. - </p>
+            <pb n="98" xml:id="pb-98" facs="#i116"/>
+            <p>Not so, an' please your Honour - The Nightingale was singing; and she said to it, while the tears trickled fast down her cheeks - </p> <p> - I could have kissed them away - but without any bad meaning, (continued Trim) - for, had a whole battalion have dared to persecute her, I really believe, your Honour, I could have stood up against them all! - </p> <p>But what did she say to the Nightingale, Trim? - </p> <p>* - "If you have cause to mourn," said she - "how much more reason have I!" - then clasped her little beauties to her bosom. - </p> <p>My uncle Toby rubbed the tip of his forefinger alternately across each eye - it seemed to be one of those movements which strive to hide a feeling act under that of an indifferent one.</p> <note>footnote</note> <p>* SHAW has made use of this idea, in his Ode to the Nightingale.</p>
+            <pb n="99" xml:id="pb-99" facs="#i117"/>
+            <p>I am certain I saw a tear in the corner of his left eye - which he somehow or other omitted to wipe away.</p> <p> - When she saw me, an' please your Honour - continued Trim - she pointed at me, - then hid her head on the necks of her little ones. - What could be the meaning of that, Trim? - quoth my uncle Toby - </p><p>An' please your Honour, I went up to her, and told her I was a friend, - that I could not bear to see Innocence, as she appeared to be, in distress, without offering her succour, - that I was a Soldier - and that the duty of a Soldier was to protect the unfortunate. - </p> <p>That was gallantly said, Trim - quoth my uncle Toby.</p> <p>An' please your Honour - when I mentioned the name of a Solider, she rose up her head, - </p>
+            <pb n="100" xml:id="pb-100" facs="#i118"/>
+            <p>pointed at my uniform, - shriek'd, - and then sunk between her infants, who crawl'd upon her, and smil'd - An' please your Honour, their smiles made my heart bleed: - When she came to herself, she thanked me for my care. - I took out what little I had in my pocket, and offered it to her - </p> <p>Thou art a generous soul, Trim - quoth my uncle Toby - An' please your Honour - quoth Trim, bowing to my uncle Toby, - if ever I exercise generosity - it is your Honour who has train'd me to it, and given me the example. - </p> <p>My uncle Toby seem'd to feel that sensation - which a modest consciousness of merit often colours the cheek with.</p> <p>Trim continued - What money can bring back my poor EDWARD! - said she, sobbing; - he was killed in Flanders! - </p>
+            <pb n="101" xml:id="pb-101" facs="#i119"/>
+            <p>If it was not for the glory, Trim - quoth my uncle Toby - I could almost wish that I had never been a Soldier. - </p> <p>He fell by the chance of War, an' please your Honour - quoth Trim. - </p> <p> - But War makes so many Orphans and Widows, Trim! - quoth my uncle Toby, (sighing) - </p> <p> - Then it is our duty to provide for them - replied Trim - </p> <p>We are deserters there, Trim - quoth my uncle Toby. - </p> <p>An' please your Honour, I told her that the money would be of service to supply her children - A little provided them - she replied - She hoped that GOD would guard her sweet babes: - As for herself, she said, she had drank but a little water, and eaten a dry crust, all that day; - it was well - she said with a grievous</p>
+            <pb n="102" xml:id="pb-102" facs="#i120"/>
+            <p>smile - that Providence had shaped her appetite - to the means of gratifying it. - An' please your Honour, I bade her be comforted - GOD only knows - said I - what turn a battle will take - When an Army of Troubles are in movement to attack us - it is our duty, my dear lass - said I - to fortify ourselves in the best manner we can; - and if we are attacked - why, then - it is our duty to make the best resistance we are able. - I never shall recover it - said she, wiping her eyes with her apron, which was as white as the snow - She was clean, an' please your Honour, amidst all her sorrows. - </p> <p> - Why did he leave her to join the Wars! - quoth my uncle Toby, in a tone of feeling regret - </p> <p>Trim's cheeks were suffused with blushes - He was kidnapp'd, an' please</p>
+            <pb n="103" xml:id="pb-103" facs="#i121"/>
+            <p>your Honour. - Then he was murdered, Trim! - quoth my uncle Toby, (wringing his hands.) - </p> <p>An' please your Honour - said Trim - I think there cannot be grounds enough for making War - when we cannot raise Troops sufficient - without such pitiful means. - Every Soldier, Trim - quoth my uncle Toby - should be a Volunteer; - and in raising Corps, I would never receive a man into it - but who came into it sober: - A Soldier should feel what he is going to fight for; - and he should enter the Lines with a warm heart - and a sound conscience. - </p> <p>If your honour will give me leave, - quoth Trim - I will repeat the story as I received it - from poor ANNA - for that is her name; - I told her mine was Trim. - You look as if you</p>
+            <pb n="104" xml:id="pb-104" facs="#i122"/>
+            <p>pity me - said she - and I will tell you my story. - An' that I do, and to my soul - replied I. - I sat down with her at the door; - the Moon shone beautifully - I was happy and unhappy, an' please your Honour, at one and the same time. - How is that, Trim? - quoth my uncle Toby. - </p> <p> - I felt, an' please your Honour, - as if I loved her, and every thing about her; but my heart was wrung at her affliction. - This little piece of ground - said she - was well cultivated; - it was the pride of EDWARD - and the pride of myself - it is a ruin now! - the weeds already begin to cover it. - We have been fed by our neighbours, Mr. Trim - said she - as well as they could afford it - ever since EDWARD was stolen from me: - he was beloved by them all; - they feel for his Wife and</p>
+            <pb n="105" xml:id="pb-105" facs="#i123"/>
+            <p>Children: - he was good-natured; and the artful took advantage of it; - it was his feeling heart that won mine - I saw him hazard his life, to save the nest of a Sparrow - I loved him for it! - and although I was superior to him in birth and education - (his heart was better than riches, Mr. Trim) - I quitted my Father's house; and we were married. - My Father has not seen me from that time; - he will not own me - said she, wiping her tears away. - He must have a hard heart - said I - </p> <p> - An' so he must, an' please your Honour - for a man that would not give his child the best quarters - although it may have neglected a small part of its duty - deserves to lye in the open field, without straw to sleep on - or a tent to cover him. - That is, if he can sleep, Trim - quoth my uncle Toby. - He might lye in the trenches for me, - quoth Trim - though water</p>
+            <pb n="106" xml:id="pb-106" facs="#i124"/>
+            <p>cover'd him - He is only fit for a * Drum-major, an' please your Honour!</p> <p> - He would be too cruel for any post, Trim - he should be drill'd, and then drumm'd out o' the ranks of Society! - quoth my uncle Toby; - for he willingly forgets his first duty, - which is that of Humanity. - </p> <p> - If he will not capitulate with his own flesh and blood, an' please your Honour - quoth Trim - how dreadful must be his surrender - when Death summons him! - nor his praying, nor his fasting, an' please your Honour, will avail him any thing then.</p> <p> - Continue the story of ANNA, Trim - quoth my uncle Toby - </p> <p>Trim bow'd, and continued - We were seated at the door - said ANNA - It was a fine</p> <note>footnote</note> <p>* It is part of the duty of this Officer - to attend flagellations, and tally the strokes.</p>
+            <pb n="107" xml:id="pb-107" facs="#i125"/>
+            <p>Sun-shine morning - one Sunday in last July - drinking our milk, and eating our bread and butter: - poor EDWARD had one Child on his knee - and i had the other on mine: - a Soldier came by - (It was my dress, an' please your Honour, that made her heart ach so, when she first saw me) - he seemed quite fatigued - continued ANNA - EDWARD asked him to fare with us, - he thank'd us - and sat down and refresh'd himself. - ('Twas more than he deserv'd, an' please your Honour - an' so you'll say) - He staid with us till the Sun went down; - he kissed my poor unfortunates - and said he wished us well - He begged EDWARD to join him a little way, as he didn't know the country - EDWARD went with him! - Here, an' please your Honour, she turn'd almost distracted, and wept bitterly! - the remembrance of it came so strongly across her. - She continued - </p>
+            <pb n="108" xml:id="pb-108" facs="#i126"/>
+            <p>When dusk came, I prepared our supper of radishes and cheese; - and now my heart began to misgive me - I look'd out at this door every minute; - every breeze that made the leaves rustle - I thought was his steps - O! Mr. Trim; - said she - I cannot help my despair! - there did I fit with my wretched infants! - I was distracted - I tore my hair! - and when I received this letter a few days after, I was going to murder these dear children, and myself! - a storm rose - I thought GOD was angry with me, and I pray'd forgiveness for my wickedness. - Here she felt her pocket, and took out a letter: - it was so blister'd! and rumpled! - an' please your Honour, it seem'd as if it had been drench'd in the rain. - It was her tears, Trim - quoth my uncle Toby. - </p>
+            <pb n="109" xml:id="pb-109" facs="#i127"/>
+            <p>These were the words of the letter, an' please your Honour: - </p> <p>"MY DEAR ANNA!</p> <p>"I HAVE been kidnapp'd by Serjeant Callous. I pray GOD to take care of you, and my dear children. - My heart is almost broken - I hope I shall see you again - if not in this life, we may meet in the next. - ANNA! I love you in my heart - and shall till death, wherever I may be - </p> <p>"Your unfortunate Husband,</p> <p>though constant - </p> <p>"EDWARD.</p> <p>"There's a great many more been served the same as me - We don't know where we're going to be sent to." - </p>
+            <pb n="110" xml:id="pb-110" facs="#i128"/>
+            <p>Trim - quoth my uncle Toby, rising suddenly from his chair - though I had but a shilling in the world - this Widow, and these Orphans, should partake it! - I will go with you, Trim, to the very Cottage. - It is four miles from us, an' please your Honour, - quoth Trim. - If it were fifty, Trim, replied my uncle Toby, I would reach it - tho' I had nothing but my crutch to help me there. - </p> <p>Kind-hearted Toby! - May the BEING who made thee benevolent, make thee happy! - and when thine eyes are closed in that sleep - which is the fate, alike, of every constitution - the flowers that would spring from thy grave, shall not be kept back for want of moisture - The tears of the Generous and the Brave shall water it! - </p>
+            <pb n="111" xml:id="pb-111" facs="#i129"/>
+            <p>ANNA.</p> <p>(CONTINUED.)</p> <p>A FRAGMENT.</p>
+            <pb n="112" xml:id="pb-112" facs="#i130"/>
+            <pb n="113" xml:id="pb-113" facs="#i131"/>
+            <p>ANNA.</p> <p>(CONTINUED.)</p> <p>A FRAGMENT.</p> <p> - TAKE care of the twigs, - an' please your Honour - said Trim, (at the same time pushing them back with his stick, to let my uncle enter the cottage - near the door of which a felled tree was lying.) - Trim followed.</p> <p>They found ANNA feeding her Children; - the meal of Charity had just been left by a grey-headed old man. - </p> <p>There is a something about RUSTIC BENEVOLENCE, more grateful to my feelings, - </p>
+            <pb n="114" xml:id="pb-114" facs="#i132"/>
+            <p>than the contributions of thousands towards raising an Hospital. - How can I account for this? - Is it that in the latter case DOUBT hangs so heavy upon my affections, as to retard their motion? - for VANITY so often usurps the place of real HUMANITY - that it would puzzle SAGACITY herself to know which of the two were in action. - Perhaps it is that simple and natural impulse of honesty, with which the Rustic acts, - that tunes my frame to a more pleasing harmony. - The GENEROSITY of polished life, mingles itself with such an infinitude of artful movements, that NATURE seems to disown it.</p> <p>Gentle reader! - think not ANNA lazy in her grief; - she sewed for her poor, but kind-hearted neighbours; - the tears of sorrow and of gratitude often followed her needle. - When Trim entered, - she immediately</p>
+            <pb n="115" xml:id="pb-115" facs="#i133"/>
+            <p>remembered him; - You are Mr. Trim - said ANNA, - who pitied my misfortunes, as I last night told you my story. - Yes, ANNA! - replied Trim, (with a look of generous sympathy) - and shall, as long as I have a head to remember, and a heart to feel. - Every one who knows your story, ANNA - quoth my uncle Toby, (gently taking her by the hand, and alternately patting the cheeks of her children) - every one who knows your story, ANNA - must feel for you. - Serjeant Callous - said ANNA, (with a look of melancholy certainty) - knew how cruel he was acting, - but he did not feel! - Feeling has nothing to do with his Commission, ANNA - said my uncle Toby. - Then he has no duty to perform in this world - quoth Trim - And I should think, your Honour, - we might very well dispense with</p>
+            <pb n="116" xml:id="pb-116" facs="#i134"/>
+            <p>his post. - So do I, Trim - said my uncle Toby. - I did not inform your Honour - said Trim - of the letter that ANNA received from Flanders. - </p> <p>Poor ANNA trembled - the stream of sorrow was not dried up - She wiped the tear from her cheek; - another came, - she wiped that away too; - still another supplied its place. - Surely such perseverance argues some right - real or supposed. - </p> <p> - She took a letter from her bosom - that was not the one! - she kissed and lodged it there again. - She then took the other from her pocket, and handed it to Trim. - The Corporal, with due military obedience - raised his right hand - placing the back of it - so as to be rather above parallel with his forehead, - and with his left delivered the letter to my uncle Toby. - </p>
+            <pb n="117" xml:id="pb-117" facs="#i135"/>
+            <p> - At the time the old man entered - to bring his contribution towards the subsistence of ANNA and her children - ANNA was weeping over the fatal letter she had received from EDWARD.</p> <p> - There are moments when Grief is so bashful, - that she loves - not only to hide her tears - but even the very cause of them; - this was one of those moments. - As the old man entered, she hastily dried her eyes - and as hastily deposited the letter in her bosom.</p> <p>The following was the letter from Flanders:</p> <p>"DEAR ANNA!</p> <p>"I AM sorry to write you bad news - Indeed I am! - EDWARD received two shots in yesterday's engagement. - Poor fellow! - We laid many a night in the same tent! - We had a great regard</p>
+            <pb n="118" xml:id="pb-118" facs="#i136"/>
+            <p>for each other - for we partly shared the same fate - I was kidnapped as well as him. - The loss of me has broken an aged Mother's heart. - I maintain'd her once! - She perished with grief and hunger. - How many a night has EDWARD and myself shed tears - instead of being asleep - and fretted on our straw! - He has often told me how happy you lived together, - and what sweet little children you had. - "I shall never see them again, James!" - he'd say - then turn his head from me, and weep like a child! - I wish I had been killed instead of him! - He bade me send to you the inclosed little locket, which you gave him, (as he told me) for his kindness to the sparrow. - He gave it to me just before they dressed his wounds; - about eight hours after, he died! - Had the Serjeant</p> 
+            <pb n="119" xml:id="pb-119" facs="#i137"/>
+         <p>been as kind to EDWARD, as EDWARD was to a bird - this wouldn't have been. - What a shame! - They look more cool here, in killing men, and seeing bloodshed, - than we do in the country when we kill the insects that blight our trees. - I never thought that men could be so cruel, ANNA! - If ever I return, I'll maintain you and your children instead of my Mother. - </p> <p>"Your unfortunate friend,</p> <p>"JAMES."</p> <p>"If the great folks were to feel what we feel, - they wouldn't be so ready to make wars."</p> <p>Before my uncle Toby had half read the letter, - he went to the door to finish it. - ANNA (said he to himself) has sorrows enough of her own, - without seeing mine too! - </p>
+            <pb n="120" xml:id="pb-120" facs="#i138"/>
+            <p>GENEROUS TOBY! - </p> <p>Tell me, ANNA - said my uncle Toby, in a tone of the sweetest sympathy as ever hung on the lips of Humanity, - tell me, ANNA - how can I make thee forget thy troubles? - I never shall forget them! - said ANNA, clasping her hands together - but I shall remember your kindness and Mr. Trim's as long as I live! - </p> <p>Had Nature placed speech in her heart, she could not have spoken with more sincerity. - </p> <p>The looks of Trim, and of my uncle Toby, acknowledged it, and answered her; - "Thy thanks have cancelled the obligation that thou owedst unto us, - if fellow-feeling - which we naturally owe to each other - may be thus accounted an obligation." - </p> <p> - Give me the other letter, ANNA, - said my uncle Toby, (in the modulation of tenderness.)</p>
+            <pb n="121" xml:id="pb-121" facs="#i139"/>
+            <p> - I have a use for it - and I hope for thy happiness. - </p> <p>ANNA drew the letter slowly from her bosom, - it was a hard trial! - it was parting with the dearest companion she had - except her children: - but Gratitude whispered in her ear - "Thy Benefactor asks it!" - Here it is! - said ANNA, with the most patient sweetness. - </p> <p>My uncle Toby folded up the letters in a blank cover which he had prepared before he set out; - it was his intention to have sent the one that Trim had repeated to him, - to ANNA's father. - He thought there was strength sufficient in that; - but such a reinforcement as the one from Flanders! - and the expedition to be conducted by Trim, too! - it couldn't fail. - </p> <p>I will not advance a line - said my uncle Toby,</p>
+            <pb n="122" xml:id="pb-122" facs="#i140"/>
+            <p>as he inclosed the letters - There is force enough, - quoth he, - to take the strongest fortress, that was ever garrisoned by ANGER or REVENGE. - I'll not write a word in it. - </p> <p>Here, ANNA! - continued my uncle Toby, (with as much generous and military warmth, as if he were planning the relief of some important post) - be of good cheer, my dear lass! - the day may be ours! - direct this, in your own hand-writing - to your father. - </p> <p> - Trim took a pen from a little case which he drew from his pocket, and, dipping it in the ink, gave it to ANNA. - ANNA took the pen - her lips grew pale - her hand trembled: - He will not open it! - said she, sighing deeply; - he knows my writing too well! - </p> <p>As she finished the direction, a drop - as clear and spotless, as the eye of INNOCENCE ever</p>
+            <pb n="123" xml:id="pb-123" facs="#i141"/>
+            <p>shed - fell on it; - it would have done honour to the brightest page of MERCY: - But, alas! - it was the consecration of WORTHLESSNESS; - for the tear of virtuous Dejection mingled with the name of - a Father, and an enemy! - </p> <p>Unnatural union! - </p> <p>Trim shall take it! - said my uncle Toby, addressing himself to ANNA - he's a kind soul, and will act for you as a Brother; - and if we are defeated, ANNA, - I will be as a Father to you, and to your Children; - they shall have my bowling-green to gambol in; - and, when they look around, and see my Fortifications, - which may remind them of the means by which they lost their Father, - they may then look up with a grateful countenance, - and thank the BEING of BEINGS, who has sent them another in his stead. - Trim shall take it! - </p>
+            <pb n="124" xml:id="pb-124" facs="#i142"/>
+         <p>An' please your Honour - said Trim - he cannot hold out long! - Tell him, Trim - quoth my uncle Toby - that I am an old Soldier, who received a wound, - </p> <p> - What! - exclaimed ANNA, (with a look of frantic pity) - and were you kidnapped too? - No, my poor lass! - replied my uncle Toby - I went willingly to the Wars. - The profession of a Soldier is an honourable one - when it is honourably used - to resist Oppression, not support it. - It is meant as a shield to cover those who are not able to protect themselves. - Tell him - continued my uncle Toby, addressing himself to Trim - that my wound prevents my hazarding fatigue, or I should have had the honour of waiting on him myself. - But first attend me to the Inn, Trim, where I will wait thy return. - </p> <p>The Landlord of ANNA'S cottage was fortunately</p>
+            <pb n="125" xml:id="pb-125" facs="#i143"/>
+            <p>unlike the common run of those beings: - she owed her rent; - she was welcome to owe it! - </p> <p>My uncle Toby, at parting, tenderly kissed the Children; - the tears were in his eyes. - He gave ANNA - first his hand, and then his purse: - she received them both with that timid modesty - which a delicate mind commonly accepts with. - </p> <p>ANNA locked the door of her cottage - she fled to her Landlord - and immediately paid her rent. - </p> <p>ANNA was honest, too, amidst all her sorrows. - </p> <p> - Surely, with all these virtues, her Father will forgive her! - </p> <p> - Leave we Trim, enter'd on his new Commission. - </p>
+            <pb n="126" xml:id="pb-126" facs="#i144"/>
+            <pb n="127" xml:id="pb-127" facs="#i145"/>
+            <p>ANNA.</p> <p>(CONCLUDED.)</p> <p>A FRAGMENT.</p>
+            <pb n="128" xml:id="pb-128" facs="#i146"/>
+            <pb n="129" xml:id="pb-129" facs="#i147"/>
+            <p>ANNA.</p> <p>(CONCLUDED.)</p> <p>A FRAGMENT.</p> <p> - MY uncle Toby was now seated at the fire side, with his pipe in his mouth. - I wish - said he, in a tone of feeling impatience - I wish Trim was returned. - At that moment the door opened, and Trim entered. - My uncle Toby started up from his chair - "A Capitulation, Trim?" - An' please your Honour - replied Trim, in a firm tone of voice - You may starve him out sooner.</p> <p>Had my uncle Toby, at the head of a brave</p>
+            <pb n="130" xml:id="pb-130" facs="#i148"/>
+         <p>legion, been totally defeated, he would not have looked more sorrowful: - the pipe drooped between his fingers, and the tobacco fell from it to the ground. - </p> <p>An' please your Honour - said Trim - when I saw him - I couldn't speak to him. - I didn't like his countenance - but I gave him the packet. - He looked at the direction, - then at me - then at the direction again. - "This is from ANNA!" - said he, frowning. - Then it's from as honest a soul - said I - as any in his Majesty's three kingdoms. - He looked as black as gunpowder at me, your Honour, - and then read the letters. - "Serve him right!" - said he - (I suppose, your Honour, he meant his being kidnapped first, and killed afterwards) - "let her starve! - and harkee, fellow! if you trouble me any more about her and her bastards," - </p>
+            <pb n="131" xml:id="pb-131" facs="#i149"/>
+            <p>Bastards! - said I - they are as honestly begotten as yourself - (I could not help it, your Honour - I liked his countenance little, and his language less.) - And what - said I - if they were bastards? - they could not help it, poor babes! - but if only Bastards had hard hearts, I should believe your Honour as vile a one as any in the kingdom! - I thought, an' please your Honour, he was going to attack me, but I was ready to receive him; - indeed, your Honour, I believe he saw I was a Soldier, for I thought it my duty to defend the defenceless: - poor EDWARD is dead! - he couldn't stand up for himself! - to insult the grave is dastardly, - but to insult the grave of a Soldier - and a son too! - I couldn't bear it. - </p> <p> - Describe his person, Trim - quoth my uncle Toby. - Trim bowed. - Why, then, an' please your Honour, - he has as forbidding</p>
+            <pb n="132" xml:id="pb-132" facs="#i150"/>
+            <p>a countenance as you would see in the face of a Ruffian; - his cheeks worne, - his forehead cloudy and wrinkled; - his body wasted - </p> <p> - It is his conscience that preys upon him, Trim - quoth my uncle Toby. - </p> <p> - An' please your Honour - replied Trim - I do not think he has one; - he looks like one of those soldiers who doesn't fight for the sake of a good cause, your Honour, - but for the plunder he expects afterwards. - His hair is almost white - </p> <p> - His actions are a disgrace to his head, Trim! - said my uncle Toby. - </p> <p>An' please your Honour - quoth Trim - he has no more feeling in his heart than a bullet. - </p> <p> - Then we must be fathers to the fatherless, Trim - quoth my uncle Toby. - I am sorry you returned his fire, Trim! - it</p>
+            <pb n="133" xml:id="pb-133" facs="#i151"/>
+            <p>is noble to be a faithfully ally, - but it is wise to be a peaceable one also. - </p> <p>At this moment a Messenger enter'd the room. - It was from ANNA'S father; - he had burst a blood-vessel in the violence of his passion, which continued after Trim had left him. - He wish'd to see ANNA, and the Corporal. - I called for ANNA - said the Messenger, and she directed me here. - Her father wishes to see her, and the Soldier he offended. - I fear he will not be long in this world! - Advance, Trim - quoth my uncle Toby - and give him all the succour you are able. - An' please your Honour - said Trim - I pity him now! - </p> <p>Trim, though fatigued, remember'd he was going upon duty; - his knee pain'd him, - but the lightness of his conscience made his steps easy! - </p>
+            <pb n="134" xml:id="pb-134" facs="#i152"/>
+            <p>As Trim departed, my uncle Toby and he exchanged something like a congratulatory look. - They had made overtures for peace, but were refused; - the enemy to sue in turn - it was glorious! - But my uncle Toby and Trim loved peace too sincerely to trifle with the feelings of the enemy.</p>
+            <pb n="135" xml:id="pb-135" facs="#i153"/>
+            <p>MY uncle Toby now filed another pipe. - Suspense lengthened the pauses between each whiff, - while FANCY painted to his imagination, Trim entering - the olive branch and the laurel budding on his brow. - </p> <p> - There was something of an April cast in the countenance of my uncle Toby; - for although a sunshine settled on it, - still a few light clouds kept continually passing it: - These were but thin shades of UNCERTAINTY crossing HOPE. - </p> <p>The sun was now going down: - as the day-beam waned, my uncle Toby's impatience increased; - his eyes were ever and anon fixed on the lock of the door. - He rose up - walk'd</p>
+            <pb n="136" xml:id="pb-136" facs="#i154"/>
+            <p> - sat down - rose up - went to the window; - and it was not till the ruddy light was sunk half-way in the bowl of his second pipe, that Trim returned - </p> <p>When Trim enter'd, there was such an expressive melancholy pictur'd on his visage, - that, had CHEARFULNESS met him in her way, the smile had fled from her cheek, and she had become the sister of Sorrow! - </p> <p>My uncle Toby immediately rose from his chair. - What! Trim - quoth he - in a low tone of monotonous despondency - "Have we lost the day again?" - An' please your Honour - replied Trim - I called for ANNA, as the Messenger directed me. - We took her and her sweet little babes with us; - and when we reached her father's door, the first account we received from an old female housekeeper was - He was dead! - </p>
+            <pb n="137" xml:id="pb-137" facs="#i155"/>
+            <p> - An' please your Honour, poor ANNA sunk on the threshold. - When we recovered her - she would see her father - she flew to his bed; - the face of her father, an' please your Honour, was the face of a stranger! - she threw her arms round his neck, and wetted his cheeks with her tears. - "You cannot push me from you now!" - said she, clinging to him - and turning back her head, as if she fear'd being taken from him. - An' please your Honour - she kissed his cold lips, as if she were struck with madness. -</p> <p>ANNA will turn melancholy! - quoth my uncle Toby, pressing his hands together. - </p> <p> - Consider, your Honour, - said Trim - she is delicate, and her misfortunes are too heavy for her. - An' please your Honour, his Will was lying by his side; </p>
+            <pb n="138" xml:id="pb-138" facs="#i156"/>
+            <p> - perhaps he intended to alter it in ANNA'S favour - but Fate was against her.</p> <p>Is she unfortunate there, too, Trim? - quoth my uncle Toby - Poor ANNA!</p> <p>Trim - continued my uncle Toby, sighing deeply - it is our duty - both as soldiers and men - to relieve the misfortunes of this poor lass; - for she has been undone by the unfeeling cruelty of a Father, - and the perfidious and unwarrantable treachery of the Army. - </p> <p>My uncle Toby blushed at his last observation, - and Trim's cheek answered his. - </p> <p>WRETCHED ANNA! - thy virtues deserved a better fate. - But my uncle Toby will act as a father to you, and to your Children; and Trim will be his auxiliary. - The heavier thy sorrows, the greater shall be their efforts to preserve thee! - And if the</p>
+            <pb n="139" xml:id="pb-139" facs="#i157"/>
+            <p>cold unfeeling world should slight thee, - (which thou may'st expect; - for FORTUNE has trampled on thee, - and a parent given the example to desert thee!) - my uncle Toby and Trim shall soften they distresses - by redoubling their kindness! - </p> <p>Dear GENEROSITY! - GRATITUDE shall walk by thy side, - that when thou slippest she may support thee; - and if the path be too rugged for thy feet, which MISFORTUNE may have robbed of their defence, - GRATITUDE, with a hearty willingness and dewy eye, (remembering the past) - shall stoop down; - and, taking off the sandals from her feet, - fasten them on thine! - </p> <p>THE END.</p> <note>library stamp reads 'BIBLCANTACAD'</note>
+            <pb n="140" xml:id="pb-140" facs="#i158"/>
+            <pb n="141" xml:id="pb-141" facs="#i159"/>
+            <pb n="142" xml:id="pb-142" facs="#i160"/>
+            <pb n="143" xml:id="pb-143" facs="#i161"/>
+            <pb n="144" xml:id="pb-144" facs="#i162"/>
+            <pb n="145" xml:id="pb-145" facs="#i163"/>
+            <pb n="146" xml:id="pb-146" facs="#i164"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i165"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i166"/>
+         </div>
+      </body>
+   </text>
+</TEI>

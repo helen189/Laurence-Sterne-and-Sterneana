@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.489</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.489</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Tristram Shandy a sentimental, Shandean bagatelle, in two acts</title>
+                     <textLang mainLang="eng"/>
+                     <author>MacNally, Leonard 1752-1820</author>
+                     <editor role="pbl">printed for S. Bladon</editor>
+                     <note>Based on Sterne's novel.</note>
+                     <note>Author of Retaliation = Leonard MacNally. Prologue written by Mr. Chalmers.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>[8],28p ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1783" notAfter="1783">1783</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term>Sterne, Laurence 1713-1768 -- Life and opinions of Tristram Shandy, gentleman -- Adaptations</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="PR-OATES-00489-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="i">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="ii">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="iii">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="iv">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="v">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="vi">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="vii">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="viii">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="ix">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="x">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="xi">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="xii">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="1">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="2">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="3">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="4">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="5">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="6">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="7">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="8">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="9">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="10">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="11">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="12">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="13">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="14">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="15">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="16">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="17">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="18">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="19">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="20">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="21">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="22">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="23">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="24">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="25">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="26">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="27">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="28">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="29">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="30">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="31">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="32">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="33">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="34">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="3759px"
+                  width="2342px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="back cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="3778px"
+                  width="2447px"
+                  rend="portrait"
+                  url="PR-OATES-00489-000-00050"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+             <note>sticker with decorative border reads 'J.C.T.Oates', handwritten library number Oates.489</note>
+            <pb n="i" xml:id="pb-i" facs="#i3"/>
+            <pb n="ii" xml:id="pb-ii" facs="#i4"/>
+            <pb n="iii" xml:id="pb-iii" facs="#i5"/>
+            <pb n="iv" xml:id="pb-iv" facs="#i6"/>
+            <pb n="v" xml:id="pb-v" facs="#i7"/>
+             <p>TRISTRAM SHANDY,</p> <p>A SENTIMENTAL, SHANDEAN</p> <p>BAGATELLE,</p> <p>IN TWO ACTS.</p> <p>By the AUTHOR of RETALIATION,</p> <p>LONDON:</p> <p>Printed for S. BLADON, No. 13. Pater-noster-Row.</p> <p>MDCCLXXXIII.</p>
+            <pb n="vi" xml:id="pb-vi" facs="#i8"/>
+             <p>This Book is Entered at Stationers Hall, according to Act of Parliament.</p> <p>October 21, 1783.</p> <note>stamp reads 'BIBLCANTACAD'</note>
+            <pb n="vii" xml:id="pb-vii" facs="#i9"/>
+             <p>DEDICATION.</p> <p>TO THE RIGHT HONORABLE</p> <p>LORD FALCONBRIDGE,</p> <p>MY LORD,</p> <p>AS the Practice of that Philanthropy which breathes through the Sentiments of Sterne, illustrates your Lordship's Character, I take the Liberty of claiming your Lordship's Patronage to the annexed Trifle.</p> <p>I have the Honor to be,</p> <p>Your Lordship's most</p> <p>Humble and Obedient Servant,</p> <p>LEONARD MAC NALLY.</p> <p>Middle-Temple, 18th October, 1783.</p>
+            <pb n="viii" xml:id="pb-viii" facs="#i10"/>
+             <p>Lately published, by the same Author</p> <p>Price 2s. 6d. sewed,</p> <p>The SECOND EDITION, of SENTIMENTAL EXCURSIONS TO</p> <p>WINDSOR, and other Places.</p> <p>A SHANDEAN BAGATELLE, under various HEADS and TALES, viz.</p> <p>The Highwayman - The Star and Garter - Origin of Hoops - The Waggon Rut - Travelling Picquet - The poor Seaman - Windsor Terrace - The Departure - Lord Praetor's electioneering Expedition - The Meeting - The old Maid and old Soldier - Chit Chat - Story of Count O'Reily - Aquatic Sport of Swan-Hopping - Tristram Shandy - Story of Count O'Dunn, and the Queen of Portugal - Un petit Souper - The Illustration by an Extinguisher, &amp;c.</p> <p>With NOTES, illustrative, historical, critical, philological, &amp;c, &amp;c.</p> <p>"As a MOTTO is a Word to the Wise, or rather a broad Hint to the whole World of a Person's Taste and Principles, VIVE LA BAGATELLE would be most expressive of your Ladyship's Characteristic.</p> <p>MACKLIN'S MAN OF THE WORLD.</p> <p>Also, Price 1s.</p> <p>The SECOND EDITION of</p> <p>RETALIATION, a FARCE, in two Acts, as it is performed, with universal Applause, at the Theatre Royal, Covent-Garden.</p>
+            <pb n="ix" xml:id="pb-ix" facs="#i11"/>
+             <p>PROLOGUE.</p> <p>Written by Mr. CHALMERS.</p> <p>Spoken by Mr. WHITFIELD.</p> <p>FORTH from the closet to the improving stage,</p> <p>We bring the beauties of poor Yorick's page - </p> <p>In doing so, we but fulfil his plan</p> <p>To draw in public view the heart of man;</p> <p>To make the stage a vehicle of wit,</p> <p>And every varied humour kindly hit;</p> <p>To raise your sympathy by gentle force,</p> <p>And reconcile man to his hobby-horse.</p> <p>Sterne's hobby-horse was sympathy of mind,</p> <p>And we, in this night's piece, get up behind;</p> <p>Retain his jokes, keep pity on the trot,</p> <p>Leave out digressions, and connect by plot;</p> <p>Bring Toby's goodness and his antique whim,</p> <p>The Doctor's foible, and the soul of Trim - </p> <p>In their odd fancies, we our own perceive,</p> <p>For on some hobby horse all mankind live:</p> <p>The politician, whose all-conquering pate,</p> <p>Is fill'd with nothing but affairs of state;</p> <p>In one short evening, with his pint of beer,</p> <p>Scudds o'er the acts of many a distant year;</p> <p>Tells you how Marlbro' fought - how it had been</p> <p>If heroes now could emulate Eugene.</p> <p>With broken pipe describes the bloody field,</p> <p>Retakes the captured, makes the victor yield;</p> <p>Regains our honour by post-dated schemes,</p> <p>And credit lost last age in this redeems! - </p> <p>Yet modern victors have their hobby too,</p> <p>In bringing ancient valour to our view.</p> <p>Eager our foes to humble, fame to gain,</p> <p>(By way of hobby-horse) they ride the main.</p>
+            <pb n="x" xml:id="pb-x" facs="#i12"/>
+             <p>Some strive for bucks and bloods themselves to pass:</p> <p>Poor men! their hobby's neither horse nor ass;</p> <p>Heedless they gallop on their mongrel beast,</p> <p>And heedless fall, when they expect it least.</p> <p>Some on less dang'rous hobbies whip along,</p> <p>Fickle in taste, in prejudices strong;</p> <p>Or dress, or books their every thought engage,</p> <p>And e'en to some good eating is the rage.</p> <p>See Gobble clear the plate, and by mere force,</p> <p>Keeps riding on-e'en in the second course.</p> <p>Each rides apace, nor fears his horse may stumble - </p> <p>They very best of riders should be humble - </p> <p>Since to dismount them all our art defies,</p> <p>Let them ride gently - there the merit lies</p> <p>Let them not kick to cause the weaker fall,</p> <p>The world, God knows, is wide enough for all!</p> <p>Our fav'rite hobby is to hit your taste,</p> <p>When you are pleas'd some hours with us to waste</p> <p>To night our author every merit stakes,</p> <p>And this gay ring his place of starting makes.</p> <p>Former success inspires with hopes to win - </p> <p>Let not the knowing ones be taken in!</p> <p>Spur our ambition then in this night's course</p> <p>And Tristram Shandy make your hobby-horse.</p>
+            <pb n="xi" xml:id="pb-xi" facs="#i13"/>
+            <pb n="xii" xml:id="pb-xii" facs="#i14"/>
+             <p>DRAMATIS PERSONAE.</p> <p>Mr. SHANDY, Mr. HULL</p> <p>Capt. SHANDY, Mr. WILSON</p> <p>TRIM, Mr. EDWIN</p> <p>Dr. SLOP, Mr. WEWITZER</p> <p>OBADIAH, Mr. FEARON</p> <p>Mrs. WADMAN, Mrs. MORTON</p> <p>SUSANNAH, Mrs. WILSON</p> <p>SCENE. Mr. SHANDY's HOUSE.</p>
+            <pb n="1" xml:id="pb-1" facs="#i15"/>
+             <p>TRISTRAM SHANDY.</p> <p>ACT I.</p> <p>SCENE - A CHAMBER, ornamented with Views of Fortifications, Arms hanging up.</p> <p>SHANDY sitting at a Table, large Folios on it - TRIM and SUSAN attending.</p> <p>Shan. WELL, you tell me Love has made a progress in both their bosoms; but say, Trim, how does my brother Toby stand the assaults of the widow Wadman?</p> <p>Trim. An't please your honor, he has capitulated - the Captain has taken in love, as he has taken in every thing else - he has taken it in like a lamb.</p> <p>Sus. And the Widow Wadman, I assure you, Sir, is as far gone as the Captain - poor gentle-woman! she has taken in love like a lamb too.</p> <p>Shan. Then must we pursue our scheme - You must continue; Trim, to keep the Captain's flame alive, and you, Susan, must lay fresh fuel upon</p>
+            <pb n="2" xml:id="pb-2" facs="#i16"/>
+             <p>the widow's fire; this peace, Trim, will break my poor brother's heart, unless we get employment for his mind, I have philosophiz'd with him in vain - nothing but Love can sooth him - Love, Trim - mark Susannah - Love is a passion derived from heaven.</p> <p>Trim. Yes, your honor, and it replenishes the earth.</p> <p>Sham. Where is my brother?</p> <p>Trim. An't please your honor, he's gone over to the Inn, to visit poor Lieutenant Lefevre.</p> <p>Shan. Then I'll go to him - Trim, drink success to the captain. (gives money) If the widow gets this brother of mine, she gets an invaluable treasure; he hasn't a heart to hurt a fly - Go, says he, one day to an overgrown one, which he had caught as it buzz'd about his nose, and tormented him cruelly, poor devil, I'll not hurt a hair of thy head. Go, said he, lifting up the sash, the world is wide enough for thee and me. - It was a lesson which might serve governors and parents better than a whole volume on the subject of humanity. [Exit. Shandy.</p> <p>Trim. My master, his honour the captain, and your master his worship, Mr. Shandy, could not be match'd in a day's march, Susan; - good hearts! when the unfortunate claim assistance, they fling down their money with that spirited jerk of an honest welcome with which generous souls only are able to fling down money; - For each man's sorrow they have a tear, for each man's need they have a shilling! - may Heaven ever bless them both.</p> <p>Sus. La! Mr. Trim, I thought as how you gentlemen of the army never pray'd</p> <p>Trim. It is not half an hour, Susan, since I heard Lieutenant Lefevre, a soldier, and a brave</p>
+            <pb n="3" xml:id="pb-3" facs="#i17"/>
+             <p>soldier, pray devoutly; a soldier, Susan, prays as often of his own accord as a parson; and when he's fighting for his king, and for his country, and for his own life, and for his honor too, he has the most reason to pray to heaven of any man in the world,</p> <p>Sus. Very true, Mr. Trim.</p> <p>Trim. But when a soldier, my dear girl, has been standing twelve hours in the trenches - </p> <p>Sus. A great while to stand indeed, Mr. Trim.</p> <p>Trim. Up to his knees in cold water, or engag'd in long and dangerous marches, harrass'd in his rear to day, harrassing others to-morrow; - detach'd here, (wheeling to right) counter-manded there (wheeling to the left) resting this night perhaps upon his arms - beat up the next in his shirt - benumb'd in his joints, without straw in his tent to kneel on, he must say his prayers how and when he can.</p> <p>Sus. And it's my opinion when a soldier gets time to pray, he prays as heartily as any parson of them all, though not with so much fuss and hypocrisy.</p> <p>Trim. Don't say that, Susan; Heaven only knows who is hypocrite and who is not; at the great and general review of all, and not till then, it will be seen who have deserted from their duty in this world, and who have stood to their posts, and we shall be advanced accordingly (standing upright.)</p> <p>Sus. And it will never be enquired whether we were flaunting fine ladies, or humble servant maids.</p> <p>Trim. No sweet Susan, nor whether we did our duty in a red coat or a black one. - But to business, Susan, the Captain is certainly smitten,</p>
+            <pb n="4" xml:id="pb-4" facs="#i18"/>
+             <p>what marks of love have you perceived in the widow?</p> <p>Sus. Why she nightly reads over her marriage settlement, and every time she reads, cries for her first husband - a strong sign that she's thinking of a second. - But do you know the marks of love, Mr. Trim -</p> <p>Trim. Know them, I have felt them, Susannah, (pressing her hand.) But say, what dost thou think of love thyself, my girl?</p> <p>Sus. I can tell you what it is through the whole alphabet; parson Yorick taught me. You must give me the letter, Mr. Trim, just as you give the word of command - begin with A.</p> <p>Trim. Very well; - now mind the word - take care. (as he gives the word he exercises with his stick, and as she answers, she reckons with the fore-finger of her right hand upon her left hand.)</p> <p>Trim. A!</p> <p>Sus. Agitation.</p> <p>Trim. B!</p> <p>Sus. Bewitching.</p> <p>Trim. C!</p> <p>Sus. Charming</p> <p>Trim. D!</p> <p>Sus. Delightful, or dev'lish, which you please; in short, Love is the most E-extravagant F-funny, G-gigglish, H-humorous, I-interesting, K-O there is no key to it!</p> <p>Trim. What no key to love, Susannah? O there is a key! - Well, go on. -</p> <p>Sus. Love is the most L-longing, M-misguiding, N-natural, O- the O expresses its own meaning, its the same with the heigh ho! (sighs) P-pleasant, Q-quarrelsome, R-rapturous - but here comes Obadiah, so the next time we</p>
+            <pb n="5" xml:id="pb-5" facs="#i19"/>
+             <p>meet, I'll give you the S, T, U, W, X, Y, and Z, of love.</p> <p>Trim. With the et caetera, I hope, Susan - for the et caetera is worth the whole alphabet.</p> <p>Enter OBADIAH.</p> <p>Oba. Alas, alas, Corporal! as sure as I'm alive, the poor Lieutenant at the inn will die - and yet he was better this morning.</p> <p>Trim. (standing in the middle.) Alas! (extending his right arm) What is this morning, or any other morning, to the time present? - Are we not here now (setting his stick perpendicular) and are we not gone in a moment? [Dropping his hat.</p> <p>Sus. O yes, gone in a moment. [Weeps.</p> <p>Trim. I own, that since the morning it is not long till now, it is nothing; but to those, Obadiah, who know not what death is, and what havoc and destruction he can make before a man can wheel about, (wheeling.) it is a whole age.</p> <p>Oba. How learnedly the Corporal preaches.</p> <p>Trim. O Obadiah! O Susannah! it would make a good natur'd man's heart bleed, to consider, how many a brave upright fellow hath been laid low since that time - Trust me, Susan, before that time comes again, many a bright eye will be dim. [Points to Susan's eyes.</p> <p>Sus. Yes, Mr. Trim, many a bright eye will be dim. [Curtsies and rubs her eyes.</p> <p>Trim. Are we not like the flower of the field?</p> <p>[Looking at Susan.</p> <p>Sus. Yes, we are like the flowers of the field.</p> <p>[Smiles.</p> <p>Trim. Is not all flesh grass? </p> <p>[Looking at Obadiah.</p> <p>Oba. Y <note>illegible text</note> flesh is grass.</p>
+            <pb n="6" xml:id="pb-6" facs="#i20"/>
+             <p>Trim. 'Tis clay, 'tis dirt - (points to Obadiah.) - What is the finest face that ever a man look'd on? [Pointing to Susan.</p> <p>Sus. I could hear Trim talk for ever.</p> <p>Trim. What is the finest face (taps her Susan's cheek, she lays her hand upon his shoulder and smiles.) What is it but corruption? (she takes away her hand.) - Out of doors I value not death at all, not this - (snapping his fingers.) - Let him not take me cowardly, what is he? a pull of a trigger, a push of a bayonet. The best way is to stand up to him, the man who flies, is in ten times more danger, than he who marches up to his jaws. I have look'd him an hundred times in the face. - Death is nothing in the field.</p> <p>Oba. But he's woundedly frightful in the house.</p> <p>Sus. For my part, I think it's most natural to meet him in bed.</p> <p>Trim. And could I escape him in bed, by creeping into the worst calf skin that ever was made into a knapsack, I'd do it there - but that is nature.</p> <p>Oba. Well, I must go see after the sick cow, tho' I could hear the Corporal for ever.</p> <p>[Exit Obadiah.</p> <p>Trim. There's Capt. Shandy fears not death, he fears only what every honest man fears - doing a wrong thing. He's as kind an officer as ever stepp'd before a platoon, and would march up to the muzzle of a cannon, tho' there were a lighted match at the touch-hole. He'll take care of Lefevre's son - I'd serve him to the day of my death for love.</p> <p>Sus. And I'd sooner be his servant for seven pounds a year, than serve other people for eight.</p>
+            <pb n="7" xml:id="pb-7" facs="#i21"/>
+             <p>Trim. Thank thee for thy twenty shillings a year, as much, Susan, as if thou puttest the money into my own pocket. I must kiss thee for it, Susan. [Kisses her.</p> <p>Enter OBADIAH, (calling.)</p> <p>Oba. Susay, Susan, Susannah! You are call'd for here, call'd for there, call'd for every where! there's Mistress taken woundedly ill, Jane is sent for the Midwife, and Jerry for Mrs. Wadman, and I must gallop for Dr. Slop - But what beast shall I take? The coach horse wants a shoe.</p> <p>Trim. Don't take him, poor creature.</p> <p>Ob. The Scotch horse is galled, and can't bear a saddle upon his back.</p> <p>Sus. Take Patriot, Obadiah.</p> <p>Oba. Patriot! ah Susan! no - poor Patriot's sold! Well, I'll e'en borrow the miller's cart-horse, or walk, for better to walk thro' thick and thin all the days of a man's life, then to ride a poor unshod devil, or a devil with a gall'd back, that must feel pain every inch of the road - But I forgot master's returned from the inn, and would speak with you, Mr. Trim.</p> <p>Trim. Farewell, Susan, when the widow comes, remember your master's instructions - Susan, we must all marry. [Exit Trim and Obadiah.</p> <p>Sus. Well, 'tis twenty to one but Mistress dies this bout - poor gentlewoman, she has always had a hard time, and she has as good cloaths as any lady in the country, and master would give them all to me no doubt. (bell rings.) Coming! Her green sattin is vastly pretty, green becomes my complexion, yes, I was always fond of a green gown, (rings.) why coming! then her red damask stands an end,</p>
+            <pb n="8" xml:id="pb-8" facs="#i22"/>
+             <p>(rings.) coming! and she has an orange tawny armozine, a white padua, and a yellow lutestring, besides a world of linens, bed gowns, laces, and comfortable under petticoats. (rings.)</p> <p>Enter SHANDY and TRIM, as SUSAN goes out.</p> <p>Shan. Why Susan, Susan, they are calling for you all over the house - away, my girl, away. (Exit Susan.) Should the Lieutenant die, Trim, twould go to my brother's heart, so let's pursue our scheme against him and the widow with all expedition.</p> <p>Trim. And please you honor, I fear I shall want spirits.</p> <p>Shan. Nay, Trim, never be grace - gravity is an errant scoundrel, and of the most dangerous kind too - because a sly one; more honest, well meaning people, are bubbled out of their goods and monies by gravity in a twelvemonth, than by pocket-picking and shop-lifting in seven years. Here comes my brother, I'll step into the library, to over look my catalogue of christian names, but will come out if I see occasion.</p> <p>Enter CAPTAIN SHANDY on a Crutch, TRIM hands a Chair, TOBY sits.</p> <p>Capt. I have seen the Lieutenant, Trim, he is the same Lefevre who serv'd at Angus's at Breda, and whose wife was unfortunately kill'd by a musket ball, as she lay in his arms in his tent.</p> <p>Trim. I remember the story, an't please your honor.</p> <p>Capt. Then well may the poor Lieutenant remember it - when you waited on the Lieutenant, and made him an offer of my services, did</p>
+            <pb n="9" xml:id="pb-9" facs="#i23"/>
+             <p>you offer him my purse? - Sickness and travelling are both expensive, and thou knowest he was a poor Lieutenant, with a son to subsist as well as himself out of his pay - Thou should'st have made him an offer of my purse, because if he stood in need, Trim, thou knowest he had been as welcome to it as myself.</p> <p>Trim. Your honor knows I had no orders.</p> <p>Capt. True, (rising.) thou had'st not orders, and thou did'st very right, Trim, as a soldier, but very ill as a man. (sits, Trim bows.) Then when thou offeredst whatever was in my house, thou should'st have offered him my house too. (Trim bows.) A sick brother officer should have the best quarters, Trim, and what with my care, and thy care, and the old woman's care, and his boy's care, we might recruit him again, and set him on his legs. (rises.) In a fortnight or three weeks he might march.</p> <p>[Putting forward his right leg.</p> <p>Shandy peeping. Precious souls! what are their two noodles together about?</p> <p>Trim. He will never march, an't please your honor, in this world. [Drawing back his left leg.</p> <p>Capt. He will march.</p> <p>Trim. An't please your honor, he will never march but to the grave.</p> <p>Capt. He shall march to his regiment.</p> <p>[Raises his crutch.</p> <p>Trim. He cannot stand it, your honor.</p> <p>Capt. He shall be supported.</p> <p>[Leans on his crutch.</p> <p>Trim. He will drop at last, and what will become of his boy?</p> <p>Capt. He shall not drop.</p> <p>Trim. Ah, well aday! do what we can for him, the poor soul will die.</p>
+            <pb n="10" xml:id="pb-10" facs="#i24"/>
+             <p>Capt. He shall not die by - Heaven!</p> <p>Trim. Don't swear, your honor.</p> <p>SHANDY comes forward.</p> <p>Shan. Your hand, brother - the accusing spirit which flew up to Heaven's chancery with thy oath, blush'd as he gave it in, and the recording angel, as he wrote it down, dropp'd a tear upon the word, that blotted it out for ever - But consider, dear Toby, all must die! monarchs, princes, dance in the same ring with us.</p> <p>Capt. Has the widow been here, Trim?</p> <p>Shan. Kingdoms and provinces, towns and cities, have they not their periods? when those principles and powers which first put them together - </p> <p>Capt. Brother, brother, (laying his hand upon his breast.) I hope you except this country from your principles and powers, there was no principle in the powers which oppose her, and she has now principle and power sufficient within herself, to keep her firm upon her own broad basis.</p> <p>Trim. Yes, an't please your honor, and having justice on her side, she is able to drive France and Spain and - and the devil if he should join them, out of the field.</p> <p>Shan. The approaches of death, Toby, make but little alteration in a great man - Vespasian died in a jest, Galba with a sentence, Septimus Severus with a dispatch, Tiberius with dissimulation, and Caesar Augustus with a compliment.</p> <p>[Capt. whistles Lillibullero.</p> <p>Trim. I hope your honor, it was a sincere one.</p> <p>Shan. It was to his wife, Trim - but lastly comes the anecdote, which, like the gilded dome,</p>
+            <pb n="11" xml:id="pb-11" facs="#i25"/>
+             <p>crowns in all - never did man receive such severe lashes as Cornelius Gallus.</p> <p>Capt. The greatest number of lashes I ever saw given, was to a grenadier in Mackay's regiment.</p> <p>Trim. O heavn's! he was innocent, yet he was flogg'd to death's door, they had better shot him outright, as he begg'd, and he'd have gone to Heaven directly. [Weeps.</p> <p>Capt. It was a misfortune, great as ever the eye of pity dropp'd a tear on - It would be a pity, Trim, thou should'st ever feel sorrows of thy own, thou feel'st so tenderly for others - But while thy master has a shilling, thou shalt not ask elsewhere for a penny.</p> <p>DR. SLOP without.</p> <p>Slop. Scoundrel, I wish you hang'd, I wish you shot.</p> <p>Capt. This cursing, Dr. Slop, is no more than sparrow shot fired against a bastion. Our armies swore terribly in Flanders, Doctor, but nothing to this - My heart would not let me curse the devil with so much bitterness.</p> <p>Slop. The devil's damn'd already to all eternity.</p> <p>Capt. Poor devil, (sighs.) I'm sorry for him!</p> <p>Slop. That rascal, Obadiah, has injur'd me.</p> <p>Oba. No, Doctor, I would not injure a toad from my heart, and I's no rascal, and I scorn a lie - I met Mr. Doctor, an't please you, coming slowly along, waddling thro' the dirt, at a duck's gait, upon his little pony, the poor beast scarce able to set foot to ground under its heavy burden, for the Doctor is a mortal load of human flesh, as you mon see - he, he, he!</p>
+            <pb n="12" xml:id="pb-12" facs="#i26"/>
+             <p>Slop. Who do you laugh at, Sirrah? I was coming to pay my devoirs to the widow Wadman, not knowing of your lady's alarm, when this fellow came posting down the narrow lane, at a monstrous and tremendous rate, mounted on a huge cart horse, prick'd into a full gallop.</p> <p>Oba. It was the miller's old troop horse, and 'tis as good natur'd a beast - </p> <p>Slop. As yourself, Sirrah, - you came splashing and plunging like a devil thro' thick and thin, a phenomenon with a vortex of mud and water round its axis - What must be my terror and hydrophobia, when advancing warily in an ambling motion, this Obadiah and his miller's troop horse, turns a corner furious, pop full upon me.</p> <p>Oba. But, Doctor, you were in fault, for you looked round when I cried out to you to hold the pummel of the saddle, and in looking round you let go your whip, and attempting to save your whip, you lost your seat.</p> <p>Shan. And when the Doctor lost his seat, he lost his presence of mind.</p> <p>Oba. And before I was near him, your honor, he fell from his poney, for all the world like a pack of wool, quite at his ease, with the broader part of him sunk in the mud twelve inches. [Laughs.</p> <p>Slop. You're an ill-manner'd knave.</p> <p>Oba. Nay, as to my manners, did'nt I pull off my hat twice, once when your worship was falling, (laughs.) and again when I saw you in the mud? [Laughs.</p> <p>Enter SUSAN.</p> <p>Sus. My poor mistress is ready to faint! and the drops are spilt, and the bottle of julep is broken, the nurse has cut her arm, and the mid-wife</p>
+            <pb n="13" xml:id="pb-13" facs="#i27"/>
+             <p>has fall'n upon the fender, and bruis'd her hip.</p> <p>Slop. If the midwife's hip be bruis'd, it is fitting I should go look at it.</p> <p>Shan. No, Doctor, I request your immediate attendance on Mrs. Shandy - Obadiah will pull off your boots, and supply you with a pair of slippers.</p> <p>Slop. And had I my will, Obadiah should be supplied with a halter.</p> <p>[Exeunt Susan, Slop, and Obadiah.</p> <p>Shan. I am convinc'd, Toby, that Mrs. Shandy will have a boy.</p> <p>Capt. The widow Wadman, brother, is before my eyes day and night.</p> <p>Shan. My son's name shall be Trismegistus. (Trim peeps in.) Who's there?</p> <p>Trim. (half in.) It is nothing, an't please your honor, but two mortars. [In a low voice.</p> <p>Shan. They shan't make a clatter with their mortars here - If Dr. Slop has any drugs to proud, let him do it in the kitchen.</p> <p>Trim. May it please your honor, they are two mortar pieces for a siege, which I have been making (comes on with a pair of jack boots in his hands.) out of a pair of jack boots, which Obadiah told me, your honor had left off wearing.</p> <p>Shan. (taking a boot.) By Heav'n! I have not one appointment belonging to me, which I set so much store by, as I do by these jack boots - They were our grandfather's, Toby, they were hereditary!</p> <p>Capt. (taking the other boot.) Then I fear Trim has cut off the entail.</p> <p>Trim. Cut off the tail! - no, please your honor, (taking the boot from Toby.) I have only cut off the top.</p>
+            <pb n="14" xml:id="pb-14" facs="#i28"/>
+             <p>Shan. I hate perpetuities, as much as any man alive, Toby; but these boots were worn by Sir Roger Shandy, at the battle of Marston Moor - I would not have taken ten pounds for them.</p> <p>Capt. I'll pay you the money, brother, with all my heart.</p> <p>Shan. Trim, step into the kitchen, and enquire how things go on up stairs. (exit Trim.) Brother Toby, you care not what money you throw away, providing it is upon a siege - Dear Toby, these military operations are above your strength, and will in the end quite ruin and make a beggar of you - What's your modern artillery, to the battering rams of the antients, to the catapulta - </p> <p>Enter TRIM.</p> <p>Trim. An't please your honor, there is no one soul in the kitchen, except Dr. Slop.</p> <p>Shan. Some retrogade planet is hanging over this house of mine, turning every thing out of its place - I thought the Doctor had been with Mrs. Shandy! what can he be puzzling about in the kitchen?</p> <p>Trim. He's busy, an't please your honor, in making a bridge.</p> <p>Capt. It's very obliging in him - Pray give my humble service to Dr. Slop, and tell him I thank him heartily - He's making his bridge, I suppose, after the model of the Marquis de Hospitals.</p> <p>Trim. Heaven bless your honor! it's a bridge for young master's nose. - </p> <p>Shan. Confusion!</p> <p>Trim. Madam has got a son, but Dr. Slop, as Susan told me on the stair head, has crush'd his nose as flat as a pancake, and is making a false bridge</p>
+            <pb n="15" xml:id="pb-15" facs="#i29"/>
+             <p>with a piece of cotton, and a bit of whalebone to raise it up.</p> <p>Shan. Lead me, brother Toby, lead me to my room this instant.</p> <p>Toby. Keep up your spirits - Meet me presently in the bowling green with the mortars, Trim.</p> <p>Shan. Crush'd his nose! O Heaven - O unfortunate mutilated child!</p>
+            <pb n="16" xml:id="pb-16" facs="#i30"/>
+             <p>ACT II.</p> <p>SCENE a Room.</p> <p>WIDOW WADMAN and SUSAN.</p> <p>Widow. AND are you convinc'd, Susan, that Capt. Shandy intends paying his addresses to me?</p> <p>Sus. No, Madam, the Captain is as mild as new milk, and Trim says, he loves you better than gun-powder, yet indeed, Madam, he is so modest a gentleman, that you must court him.</p> <p>Wid. And you'll sound the Corporal upon what I have spoken to you, you know the Captain has been wounded, and one would not wish to turn nurse, and marry a patient - Here comes the Corporal, so remember your business. [Exit.</p> <p>Sus. Yes, I'll discover every thing for this poor widow, I'll serve her, for she has really made me a genteel present - perhaps this is her last stake, so I'll cut the cards cautiously, and who knows but hearts may turn up trumps. (enter Trim.) La, Mr. Trim, is it true that the Captain can never recover his wound? - Dr. Slop says, he cannot.</p> <p>Trim. Upon my life, Susan, the Doctor's insinuations are as false as hell - but why do'st thou ask? thou art good and modest by nature, and so generous a girl, thou would'st not would an insect, much less the honor of so</p>
+            <pb n="17" xml:id="pb-17" facs="#i31"/>
+             <p>worthy and gallant a soul as my master - Thou hast been set on and deluded, Susan, as is often a woman's case, to please others more than themselves, whose suspicion has misled thee - Tell me, for by my Montero cap I love thee.</p> <p>Sus. Do you really love me? To be sure, you soldiers are the cleanest, neatest, uprightest men - and indeed Mr. Trim, I always liked you, and will tell you the truth - I was set on to make my enquiries by the widow Wadman - Here comes the Captain.</p> <p>Trim. Well, Susan, meet me presently at the fortifications, and I'll shew you our new Dutch bridge.</p> <p>Sus. I shall not fail - but you men are not to be trusted.</p> <p>Trim. Nay, 'tis you women are not to be trusted - Always changing your appearances, and, considering the changes of life, there is no answering for one of you a moment - Some grow out like pumkins, and lose their shape - Others go off like flowers, and lose their beauty - Nay, sweet Susan, how many go off like husseys, and lose themselves? [Exit Susan.</p> <p>Enter TOBY.</p> <p>Trim. I believe, your honor, I am going to say a foolish kind of a thing for a solider.</p> <p>Toby. A soldier, Trim, is no more exempt from saying foolish things, than a man of letters.</p> <p>Trim. But a soldier, your honor, does not say foolish things so often as a man of letters - Since the peace, your honor, I have never once whistled,</p>
+            <pb n="18" xml:id="pb-18" facs="#i32"/>
+             <p>nor laughed, nor cried, nor talk'd of past done deeds, nor told your honor a good nor a bad story.</p> <p>Toby. I have remark'd it, Trim.</p> <p>Trim. Then since the war is over, your honor, we should look for other employment - We have wounded the widow Wadman, and I believe, your honor, she has returned the fire.</p> <p>Toby. She has attacked my breast works from the battery of her eyes, and has left a ball here. [Pointing to his heart.</p> <p>Trim. Your honor must attack her in return - she can no more stand a siege that she can fly - we'll get your honor's regimentals brushed up, and I'll put your ramilie wig in pipes.</p> <p>Toby. And get some chalk for my sword.</p> <p>Trim. It will be in your honor's way - but when your honor is shaved, and your clean shirt on, and every thing ready for the attack, we will march up to the widow, as boldly as to the face of a bastion.</p> <p>Toby. I declare, Corporal, I'd rather march up to the edge of a Trench - </p> <p>Trim. A Trench, your honor! a woman is quite a different thing - But I must retire, your honor, for here comes the widow, running down the gallery like one bewitched - We should never have fallen in love but for the peace.</p> <p>[Exit.</p> <p>Enter MRS. WADMAN, (running.)</p> <p>Widow. I am half distracted, Capt. Shandy, a mote or sand, or something has got into this</p>
+            <pb n="19" xml:id="pb-19" facs="#i33"/>
+             <p>eye of mine - For pity's sweet sake, look at it.</p> <p>Toby. I protest, Madam, I can see nothing - (looks with a glass.) Nothing can I see, but the eye itself.</p> <p>Wid. Is it not in the white, Captain, look into it again?</p> <p>Toby. As I am a soldier, Mrs. Wadman, it is in vain, I have reconnoitered every corner, and can see nothing, Widow - but fire! - fire! - shooting from every part.</p> <p>Wid. It is easy now - well, the eye is the most tender part about us - and the most ornamental.</p> <p>Toby. And the most dangerous, Madam - an eye is for all the world, in this respect, exactly like a cannon, that it is not so much the eye nor the cannon themselves, as it is the carriage of the eye and the carriage of the cannon, by which both the one and the other are enabled to do so much execution - </p> <p>Wid. Then there are many kinds of eyes - </p> <p>Toby. Yes, widow, and many kinds of canon.</p> <p>Wid. The rolling eye - </p> <p>Toby. And the battering cannon.</p> <p>Wid. The commanding eye - </p> <p>Toby. And the field piece.</p> <p>Wid. The languishing eye - </p> <p>Toby. And the hotwitzer.</p> <p>Wid. The forbidding eye - </p> <p>Toby. And the horn petard.</p> <p>Wid. The imperious eye - </p> <p>Toby. Of all eyes, good Heaven! defend me from the imperious one - There are more evils in such an eye, widow, than in a whole train of artillery</p>
+            <pb n="20" xml:id="pb-20" facs="#i34"/>
+             <p> - (She gives him her hand.) O give me, Mrs. Wadman, an eye full of gentle salutations and soft notes, whispering like the last low accents of a dying saint.</p> <p>Wid. I see, Captain, you are acquainted with the soft passions of love as well as the horrors of war - </p> <p>Toby. War, Madam! What is war? But getting together a number of quiet and harmless people with swords in their hands, to keep the turbulent and ambitious within bounds - It is one thing to gather laurels, it is another to scatter cypress.</p> <p>Wid. Stop, Captain - You are so gallant, so ardent, I wonder a gentleman of your figure could so long have lived comfortably alone, without a bosom to rest your head on, or trust your cares to. But then that dreadful wound - where did you receive it, Captain?</p> <p>Toby. You shall see, Madam, the very spot where I - (pulls out a plan.) Just here, Madam, before the gate of St. Nicholas, in one of the traverses of the French, opposite to the salient angle of the demi bastion of St. Roch - I suppose you understand the geography of the place.</p> <p>Wid. A fig for the geography - We were speaking of love and matrimony.</p> <p>Toby. But must postpone the conversation, sweet widow, for here comes my brother.</p> <p>Wid. What an interruption! (aside.) Well, Captain, I shall take a view of your fortifications, as soon as I pay a short visit to poor Mrs. Shandy.</p> <p>[Exit.</p>
+            <pb n="21" xml:id="pb-21" facs="#i35"/>
+             <p>Enter SHANDY, walking solemnly in his Night Gown, Slippers, and Cap - a large Folio under his Arm.</p> <p>Toby. Hem - </p> <p>Shan. We should be overset and torn to pieces an hundred times a day, brother Toby, was it not for a secret spring within us - </p> <p>Toby. Which spring I take to be religion.</p> <p>Shan. Will that set my boy's nose on.</p> <p>Toby. Religion, brother, makes every thing strait.</p> <p>Shan. Since the greatest evil has befallen him, I must counteract and undo it with the greatest good - His name shall save him - He shall be baptized Trismegistus.</p> <p>Toby. I wish his long name may answer for his short nose.</p> <p>Shan. It is a name will bring all things to rights. This Trismegistus was the greatest of all earthly beings - He was the greatest king, the greatest philosopher, the greatest priest - </p> <p>Toby. And engineer, I suppose.</p> <p>Shan. No doubt, brother, he was an engineer, as he was a priest.</p> <p>Enter SUSAN.</p> <p>Sus. The child is dying, Sir, dying - but the curate is in the dressing room, waiting for the name.</p> <p>Shan. How!</p> <p>Sus. He's as black in the face as my - </p> <p>Shan. What - </p> <p>Sus. Why my shoe.</p> <p>Toby. He is to be called Trismegistus.</p>
+            <pb n="22" xml:id="pb-22" facs="#i36"/>
+             <p>Shan. Can'st thou carry Trismegistus in thy head across the gallery without forgetting.</p> <p>[Sits and buttons his knees.</p> <p>Sus. Can I! - Tris - tris - tris - gistus - gistus.</p> <p>[Exit.</p> <p>Shan. Of all the puzzling riddles in the married state, brother Toby, there is not one that has more intricacies in it that this - That from the moment the mistress of the house is brought to bed, every female in it, from the lady's gentlewoman down to the cinder wench, become an inch taller, and give themselves more airs on that single inch, than on all their other inches put together - Now we'll go see Trismegistus.</p> <p>Enter TRIM.</p> <p>Trim. The child is christened, and please your honor - </p> <p>Shan. And Susannah has not forgot the name.</p> <p>Enter SUSAN (crying.)</p> <p>What's the matter, Susan?</p> <p>Sus. No body is in fault but Mr. Yorick's curate - I ran all the way calling over the name, and told him it was Tristramgistus</p> <p>Trim. She did, indeed, your honor.</p> <p>Sus. He called me noodle, and said there was no gistus in it, and christened my young master, Tristram, which he said was his own name.</p> <p>Shand. Retire - (pushes her out.) fire! fury! women! and wind! - Unhappy Tristram - Child of decripitude - What misfortune <note>illegible ink blot</note>or disaster in</p>
+            <pb n="23" xml:id="pb-23" facs="#i37"/>
+             <p>the book of amylratic evils, which could unmechanize thy frame, which has not fallen upon thy head? [Going.</p> <p>Trim. It was all owing, an't please your honor, to Susan's mistake - it was her error, not a fault.</p> <p>Toby. Trim, thou wer't ever a friend to the distressed - And a true friend, for thou hast assisted them behind their backs - I have left, Trim, my Bowling-green brother - I have left him a pension! he always obeyed orders, whether from his officer or from Heaven.</p> <p>Shan. Had Count Solmes done the same at the battle of Steenkirk, Trim, it would have saved thee from having been run over by the dragoons.</p> <p>[Peevishly.</p> <p>Trim. Sav'd me! your honor, it would have saved five battalions!</p> <p>Toby. Trim's right! perfectly right!</p> <p>Trim. Count Solmes should have sent up the foot, not the horse - We would have fired with them muzzle to muzzle for their lives -</p> <p>Shan. O Tristram! (wringing his hand.)</p> <p>Toby. The French, brother; had the advantage of a wood; and give them a moment's time to retrench themselves, they are a nation will pop, and pop at you for ever - There is no way but to march cooly up to them, receive their fire, and fall upon them - </p> <p>Trim. Pell, mell - </p> <p>Toby. Ding dong -</p> <p>Trim. Horse and foot - </p> <p>Toby. Helter skelter - </p> <p>Trim. Right and left - </p> <p>Toby. Front and flank - </p> <p>Trim. Sword in hand - </p>
+            <pb n="24" xml:id="pb-24" facs="#i38"/>
+             <p>Toby. Blood and 'ouns - </p> <p>Both. Huzza! - huzza!</p> <p>[Exeunt Toby and Trim.</p> <p>Shan. Heaven! how the batle rages! But is not a man's Hobby-horse the tenderest part about him - and why should I hurt a brother's? I'll send the Widow Wadman to him this instant, she must put an end to this brother's military frenzy - O Tristram! Tristram! [Exit.</p> <p>SCENE, a HEDGE across the Stage, with a Gate. - A Centry Box and Garden Chair on one side, on the other the Ruins of a Fortification - a Draw-Bridge, and several Pioneers Instruments on the Stage.</p> <p>Enter TRIM with a Spade.</p> <p>Trim. And so our fortifications are destroyed - Well I'll throw the implements into the barrow and roll them off the field. (sighs) No, I'll do it before his honor rises in the morning - He took pleasure in them and to see them removed might give him pain - </p> <p>Enter SUSAN.</p> <p>Sus. La, Mr. Trim, what dreadful havoc you have made with your fortifications - </p> <p>Trim. Here stood the bastion, and here were the ravelins, and there lay the French - and here was the gate of St. Nicholas, where his honor received his wound. - Thy crying, Susan, hath made thee look charming - thou look'st like the moist eye of an April morn!</p>
+            <pb n="25" xml:id="pb-25" facs="#i39"/>
+             <p>Sus. I do believe you love me, Trim - </p> <p>Trim. Yes, and we'll marry, Susan - We'll marry - The peace will make us all marry! - But here comes the Captain, so get behind the draw-bridge, and I will come to thee presently, and tell thee a story I promised - of the King of Bohemia and his seven castles.</p> <p>Sus. Well, I'll wait, for I would not for the world be taken in confusion by the Captain. (goes behind the bridge.)</p> <p>Enter TOBY.</p> <p>Trim. I think, an't please your honour, that the fortifications are almost destroyed, and the bason is upon a level with the mole - </p> <p>Toby. Then there is no further occasion for our services - But, Trim, the widow has promised to meet me here immediately.</p> <p>Trim. Does she know any thing of your honor's being in love?</p> <p>Toby. Heaven help her, no more than the child unborn.</p> <p>Trim. Ah! your honor, she does - I know women, and have observed the widow's bush-firing from behind the yew hedge. - Well, I'll stand centinel behind the bridge, and give your honor notice if any on approaches (goes behind the bridge.)</p> <p>Enter WIDOW WADMAN.</p> <p>Wid. You see, Captain, I am punctual to my appointment - La! you can't think what I have</p>
+            <pb n="26" xml:id="pb-26" facs="#i40"/>
+             <p>been meditating on - But what is your opinion, Captain Shandy? Are not the cares and anxiety of the marriage state very great?</p> <p>Toby. I suppose so - </p> <p>Wid. You can have no inclination for changing your state - Indeed I can see no reason for a man's marrying - </p> <p>Enter SLOP.</p> <p>Slop. Then, madam, you'll see a very good reason written in the law of Moses.</p> <p>Wid. This intrusion, Dr. Slop, (he retreats, she follows.)</p> <p>Slop. Are not children the very end of the institution.</p> <p>Wid. A fiddle stick!</p> <p>Slop. She wants you to marry her, Captain Shandy.</p> <p>Wid. 'Tis false (Slop retreats, the Widow following, till they throw down the bridge, and discover Trim and Susan sitting behind it.</p> <p>Wid. Mercy defend us!</p> <p>Sus. Hem!</p> <p>Trim. Hem!</p> <p>Slop. Oh! Madam Lucretia, have we caught you.</p> <p>Toby. I told you, Trim, that bed-cords would never be sufficient to secure the bridge if attacked by cavalry.</p> <p>Trim. It was a Dutch bridge, your honor, and so there was no depending on it.</p> <p>Sus. He was shewing it to me, he! he! he!</p> <p>Slop. And in the proof of its excellency and</p>
+            <pb n="27" xml:id="pb-27" facs="#i41"/>
+             <p>strength some how or other the captain's bridge has been broken down, he! he! he!</p> <p>Trim. It was all a misfortune - shewing Susan the spot where his honour got his wound, and going too near the edge of the fosse - </p> <p>Slop. You unfortunately slipped in -</p> <p>Trim. And having Susan under the arm.</p> <p>Sus. He dragged me in after him, he! he! he!</p> <p>Trim. By means of which, Susan fell backwards foss against the bridge, and my foot getting into the curvette, I fell forward full against the bridge too.</p> <p>Slop. And pray, pretty madam, how do you intend to repair your reputation?</p> <p>Trim. Who dare injure her reputation? - She has a soldier to protect her - he who injures the character of a woman is a villain, and a coward in his heart.</p> <p>Slop. That may be - but I'll make an incision in her character.</p> <p>[Exit.</p> <p>Toby. Widow, will you marry me?</p> <p>Enter SHANDY.</p> <p>Shan. Marry, brother!</p> <p>Toby. Yes, I wish to marry the widow with all my heart.</p> <p>Wid. And the widow has not the heart to refuse you.</p> <p>Trim. Your honour has carried the place by coup de main.</p> <p>Shan. Thou art a true daughter of Eve - Well, Toby, thou wilt never lie diagonally in thy bed</p>
+            <pb n="28" xml:id="pb-28" facs="#i42"/>
+             <p>again! (joins their hands) and since peace is now established, I hope every unmarried man and single woman will follow the example of you and the widow, and encrease the strength of the nation by raising supplied for the next war.</p> <p>FINIS.</p> <note>stamp reads 'BIBLCANTACAD'</note>
+            <pb n="29" xml:id="pb-29" facs="#i43"/>
+            <pb n="30" xml:id="pb-30" facs="#i44"/>
+            <pb n="31" xml:id="pb-31" facs="#i45"/>
+            <pb n="32" xml:id="pb-32" facs="#i46"/>
+            <pb n="33" xml:id="pb-33" facs="#i47"/>
+            <pb n="34" xml:id="pb-34" facs="#i48"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i49"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i50"/>
+         </div>
+      </body>
+   </text>
+</TEI>

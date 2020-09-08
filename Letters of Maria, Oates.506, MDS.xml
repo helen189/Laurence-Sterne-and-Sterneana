@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oates.506</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Oates.506</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>
+                        <p>This continuation of Sterne's <hi rend="italics">Sentimental Journey</hi> was part of the extensive fashion for all things Sternean, Shandean and, especially, all things to do with Maria that swept across Europe in the decades following his death, a craze that saw not only book publications and painting and prints, including Angelica Kauffman's 'Maria' of the late 1770s and Joseph Wright's 'Maria and Her Dog Silvio' of 1781, but also all manner of objets d'art, memetos, toursits attractions and even graves. There are other literary works in this collection that are also part of the craze: the anonymous <hi rend="italics">Sterne's Maria: A Pathetic Story,</hi> probably of 1800; the anonymous <hi rend="italics">Maria: Or, A Shandean Journey of A Young Lady</hi> of 1832; and the song by John Moulds, <hi rend="italics">Moulines Maria: a favourite ballad taken from Sterne composed by Mr. Moulds</hi> of around 1785. Many of these productions were of course simply cashing in on this wave of enthusiasm, but some, like the Kauffman and the Wright, became recognised as works of art in their own right. <hi rend="italics">The Letters of Maria</hi> is not in this category, but is nevertheless effective in plausibly filling in gaps in Maria's story, albeit with less than perfect artistry.</p> <p>The text takes the form of a series of short letters between, first, Maria and her beloved St. Flos and then, after the forbidding of their marriage and his enforced departure to join, supposedly, the army overseas, with her friend Annette, who is an invention of the author for the purpose of narrating the story. There are also editorial interventions where the author can find no other way of imparting information - including the final description of the death of Maria herself. Probably the most effective feature of the narrative is the gradual deteriroration of Maria's writing style (Letter XIV onwards), as St. Flos's absence and his failure to reply to her letters sends her into the kind of insanity that is such a feature of Sterne's depicitons of her. This is perfectly in keeping with other contemporary uses of the character, and what made her such a readily exploitable figure. Equally, once her pilgrimage to Rome, as described in letters to Annette, is completed, the consolidation of her writing (Letter XXXVI), sustained by her sense of having satisfied her vow to God, and indeed of a reassertion of the effectiveness of faith, demonstrates some degree of settling of her previously disordered mind.</p> <p>What works less well is the one-sidedness of the correspondence with Annette and such questions as how the letters were sent, or even written, during the deprivations of Maria's trek across the Alps. Equally, the extraordianry episode of the unfortunate Adelaide at the convent of St. Genevieve in Letter XXXII is wholly out of place, albeit a more tragic echo of Maria's own circumstance. The presence of the Editor who, as he tells us in the Preface, has visited Italy in an attempt to avenge the murder of his brother, verges on implausibility. Would-be sentimental narration is marred by the intrusion of the sensational in the latter instances, and by the unexplained figure of a fresh recipient of letters in the former. Such a presence is underlined by the lack of reference to let alone inclusion of, Maria's parents. Why, for instance, is she not writing to her mother instead?</p> <p>Nothing is known about the author, 'Miss Street', except that she (and must assume her to be female) published a second novel, <hi rend="italics">The Recluse of the Apennines, A Tale,</hi> in 1793. This is another epistolary work, with a wider range of correspondents. On its title page it is cited as being 'By the author of The Lake of Windermere', which is presumably lost.</p> <p>Allan Ingram</p> <p><hi rend="bold">References:</hi></p> <p>Bourdeau, Debra Tyalor, and Elizabeth Kraft, eds, <hi rend="italics">On Second Thought: Updating the Eighteenth-Century Text</hi> (Newark: University of Delaware PRess, 2007)</p> <p>Gerard, W.B., <hi rend="italics">Laurence Sterne and the Visual Imagination</hi> (Aldershot: Ashgate, 2006)</p> <p>Newbould, M-C, <hi rend="italics">Adaptations of Laurence Sterne's Fiction: Sterneana, 1760-1840</hi> (London &amp; New York: Routledge, 2013)</p> <p>de Voogd, Peter and John Neubauer, eds, <hi rend="italics">The Reception of Laurence Sterne in Europe</hi> (London: Athlone Press, 2004)</p>
+                  </summary>
+                  <msItem>
+                     <title>The letters of Maria; to which is added, an account of her death</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Street Miss</persName>
+                           <persName type="display">Street Miss</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for G. Kearsley</persName>
+                           <persName type="display">printed for G. Kearsley</persName>
+                        </name>
+                     </respStmt>
+                     <note>A novel.</note>
+                     <note>With a half-title and final two leaves of advertisements.</note>
+                     <note>Based on Sterne: 'Maria' is the character in his Tristram Shandy and Sentimental journey.</note>
+                     <note>Anonymous. By Miss Street.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>viii,124,[4]p ; (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1790" notAfter="1790">1790</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref>
+      Sterne, Laurence
+      1713-1768
+     -- 
+      
+     -- Parodies, imitations, etc</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00001_files/8/0_0.jpg"/>
+      <surface xml:id="i1" n="cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="5026px"
+                  width="3044px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00001_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00002_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i3" n="[i]">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00003_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i4" n="[ii]">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00004_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i5" n="i">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00005.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00005_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i6" n="ii">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00006.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00006_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i7" n="iii">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00007.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00007_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i8" n="iv">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00008.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00008_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i9" n="v">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00009.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00009_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i10" n="vi">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00010.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00010_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i11" n="vii">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00011.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00011_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i12" n="viii">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00012.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00012_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i13" n="1">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00013.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00013_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i14" n="2">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00014.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00014_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i15" n="3">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00015.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00015_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i16" n="4">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00016.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00016_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i17" n="5">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00017.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00017_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i18" n="6">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00018.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00018_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i19" n="7">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00019.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00019_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i20" n="8">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00020.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00020_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i21" n="9">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00021.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00021_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i22" n="10">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00022.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00022_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i23" n="11">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00023.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00023_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i24" n="12">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00024.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00024_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i25" n="13">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00025.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00025_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i26" n="14">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00026.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00026_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i27" n="15">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00027.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00027_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i28" n="16">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00028.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00028_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i29" n="17">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00029.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00029_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i30" n="18">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00030.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00030_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i31" n="19">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00031.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00031_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i32" n="20">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00032.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00032_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i33" n="21">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00033.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00033_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i34" n="22">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00034.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00034_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i35" n="23">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00035.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00035_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i36" n="24">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00036.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00036_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i37" n="25">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00037.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00037_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i38" n="26">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00038.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00038_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i39" n="27">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00039.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00039_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i40" n="28">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00040.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00040_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i41" n="29">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00041.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00041_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i42" n="30">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00042.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00042_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i43" n="31">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00043.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00043_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i44" n="32">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00044.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00044_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i45" n="33">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00045.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00045_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i46" n="34">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00046.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00046_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i47" n="35">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00047.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00047_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i48" n="36">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00048.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00048_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i49" n="37">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00049.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00049_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i50" n="38">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00050.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00050_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i51" n="39">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00051.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00051_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i52" n="40">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00052.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00052_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i53" n="41">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00053.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00053_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i54" n="42">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00054.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00054_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i55" n="43">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00055.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00055_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i56" n="44">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00056.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00056_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i57" n="45">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00057.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00057_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i58" n="46">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00058.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00058_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i59" n="47">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00059.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00059_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i60" n="48">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00060.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00060_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i61" n="49">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00061.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00061_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i62" n="50">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00062.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00062_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i63" n="51">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00063.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00063_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i64" n="52">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00064.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00064_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i65" n="53">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00065.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00065_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i66" n="54">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00066.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00066_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i67" n="55">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00067.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00067_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i68" n="56">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00068.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00068_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i69" n="57">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00069.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00069_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i70" n="58">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00070.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00070_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i71" n="59">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00071.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00071_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i72" n="60">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00072.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00072_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i73" n="61">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00073.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00073_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i74" n="62">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00074.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00074_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i75" n="63">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00075.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00075_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i76" n="64">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00076.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00076_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i77" n="65">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00077.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00077_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i78" n="66">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00078.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00078_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i79" n="67">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00079.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00079_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i80" n="68">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00080.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00080_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i81" n="69">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00081.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00081_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i82" n="70">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00082.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00082_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i83" n="71">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00083.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00083_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i84" n="72">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00084.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00084_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i85" n="73">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00085.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00085_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i86" n="74">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00086.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00086_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i87" n="75">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00087.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00087_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i88" n="76">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00088.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00088_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i89" n="77">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00089.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00089_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i90" n="78">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00090.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00090_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i91" n="79">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00091.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00091_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i92" n="80">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00092.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00092_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i93" n="81">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00093.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00093_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i94" n="82">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00094.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00094_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i95" n="83">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00095.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00095_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i96" n="84">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00096.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00096_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i97" n="85">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00097.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00097_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i98" n="86">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00098.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00098_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i99" n="87">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00099.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00099_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i100" n="88">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00100.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00100_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i101" n="89">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00101.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00101_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i102" n="90">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00102.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00102_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i103" n="91">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00103.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00103_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i104" n="92">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00104.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00104_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i105" n="93">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00105.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00105_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i106" n="94">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00106.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00106_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i107" n="95">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00107.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00107_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i108" n="96">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00108.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00108_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i109" n="97">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00109.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00109_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i110" n="98">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00110.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00110_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i111" n="99">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00111.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00111_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i112" n="100">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00112.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00112_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i113" n="101">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00113.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00113_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i114" n="102">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00114.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00114_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i115" n="103">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00115.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00115_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i116" n="104">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00116.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00116_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i117" n="105">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00117.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00117_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i118" n="106">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00118.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00118_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i119" n="107">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00119.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00119_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i120" n="108">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00120.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00120_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i121" n="109">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00121.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00121_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i122" n="110">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00122.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00122_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i123" n="111">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00123.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00123_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i124" n="112">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00124.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00124_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i125" n="113">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00125.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00125_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i126" n="114">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00126.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00126_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i127" n="115">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00127.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00127_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i128" n="116">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00128.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00128_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i129" n="117">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00129.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00129_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i130" n="118">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00130.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00130_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i131" n="119">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00131.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00131_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i132" n="120">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00132.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00132_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i133" n="121">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00133.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00133_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i134" n="122">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00134.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00134_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i135" n="123">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00135.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00135_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i136" n="124">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00136.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00136_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i137" n="125">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00137.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00137_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i138" n="126">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00138.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00138_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i139" n="127">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00139.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00139_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i140" n="128">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00140.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00140_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i141" n="129">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00141.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00141_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i142" n="130">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3305px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00142.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00142_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i143" n="back cover (inside)">
+            <graphic decls="#downloadImageRights #download"
+                  height="5216px"
+                  width="3109px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00143.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00143_files/8/0_0.jpg"/>
+      </surface>
+      <surface xml:id="i144" n="back cover">
+            <graphic decls="#downloadImageRights #download"
+                  height="5190px"
+                  width="3564px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00144.jpg"/>
+            <graphic decls="#thumbnail"
+                  rend="portrait"
+                  url="http://cudl.lib.cam.ac.uk/content/images/PR-OATES-00506-000-00144_files/8/0_0.jpg"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+            <pb n="[i]" xml:id="pb-i" facs="#i3"/>
+            <pb n="[ii]" xml:id="pb-ii" facs="#i4"/>
+            <pb n="i" xml:id="pb-i" facs="#i5"/>
+             <note>There seems to be a problem with the pb-i and pb-ii being repeated here</note>
+             <p>THE</p>
+             <p>LETTERS OF MARIA.</p>
+             <p>Price HALF A CROWN.</p>
+             <p><note>blacktype</note> Entered at Stationers Hall.</p>
+             
+            <pb n="ii" xml:id="pb-ii" facs="#i6"/>
+             
+            <pb n="iii" xml:id="pb-iii" facs="#i7"/>
+             <p>THE</p>
+             <p>LETTERS</p>
+             <p>OF</p>
+             <p>MARIA;</p>
+             <p>TO WHICH IS ADDED,</p>
+             <p>An Account of her DEATH.</p>
+             <p>- How she had borne it, and how she had got supported, she could not tell - "But God tempers the Wind, (said MARIA) to the shorn Lamb."</p>
+             <p>STERNE'S SENTIMENTAL JOURNEY.</p>
+             <note>double line</note>
+             <p>LONDON.</p>
+             <p>Printed for G. KEARSLEY, No. 46, Fleet-Street.</p>
+             <p>1790.</p>
+             
+            <pb n="iv" xml:id="pb-iv" facs="#i8"/>
+             
+            <pb n="v" xml:id="pb-v" facs="#i9"/>
+             <p>PREFACE.</p>
+             <p>IT was in the middle of the summer of the year 1788, that I was induced to make a Tour to Italy, partly to satisfy that curiosity which every man, who is the least conversant in classic lore, must feel to visit a country which once governed the world, and partly to revenge the death of a dear Brother, who had fallen a sacrifice to the rage of a haughty Italian, who had hired Bravos to dispatch him. When I arrived at Rome, I learnt that the object of my journey was dead.: I remained however there long enough to satisfy my curiosity, and about the end of the autumn set out on my return. - I travelled through the province of Bourbonnois,</p>
+             
+            <pb n="vi" xml:id="pb-vi" facs="#i10"/>
+             <p>Bourbonnois, and being very much fatigued by the time I had got to Moulines, I resolved to stop there two or three days. By some fortunate accident I had placed the Sentimental Journey of Sterne in my portmanteau; and being rather ennuyée, in the first evening of my stay at Moulines, I began to re-peruse it.</p>
+             <p>The landlord entered with supper just as I had got to the story of Maria, so pathetically told. I desired him to sit down and sup with me. After we had finished our meal, and a good bottle of Vin de Bourgogne had given us an addition to our stock of loquacity, I questioned him relative to this unhappy Maid: - "Alas! Monsieur, (exclaimed he) she has been dead many years; yet still her story is fresh in the recollection of every one. I was but a young man when she was the pride and blessing of Moulines. <note>French</note> Ah, Monsieur, quelle pitié que vous ne l'avez jamais vu! - It would have done your heart good to have seen with what</p>
+             
+            <pb n="vii" xml:id="pb-vii" facs="#i11"/>
+             <p>an air she comforted and relieved the poor and the unhappy - Ah, she was a charming and a good Lady!"</p>
+             <p>Mine host, after having indulged himself some time in this strain, informed me, that her most intimate friend was still alive; that her name was Annette. How to get introduced to this friend I knew not: I had a great desire to learn more particulars than were contained in the Sentimental Journey, and told my landlord so. After a pause of some moments, he replied, that he believed he could procure me an introduction to her friend: This he did the next day, and I waited in consequence upon the Lady. I found her very amiable, perfectly worthy of the confidence of such a friend as Maria, and not at all reserved.</p>
+             <p>She favoured me with a perusal of the Letters of Maria, which she gave me leave to translate; and at the same time communicated</p>
+             
+            <pb n="viii" xml:id="pb-viii" facs="#i12"/>
+             <p>to me other particulars, which I have added to these Letters.</p>
+             <p>I present them to the World - and sincerely wish, that if the Critic should be induced to find fault, it may be with the badness of the Translation, rather than the Composition of the Letters. - This by the way I hope he will not forget, that in letters to our intimate friends, correctness and elegance of diction are not so much studied as in those productions which are written for the express purpose of being perused by every body.</p>
+             <p>THE EDITOR.</p>
+             
+            <pb n="1" xml:id="pb-1" facs="#i13"/>
+             <p>THE</p>
+             <p>LETTERS</p>
+             <p>OF</p>
+             <p>MARIA, &amp;c.</p>
+             <note>double line</note>
+             <p>LETTER I.</p>
+             <p>MARIA to St. FLOS.</p>
+             <p>ST. Flos! - my St. Flos! - whom by this time I thought to have called by a name if not more tender, at least more certain, more secure; is it possible to love with more sincerity than I do? - and yet is not our attachment criminal? Ah! has not our union been</p>
+             
+            <pb n="2" xml:id="pb-2" facs="#i14"/>
+             <p>forbidden! - Ought we then to see one another more? - Should we encourage that affection, which is displeasing to God?</p>
+             <p>My St. Flos, forbear! - Let us meet no more!</p>
+             <p>The curate forbids our union; he denounces against us the vengeance of the Church - he threatens us with eternal perdition, if we act contrary to his commands.</p>
+             <p>Ah! St. Flos, these are hard words! - Perhaps he is too cruel! - Perhaps he may have judged ill! But does it become us to dictate to him? Is he not placed over us to direct our conduct? and shall we not therefore obey him, even though he may be wrong?</p>
+             
+            <pb n="3" xml:id="pb-3" facs="#i15"/>
+             <p>But should he be right - Ah think, St. Flos, what a curse we incur by disobeying him - Eternal perdition! - The vengeance of the Church! - Dreadful!</p>
+             <p>Oh! St. Flos, let us see one another no more! We may write to, we may enquire after each other; alas! that is not denied us. We may think too of one another! The Almighty will not exercise his wrath against us, for encouraging the sigh, which the remembrance of past scenes may occasion; for cherishing the thought that may lament those scenes past now for ever!</p>
+             <p>Adieu, St. Flos! Oh! adieu!</p>
+             <p>Impute not my present conduct to decrease of affection: The groan that</p>
+             
+            <pb n="4" xml:id="pb-4" facs="#i16"/>
+             <p>struggles in my bosom, the tear that bursts from my eye, would convince St. Flos that the affection of Maria is undiminished, - and will remain so.</p>
+             <p>MARIA.</p>
+             
+            <pb n="5" xml:id="pb-5" facs="#i17"/>
+             <p>LETTER II.</p>
+             <p>St. FLOS to MARIA.</p>
+             <p>IT must not, must not be, Maria - What? when we were on the point of being united, to separate, to see one another no more! And why? Because the curate tells us it is unlawful for us to be united. You say he denounces against us the vengeance of the Church, threatens us with the displeasure of the Almighty, if we do not obey him. Alas! my beloved, it is very easy for him to say these things; but has he told us why the Almighty will be displeased, and the</p>
+             
+            <pb n="6" xml:id="pb-6" facs="#i18"/>
+             <p>Church denounce its vengeance against us. Oh! no - no - he cannot. He does not say we are within the degrees of affinity prohibited by the canon law, for he knows we are not; and is it consistent with our ideas of the perfect nature of the Almighty, to suppose that he will be displeased at our union? It is not.</p>
+             <p>What then remains? Consider, Maria, what you have written: You have said, Let us separate, and FOR EVER! FOR EVER! what a comprehensive word! And are we to part, to behold each other no more!</p>
+             <p>Oh, Maria, you remember we are both orphans; from infancy we have been dear to each other; how often, when we knew not what love was, have we wished that nothing but death might</p>
+             
+            <pb n="7" xml:id="pb-7" facs="#i19"/>
+             <p>separate us! You have leant on my arm, and the tears trickling from your eyes, have asked me, who was to be your protector when a more advanced period of life, and different avocations, might remove me from you? In those moments, my Maria, have I not sworn that nothing should tear me from you; that I would be your protector: Your emotions in an instant ceased, and you were restored to peace and tranquility. And have not I kept my word? Have I separated myself from you? Yet what are you going to do - that which in former days you most feared and dreaded - you are on the point of tearing yourself from me, and FOR EVER! I repeat it again; consider well what is</p>
+             
+            <pb n="8" xml:id="pb-8" facs="#i20"/>
+             <p>comprehended in those two words, FOR EVER!</p>
+             <p>Ah, Maria, you will not go - you will yield to the intreaties of St. Flos - you will consent to be his.</p>
+             <p>I will see you, and from your own mouth hear your final resolve; which, oh! may it be in favour of</p>
+             <p>ST. FLOS.</p>
+             
+            <pb n="9" xml:id="pb-9" facs="#i21"/>
+             <p>LETTER III.</p>
+             <p>MARIA to St. FLOS.</p>
+             <p>ST. FLOS! why did you attempt to see me? Why did you act in opposition to my advice? You have sadly deranged my ideas, my intentions; you have raised a tempest in my breast that will not be subdued; you have robbed me of the little fortitude with which I had been so long, long endeavouring to arm myself.</p>
+             <p>I am displeased, I am angry with you. Ah! forgive me, my St. Flos; I</p>
+             
+            <pb n="10" xml:id="pb-10" facs="#i22"/>
+             <p>am not angry, I am not displeased. But indeed you must see me no more! For what purpose should you?</p>
+             <p>Our union is forbidden for ever. Ah, no! not for ever - we shall be united, perhaps, where the power of man shall not be able to interrupt our happiness. Let us live in that sweet hope; sweet indeed! It is my sole comfort; it alleviates my sorrows - let it also alleviate yours.</p>
+             <p>When you broke in upon me, I was taking my evening walk to the wood that rises at the end of the distant fields: There is was, St. Flos, in happier days, alas! we were wont to meet; and at the foot of a venerable oak, exchange vows of eternal constancy!</p>
+             <p>Do you forget it?</p>
+             
+            <pb n="11" xml:id="pb-11" facs="#i23"/>
+             <p>It is to that same oak I wander now, "at dewy eve," to think of the past, and of St. Flos.</p>
+             <p>I was on the point of entering the wood; you rushed from behind some pines, and were in an instant at my feet. The sudden surprise deprived me of all power of reflection; you saw this, and would have drawn from me a promise of being privately united at some distant town. I believe I refused: If I did not, let this convince you that I never, never, can be yours! I have made this solemn vow before the image of the blessed Virgin; say, therefore, St. Flos, is it fit that I should break it? Or could we expect happiness in an union which was founded on a breach of the most solemn averment? Oh, no, my</p>
+             
+            <pb n="12" xml:id="pb-12" facs="#i24"/>
+             <p>beloved! Impossible! Let us then think often; but let us see each other no more!</p>
+             <p>MARIA.</p>
+             
+            <pb n="13" xml:id="pb-13" facs="#i25"/>
+             <p>LETTER IV.</p>
+             <p>ST. FLOS to MARIA.</p>
+             <p>DID I read aright? Can it be possible? Vowed before the image of the Virgin Mary, never to be mine! Yes, it is too, too true! My eye-sight does not fail me; it convinces, it almost leads me to distraction. How, how, have you wounded me, Maria! What daggers have you planted in my bosom! I will read your letter over again; I may, perhaps, even yet be mistaken.</p>
+             
+            <pb n="14" xml:id="pb-14" facs="#i26"/>
+             <p>How is St. Flos changed! There was a time when he was wont to speak peace and happiness to the soul of Maria; when he was her comforter, the soother of her sorrows - Now he deranges her ideas; he robs her of her fortitude; he raises a tempest in her bosom.</p>
+             <p>Ah! Maria, what words are these! But, the vow before the image of the Virgin Mary - how dreadful! Oh! recall it! Relent, and be mine.</p>
+             <p>And yet, do not: To break so solemn a vow - oh! 'tis too, too horrible.</p>
+             <p>What now remains for St. Flos? Misery and horror; to be an outcast of society; to wander, like Cain, over the face of the creation, and find no, no</p>
+             
+            <pb n="15" xml:id="pb-15" facs="#i27"/>
+             <p>place of rest for his soul. I go, Maria; I fly my country - you - for ever! I shall revisit no more that delightful grove, where we have so often whispered a thousand vows of never-ending constancy, and called heaven to witness the sincerity of our vows. - I shall no longer, in some still calm evening when myriads of stars bespangle the face of heaven, and the moon gives a clear silver beam, lead my Maria to the mountain's top, and from a rustic seat view the distant scene, uninterrupted by the noise of man; and while the gently dying zephyr trembles on the bosom of the air, repeat those oaths, those protestations, which had been so often made before. Such scenes, such days, are past; and to them succeed, an eternal</p>
+             
+            <pb n="16" xml:id="pb-16" facs="#i28"/>
+             <p>eternal separation, misery, horror, and despair.</p>
+             <p>I go then, I hasten from Moulines; whither, I know not - any where, where a hasty period may be put to the excruciating torments that rend the bosom of</p>
+             <p>ST. FLOS.</p>
+             
+            <pb n="17" xml:id="pb-17" facs="#i29"/>
+             <p>LETTER V.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>WHAT, what have you written to me! That you will desert your friends, that you will fly your country for ever!</p>
+             <p>Oh stop, St. Flos! Pause, I command, I beseech you. I recall my vow; I give it to the winds; I will be yours. - I am distracted, and know not what I say.</p>
+             
+             <p>In continuation some hours after the above.</p>
+             <p>I am more calm, my brain beats not so violently; I have been asking</p>
+             
+            <pb n="18" xml:id="pb-18" facs="#i30"/>
+             <p>of Heaven to compose my scattered spirits and to grant me fortitude. My request has not been denied; I feel more resigned. Oh, St. Flos, and whither are you wandering? Whither do your footsteps tend? Shall we be no longer inhabitants of the same country? Alas! how cruel is our fate! And yet, now that my pulse throbs not so violently, I do not oppose your going. It is, perhaps, more prudent that you should go; different scenes will render your sorrows less acute, will enable you to bear the chastening hand of affliction with more fortitude, will perhaps, but I refrain form contaminating the paper with the idea; for indeed, indeed, St. Flos, I should be very, very wretched if I thought you could ever forget me.</p>
+             
+            <pb n="19" xml:id="pb-19" facs="#i31"/>
+             <p>I try to cheer my drooping heart with the knowledge that the same sun will throw his influence on both of us, though the</p>
+             <p>"Wide world of waters"</p>
+             <p>roll between us. - But the attempt is unsuccessful; it will not, will not do.</p>
+             <p>MARIA.</p>
+             
+            <pb n="20" xml:id="pb-20" facs="#i32"/>
+             <p>LETTER VI.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>OH, St. Flos! I shudder at the idea! It is reported that you are going to enter into the army; that you are soliciting to be sent immediately against the enemies of your country. Consider well, "The soldier's occupation" is noble, it is honourable; but the choice should result from motives of reason, and the love of one's country, not from desperation, not from an idea, a wish, that in the difficulties of war, and</p>
+             
+            <pb n="21" xml:id="pb-21" facs="#i33"/>
+             <p>the dangers of battle, you may find a hasty period to existence.</p>
+             <p>It ceases then to be honourable, it becomes suicide! St. Flos, my beloved St. Flos, I have heard you express rather an aversion to a military life; you have said, that under an absolute government like ours, the "Soldier's Occupation was not an occupation of honour; that being necessarily and entirely attached to the monarch, from whom they derived every post of honour, they could not be very friendly to the liberties and true interests of the subject, or to the natural rights of all men.</p>
+             <p>Such were your sentiments. - Judge then if I am not warranted in supposing, that your choice originates in the last-mentioned motive, in desperation!</p>
+             
+            <pb n="22" xml:id="pb-22" facs="#i34"/>
+             <p>St. Flos, you think, perhaps, because I argue so coolly, that my bosom's storm is hushed; ah, how are you mistaken! The cruel necessity that separates us for ever, that banishes the beloved of my heart from the place of his nativity, from his country, can I forget? Or, will not the remembrance swell my bosom with affliction? Too sure it will.</p>
+             <p>But it has pleased the Almighty Disposes of Events to endue me with fortitude; I kneel often to him, to grant me resignation to his will; and my prayers are not breathed in vain. Do you also, St. Flos, offer up your prayers to him</p>
+             <p>Believe me you will offend him, if thus in despair you brave the cannon's mouth, the enemy's sword, and rush</p>
+             
+            <pb n="23" xml:id="pb-23" facs="#i35"/>
+             <p>rudely and unbidden into his awful presence.</p>
+             <p>Yet even should you remain unconvinced by my arguments, still you will not refuse my request; and if Maria intreats of St. Flos not to leave his native country, will he refuse to stay?</p>
+             
+            <pb n="24" xml:id="pb-24" facs="#i36"/>
+             <p>LETTER VII.</p>
+             <p>ST. FLOS to MARIA.</p>
+             <p>AND why not enter into the army? Why not, Maria, solicit to be sent immediately against the enemies of my country? Because the determination is the result of despair! Such is your argument against it. For me, I say, I am tired of life; every thing for which I wished to live is denied me, and only in death can I be happy.</p>
+             <p>You call my resolution suicide! I deny that it is so. I would make the last action of my life beneficial; I will therefore enter into the service of my</p>
+             
+            <pb n="25" xml:id="pb-25" facs="#i37"/>
+             <p>country. The chance of war may be fatal to me; I know that the danger infinitely over-balances the safety; perhaps I am glad of it.</p>
+             <p>But do not others, who choose "the Soldier's Occupation," know the dangers of battle as well as myself? The only difference between us is, that their choice originates from a thirst for fame and honour, mine from a weariness of life, from despair!</p>
+             <p>And why, Maria, why should you oppose this determination? It is resolved that we shall see one another no more! Without you, I cannot but be miserable; it is impossible that the sparkling cup of pleasure should ever touch my lips again. Why, therefore, should you wish me to live in misery!</p>
+             
+            <pb n="26" xml:id="pb-26" facs="#i38"/>
+             <p>In death only can I be restored to happiness. When that event arrives, Maria should rather rejoice.</p>
+             <p>Oh, my beloved, I again repeat it, must we indeed be separated for ever! Shall St. Flos, your enamoured St. Flos, hang no more upon every look, every word, uttered by Maria? Shall she no longer repose her head upon his bosom, and hear him whisper peace to her soul? Are these scenes past for ever?</p>
+             <p>Alas! alas! they are, they shall return no more - Maria and St. Flos are separated for ever!</p>
+             <p>There is no alternative - Death now can alone put a period to the sorrows of</p>
+             <p>ST. FLOS.</p>
+             
+            <pb n="27" xml:id="pb-27" facs="#i39"/>
+             <p>LETTER VIII.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>THERE was a time when had but Maria breathed a wish, St. Flos would have not a moment hesitated to grant it. You have tried to combat my arguments, perhaps you are in the right; yet surely you might have granted something beyond the strict rule of right to my intreaties - But, I have done. You cannot without any sophistry remove my apprehensions for your safety; you cannot convince me, that on you the sword</p>
+             
+            <pb n="28" xml:id="pb-28" facs="#i40"/>
+             <p>of the enemy will fall harmless. Oh, no! no! no!</p>
+             <p>E'en now I see you engaged among the thickest; desolation spreads wide her terrors round you; I see the sword uplifted over the head of my St. Flos. - It falls upon him. - He sinks! His blood flows in streams upon the ground! - He breathes his last! - He dies!</p>
+             <p>Almighty God, spare me! spare me! My head is distracted, my brain is on fire.</p>
+             
+            <pb n="29" xml:id="pb-29" facs="#i41"/>
+             <p>LETTER IX.</p>
+             <p>ST. FLOS TO MARIA.</p>
+             <p>WHY should you afflict yourself in such a manner, Maria? - The die is cast. - Let not your imagination represent to you that I am engaged in the perils of war; think that I am in some convent, wearing out the remainder of my days in prayer and penance.</p>
+             <p>Oh, my dear, my ever-loved Maria, how shall I bid you farewell for ever? Now that I mean to take a final adieu, how shall I summon up fortitude sufficient?</p>
+             
+            <pb n="30" xml:id="pb-30" facs="#i42"/>
+             <p>Alas, the tears will flow, in spite of my attempts to prevent them.</p>
+             <p>Adieu, Oh, adieu! my never to be forgotten love. - Think of your unhappy St. Flos - Remember him in your midnight and morning oraisons to Heaven; and - Adieu, FOR EVER!</p>
+             <p>ST. FLOS.</p>
+             
+            <pb n="31" xml:id="pb-31" facs="#i43"/>
+             <p>LETTER X.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>YOU persist in your determination; the tears, the intreaties of Maria have no effect; you are proof against them all. Go then, since you will go - Go, and take with you the prayers of your Maria; who now on her knees, with hands uplifted to Heaven, solicits the Almighty to suffer her St. Flos to walk amidst the storm of battle harmless - to unnerve the arm that would wound - to turn aside the sword that would fall upon him - to protect him, oh! from every danger, every peril, that may surround him!</p>
+             
+            <pb n="32" xml:id="pb-32" facs="#i44"/>
+             <p>LETTER XI.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>ST. FLOS, the violet throws as sweet a perfume to the gale, the lilly scatters her delightful fragrance as profusely as in happier days - but the sweet perfume of the violet, and the delightful fragrance of the lilly, please me no longer.</p>
+             <p>I view the rose-tree, not to taste its sweets, but to indulge my meditations upon it - I view the buds and the numberless thorns that surround each - I compare them with life: The bids are the days of happiness we enjoy; the thorns, the</p>
+             
+            <pb n="33" xml:id="pb-33" facs="#i45"/>
+             <p>days of misery; and, ah! how small a proportion do the former bear to the latter!</p>
+             <p>St. Flos, I make you melancholy, when I would speak comfort to your soul: I would talk to you of future hours of happiness if I could; but, alas! little able is that heart to afford consolation to another, which is sinking beneath the weight of its own afflictions.</p>
+             
+            <pb n="34" xml:id="pb-34" facs="#i46"/>
+             <p>LETTER XII.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>ST. FLOS, if I guess right, and you persevere in your intentions, you are now upon that vast expanse of waters, the ocean, far distant from your native country; and, oh! much further from Maria. The idea of tempests, of storms and shipwrecks, is nearly as dreadful to my mind as the perils of battle. </p>
+             <p>Beloved of my heart, though the (I had almost said inhuman) Curate has forbidden our union, though he has placed</p>
+             
+            <pb n="35" xml:id="pb-35" facs="#i47"/>
+             <p>an inseparable bar betwixt us; yet, is not your happiness the first wish of my breast? Is not each prayer that ascends to Heaven filled with wishes for your safety? Ev'n now, have i not been invoking the Almighty to permit not the bosom of the ocean to swell with anger; to quell the raging of the storm; to suffer not the tempest to pour forth its horrors; and to land you in safety on the shores of the Western World!</p>
+             <p>Yet, what have I wished? Have I requested of Heaven to spare you from the perils of the ocean, that you may encounter the horrors of desolating war!</p>
+             <p>St. Flos, if it be decreed that you must perish, happier would it be fore you to sink with innocence beneath the fury of the waves, than to perish in battle</p>
+             
+            <pb n="36" xml:id="pb-36" facs="#i48"/>
+             <p>with the blood of the slaughtered enemy upon your head.</p>
+             <p>The Almighty God, however, take you under his protection; Whatever his decrees are, they must be right; and with that assurance, let us endeavour to bend our hearts to submit to them.</p>
+             <p>And yet, St. Flos, is it not? - But, shall I repine? Adieu, my beloved! - I shall hear from your when you are arrived at your destined post; till which time I shall defer writing to you, fearful that my letters may not reach you.</p>
+             <p>MARIA.</p>
+             
+            <pb n="37" xml:id="pb-37" facs="#i49"/>
+             <p>LETTER XIII.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>ONE - two - three long months, and I have not heard from you; not a single line!</p>
+             <p>What, what, St. Flos, am I to think? That any accident has happened? Gracious God, forbid!</p>
+             <p>That you think no more - have forgotten me - I will not indulge such an idea. Keep me no longer in this torturing state of suspence; tell me quickly. I have learned the destination of your</p>
+             
+            <pb n="38" xml:id="pb-38" facs="#i50"/>
+             <p>regiment - I send this short letter instantly. As soon as you receive this, you will, I know, regard the distracted situation of my soul, and calm the fears of my agonized bosom.</p>
+             <p>MARIA.</p>
+             
+            <pb n="39" xml:id="pb-39" facs="#i51"/>
+             <p>LETTER XIV.</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>ANOTHER long, lingering month has elapsed, and still I have heard nothing. When you receive this, I command you to write, St. Flos - Command you - Oh no! - I beg you to relieve my apprehensions. My brain beats violently; my heart is often so oppressed, that I think the shades of death are on the point of encompassing me: I sink upon the ground, fainting, and unable to support the burthen of</p>
+             
+            <pb n="40" xml:id="pb-40" facs="#i52"/>
+             <p>life - A flood of tears comes then to my relief, and I am somewhat better. St. Flos, I entertain a thousand different ideas of what has been the reason of this silence; perhaps not one of them is the real cause.</p>
+             <p>If you have not ceased to love me, you will pity my situation, and alleviate the horrors of it.</p>
+             <p>MARIA.</p>
+             
+            <pb n="41" xml:id="pb-41" facs="#i53"/>
+             <p>LETTER XV.</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>SUSPENCE - what a dreadful inmate of the breast - its sensations how dreadful to support! St. Flos, did you ever feel them? Oh! no - no - impossible! - Else you would pity and relieve me from them.</p>
+             <p>MARIA.</p>
+             
+            <pb n="42" xml:id="pb-42" facs="#i54"/>
+             <p>LETTER XVI.</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>A RAY of hope darts into my bosom; and now it recedes, and leaves me in hopeless despair. All is dark, dark, and dismal. St. Flos, good night - I will not keep you longer from your repose - You can enjoy it, though I am unable.</p>
+             <p>MARIA.</p>
+             
+            <pb n="43" xml:id="pb-43" facs="#i55"/>
+             <p>LETTER XVII.</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>THE phantom is gone! It would have persuaded me, St. Flos, that you were faithless and inconstant. I would not believe it; I replied, that you had vowed so often, and so solemnly; and that vows were not made to be broken. St. Flos, am I not in the right?</p>
+             <p>MARIA.</p>
+             
+            <pb n="44" xml:id="pb-44" facs="#i56"/>
+             <p>LETTER XVIII.</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>I WRITE - yet why do I write? - I remember - St. Flos, your memory is gone, and I write to remind you that there is such a person as Maria; and that - But hush, the storm subsides, and I must not pour a note upon the gale, to interrupt the universal calm without - Within, ah! the storm rages still.</p>
+             <p>MARIA.</p>
+             
+            <pb n="45" xml:id="pb-45" facs="#i57"/>
+             <p>LETTER XIX.</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>"THE wide world of waters" rolls betwixt us - the big wave has borne St. Flos far from Maria - Another country holds him now - and other thoughts. Is it not true, St. Flos?</p>
+             <p>MARIA.</p>
+             
+            <pb n="46" xml:id="pb-46" facs="#i58"/>
+             <p>LETTER XX.</p>
+             <p>(Written some months after the XV. XVI. XVII. XVIII. and XIXth Letters.)</p>
+             <p>MARIA to ST. FLOS.</p>
+             
+             <p>THE nightingale pours her woe-worn note upon the gale, unheard and disregarded. Maria breathes forth her sorrows to St. Flos; he hears them not, he turns from them. It is no longer doubtful.</p>
+             <p>And has so short an absence changed St. Flos? So soon to have forgotten me! False! - ungrateful! - perjured! - What</p>
+             
+            <pb n="47" xml:id="pb-47" facs="#i59"/>
+             <p>have I said? - Let me remember - Alas! my memory is very treacherous - I forget every thing - no - not every thing - But, no matter.</p>
+             <p>Absence - it is a potent draught - it washes away the remembrance of oaths - it breaks the bond of affection - it dips the vow of constancy in Leathe's stream. Does not absence produce these effects, St. Flos? And yet, why has it not shed one me its influence? - Why has it not enabled me to banish St. Flos from my remembrance? Alas! - But why should I proceed? -</p>
+             <p>Maria is beloved no longer by St. Flos. 'Tis sufficient. Whether St. Flos possesses still the affection of Maria, it is not necessary to discuss.</p>
+             <p>What St. Flos is, oh, ABSENCE, enable</p>
+             
+            <pb n="48" xml:id="pb-48" facs="#i60"/>
+             <p>enable me to forget - What he was, alas! banish never from my mind - That he is faithless, inconstant, perjured, oh! let me not remember: That he was the tender, the affectionate St. Flos, the faithful lover of Maria, MEMORY bring to my remembrance, till each pulsation of my body shall cease to vibrate.</p>
+             <p>As such, in my morning and evening oraisons, let me pray for his happiness; and though disunited now for ever, in my invocations to Heaven, the names of ST. FLOS and MARIA shall still be joined together.</p>
+             
+            <pb n="49" xml:id="pb-49" facs="#i61"/>
+             <p>LETTER XXI.</p>
+             <p>MARIA to ST. FLOS.</p>
+             <p>THIS is the last letter you will receive from me - It is resolved - I must bid you farewell for ever! St. Flos, you have deceived me; you have put an end to every expectation of happiness I had formed; you have almost - But I will not complain - I will not upbraid you - I have a thousand things to say, but my brain beats violently - my memory is quite, quite gone - I must lay down the pen, and recollect -</p>
+             
+            <pb n="50" xml:id="pb-50" facs="#i62"/>
+             <p>At midnight, I love to indulge in solitude my reflections - I wander through the neighbouring grove undisturbed - I hear the plaintive notes of the nightingale - The busy voice of man intrudes not then upon me - I am at liberty to think, even unto madness.</p>
+             
+             <p>it is quite, quite gone - I have no longer the faculty of memory - I am unsettled - I wander about, and find no where rest for the sole of my foot - My heart sometimes throbs so violently, as if it would burst my bosom, and then it ceases almost to beat at all, and becomes chilled and cold. But why should I complain? - I would not make your melancholy - though, perhaps -</p>
+             
+            <pb n="51" xml:id="pb-51" facs="#i63"/>
+             <p>I said this should be the last letter you should ever receive from me! - It shall be - Maria shall no more intrude her sorrows upon St. Flos. There was a time when he would have flown to alleviate them; there was a time - but it is past. Go, then; assure yourself that Maria shall never disturb your happiness: Her woes shall be told to the midnight breeze - they shall be kept to herself.</p>
+             <p>Adieu, then! - Oh my heaving heart! - Adieu, for ever! - Think of me but as of one who was, and is not - of one who no longer remains an inhabitant of this world. Would I were not! Would to Heaven that I could this moment lay down life's wearying burthen - that the sigh that now bursts from my bosom were the last!</p>
+             
+            <pb n="52" xml:id="pb-52" facs="#i64"/>
+             <p>Adieu, St. Flos, for ever! - The Almighty and the blessed Virgin take you under their protection - Maria shall not forget you in her prayers.</p>
+             <p>Again - Oh my throbbing bosom! - adieu, FOR EVER.</p>
+             <p>MARIA.</p>
+             
+            <pb n="53" xml:id="pb-53" facs="#i65"/>
+               <p>LETTER XXII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>THE Almighty is displeased with me, my Annette; he has visited me with affliction. It is necessary that I should make some atonement. I have resolved to do it. - I will go on a pilgrimage to Rome. My purpose is fixed; it is unalterable. If it please Heaven that I shall return, I shall return more worthy of the affection of my Annette: If I revisit no more the spot where, alas! happier days have been passed, I shall die</p>
+               
+            <pb n="54" xml:id="pb-54" facs="#i66"/>
+               <p>more worthy perhaps of the mercy of Heaven. My Annette, weep not for your friend; she has devoted the remainder of her life to God: He will not desert her!</p>
+               <p>MARIA.</p>
+               
+            <pb n="55" xml:id="pb-55" facs="#i67"/>
+               <p>LETTER XXII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>MY Annette, you would persuade me from my purpose - you would shake my resolution, by representing the dangers to which I am going to subject myself. It is in vain: God demands of me this sacrifice. My friend, will he not stretch his protecting arm over me, wherever I wander? His mercy is not confined; the monarch and the peasant partake of it alike. Shall then the hapless Maria be alone excluded? - Shall the precious balm be denied only to her? - Oh, no,</p>
+               
+            <pb n="56" xml:id="pb-56" facs="#i68"/>
+               <p>my Annette; the goodness of God is infinite. I go, then - I go with confidence - My little goat will be my only companion.</p>
+               <p>Farewell! - Let not the warm wish of a friend be denied to</p>
+               <p>Thy unhappy MARIA.</p>
+               
+            <pb n="57" xml:id="pb-57" facs="#i69"/>
+               <p>LETTER XXII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>ANNETTE, you have been my companion and my friend from the earliest period of our lives - together we have kissed, at early dawn,</p>
+               <note>line of poetry below in smaller type</note>
+               <p>"The dew-drop from the rose" -</p>
+               <p>have wandered o'er the distant hills - or explored</p>
+               <note>line of poetry below in smaller type</note>
+               <p>"The many labyrinths of the grove."</p>
+               <p>Ah, Annette, it was in that grove I saw first - But hush - no more of that subject -</p>
+               
+            <pb n="58" xml:id="pb-58" facs="#i70"/>
+               <p>Annette, I am going to bid you adieu - I am preparing to set out on a long journey - I can find rest no where - I love to wander - It is the only pleasure I have - it soothes - it pours balsam into a heart more than half broken with afflictations.</p>
+               <p>MARIA.</p>
+               
+            <pb n="59" xml:id="pb-59" facs="#i71"/>
+               <p>LETTER XXV.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>"THE first lark of the morn" saw me depart from Moulines - all nature looked cheerful and at peace. But peace dwelt not within my bosom; and the delightful prospect was not enjoyed.</p>
+               <p>Annette, what are delightful scenes to a heart swoln with sorrow and affliction?</p>
+               <p>I have travelled all day. The sun's last ray has been poured upon the earth, and the shades of night begin to descend. - Tired, and fatigued, I must be indebted to the humble tenants of some</p>
+               
+            <pb n="60" xml:id="pb-60" facs="#i72"/>
+               <p>cottage for a few hours repose, in order to enable me to continue my journey. -</p>
+               <p>Some plaintive notes drawn from my pipe procured me a willing admittance into a neat little cottage, situated in a beautiful vale between two hills. The possessors of this little spot welcomed me with a sincerity too seldom to be found in higher stations. Perhaps they saw that I was tired and fatigued, and perhaps my countenance indicated the sorrows of my heart; for they softened their voices into the tone of pity, and placed instantly before me some new milk and a few bunches of grapes, neatly laid on vine leaves, pressing me, at the same time, to partake of their humble fare.</p>
+               
+            <pb n="61" xml:id="pb-61" facs="#i73"/>
+               <p>What a lesson of humanity could they teach kings!</p>
+               <p>I was affected at their humane treatment, and prayed of the blessed Virgin to grant them happiness and peace.</p>
+               <p>The brow of the husband was instantly clouded, and that of the wife softened into an expression of sorrow and grief.</p>
+               <p>"Stranger, (said the husband, with a certain manliness of expression which indicated his condition to be inferior to his birth) that wish, I fear, will never be accomplished. - Not two years are elapsed since Heaven saw me happy in the embraces of two of the most dutiful children in the world. - James, by his diligence and his industry, made my little farm flourish; and a lot, which I had thought rather inferior to my expectations,</p>
+               
+            <pb n="62" xml:id="pb-62" facs="#i74"/>
+               <p>expectations, supportable: He eased me of the more laborious part of the work, and by his dutiful attention to his parents, deserved of human nature the palm for filial affection!"</p>
+               <p>Good James! - I involuntarily exclaimed. -</p>
+               <p>"Ah, he was good, indeed," sighed the wife, the tears trickling down her furrowed cheeks. The husband continued his story -</p>
+               <p>"While James and I were in the field, Mary would take all the houshold under her care and management: She would not suffer her mother to fatigue herself, but provided with her own hands our cheerful repast by the time we returned from work. Ah, she was an excellent and a lovely girl! - and James was a </p>
+               
+            <pb n="63" xml:id="pb-63" facs="#i75"/>
+               <p>well-made, manly youth! - Those were days of happiness, indeed! -</p>
+               <p>"The lord of the village - (the old man here bit his lips, and contracted his brows into a ferociousness of aspect which soon however changed, and throwing up his eyes to Heaven, he seemed in silence to ask submission to its decrees.)</p>
+               <p>"The lord of the village (continued he) saw my little innocent Lamb, and, like the Wolf, practised every wile to destroy her. - Oh, he too fatally succeeded; she was not a match for his arts! - and she fell! - Wretched girl! - unhappy Mary! - May the blessed Virgin intercede for thy pardon! -</p>
+               <p>"Her Seducer (continued the old man) urged her to leave her parents, and accompany him. The poor girl</p>
+               
+            <pb n="64" xml:id="pb-64" facs="#i76"/>
+               <p>consented; and with her flight, fled all our happiness on this side of the grave. -</p>
+               <p>"My son, who loved his sister with the tenderest affection, resolved to go in search of her, and, if possible, persuade her to return to virtue and to her parents. Ill fated youth, (groaned the old man) he found out her Seducer, fought him, and met his death!"</p>
+               <p>In spite of his endeavours to prevent them, the tears gushed in torrents from his eyes, and deep groans seemed as if they would burst his bosom. The wife found the recollection too much for human nature to support; she sunk lifeless on the floor. As well as my strength would permit me, I lifted her into a chair. Her husband was transfixed with sorrow to his seat: He could not move;</p>
+               
+            <pb n="65" xml:id="pb-65" facs="#i77"/>
+               <p>but fixing his eyes upon his wife, groaned out - "Mary, Mary, what hast thou brought upon thy wretched parents!"</p>
+               <p>It was near an hour before I had recovered her, and restored them both to some degree of calmness. Finding myself then not inclined to sleep, and somewhat relieved from my fatigue, I arose to pursue my journey. My kind entertainers would fain have persuaded me to stay all night; but I resisted their intreaties, and putting up a prayer to Heaven for the restoration of their peace, left this mansion of misery.</p>
+               <p>Annette, it is in the school of Adversity that the heart is softened, and learns to feel and pity the distresses of others. - My those who turn from the petition of the wretched with contempt, drink as</p>
+               
+            <pb n="66" xml:id="pb-66" facs="#i78"/>
+               <p>much of the bitter cup of affliction as will teach them not to pour an unnecessary pang into the bosom of the afflicted!</p>
+               <p>MARIA.</p>
+               
+            <pb n="67" xml:id="pb-67" facs="#i79"/>
+               <p>LETTER XXVI.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>Periau, -</p>
+               <p>I TRAVEL but slowly; I have been four days in reaching this place. Oh, Annette, my mind is so agitated, that I am unable to endure much fatigue of body - Faint, and ready to expire, I am often forced to retire to the grateful shade of some wood to rest myself: I there play my service to the blessed Virgin, and find myself comforted.</p>
+               <p>It was on the second evening of my</p>
+               
+            <pb n="68" xml:id="pb-68" facs="#i80"/>
+               <p>departure from Moulines that a stranger,* while I was sitting under a poplar by the road side, alighted from a chaise, and seating himself by me, accosted me in a voice of peculiar softness and sensibility. He pitied and wept at my afflictions - wiped the tear as it gushed from my eye - and would have poured into my bosom the sweet balm of consolation. But, Oh! - (I may open my whole heart to you) - what, what can heal the pangs of disappointed love? -</p>
+               <p>MARIA.</p>
+               <p><note>footnote</note>*The Author of the Sentimental Journey.</p>
+               
+            <pb n="69" xml:id="pb-69" facs="#i81"/>
+               <p>LETTER XXVII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>THE description of the places through which I pass expect not from me: It is not for amusement that I wander; all places are indifferent to me: Magnificent edifices, stately palaces, the sweet prospect, the cheerful landscape, are all, all unnoticed and disregarded! I have dedicated myself to God, and am endeavouring to banish all earthly thoughts from my mind.</p>
+               <p>MARIA.</p>
+               
+            <pb n="70" xml:id="pb-70" facs="#i82"/>
+               <p>LETTER XXVIII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>THE wind roars aloud for a while, and then it subsides, and sighs gently through the grove. Annette, I have heard it is so with grief; that the lenient hand of Time will soften its power, and the force of Reason will teach the heart to bear it.</p>
+               <p>Ah, Annette, I feel that this is not true: The sorrow that swells my bosom was never loud; it has sunk into my</p>
+               
+            <pb n="71" xml:id="pb-71" facs="#i83"/>
+               <p>heart, and though silent is deep: It preys upon my peace, and will end but with the last breath of life.</p>
+               <p>MARIA.</p>
+               
+            <pb n="72" xml:id="pb-72" facs="#i84"/>
+               <p>LETTER XXIX.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>I HEARD his voice 0 in snowy robes he beckoned me to the Realms of Light! He smiled upon me! Ah, Annette, can I believe him? - Did he not - But hush - he is purified from his sins, and is an Angel of Truth! He beckons me to join him! Alas, I cannot - I must perform my vow - I must reconcile myself to God, and by prayer make myself more worthy of his affection.</p>
+               <p>Ah, Annette, how my ideas wander!</p>
+               
+            <pb n="73" xml:id="pb-73" facs="#i85"/>
+               <p>- My brain is giddy - my head aches - My memory is quite, quite gone. - I know not how far I have wandered, or how I was enabled to support myself! It was the goodness of God protected me - HE, HE, Annette, tempers the wind to the shorn lamb.</p>
+               <p>MARIA.</p>
+               
+            <pb n="74" xml:id="pb-74" facs="#i86"/>
+               <p>LETTER XXX.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>I AM far, far from any town, and from the society of men: The limpid stream and some dried grapes have for some time been my only sustenance. When the shades of evening begin to descend, I play my Evening Service to the blessed Virgin, and lay myself down under the shade of some tree, to obtain a few hours repose: My faithful goat is my protector, and seats himself at my feet to guard me. Sometimes, perhaps, I behold</p>
+               
+            <pb n="75" xml:id="pb-75" facs="#i87"/>
+               <p>hold a solitary cottage, and obtain a ready admittance and a welcome to partake of the fare the inhabitants of it can produce. Ah, Annette, Humanity is not confined to crouded cities; in these solitary cottages, far, far distant from the busy haunts of men, she lives in her greatest purity: The humble cottagers, untainted by vice, are intent only on the means of subsistence, and of paying their adoration to God.</p>
+               <p>When I approach a cottage, I play my Service to the Virgin: The poor people instantly hasten out of their dwelling, and with their children encircling me, press me, with an aukward but sincere politeness, to partake of the fare of their cottage with them. After the frugal meal is ended, they ask me questions of</p>
+               
+            <pb n="76" xml:id="pb-76" facs="#i88"/>
+               <p>the world, and of the inhabitants of great cities: To these I always give such answers as I know will deter them from visiting them.</p>
+               <p>Annette, their innocence would be badly bartered for knowledge of the world: Here they have no temptation to act wrong; and though, perhaps, they may be virtuous through necessity and an inability to do ill, the Almighty will not be less pleased with them on that account!</p>
+               <p>MARIA.</p>
+               
+            <pb n="77" xml:id="pb-77" facs="#i89"/>
+               <p>LETTER XXXI.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>I AM now, Annette, on the Alps - My goat has forsaken me, and I am left to steer my course alone. The face of human nature here how awful! - As I wander along a narrow path on the side of one of the mountains, I look up, and behold the summit of it covered with an eternal snow - perhaps too, in dreadful majesty, overlooking the path I tread, and seeming as if each moment it would fall and overwhelm me. When I cast my eyes downward, I behold a tremendous</p>
+               
+            <pb n="78" xml:id="pb-78" facs="#i90"/>
+               <p>tremendous precipice, hundreds of feet deep: The idea chills my very soul! Yet even these dreary wilds are not uninhabited - I meet often with solitary cottages, the inhabitants of which are extremely hospitable and humane, and after affording me refreshment and repose, accompany me a part of the way on my journey, and direct me to the safest and the nearest paths - The blessed Virgin take them under her protection! By their assistance I have escaped the dangers that surrounded me, and have now almost attained the plain that stretches from the foot of the mountains. My strength wastes apace, and I am tired and fatigued - But oh, my Annette, what is the fatigue of the body to that of the mind? -</p>
+               <p>MARIA,</p>
+               
+            <pb n="79" xml:id="pb-79" facs="#i91"/>
+               <p>LETTER XXXII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>I TREAD on the confines of the dominions of his Holiness the Pope - my pilgrimage will soon be ended - But alas, Annette, when will my heart cease to ache? Never - never - never - It is fixed - it will not be removed - it has become part of my existence.</p>
+               <p>The convent of St. Genevieve - the wretched Adelaide! - Bosom, treasure it up till life itself with thy last throb shall cease.</p>
+               
+            <pb n="80" xml:id="pb-80" facs="#i92"/>
+               <p>Annette, it was in the dead of night - the road was solitary and dreary - I was wandering on in hopes of finding out a cottage in which I might obtain some refreshment. At the end of a long avenue of poplars, I beheld an antique building: What is was, I could no then discover; but making use of the pilgrim's liberty, I resolved to advance nearer to it. I observed people going in, and heard the solemn dirge swelling from the organ. I entered, and found myself in the chapel of a convent, dedicated to St. Genevieve. I knelt down, offered up my prayers, and approached the altar.</p>
+               <p>The organ ceased its solemn music, and an awful silence reigned. At the extremity of the aisle a company of nuns</p>
+               
+            <pb n="81" xml:id="pb-81" facs="#i93"/>
+               <p>appeared, walked slowly up, and ranged themselves on each side of the altar. They were followed by a Virgin, richly habited, whose year of probation being expired, was going to take the veil. Her eyes were cast upon the ground, and her clasped hands, at each step she took, were lifted up to Heaven. Poor victim! I exclaimed, hast thou experienced the heavy hand of Sorrow? - So fair a flower! - So young! -</p>
+               <p>When she had reached the altar, she dropped on her knees, and covered her face with both her hands. The priests advanced - a sudden horror seized me. - They began the ceremony - In a tone of voice scarcely audible, and tremulous, the unhappy maid gave the responses. When she was asked, if she</p>
+               
+            <pb n="82" xml:id="pb-82" facs="#i94"/>
+               <p>consented to banish all worldly thoughts from her breast? - she lifted up her streaming eyes to Heaven, and bowed her half-unwilling consent.</p>
+               <p>The irrevocable words had passed her lips - the ceremony was over! The organ swelled its solemn notes again, and the nuns began to disrobe the poor victim of her rich habiliments. Insensible to what they were doing, she suffered herself to be clothed in the habit of the order: When they had finished their task, the priests pronounced her wedded to the convent's "sainted gloom and holy horrors" for the remainder of her life. - She sighed deeply, crossed her arms upon her bosom, and wept. The procession began in the same order to return: A different scene presented itself to the</p>
+               
+            <pb n="83" xml:id="pb-83" facs="#i95"/>
+               <p>view - A noise at the end of the aisle roused the attention of every on e- Wildly through the croud rushed a gentleman disordered in his dress, his hair flowing loosely on his shoulders: He dropped on his knees before the new nun - "Adelaide! my Adelaide! am I too late, my love?" She screamed, and waved her hand for him to leave her. He started up - "Never - never, (he cried) never! They shall not part us - By Heaven they shall not!" The unhappy Adelaide, still continuing to wave her hand for him to leave her, exclaimed, in a feeble tone of voice - "Saintonge, why do you interrupt me now? - It is all over - Your inconstancy has completed the measure of my woes - Leave me, I beseech you." </p>
+               
+            <pb n="84" xml:id="pb-84" facs="#i96"/>
+               <p>The priests, who had been seized with such astonishment as to make them incapable of interposing before, would have taken the lover of Adelaide away by force; but he drew his sword, and threatened them with instant death, if they dared to touch her.</p>
+               <p>"Here me, Adelaide! (he continued) You think me false: It belongs to me to undeceive you." "Oh, no - uo, (she plied) do not add to my sorrows, by making me lament the step I have taken." "It must be, Adelaide; I cannot live under such an imputation: You were deceived; I left you, by the commands of my father, to join my regiment; I had not time even to acquaint you with my departure, for he accompanied me. In the first engagement I</p>
+               
+            <pb n="85" xml:id="pb-85" facs="#i97"/>
+               <p>was wounded, and made prisoner. A dungeon was my habitation for many months." - Adelaide wept. - "I had no opportunity of writing or acquainting you with my imprisonment. An exchange of soldiers at length released me: I flew home - learnt, oh! Adelaide, that you had retired to this convent, and were going to take the veil. Almost distracted, I hastened hither; and what, what do I behold? - my Adelaide separated from me for ever!" The agonies of his soul choaked his utterance: He clenched his hands, and held them to his forehead. The wretched Adelaide said not a word; excess of sorrow kept her silent. The priests, who had by this time collected the servants of the convent, attempted to separate them by</p>
+               
+            <pb n="86" xml:id="pb-86" facs="#i98"/>
+               <p>force. Adelaide screamed, and Saintonge struggled. It was in vain: The unhappy maid was torn away. As they were dragging her down the aisle, Saintonge seemed to be inspired with more than mortal strength - he burst from the gripe of those who held him, upon whom he drew his sword, and plunged it into the heart of him who was nearest; then, Adelaide being out of sight, he exclaimed - "Human Nature cannot support this!" - ingulphed the sword deep into his own breast - and expired.</p>
+               <p>Hapless victims of affection! - Wretched Adelaide! - Unfortunate Saintonge!</p>
+               <p>MARIA.</p>
+               
+            <pb n="87" xml:id="pb-87" facs="#i99"/>
+               <p>LETTER XXXIII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>I HAVE arrived at the end of my journey, have walked twice round the church of St. Peter, and have recommended myself to the blessed Virgin in it. My vow is performed, and I prepare to measure my steps back again: Heaven knows whether I shall ever accomplish my purpose - my strength is exhausted - my fortitude almost gone - my body wasted by ill health.</p>
+               <p>Annette, I cannot write often; it fatigues</p>
+               
+            <pb n="88" xml:id="pb-88" facs="#i100"/>
+               <p>fatigues me too much: The tears that have flowed from my eyes have weakened my sight. Annette, if ever you behold me again, you will scarce recognize, in my present altered appearance, your once happy friend. She is changed! - oh, how changed!</p>
+               <p>MARIA.</p>
+               
+            <pb n="89" xml:id="pb-89" facs="#i101"/>
+               <p>LETTER XXXIV.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>I PROCEED on my return slowly: My shoes have been long worn out; the flints wound my feet, and prevent me from travelling fast: Yet do I not droop. It is the goodness of God that strengthens and bears me up. Annette, when I feel my fortitude decaying, I kneel, and offer up my prayers to him. He hears them: He grants my petition; and I rise, with renewed spirits, to undertake my journey.</p>
+               
+            <pb n="90" xml:id="pb-90" facs="#i102"/>
+               <p>A little dog is now my companion: He followed me from Rome; and lest he should leave me, like my faithless goat, I have tied a ribbon round his neck, which I have fastened to my arm. The faithful animal, however, shews no disposition to forsake me. But who can tell, Annette; time may alter his disposition: There have been those who were as faithful as my Sylvio; but who are now -</p>
+               <p>Oh, Annette, I have touched too delicate a chord - its vibrations are too, too exquisite - I must leave off.</p>
+               <p>MARIA.</p>
+               
+            <pb n="91" xml:id="pb-91" facs="#i103"/>
+               <p>LETTER XXXIII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>ANNETTE, you have seen the flower droop for want of the refreshing shower; you have marked how, when the rain descends, it rears its head again, and is relieved: Thus it is with me; I feel sometimes my heart sinking; and a sickly faintness overpowering me, I think that the moment of dissolution is at length arrived. A shower of tears comes to my relief - I sigh - The tears and the sighs relieve me; the faintness goes off; and I am comforted.</p>
+               
+            <pb n="92" xml:id="pb-92" facs="#i104"/>
+               <p>The flinty roads of Savoy wounded my feet, and I have been often forced to rest at a cottage for some days before I could proceed. I have bound now my feet with long grass, which protects them from the power of the flints; and I walk with more ease.</p>
+               <p>My little Sylvio bears the journey pretty well; he is my comforter, as well as my guardian: When overpowered with fatigue and sorrow, I seat myself under some tree to give vent to my woes, he looks up in my face, and tries, by licking my hands and jumping up into my lap, to comfort me: If I take no notice of him, he watches my face till tears coming to my assistance relieve me; and then he expresses his pleasure</p>
+               
+            <pb n="93" xml:id="pb-93" facs="#i105"/>
+               <p>and satisfaction by frisking round me and jumping.</p>
+               <p>Poor Sylvio! thou teachest a lesson even to those who are placed over thee - There are who have been less sensible to the woes of Maria than thou hast been; who have even added to the pangs which agitated her breast.</p>
+               <p>Annette, may you never experience the truth of this assertion - never feel what kind of sensation that is, which owes its origin to neglect.</p>
+               <p>MARIA.</p>
+               
+            <pb n="94" xml:id="pb-94" facs="#i106"/>
+               <p>LETTER XXXVI.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>THOUGH drooping and descending to the grave by quick and certain steps - woe-worn and forlorn - I have, at length, almost accomplished my purpose: I have entered Bourbonnois, and shall soon be in the arms of Annette. Friend of my heart! I hope I have now atoned for my offences against the Almighty, and that he will receive me into his mercy. My thoughts are fixed alone on Him; and though some wandering</p>
+               
+            <pb n="95" xml:id="pb-95" facs="#i107"/>
+               <p>wandering ideas will stay elsewhere, I do not indulge them - I check, I give them not encouragement. Annette, Heaven will not pour its vengeance on me for these involuntary offences: They are proofs that human nature and perfection are incompatible with each other; and that every idea of mortality must be connected with that of imperfection and sin.</p>
+               <p>Adieu, my Annette! - I shall write no more!</p>
+               <p>NARIA.</p>
+               
+            <pb n="96" xml:id="pb-96" facs="#i108"/>
+               <note>blank page</note>
+               
+            <pb n="97" xml:id="pb-97" facs="#i109"/>
+               <p>ADDENDA</p>
+               <p>OF THE</p>
+               <p>EDITOR;</p>
+               <p>AND</p>
+               <p>ACCOUNT</p>
+               <p>OF THE</p>
+               <p>DEATH OF MARIA.</p>
+               <p>ON her arrival at Moulines, soon after the date of the last letter, the suffering Maria was seized with a violent fit of illness. The fatigue she had undergone, both in body and mind, had nearly overwhelmed her: The mercy of God, more</p>
+               
+            <pb n="98" xml:id="pb-98" facs="#i110"/>
+               <p>than the strength of her constitution, recovered her at length slowly. But her constitution was considerably impaired - her memory nearly gone - her ideas wandering - and the state of her mind bordering on that sort of insanity which is so peculiarly interesting.</p>
+               <p>Her countenance was pale and wan; yet there was something in it (as an elegant author*, who saw her soon after her pilgrimage expresses) "not earthly; but still it was feminine."</p>
+               <p>More than a year had elapsed since her return to Moulines, when she resolved to undertake a journey to a monastery of friars, situated at the extremity of Bourbonnois. The occasion of her journey was to have some doubts that</p>
+               <p><note>footnote</note>*Sterne.</p>
+               
+            <pb n="99" xml:id="pb-99" facs="#i111"/>
+               <p>hung upon her mind resolved: Of what nature they were, she never acquainted her friend Annette, from whom the Editor received this additional information.</p>
+               <p>The following letter, however, which she wrote soon after her arrival at the monastery, and some others written after her return to Moulines, we shall subjoin; being of material importance in the History of Maria.</p>
+               
+            <pb n="100" xml:id="pb-100" facs="#i112"/>
+               <p>LETTER XXXVII.</p>
+               <p>MARIA to ANNETTE.</p>
+               <p>Written from the Monastery of -</p>
+               <p>ANNETTE - my Annette - it is too much - He is not false - He never was inconstant - Maria may now depart in peace.</p>
+               <p>Beloved of my bosom, you remember the resolution I had formed to visit this monastery. On my arrival, Father Antonio was deputed to solve some doubts that I wished to have answered. He came - I opened them to him - He trembled - started - threw back his cowl,</p>
+               
+            <pb n="101" xml:id="pb-101" facs="#i113"/>
+               <p>and discovered to me the countenance of my - ST. FLOS! I know not what effect the surprize produced on me; but some time after I found myself seated on a chair, and St. Flos at my feet!</p>
+               <p>"Go, (said I to him) disturb me, St. Flos, no more - I have long forgiven your inconstancy, and may Heaven forgive it too. - Suffer me then to depart."</p>
+               <p>"Oh! no, Maria; hear me - but for a moment hear me."</p>
+               <p>"To what purpose, St. Flos?"</p>
+               <p>"I conjure you to grant my request. - You thought I was going against the enemies of my country! Alas, Heaven knows, my intentions were far different: However, I encouraged the idea, the better to effect my purpose; and even give out what regiment I belonged to.</p>
+               
+            <pb n="102" xml:id="pb-102" facs="#i114"/>
+               <p>Our union forbidden for ever, I departed from Moulines, hastened to this monastery, and took the vow prescribed to every one belonging to it. You wrote to me - Oh, Maria, I found that your letters, far from alleviating my sorrows, only increased them, and prevented me from performing my duty. I resolved not to answer them, nor even to open them: The sacrifice, alas! cost me much; but it was necessary to my peace, and I was resolved to make it. I thought too, that imagining me false, you would forget me sooner.</p>
+               <p>For this, Maria, pardon me; I meant it for our mutual benefit: I intended that you should never have known this, had not your presence forced the secret from me. Restored, I hope, to your</p>
+               
+            <pb n="103" xml:id="pb-103" facs="#i115"/>
+               <p>good opinion, I must bid you adieu, for ever! It is best that we should see one another no more - 'Twill only draw our thoughts from God. We may enquire after each other; and devoting ourselves to Heaven, perhaps our souls may be united in a better world. Adieu, then - oh, adieu!"</p>
+               <p>At the conclusion of this address, he drew the cowl over his face, to hide his emotions - waved his hand, and walked out of the room.</p>
+               <p>Excellent St. Flos! - How heroic! how worthy of thyself, thy resolution! - Do you not admire him, Annette?</p>
+               <p>What more has Maria now to desire? - Is not her St. Flos constant! - And yet, to be thus torn from each other!</p>
+               
+            <pb n="104" xml:id="pb-104" facs="#i116"/>
+               <p>- But I will not murmur - It is the will of Heaven; and the will of Heaven be done!</p>
+               <p>MARIA.</p>
+               
+            <pb n="105" xml:id="pb-105" facs="#i117"/>
+               <p>LETTER XXXVIII.</p>
+               <p>MARIA to ST. FLOS.</p>
+               <p> Moulines.</p>
+               <p>NOW that Maria knows where her St. Flos is - that she knows too he is worthy of her sincerest affection - shall she forbear writing to him? Oh, no - no - Heaven will not be displeased at our correspondence; for I will not in my letters, draw your mind from the duties of your holy station: I will endeavour to strengthen your resolution: I will tell you, that the price of our continuing</p>
+               
+            <pb n="106" xml:id="pb-106" facs="#i118"/>
+               <p>continuing steady in our adherence to God in this world will be, that our souls shall be suffered to mingle, and be united in that to come! 'Tis a thought that cheers my heart; it repays me for all, all the sorrows I have endured, of which, St. Flos, you know not the one half.</p>
+               <p>Dearest St. Flos, remember me in your prayers - In them let our names be united. - Adieu, my St. Flos, adieu!</p>
+               <p>MARIA.</p>
+               
+            <pb n="107" xml:id="pb-107" facs="#i119"/>
+               <p>LETTER XXXIX.</p>
+               <p>ST. FLOS to MARIA.</p>
+               <p>From the Monastery of -</p>
+               <p>WHEN you visited our monastery - when, (unexpected happiness!) I discovered my Maria - I felt my emotions too powerful; I was forced to retire abruptly to my cell, to hide them. Oh, my love, in that cell, how many tearful days and wretched nights have I passed,</p>
+               <p>Without a friend's soft voice to soothe my grief!</p>
+               <p>The eternal silence of the monastery - the solitude - the solemn horror of the</p>
+               
+            <pb n="108" xml:id="pb-108" facs="#i120"/>
+               <p>cell - all, all conspired to increase the melancholy of my soul. How, how many times, in the distraction and agony of my mind, have I been tempted to put a period to an existence become hateful! The Supreme Power, in mercy, however, prevented me; and, in the lapse of time, restored my soul to some degree of peace and composure.</p>
+               <p>Your presence in some measure disturbed my tranquillity, but not in a violent degree. Convinced that Maria still lives for me, I feel a sweetness in melancholy, which bids me hope that when the hour of our dissolution shall come, when our years shall be numbered and we shall pass from mortality to eternity, that we shall be united for ever, where</p>
+               
+            <pb n="109" xml:id="pb-109" facs="#i121"/>
+               <p>no envious Curate's power shall force us to separate more.</p>
+               <p>Adieu, Maria! Do not be afraid that your letters will interpose now between my God and me - they only bid me remember, in my daily prayers, to unite the names of Maria and</p>
+               <p>ST. FLOS.</p>
+               
+            <pb n="110" xml:id="pb-110" facs="#i122"/>
+               <p>LETTER XL.</p>
+               <p>MARIA to ST. FLOS.</p>
+               <p> Moulines.</p>
+               <p>THE traveller who has endured fatigue and sorrow, whose bosom has long been a stranger to peace, if he but meet at the end of his journey a cheerful home and smiling friends, does he not think his sorrows amply repaid?</p>
+               <p>Oh, St. Flos, Maria is convinced that he must think so. - She who has suffered so much, adown whose cheek the tear has scarce ever ceased to flow, feels that,</p>
+               
+            <pb n="111" xml:id="pb-111" facs="#i123"/>
+               <p>in being convinced of St. Flos's constancy and unabated love, her sorrows, her sufferings, are thought of, remembered no more.</p>
+               <p>Continue steadfast in your duty, St. Flos - Maria shall in hers.</p>
+               <p>Adieu! - Oh, Adieu!</p>
+               <p>MARIA.</p>
+               
+            <pb n="112" xml:id="pb-112" facs="#i124"/>
+               <p>LETTER XLI.</p>
+               <p>ST. FLOS to MARIA.</p>
+               <p> From the Monastery of - .</p>
+               <p>MY God! - when I think, Maria, of your wanderings - your sufferings - what do I not feel, when I know myself to have occasioned them! Yet, have I suffered less?</p>
+               <p>Oh, my beloved, when I left Moulines - when I resolved to enter it no more - what were my sensations! I had got to the hill that overlooks the town; I turned round to survey the dear spot once more. "Adieu," I exclaimed,</p>
+               
+            <pb n="113" xml:id="pb-113" facs="#i125"/>
+               <p>claimed, scene of my former pleasures; adieu, for ever! The words had a powerful effect on me; I dropped on the earth senseless; I recovered not soon. When I opened my eyes, I found it was night: I looked round, an irresistable impulse led me to that old oak, at the foot of which we have so often sate whole hours. What a night did I pass! How full of horrors! Every thing favoured my situation of mind: Not a star; no moon shone; all was dark, dismal, dreadful!</p>
+               <p>I arose with the dawn of day: I ascended the hill again; looked once, and for the last time, towards Moulines, and burst, in an agony of grief, down to the vale that led me away for ever! For some time I roamed about</p>
+               
+            <pb n="114" xml:id="pb-114" facs="#i126"/>
+               <p>the province of Bourbonnois, without any other place of rest than what the woods afforded me, without any other sustenance than I could gather from the hedges.</p>
+               <p>At length, I found myself near the monastery of - . I entered. The solemnity, the solitude of the place, seemed to invite me to seek an asylum in it. I offered myself to the Superior of it: He saw plainly, that extreme affliction had determined me to devote the remainder of my life to Heaven; and he received me with kindness and humanity. I took the vows, and was admitted. I found that religion by degrees lessened, though it could never obliterate my sorrows: Her dictates taught me to bear them with some fortitude.</p>
+               
+            <pb n="115" xml:id="pb-115" facs="#i127"/>
+               <p>fortitude. Such, Maria, is my history! As much as I am able, I endeavour to forget the past, and to look forward with confidence to futurity.</p>
+               <p>ST. FLOS.</p>
+               
+            <pb n="116" xml:id="pb-116" facs="#i128"/>
+               <p>LETTER XLII.</p>
+               <p>MARIA to ST. FLOS.</p>
+               <p>Moulines.</p>
+               <p>`I FEEL myself not very well, St. Flos - but the disorder inhabits not the mind; I feel it only in my body: It has taken away my strength, and renders me unable to endure any fatigue. Grieve not, my beloved; should the disorder even prove fatal, it will only carry me to that place where I shall wait for my St. Flos - where I shall be able to look down upon him - to hover over him;</p>
+               
+            <pb n="117" xml:id="pb-117" facs="#i129"/>
+               <p>and, if it please Heaven, to be his protector and his comforter!</p>
+               <p>Adieu, my St. Flos, adieu! As this may be the last you will receive from me, I will take a farewell; not an eternal, only a temporary farewell. I go, St. Flos, only a little while before - Your journey will soon be ended - Mourn not our short separation. - Be stedfast; and the prize, I trust, will be Heaven and</p>
+               <p>MARIA.</p>
+               
+            <pb n="118" xml:id="pb-118" facs="#i130"/>
+               <p>LETTER XLIII.</p>
+               <p>ST. FLOS to MARIA.</p>
+               <p>From the Monastery of - .</p>
+               <p>AND shall I not grieve, Maria? - Shall I not mourn your loss? - hat, when so soon restored to me, to be deprived of your! Alas! alas! my fortitude is insufficient to bear it! - The Almighty will not be displeased with me - I cannot help it - The idea of your approaching death prevents me from attending the duties of my station.</p>
+               <p>Would to God that the rules of our</p>
+               
+            <pb n="119" xml:id="pb-119" facs="#i131"/>
+               <p>order did not restrict me from visiting you: I would then pray by you - would support your dying head - would receive your last commands - catch the last sound as it died away upon your lips - pay the last sad tribute to your memory - and attend your remains to the silent tomb, to pour upon it the tribute of my tears.</p>
+               <p>But it cannot be - my solemn vow prevents me - I can only in imagination perform these duties to you. I have directed mass to be said in our monastery, for the recovery of your health and the repose of your soul; Heaven knows with what fervor I raised my prayers to God - Oh, may they not be ineffectual!</p>
+               <p>Alas, Maria, if it should however please Heaven to take you, I feel that</p>
+               
+            <pb n="120" xml:id="pb-120" facs="#i132"/>
+               <p>I shall not long survive you:* Wasted as I am by sorrow and fatigue of mind, deprived then of the only staff on which my heart reposed, I shall sink into the grave, and, oh blissful idea, my soul will fly to join that of Maria. Sweet Hope! how shall thou be cherished by</p>
+               <p>ST. FLOS.</p>
+               <p><note>footnote</note>*The Editor thinks it necessary to inform the Reader, that ST. FLOS survived MARIA but a few months; and was, by his earnest desire, buried in the same tomb in which were deposited the remains of Maria.</p>
+               
+            <pb n="121" xml:id="pb-121" facs="#i133"/>
+               <p>THE disorder of Maria was a gentle decline; from which the art of physic could not recover her. Every one saw that it would prove fatal, and all lamented it but herself. She smiled, and her countenance evinced that her bosom was peaceful and serene, and a stranger to the pangs which rend the heart and embitter the last moments of the guilty. She drooped, like the lilly overcharged with rain; and at length, in the arms of her Annette, with an angelic smile and a prayer for forgiveness, breathed her last.</p>
+               <p>She lies buried in the church-yard of Moulines: All the inhabitants, to whom her piety and sweetness of disposition had made her dear, followed her remains to</p>
+               
+            <pb n="122" xml:id="pb-122" facs="#i134"/>
+               <p>the grave, and poured upon her coffin a tribute which princes might envy, and which princes too often want.</p>
+               <p>A neat little monument has been erected by her friend Annette to her memory; on which an inscription (which the Editor has translated from the French and subjoined) has been placed.</p>
+               
+            <pb n="123" xml:id="pb-123" facs="#i135"/>
+               <p>INSCRIPTION</p>
+               <p>ON THE</p>
+               <p>TOMB OF MARIA.</p>
+               <p>PEACEFUL BENEATH THIS MARBLE</p>
+               <p>REST THE MORTAL REMAINS OF</p>
+               <p>MARIA.</p>
+               <p>THE NEW-BLOWN ROSE</p>
+               <p>EQUALLED NOT IN BEAUTY</p>
+               <p>HER PERSON;</p>
+               <p>THE LILLY</p>
+               <p>WAS BUT A POOR EMBLEM</p>
+               <p>OF THE INNOCENCE</p>
+               <p>OF HER MIND.</p>
+               <p>WANDERER, STOP! - TO HER MEMORY</p>
+               <p>PAY THE TRUBUTE OF A TEAR:</p>
+               <p>HER DEEDS OF CHARITY, OF PIETY,</p>
+               <p>HER SUFFERINGS,</p>
+               <p>WOULD BUT BE SULLIED</p>
+               <p>WERE THEY RELATED</p>
+               <p>ON THIS COLD MARBLE;</p>
+               <p>LONG AFTER THAT SHALL BE DECAYED,</p>
+               <p>THEY SHALL SURVIVE</p>
+               <p>IN THE WARM HEARTS OF MANY;</p>
+               
+            <pb n="124" xml:id="pb-124" facs="#i136"/>
+               <p>AND SHALL BE RECORDED</p>
+               <p>IN THAT BOOK,</p>
+               <p>FROM WHICH THE HAND OF TIME</p>
+               <p>SHALL ENDEAVOUR TO ERASE THEM</p>
+               <p>IN VAIN.</p>
+               <p>OB. MAR. 10, 17-.</p>
+               <p>(Since added.)</p>
+               <p>DEPOSITED BY HER SIDE</p>
+               <p>ARE THE REMAINS OF</p>
+               <p>ANTONIO DE ST. FLOS,</p>
+               <p>BY WHOM SHE WAS MOST DESERVEDLY</p>
+               <p>AND FAITHFULLY BELOVED.</p>
+               <p>IN LIFE,</p>
+               <p>AN UNKIND DECREE SEPARATED THEM;</p>
+               <p>IN DEATH,</p>
+               <p>THEY ARE HOWEVER UNITED;</p>
+               <p>WHERE THEIR AFFECTION AND THEIR</p>
+               <p>SUFFERINGS</p>
+               <p>SHALL BE REWARDED,</p>
+               <p>AND WHERE THEY SHALL BE DIVIDED</p>
+               <p>NO MORE.</p>
+               <p>OB. AUGUST 20, 17-.</p>
+               <p>THE END.</p>
+               
+            <pb n="125" xml:id="pb-125" facs="#i137"/>
+               <p>BOOKS lately published by G. KEARSLEY.</p>
+               <p>Ornamented with five new plates, from the designs of Mr. Nixon,</p>
+               <p>The eleventh edition of</p>
+               <p>The BEAUTIES of STERNE.</p>
+               <p>Calculated for the heart of sensibility.</p>
+               <p>This volume contains a pleasing selection from the works of that elegant writer; among which are, The story of Le Fevre and Uncle Toby, Maria, Shandy's Bed of Justice, Yorick's Horse, Corporal Trim's Brother, the Dwarf, the Pulse, the Pye Man, the Sword, the Supper, the Starling, the Ass, Dr. Slop and Obadiah, Dr. Slop and Susan, &amp;c. &amp;c.</p>
+               <p>Price three shillings and sixpence sewed.</p>
+               <p>In justice to the selector of these beauties, it must be admitted, he has properly discriminated, though it was somewhat difficult what to reject. Notwithstanding then editions of this very entertaining work have been published, yet the present appears to have received very considerable additions and improvements; being enriched by a variety of anecdotes and observations on life, a few of his best sermons, and several elegant extracts. The essence of the immortal Sterne may be said to be comprised in this volume. Vide the Review for March.</p>
+               <p>A new edition, being the Seventh, of</p>
+               <p>The BEAUTIES of Dr. SAMUEL JOHNSON,</p>
+               <p>Consisting of maxims and observations, moral, critical and miscellaneous. To which are now added, BIOGRAPHICAL ANECDOTES, selected from the late productions of Mrs. Piozzi, Mr. Boswell, and other authentic testimonies.</p>
+               <p>This edition is embellished with an etching of the head of Dr. Johnson, taken from the life about a month before his death.</p>
+               <p>Price only three shillings and sixpence sewed.</p>
+               <p>In this edition the two volumes are comprized in one.</p>
+               <p>The POETICAL WORKS of SAM. JOHNSON, LL.D.</p>
+               <p>Containing London, a Satire, and the Vanity of Human Wishes, both imitated from Juvenal; Irene, a Tragedy; the Winter's Walk; Stella in Mourning; the Midsummer's Wish; an Evening Ode to Stella; Vanity of Wealth; the Natural Beauty; Translation of Pope's Messiah, and sundry other pieces.</p>
+               <p>A new edition. Price three shillings in boards.</p>
+               
+            <pb n="126" xml:id="pb-126" facs="#i138"/>
+               <p>BOOKS published by G. KEARSLEY.</p>
+               <p>ELEGANT TALES, HISTORIES, and EPISTLES,</p>
+               <p>On Friendship, Conjugal Felicity, Jealousy, Constancy, Cheerfulness, and other important Subjects.</p>
+               <p>Sometimes fair Truth in fiction we disguise,</p>
+               <p>Sometimes present her naked to men's eyes. GAY.</p>
+               <p>Part of the contents of this interesting Collection:</p>
+               <p>Sit John Fickle and Lady Constant,</p>
+               <p>The Happy Pair,</p>
+               <p>The Story of Orontes,</p>
+               <p>Agathias and Maria,</p>
+               <p>Cassandra; or, The Happy Recovery,</p>
+               <p>An Epistle to a Lady on False Delicacy in Matters of Love,</p>
+               <p>The Lady of the Cave,</p>
+               <p>The Cottage of Love,</p>
+               <p>The History of a Female Gossip,</p>
+               <p>Remarkable Story of a Nun,</p>
+               <p>The sincere Confession,</p>
+               <p>The Effects of a violent Passion,</p>
+               <p>The School of Adversity; or, The Fair One Reformed,</p>
+               <p>The Disappointed Husband,</p>
+               <p>The Force of Natural Affection,</p>
+               <p>The Unfortunate Lovers,</p>
+               <p>And many others equally interesting.</p>
+               <p>Price four shillings sewed.</p>
+               <p>WOMAN:</p>
+               <p>Sketches of the History, Genius, Disposition, Accomplishments, Customs, and Importance of the FAIR SEX, in all parts of the World.</p>
+               <p>Illustrated with singular Anecdotes, and entertaining Narratives, supported by Authority.</p>
+               <p>BY A FRIEND TO THE SEX.</p>
+               <p>Nature made you to temper Man. OTWAY.</p>
+               <p>Price three shillings and sixpence.</p>
+               <p>The Rev. Mr. ADAMS'S Productions, calculated to improve and amuse the Minds of Youth of both Sexes, viz.</p>
+               <p>The FLOWERS of TRAVELLING, 2 vol. 6s.</p>
+               <p>A SELECTION of VOYAGES, 6s.</p>
+               <p>FLOWERS of ANCIENT and MODERN HISTORY, 6s. 6d.</p>
+               <p>The ENGLISH PARNASSUS, 3s.</p>
+               <p>CURIOUS THOUGHTS ON MAN, 3s.</p>
+               
+            <pb n="127" xml:id="pb-127" facs="#i139"/>
+               <p>BOOKS published by G. KEARSLEY.</p>
+               <p>THE HISTORY OF FRANCE,</p>
+               <p>From the First Establishment of that MONARCHY to the present REVOLUTION.</p>
+               <p>Res gestae regumque, ducumque &amp; tristia bella. HOR.</p>
+               <p>Price eighteen shillings in boards,</p>
+               <p>"Of the present work, the execution has not only answered but exceeded our expectation. In this concise, and at the same time comprehensive, view of the whole history, the reader will find the great outlines of the portrait delineated by the pencil of a skilful artist. The author's materials are well selected, and well arranged; his observations and remarks are ingenious, and discover a knowledge of human nature; and his language is generally correct and animated. We consider it in particular as excellently calculated to be put into the hands of young people, and we think it might be introduced with the great benefit into the higher classes of the numerous schools throughout the kingdom, in very many of which history now properly constitutes an important part of education. But we do not mean to say that it is a mere school book; it is capable of answering a much higher purpose; and will be found eminently serviceable to persons of every age and description." MONTHLY REVIEW, AUG. and SEPT. 1790.</p>
+               <p>"Before the appearance of this publication, a considerable link was wanting to general readers, and especially to young persons, in the great chain of history; the public are therefore certainly obliged to the anonymous author of this production; and it is but justice to add, that it is written with spirit and elegance. He is evidently an imitator of Mr. GIBBON'S style, and is by no means an unsuccessful one. The compendious size of this work will, doubtless, render it an object with many readers who would want leisure to bestow on a more prolix history; from the easy expence it is a very proper book to introduce into schools, and the lively manner in which it is composed, will probably make it acceptable to young persons." ANALYTICAL REVIEW, SEPT. 1790.</p>
+               <p>"The Author of this History of France, amidst the task of compilation, has not forfeited his claims to the character of an original historian; and while he occasionally gives place to the sentiments and expressions of different writers, he has been careful to preserve an uniformity in the composition. He has deduced the narrative through the several races of the French Monarchs with equal perspicuity and conciseness, and his authorities being already established, they can now require no investigation."</p>
+               <p>CRITICAL REVIEW, JUNE 1790.</p>
+               
+            <pb n="128" xml:id="pb-128" facs="#i140"/>
+               <p>BOOKS published by G. KEARSLEY.</p>
+               <p>AN HISTORY of the CHRISTIAN CHURCH,</p>
+               <p>From the earliest Period to the present Time; including a comprehensive View of the State of Literature in each Century. Complied for the Use of Families and Students in Divinity.</p>
+               <p>By G. GREGORY, D.D.F.A.S.</p>
+               <p>Author of ESSAYS, Historical and Moral, &amp;c.</p>
+               <p>In two volumes, Price eight shillings in boards,</p>
+               <p>"Theological studies were formerly confined to the clergy, or to those men who had received the advantages of a learned education; but a general acquaintance with ecclesiastical history seems now to become a considerable object with mankind at large. We therefore entirely approve the design which Dr. Gregory has here undertaken, to bring the great events of the christian church within a moderate compass, and to present them to the reader in a clear and methodical form. The work concludes with an account of the present state of religious sects, chiefly in Great Britain, and on the whole, is valuable as a concise and popular view of the leading facts in ecclesiastical history." </p>
+               <p>MONTHLY REVIEW, for Sept. 1790.</p>
+               <p>"We had no judicious compendium, before the present publication, for the use of those who might be led either by duty or inclination to acquire some knowledge of ecclesiastical history. With respect to the style and manner in which the present publication is composed, "The former we think clear, chaste, and elegant; and the latter is comprehensive, judicious, and we believe, strictly impartial."</p>
+               <p>ANALYTICAL REVIEW, for April, 1790.</p>
+               <p>"This comprehensive work contains so much information, collected from various detached authorities, and is so perspicuously arranged, that we may pronounce it to be not only the most convenient in point of size, but one of the best executed treatises on the subject."</p>
+               <p>ENGLISH REVIEW for July, 1790.</p>
+               
+            <pb n="129" xml:id="pb-129" facs="#i141"/>
+            <pb n="130" xml:id="pb-130" facs="#i142"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i143"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i144"/>
+         </div>
+      </body>
+   </text>
+</TEI>
