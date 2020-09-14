@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7720.e.9</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>7720.e.9</idno>
+               </msIdentifier>
+               <msContents>
+                   <summary>
+                       <p>This collection of eleven whimsical essays includes an extended essay (number Five) on 'the writings of Yorick' (namely Sterne), the first three paragraphs of which appear in Alan B. Howe's <hi rend="italics">Sterne: The Critical Heritage</hi> (1971). The author says of <hi rend="italics">Tristram Shandy</hi> that it is 'an admirable caricature of history' rather than 'an exact portrait of private life' (34) - a distinction characteristically unelaborated upon. His assessment of Sterne's achievement implies an undeveloped aesthetic theory: Sterne creates 'alluring deceptions, beyond the bounds of probability' (for example the behaviour of Toby and Trim concerning Le Fever, or the Amours of Widow Wadman), which 'never did or will have existence, but in the brain' (34-5). However, through his 'knowledge of disposition and character,' Sterne 'carr[ies] us beyond our usual feelings' in order to teach us 'that the human heart is capable of the greatest improvement' (35). The aesthetic here depends upon contradictions. Empirical 'probability' is outdone by 'deception' but in service to an abstract truth of human nature, which is itself not fixed, but 'capable of ... improvement.' Although casually expressed, this is an astute reading of Sterne: by a trick of improbability, we gain insight into a 'beyond' which implies an infinite potentiality for the human heart.</p>
+                       <p>The author, as is characteristic for his era, is invested in a vision of Sterne as sentimentalist, even as his observation about Sterne's method depends upon ironies. His subsequent comments on Sterne confirm the sentimental reading, demonstrating by a parodic sample chapter the error of imitating Sterne's 'buffoonery' (especially what he calls the 'parenthesis'd chapters'): the parody includes exaggerations of the Shandean style, such as free-association and misogyny toward the female reader. Halfway through the parody chapter, he interrupts himself, '----- Here sentiment took the reins---' (41), and produces a clichéd meditation upon a burning candle as emblem for human life, with a parody of Le Fever's death (42-3). both the 'buffoonery' and the 'sentiment' are recognizably Shandean, but no one would mistake it for Sterne.</p>
+                       <p>Other elements of these essays, some of which take inspiration from the <hi rend="italics">Spectator</hi> (on diffidence; on the miscellany as literary form; on critical reviewers; on social injustice; on the benevolent landowner; on coffee-house culture; on flattery), also reproduce aspects of Sterne's style, such as an intensity of incidental detail, a mercurial authroiral identity, allusions and quotations, and specific details one might have collected by reading Sterne's work (e.g., the eccentricity of Venus, or the sentimental value of a soldier's sword, and even lighting a fire with a volume of <hi rend="italics">Tristram Shandy</hi>).</p>
+                       <p>The author - ostensibly a twenty-one-year-old university student - demonstrates a consistent disregard for philosophy, openly preferring to be a careless dabbler. Indeed, self-deprecation is his preferred mode: his epigraph from Pope's <hi rend="italics">Dunciad</hi> (IV.605) initially appears to be a self-judgment: 'MORE SHE HAD SPOKE, BUT YAWN'D.' There are extended sentimental elements: narratives of dying fathers, humble peasants, maternal sacrifice; a sentimental landscape description reminiscent of Thomas Gray; a gothic poem that might reflect Gray's Bard, or Ossian.</p>
+                       <p>Ultimately, the author's envoi picks up on the epigraph from Pope, as he defends his book: 'every person among ye would find his time much better bestowed in this manner, than in grinning in coffee-houses, yawning in window seats, or gaping at print-shops' (112).</p>
+                       <p>Christopher Fanning</p>
+                   </summary>
+                  <msItem>
+                     <title>Yorick's skull or, college oscitations. With some remarks on the writings of Sterne, and a specimen of the Shandean Stile</title>
+                     <textLang mainLang="eng"/>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Combe, William 1742-1823</persName>
+                           <persName type="display">Combe, William 1742-1823</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <resp/>
+                        <name type="corporation" role="pbl">
+                           <persName type="standard">printed for J. Bew</persName>
+                           <persName type="display">printed for J. Bew</persName>
+                        </name>
+                     </respStmt>
+                     <note>With a half-title.</note>
+                     <note>'A monstrous good lounge' is sometimes attributed to William Combe.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>xv,[1],112p ; 16cm (8vo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1777" notAfter="1777">1777</origDate>
+                     <origPlace>London</origPlace>
+                  </origin>
+                  <provenance/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref>
+      Sterne, Laurence
+      1713-1768
+     -- 
+      
+    </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="PR-07720-E-00009-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3456px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="4955px"
+                  width="3233px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="[i]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4995px"
+                  width="3322px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="[ii]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4971px"
+                  width="3233px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="i">
+         <graphic decls="#downloadImageRights #download"
+                  height="4968px"
+                  width="3304px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="ii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="iii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="iv">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="v">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="vi">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="vii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="viii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="ix">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="x">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="xi">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="xii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="xiii">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="xiv">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="xv">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="xvi">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="1">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="2">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="3">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="4">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="5">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="6">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="7">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="8">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="9">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="10">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="11">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="12">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="13">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="14">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="15">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="16">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="17">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="18">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="19">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="20">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="21">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="22">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="23">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="24">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="25">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="26">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="27">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="28">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="29">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="30">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00050"/>
+      </surface>
+      <surface xml:id="i51" n="31">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00051"/>
+      </surface>
+      <surface xml:id="i52" n="32">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00052"/>
+      </surface>
+      <surface xml:id="i53" n="33">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00053"/>
+      </surface>
+      <surface xml:id="i54" n="34">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00054"/>
+      </surface>
+      <surface xml:id="i55" n="35">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00055"/>
+      </surface>
+      <surface xml:id="i56" n="36">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00056"/>
+      </surface>
+      <surface xml:id="i57" n="37">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00057"/>
+      </surface>
+      <surface xml:id="i58" n="38">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00058"/>
+      </surface>
+      <surface xml:id="i59" n="39">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00059"/>
+      </surface>
+      <surface xml:id="i60" n="40">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00060"/>
+      </surface>
+      <surface xml:id="i61" n="41">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00061"/>
+      </surface>
+      <surface xml:id="i62" n="42">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00062"/>
+      </surface>
+      <surface xml:id="i63" n="43">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00063"/>
+      </surface>
+      <surface xml:id="i64" n="44">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00064"/>
+      </surface>
+      <surface xml:id="i65" n="45">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00065"/>
+      </surface>
+      <surface xml:id="i66" n="46">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00066"/>
+      </surface>
+      <surface xml:id="i67" n="47">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00067"/>
+      </surface>
+      <surface xml:id="i68" n="48">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00068"/>
+      </surface>
+      <surface xml:id="i69" n="49">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00069"/>
+      </surface>
+      <surface xml:id="i70" n="50">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00070"/>
+      </surface>
+      <surface xml:id="i71" n="51">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00071"/>
+      </surface>
+      <surface xml:id="i72" n="52">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00072"/>
+      </surface>
+      <surface xml:id="i73" n="53">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00073"/>
+      </surface>
+      <surface xml:id="i74" n="54">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00074"/>
+      </surface>
+      <surface xml:id="i75" n="55">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00075"/>
+      </surface>
+      <surface xml:id="i76" n="56">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00076"/>
+      </surface>
+      <surface xml:id="i77" n="57">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00077"/>
+      </surface>
+      <surface xml:id="i78" n="58">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00078"/>
+      </surface>
+      <surface xml:id="i79" n="59">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00079"/>
+      </surface>
+      <surface xml:id="i80" n="60">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00080"/>
+      </surface>
+      <surface xml:id="i81" n="61">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00081"/>
+      </surface>
+      <surface xml:id="i82" n="62">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00082"/>
+      </surface>
+      <surface xml:id="i83" n="63">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00083"/>
+      </surface>
+      <surface xml:id="i84" n="64">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00084"/>
+      </surface>
+      <surface xml:id="i85" n="65">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00085"/>
+      </surface>
+      <surface xml:id="i86" n="66">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00086"/>
+      </surface>
+      <surface xml:id="i87" n="67">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00087"/>
+      </surface>
+      <surface xml:id="i88" n="68">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00088"/>
+      </surface>
+      <surface xml:id="i89" n="69">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00089"/>
+      </surface>
+      <surface xml:id="i90" n="70">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00090"/>
+      </surface>
+      <surface xml:id="i91" n="71">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00091"/>
+      </surface>
+      <surface xml:id="i92" n="72">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00092"/>
+      </surface>
+      <surface xml:id="i93" n="73">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00093"/>
+      </surface>
+      <surface xml:id="i94" n="74">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00094"/>
+      </surface>
+      <surface xml:id="i95" n="75">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00095"/>
+      </surface>
+      <surface xml:id="i96" n="76">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00096"/>
+      </surface>
+      <surface xml:id="i97" n="77">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00097"/>
+      </surface>
+      <surface xml:id="i98" n="78">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00098"/>
+      </surface>
+      <surface xml:id="i99" n="79">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00099"/>
+      </surface>
+      <surface xml:id="i100" n="80">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00100"/>
+      </surface>
+      <surface xml:id="i101" n="81">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00101"/>
+      </surface>
+      <surface xml:id="i102" n="82">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00102"/>
+      </surface>
+      <surface xml:id="i103" n="83">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00103"/>
+      </surface>
+      <surface xml:id="i104" n="84">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00104"/>
+      </surface>
+      <surface xml:id="i105" n="85">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00105"/>
+      </surface>
+      <surface xml:id="i106" n="86">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00106"/>
+      </surface>
+      <surface xml:id="i107" n="87">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00107"/>
+      </surface>
+      <surface xml:id="i108" n="88">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00108"/>
+      </surface>
+      <surface xml:id="i109" n="89">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00109"/>
+      </surface>
+      <surface xml:id="i110" n="90">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00110"/>
+      </surface>
+      <surface xml:id="i111" n="91">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00111"/>
+      </surface>
+      <surface xml:id="i112" n="92">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00112"/>
+      </surface>
+      <surface xml:id="i113" n="93">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00113"/>
+      </surface>
+      <surface xml:id="i114" n="94">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00114"/>
+      </surface>
+      <surface xml:id="i115" n="95">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00115"/>
+      </surface>
+      <surface xml:id="i116" n="96">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00116"/>
+      </surface>
+      <surface xml:id="i117" n="97">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00117"/>
+      </surface>
+      <surface xml:id="i118" n="98">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00118"/>
+      </surface>
+      <surface xml:id="i119" n="99">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00119"/>
+      </surface>
+      <surface xml:id="i120" n="100">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00120"/>
+      </surface>
+      <surface xml:id="i121" n="101">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00121"/>
+      </surface>
+      <surface xml:id="i122" n="102">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00122"/>
+      </surface>
+      <surface xml:id="i123" n="103">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00123"/>
+      </surface>
+      <surface xml:id="i124" n="104">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00124"/>
+      </surface>
+      <surface xml:id="i125" n="105">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00125"/>
+      </surface>
+      <surface xml:id="i126" n="106">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00126"/>
+      </surface>
+      <surface xml:id="i127" n="107">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00127"/>
+      </surface>
+      <surface xml:id="i128" n="108">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00128"/>
+      </surface>
+      <surface xml:id="i129" n="109">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00129"/>
+      </surface>
+      <surface xml:id="i130" n="110">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00130"/>
+      </surface>
+      <surface xml:id="i131" n="111">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00131"/>
+      </surface>
+      <surface xml:id="i132" n="112">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00132"/>
+      </surface>
+      <surface xml:id="i133" n="113">
+         <graphic decls="#downloadImageRights #download"
+                  height="4972px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00133"/>
+      </surface>
+      <surface xml:id="i134" n="114">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="3295px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00134"/>
+      </surface>
+      <surface xml:id="i135" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="4963px"
+                  width="3289px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00135"/>
+      </surface>
+      <surface xml:id="i136" n="back cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="5016px"
+                  width="3464px"
+                  rend="portrait"
+                  url="PR-07720-E-00009-000-00136"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+            <pb n="[i]" xml:id="pb-i" facs="#i3"/>
+            <pb n="[ii]" xml:id="pb-ii" facs="#i4"/>
+            <pb n="i" xml:id="pb-i" facs="#i5"/>
+            <note>top right hand corner, handwritten inscription: John Nicholls May 12th 1[8?]03. Highgate.</note>
+            <p>YORICK'S SKULL;</p>
+            <p>OR,</p>
+            <p>COLLEGE OSCITATIONS.</p>
+            <p>[Price TWO SHILLINGS.]</p>
+            
+            <pb n="ii" xml:id="pb-ii" facs="#i6"/>
+            
+            <pb n="iii" xml:id="pb-iii" facs="#i7"/>
+            <note>handwritten reference: 7720.e.9 above text</note>
+            <p>YORICK'S SKULL;</p>
+            <p>OR,</p>
+            <p>COLLEGE OSCITATIONS.</p>
+            <p>WITH</p>
+            <p>SOME REMARKS</p>
+            <p>ON THE</p>
+            <p>WRITINGS OF STERNE,</p>
+            <p>AND</p>
+            <p>A SPECIMEN</p>
+            <p>OF THE</p>
+            <p>SHANDEAN STILE.</p>
+            <p>By the AUTHOR of A MONSTROUS GOOD LOUNGE.</p>
+            <p>MORE SHE HAD SPOKE, BUT YAWN'D.<lb/>
+               POPE'S Dunciad.</p>
+            <p>LONDON:<lb/>
+               Printed for J. BEW, in Paternoster-Row.<lb/>
+               M DCC LXXVII.</p>
+            <note>red University of Cambridge 1938 oval stamp</note>
+            
+            <pb n="iv" xml:id="pb-iv" facs="#i8"/>
+            <pb n="v" xml:id="pb-v" facs="#i9"/>
+            <p>PREFACE.</p>
+            <p>I HAVE often lamented that men are not born acquainted with each other, for I do not know a heavier tax upon a diffident man, than a formal introduction. This, I find, is usual, as well in the literary as the polite world.</p>
+            <p>To comply with the custom, then, I was baptized on the twenty-ninth day of July, ANNO DOMINI 1756, as it stands recorded, in a very cramp hand, in the first leaf of the old</p>
+            
+            <pb n="vi" xml:id="pb-vi" facs="#i10"/>
+            <p>family bible; which is carefully kept in a black-leather case, locked up in a private drawer with some godmother's gifts and a dusty bottle of usquebaugh.</p>
+            <p>FROM that time to this, I have steered such an even, regular course, that I cannot recollect one single incident worth notice.</p>
+            <p>As to my temper, I believe I am upon a par with the rest of the world: Indeed, it has never been out in a storm. I am, by turns, a philosopher, poet, lawyer, and architect; just as my own humour or this English atmosphere sways me.</p>
+            
+            <pb n="vii" xml:id="pb-vii" facs="#i11"/>
+            <p>I HAVE been two years a member of the university, and have not yet commenced acquaintance with two books of solid philosophical learning.</p>
+            <p>To speak the truth, I think my time and conversation have been much better employed.</p>
+            <p>NEVERTHELESS, I cannot help expressing a high veneration for the characters of some of the old philosophers, and for their very noble and instructive speculations.</p>
+            <p>THE pungent and concise interrogations of Socrates, and the noble</p>
+            
+            <pb n="viii" xml:id="pb-viii" facs="#i12"/>
+            <p>solidity of Plato, every one who can converse familiarly with them must admire: But since, like our turnpike-roads, the way to knowledge is made every day more and more short and easy, who in his senses would think to ruin himself in oil, cotton, and green spectacles, and blunder through a dark narrow lane to no purpose? For, after all, what is philosophy! since Epicurus, when a child, puzzled his master by a simple question; and Hippocrates' son proved at four years old the circulation of blood, (which Hippocrates himself was ignorant of) by passing his finger over his hand!</p>
+            
+            <pb n="ix" xml:id="pb-ix" facs="#i13"/>
+            <p>BUT I am blaspheming a science which has been the whole stock of many a wiser head than my own: It will be proper, therefore, to drop it. I am sure, Rochester at a sermon, or Aristotle at a puppet-shew, cannot be more out of their element than I am.</p>
+            <p>I SHALL beg leave, however, to hint at what the great Duke of Buckingham says on this subject; that "man is no more a creature fit to find out abstruse matter, than a fish is made to play a game at bowls."</p>
+            
+            <pb n="x" xml:id="pb-x" facs="#i14"/>
+            <p>JUST as absurd as the rigid philosopher, in my opinion, is the sedate gentleman, who will suffer his eyes to be almost put out with the dust of antiquity, for the sake of enjoying and unravelling aunciente hieroglyphics and blacke lettere conversation. I once saw one of these moth-eaten mummies in state; and he put me so much in mind of a primitive father in brass, stuck against the wall of a cloyster, that I could not help looking down at his feet for the "ORATE PRO ANIMÂ."</p>
+            <p>By this time you must have a pretty clear idea of my opinion in respect</p>
+            
+            <pb n="xi" xml:id="pb-xi" facs="#i15"/>
+            <p>to study. I confess I shall always prefer rambling from one science to another, extracting the necessary sweets of each; but no more acquainted with their particular rudiments, than a bee is with the nature of the flowers which enrich him.</p>
+            <p>BEING willing, last Winter, to make an attempt at something solid, I sat to work upon Locke's Essay on the Human Understanding; who, according to Voltaire's opinion, "is the only philosopher who has understood himself in writing upon a subject, and the only one who has made himself understood by</p>
+            
+            <pb n="xii" xml:id="pb-xii" facs="#i16"/>
+            <p>others." - I succeeded very well for a few days; and absolutely let my fire go out more than once without taking notice of it: But one unlucky evening, a favourite tune from the solitary fiddle of a neighbouring garretteer broke the chain of my attention, overthrew my whole store of philosophy, and for more than half an hour put a full stop to infinitude and eternity.</p>
+            <p>AFTER this sudden defeat I made other attempts; but they were so broken and unsatisfactory, that i entirely gave up all thoughts of success, and returned quietly to my old course, carelessness and the classics.</p>
+            
+            <pb n="xiii" xml:id="pb-xiii" facs="#i17"/>
+            <p>In the first of these I made such a progress, that in the course of this year I have used twenty leaves of Watt's Logic, and a whole volume of Tristram Shandy, in lighting fires and candles; besides a variety of useful and valuable papers, on other urgent and necessary occasions.</p>
+            <p>INVENTORIES I detest; they only serve to torment a man, by making him sensible of his losses, without putting him in a way to recover them.</p>
+            <p>A FRIEND of mine told me, the other day, that he never enters my room but it puts him in mind of</p>
+            
+            <pb n="xiv" xml:id="pb-xiv" facs="#i18"/>
+            <p>Exeter-'Change, or the great auction-room in Queen-Street; where books, linen, and other effects, lie promiscuously, to be viewed by those who are fond of driving hard bargains.</p>
+            <p>IF a stranger should at any time accidentally look in upon me, he would imagine I was at least preparing for the grand tour.</p>
+            <p>I BEGIN, however, now to find it necessary to grow a little more careful, and have at length got into a regular method; for by these means, I am convinced, I shall save enough by next Winter to purchase myself a comfortable new blanket, and</p>
+            
+            <pb n="xv" xml:id="pb-xv" facs="#i19"/>
+            <p>a handsome pair of black velvet breeches.</p>
+            <p>I HAVE, I think, thus far, given a very explicative and honest account of the most singular parts of my character; would you know more of me, learn it from the following pages.</p>
+            
+            <pb n="xvi" xml:id="pb-xvi" facs="#i20"/>
+            <pb n="1" xml:id="pb-1" facs="#i21"/>
+            <p>YORICK's SKULL</p>
+            <p>ESSAY. I.</p>
+            <p>THE natural diffidence which every man feels, more or less, on his first essay after reputation, receives additional force from a variety of alarming circumstances which present themselves to his imagination, upon a minute survey of this capacious theatre. He no sooner enters,</p>
+            
+            <pb n="2" xml:id="pb-2" facs="#i22"/>
+            <p>than he finds himself submitted entirely to the capricious determinations of the public voice. This slender and precarious dependance terrifies him beyond measure: Every unmeaning look or insignificant gesture, is of sufficient weight to encourage or condemn him. He remains in a most uneasy state, betwixt pleasure and apprehension, till censure or applause puts an end to his visionary torment. This unaccountable kind of modesty is, at best, a very discouraging companion. In some men, it mixes and connects itself so intimately with all their faculties, as to render them timorous and suspicious of every thing around them. A man of this unfortunate</p>
+            
+            <pb n="3" xml:id="pb-3" facs="#i23"/>
+            <p>disposition will meet with something to confuse or provoke him in the most ordinary occurrences. Every laugh will be a ridicule, and every whisper an insult upon his character. In short, his life will be one continued chain of mortifications and embarrassments: And I know of no remedy for it; unless, indeed, he would chuse to turn monk or anchoret, and seek refuge from these imaginary impertinences of the world in a cloyster or a wilderness.</p>
+            <p>IT is a very common, but just observation, that diffidence is more immediately the growth of this country than of any other; which is rather</p>
+            
+            <pb n="4" xml:id="pb-4" facs="#i24"/>
+            <p>wonderful, too, considering ourselves as near neighbours to a people who never felt its disagreeable influence. - A friend of mine, I remember, once told me, he knew a country gentleman who was troubled with this ridiculous weakness to such a violent degree, that going upon a visit with his friend to a family in which he was an utter stranger, he earnestly wished to be introduced as a dumb person. His strange request was complied with: But, before they had been seated half an hour, the conversation happening to turn upon some rural subject, either quite forgetting himself, or thinking he was interested in the debate, the dumb gentleman uttered,</p>
+            
+            <pb n="5" xml:id="pb-5" facs="#i25"/>
+            <p>in a very articulate manner, for near five minutes; and had absolutely produced two very solid arguments on his side, before he recollected that he had quite lost the use of speech. He was so confounded, that he was about to retire; when a good-natured gentleman who was sitting at his right-hand, willing to make him perfectly easy, told his neighbour, in an audible whisper, "it was not the first time an Ass had been provoked to speak." This, and the laugh which accompanied it, settled my gentleman, and made him dumb the rest of the evening. - I shall here beg leave to hint, that I would not by this be thought to excuse such kind</p>
+            
+            <pb n="6" xml:id="pb-6" facs="#i26"/>
+            <p>of impertinent wit: On the contrary, I think it full as unbecoming to take insolent advantage of a diffident temper in a man, as to shock the modesty of a woman by rudeness and indelicacy.</p>
+            <p>I AM much pleased with the singularity of the French poet who wrote a critique upon each of his works immediately after its publication: For it appears to arise form that consciousness of imperfection, (or, as some ingenious writer observes, that modest self-denial) which has a most excellent effect upon the sense of other men towards us; and is of all qualities the most desirable, for the agreeable</p>
+            
+            <pb n="7" xml:id="pb-7" facs="#i27"/>
+            <p>disposition in which it places our own minds.</p>
+            <p>THIS amiable quality should be strongly recommended to every age and character: But it is of the last importance to a young adventurer; since it will be a most potent advocate for him with the public, and at the same time a modest apology for those little blemishes and imperfections which cannot but appear in such early speculations.</p>
+            <p>THERE is not, perhaps, a greater mark of vanity in a young writer, than an affectation of solidity and correctness. It will be quite sufficient,</p>
+            
+            <pb n="8" xml:id="pb-8" facs="#i28"/>
+            <p>at first, to draw pleasing outlines; the agreeable disposition of light and shade, and the last, soft, delicate touches, will be executed in a more masterly manner, when care and observation shall have refined the judgment, and brought the mind to a nearer state of perfection. A man of exquisite taste will discover more beauties, and receive higher satisfaction, in Raphael's first sketch of the nativity, though a mere sbozzo, than in that elaborate and ridiculous attempt at accuracy and boldness of stile, so evident in the Crucifixion by Andrea Sacchi, painted, as I am told, when he was nineteen.</p>
+            
+            <pb n="9" xml:id="pb-9" facs="#i29"/>
+            <p>AFTER what has been said, it may seem a bold and contradictory assertion, to say, that this kind of ambition is almost a merit, in comparison with it's opposite temper, diffidence. But, I believe, every one will agree with me, when they consider, that whilst the former has only served to expose the folly of those who used it, the latter has frequently shaded in obscurity men who might have been the most shining ornaments of their country. Many a one of this disposition has been content to move quietly along in a mute procession, when he might have acquitted himself with honour and applause in some principal and striking character.</p>
+            
+            <pb n="10" xml:id="pb-10" facs="#i30"/>
+            <p>ALL philosophers agree in telling us, that there are many very bright stars in the firmament, whose light never has, and probably never will arrive at our earth: But we have little cause to complain, since every thinking mind cannot but be filled with rapture and astonishment, at the present glorious and brilliant appearance of our hemisphere! - Amongst this variety of beautiful orbs, have I, a little attendant satellite, presumed to mix my scanty portion of borrowed light. I should have preferred Mercury for my master; but was told, that by presuming to approach too near the sun, he was swallowed up in a flood of glory. I have, therefore, placed</p>
+            
+            <pb n="11" xml:id="pb-11" facs="#i31"/>
+            <p>myself under the protection of Venus, and hope I shall not pass unnoticed by the LADIES; who, in this country, have such interest with the goddess, that a word from them, at any time, would prevent my being discarded. If it be my destiny to lose their favour, having nothing to expect from the critical eye of a rigid philosopher, who, perhaps, on the first winter night, will pronounce me too eccentric, I intend to stream away in a meteor; and shall be happy if thus I can, for one moment, attract the notice of the vulgar.</p>
+            
+            <pb n="12" xml:id="pb-12" facs="#i32"/>
+            <p>ESSAY II.</p>
+            <p>A MISCELLANY may very justly be compared to harlequin's jacket, which is generally made up of shreds and remnants of different colours, so disposed as to amuse the eye with a kind of regular variety. The pantomime itself is not a bad emblem of this unconnected kind of writing; for the changes are sometimes so quick and wonderful, that we are surprised to find ourselves conveyed, in the space of a few minutes, through palaces, groves, cities, and cottages, variously entertained,</p>
+            
+            <pb n="13" xml:id="pb-13" facs="#i33"/>
+            <p>either with the grandeur, simplicity, bustle, or retirement, of every scene, in its distinct succession.</p>
+            <p>A MISCELLANEOUS writer has this considerable advantage over all others, that he can prevent his subject becoming dull and insipid, by changing it whenever it begin to be tedious and displeasing to him. He has a full liberty to range over the pleasant and extensive garden of nature, and to gather whatever is most agreeable to his taste or fancy. It is no wonder, therefore, if a young or warm imagination, ever impatient of restraint, should be eager to expatiate</p>
+            
+            <pb n="14" xml:id="pb-14" facs="#i34"/>
+            <p>amidst such a boundless variety, and prefer roaming through scenes which are perpetually changing, to the fixed correct regularity which ever accompanies the chilliness of age and precision of philosophy.</p>
+            <p>THESE works are, in general, more calculated for entertainment than instruction. The several subjects have so quick and various a succession, that the different impressions they make upon the mind, must of course be very faint and transitory. Any reflections upon a book of this kind, (unless it be very thoroughly digested) must have the same confused effect in the mind, as the picture of a variegated landscape</p>
+            
+            <pb n="15" xml:id="pb-15" facs="#i35"/>
+            <p>has upon the eye of a short-sighted man: He, indeed, has a general idea of the whole, and may distinguish trees from rocks, or land from water; but is incapable to discern, clearly, the particular beauties or imperfections of the piece. These literary olios (to change my metaphor) should rather be seasoned to the taste of the imagination than the judgment, which can sit down with keener appetite, and more real satisfaction, to a regular regimen of plain dishes. All methodical arrangements, complicated links of argument, or philosophical discussions, are provisions very ill-suited to the palate of so liquorish a guest as the imagination.</p>
+            
+            <pb n="16" xml:id="pb-16" facs="#i36"/>
+            <p>BUT thus, while we are using our best endeavours to avoid one extreme, we must be particularly careful not to entangle ourselves with the other, and so become too vague and desultory. In this case my book would not be unlike a number of pamphlets I once saw collected and bound up together; amongst which, by way of connection, were six Love Elegies, a Treatise upon the Stone and Gravel, an Assize Sermon preached at St. Mary's, and two very excellent Receipts for making Lemon Pudding. Sudden transitions, I allow, are frequently very entertaining; yet they will not longer amuse, than while they carry an air of probability and nature</p>
+            <note>red University of Cambridge 1938 oval stamp</note>
+            
+            <pb n="17" xml:id="pb-17" facs="#i37"/>
+            <p>about them. Who, in his senses, after reading a good sound discourse upon some text of Scripture, would think of employing his thoughts immediately upon the composition of a pudding? Or what instruction or entertainment could any one hope to receive, by running over, in the space of an hour, an incoherent jumble of poetry, physick, divinity, and cookery?</p>
+            
+            <pb n="18" xml:id="pb-18" facs="#i38"/>
+            <p>ESSAY. III.</p>
+            <p>A CRITICAL REVIEWER is a being which once a month takes upon himself the office of universal judge and examiner. Where he resides, is as yet a mystery; though some imagine, (not without probability) that since he appears to be governed by the moon, he is one of her emissaries, and inhabits that planet. I hope, nobody will infer from this, that he knows no more than the man in the moon.</p>
+            
+            <pb n="19" xml:id="pb-19" facs="#i39"/>
+            <p>A WAG observed, the other day, that an author could not be in a more critical situation, than under the hands of one of these gentlemen: And took occasion to be very smart, at their expence; concluding his invectives, by shewing us an advertisement he had drawn up that very morning. The poor gentleman seemed to me to be but just recovered from the distemper, himself, as he was very anxious for it's appearance in print. I begged a copy of him; and take this opportunity to oblige the public with it.</p>
+            <p>WHEREAS - To prevent all alarming accidents, as there never</p>
+            
+            <pb n="20" xml:id="pb-20" facs="#i40"/>
+            <p>was, time immemorial, lock or key to the stable of Parnassus, a certain number of public-spirited gentlemen have nobly offered their united services to the people in general, to cure every one who is troubled with that dreadful distemper, called by the ancients cacoethes scribendi.</p>
+            <p>As the case favours something of a madness, it is for the most part treated as such; and once a month the patient, if very outrageous, receives a severe lashing. It is a bitter remedy, we grant, and sticks by some</p>
+            
+            <pb n="21" xml:id="pb-21" facs="#i41"/>
+            <p>people worse than a perpetual blister; but, it being pro bono publico, we make no doubt of success.</p>
+            <p>N. B. No brimstone is used. No cure, no pay, is not our conclusion, like quacks in other professions; but we give notice, If you will pay well, you will be treated well.</p>
+            
+            <pb n="22" xml:id="pb-22" facs="#i42"/>
+            <p>ESSAY IV.</p>
+            <p>POOR Charles! I never think on thee, without the pleasing recollection of those hours we passed together, last Spring, under the friendly roof of a man, who, were his estate equal to his hospitality, would enjoy the most unlimited possessions.</p>
+            <p>How often, Charles, when the evening closes in a drizzling shower, in an idle fit of domestic melancholy, do I exclaim against fortune, for placing thee in a station so obnoxious</p>
+            
+            <pb n="23" xml:id="pb-23" facs="#i43"/>
+            <p>to danger, where glory and destruction are almost inseparable! - At this moment, methinks I see thee rush violently through the dreadful breach, undaunted by the groans of death, animated by the shouts of victory! Thy countenance tells me what a pang vibrates on thy tender heart, as thou lookest down upon that sword, a dying father's only legacy, blushing with the blood of thy blind, unhappy countrymen! - Every street and avenue are choaked with slaughter and desolation! - From a small house, now scarce to be distinguished through the smoke which surrounds it, the aged possessor, tottering under a scanty portion</p>
+            
+            <pb n="24" xml:id="pb-24" facs="#i44"/>
+            <p>of his goods, rescued from the common wreck, was escaping with his wife and two small children. Oft did they cast a wild look of horror behind them; and, as the cries or shouts rose frequent and loud on every side, stopped and gazed upon each other, with a steady look of patient resignation - till, at last, a ruffian soldier! - Good Heaven! are these the privileges of war? - Oh! where will carnage and destruction end, if once the right of kings is to be defended by murders and assassinations! - His aged breast gapes with the recent wounds, and his grey hairs are scattered in the dust; and thou, thou wretch, hast obtained his</p>
+            
+            <pb n="25" xml:id="pb-25" facs="#i45"/>
+            <p>few possessions! Yet know, they will be as curses, hereafter, to torment thee! for, in some dreadful hour of danger and despair, that hand which struck the fatal blow shall deny thee it's assistance!</p>
+            <p>O, CHARLES! you see how fond the imagination is, when once heated, to aggravate the slightest circumstances! My dear friend, should it ever by thy lot to act in such a scene as this, suffer not rash revenge, and an unbecoming thirst for impious glory, to hurry you away beyond the bounds of honour and humanity! - For Heaven's sake, hold your cruel hand! - Strike not the poor, defenceless</p>
+            
+            <pb n="26" xml:id="pb-26" facs="#i46"/>
+            <p>innocent wretch! - See how earnestly he calls for mercy and forgiveness! - Surely it is enough that his hard fortune has reduced him thus low! - Will nothing move thee? O, he is the last surviving son of a distracted widow! That word thrills through thy very soul! Consider, what would thy anxious mother feel, if thou, the only comfort of her age, shouldst fall in thy career of glory! - But to thee these admonitions are unnecessary; therefore I will drop them.</p>
+            <p>ONE evening, I remember, as we were walking with the good old gentleman, in the grove adjoining to his</p>
+            
+            <pb n="27" xml:id="pb-27" facs="#i47"/>
+            <p>house, thou didst conclude the artless history of thy family; parts of which we had heard thee relate at different times, as memory or opportunity permitted, with so modest and tender a narrative, that I never revisited the place without admiring thy virtue; and there is a melancholy luxury even in the recollection of it. This evening it was so strong in my memory, that I ventured to commit it to paper. It ran nearly in this manner.</p>
+            <p>"My poor father, when just expiring under the malignity of a fever, sent for me into the room. I was then about sixteen years old. As I approached the bed, 'Charles,'</p>
+            
+            <pb n="28" xml:id="pb-28" facs="#i48"/>
+            <p>(said he, fixing his eyes stedfastly upon me, and stretching his hand out for a sword which was lying in the same chair with his regimentals) 'Charles! when your poor grandfather died, I was about your age: He left me all he had; earnestly requesting of me, as he delivered this sword into my hand, that with the little money I should receive in a few days, I would purchase myself a commission in the army. This I neglected for some time, on account of my health; till, at last, an unlucky accident (my time is now too short to relate it, thy mother will tell thee all) deprived me even of that</p>
+            
+            <pb n="29" xml:id="pb-29" facs="#i49"/>
+            <p>little! - From that time to this hour, near forty years, have I been a soldier of fortune; and you must be conscious how sparingly she has dealt with me and your poor mother! Would it had been otherwise, my dear!' (fetching a deep sigh) 'God knows, I have not much to bequeath thee! - Nay, do not turn aside, my child! - A few minutes, and I shall look upon thee no more!' - Here, for some time, his voice failed - distressful interval! - he supplied it, by raising his feeble arm to wipe the tear from off my cheek, as I bent over him; which - when he had done - 'Here, Charles!'</p>
+            
+            <pb n="30" xml:id="pb-30" facs="#i50"/>
+            <p>(kissing the sword twice or thrice) 'here' (said he) 'is what I value more than all the gifts of fortune. When I called upon it for assistance, it never refused, and in the day of danger it never deserted me! therefore I esteem it;' (here he kissed it again;) 'and, I hope,' (continued he, raising himself upon his elbow, and leaning toward me with a look of inward satisfaction) 'I hope my boy will not consider it in a worse light, for not having passed unnoticed in the fields where Marlborough conquered!' - Squeezing it ardently into my hand, he stooped down to kiss me - The tears which had long been trembling</p>
+            
+            <pb n="31" xml:id="pb-31" facs="#i51"/>
+            <p>in his eyes, as he closed them in death, dropped." - Here let me stop; for the sequel must be cold and insipid from any mouth but thine.</p>
+            <p>EVER since, till these turbulent times, I remember, he kept it carefully locked up with his father's picture. - This is the first time, since the good man's death, his country has required it of him - O! let it, then, be doubly keen and unerring in the day of battle, that he may restore it, loaded with victory, to it's noble companion.</p>
+            
+            <pb n="32" xml:id="pb-32" facs="#i52"/>
+            <p>HE told me, one day, that nothing should ever tempt him to part with either the picture or the sword; for he should not only then look upon himself as unworthy so great a father, but should lose many an hour of exquisite contemplation: "For, whenever" (added he) "I behold the picture, I am filled with veneration for the virtues of the father and the man; while the presence of the sword never fails to strike me with admiration at the unrivalled actions of the hero."</p>
+            <p>IT's faithful blade would long since have been sheathed in the rust</p>
+            
+            <pb n="33" xml:id="pb-33" facs="#i53"/>
+            <p>of time, if he had not, once in two or three months, spent a few minutes in recovering a bright polish, for which, in his father's time, it was remarkable: And surely those few minutes were not ill bestowed! - One-morning I found him thus employed. I perceived the damp dew of the air had cast a dimness over the blade, which ill became it: But it was like the voice of slander; which, for a time, may sully the most innocent, till the hand of truth shall wipe of every blemish, and then it will shine forth with redoubled lustre.</p>
+            
+            <pb n="34" xml:id="pb-34" facs="#i54"/>
+            <p>ESSAY V.</p>
+            <p>THE writings of YORICK bear visible marks of a great natural genius, seasoned with uncommon humour, and adorned with the most exquisite sensibility.</p>
+            <p>MY opinion may perhaps appear singular; but I cannot help considering Tristram Shandy rather as an admirable caricature of history, than an exact portrait of private life: A lucky attempt at "modestly over-stepping the modesty of nature;" and of alluring mankind with flattering</p>
+            
+            <pb n="35" xml:id="pb-35" facs="#i55"/>
+            <p>deceptions, beyond the bounds of probability. This appears more strongly in those places where he seems desirous to claim attention by pathos or ridicule. Let any one, after reading Le Fevre, ask his own heart, whether Uncle Toby and the Corporal are not too tender and sentimental? And, I think, the justly-admired amours of Widow Wadman never did or will have existence, but in the brain. Yet it is by these means he has exceeded all writers in his knowledge of disposition and character. By carrying us beyond our usual feelings, he has taught us, that the human heart is capable of the greatest improvement; and that nature never</p>
+            
+            <pb n="36" xml:id="pb-36" facs="#i56"/>
+            <p>feels herself more noble and exalted, than in the exercise of benevolence and humanity.</p>
+            <p>I AM well aware, that imitations of this irregular genius are laughed at, as absurd and trifling. I grant, that to imitate (as many have done) nothing but his careless, parenthesis'd chapters, deserves this censure; for in these he descends to silliness and buffoonery: But in other parts, it is so much the natural language of the heart, that stories and opinions fall more easily into it than into any other kind of writing. I hate a man who preaches a story, or delivers orthodox opinions any where but in</p>
+            
+            <pb n="37" xml:id="pb-37" facs="#i57"/>
+            <p>the pulpit. - But, in order to illustrate what I mean by his careless, parenthesis'd chapters, which have no connection with any other part of the book, and (having neither meaning nor information) serve only to perplex a reader, I will give an example of them in the following chapter. That you may know how easy this kind of writing is, the whole chapter was composed currente calamo, and in the original state sent to the press. It concludes with some reflections after his manner; where, by being over sentimental upon trifles, he runs into insipidity and ridicule.</p>
+            
+            <pb n="38" xml:id="pb-38" facs="#i58"/>
+            <p>CHAPTER.</p>
+            <p>PRAY, Ma'am, have you a taste for music? - I thought not - You would not have spent a whole hour in unpicking your queen's night-cap, the other morning, while the piano fortè stood open at your back, but that gew-gaw passion for dress weighs down every other; and, I believe, you make no other use of Handel and Corelli, than the poor man did with a ballad who was troubled with a singing in his head. - Nay, you need not grin! for, in spite of all your care and labour, your teeth are still a shade darker than the keys</p>
+            
+            <pb n="39" xml:id="pb-39" facs="#i59"/>
+            <p>of your instrument. - Now I am so entirely wrapt up in music, that I talk and think of nothing else. That's a lucky thought - I'll write a letter to my taylor in London. Pshaw! what an execrable pen! I don't know any thing so disagreeable, except wiping your mouth with the corner of a new blanket. - Betty is turning her pipes in the kitchen, as she sits hemming the bottom of an old callimanco petticoat. Plague take the wench! will nothing stop her mouth? I wish she was married to Rauzzini! - May I die at a concert, if I have not made music the last word of my letter! I'll seal it, however - you must know,</p>
+            
+            <pb n="40" xml:id="pb-40" facs="#i60"/>
+            <p>my motto is a musical one. - At the very instant, while I was applying seal to wax, with the right elbow turned outward from my body, and elevated to the height of my shoulder, straining every muscle of the arm, I recollected it. In a moment, down sunk every idea, good or bad, like sand to the bottom of a bason of water; while music, like oil, swam upon the surface. - You may fidget, and blow your nose, and look as cross as you please, there is no way to get rid of it, but by going to bed. - Music is one of those arts (thought I, holding the extinguisher over the candle, one foot in bed, the other on a Bath-rug carpet by the</p>
+            
+            <pb n="41" xml:id="pb-41" facs="#i61"/>
+            <p>side of it) which elevate the human mind. - I can never illustrate a subject that has been so well Handel'd already; so I'll hold my tongue. - Here sentiment took the reins - Could this candle, (turning round to the table on which it was standing) could this candle be sensible of it's impending fate, how would the pointed flame, which now seems to strain with eagerness to embrace and court destruction, and like "the lamb licking the hand just raised to shed it's blood," playing round the edge of the extinguisher - how would it, I saw, were it sensible of impending fate, shrink with horror from the touch; and draw back it's</p>
+            
+            <pb n="42" xml:id="pb-42" facs="#i62"/>
+            <p>trembling light, even till it's last momentary gleam was quivering in the socket! and, when that expired, a thin line of smoke would triumphantly ascend, and bid a joyful defiance to it's disappointed foe! - Here, how it happened I know not, but so it was, down dropped the extinguisher! - I caught it hastily up - It was too late! - The as yet enlightened snuff seemed to upbraid me. - I would have rekindled it. - I blew - no flame appeared; - on the contrary, I thought the little light rather diminished than encreased. - I will not blow again - There is but one spark now remaining - It lessens! - Is it gone? - No. -</p>
+            
+            <pb n="43" xml:id="pb-43" facs="#i63"/>
+            <p>I stepped quickly into bed, that I might there see it expire. - I turned my head, but could not perceive it. - I rubbed my eyes - It is gone - It certainly - is - gone!</p>
+            
+            <pb n="44" xml:id="pb-44" facs="#i64"/>
+            <p>ESSAY. VI.</p>
+            <p>WE have now attained the summit of the hill. Here let us stop, and wait with rapture and astonishment! - That glorious amber-coloured cloud, right before us, bespeaks the sun's appearance. Carry your eyes gradually round the horizon: Observe how imperceptibly, as you turn eastward, the brightness of the tints increases upon every cloud; and again, westward, how secretly it fades into a dim leaden hue. - The moon, though not yet retired, cannot with her ineffectual light</p>
+            
+            <pb n="45" xml:id="pb-45" facs="#i65"/>
+            <p>long endure the rising splendour of the sun. - I now perceive it's golden rim, peeping above the smooth unruffled surface of the ocean. - A faint gleam dances on the distance channel. More than half it's orb is now visible. - Now it shines forth in full majesty; resting for a moment on the verge of the ocean, as if unwilling to leave it. - But see! a thin transparent cloud has separated them. - How magnificently does it walk forth, throwing it's golden mantle across the water! - To what a prodigious length is the shade of that small vessel, which lies at anchor some distance from the beach, extended! - Hark! the deep-mouthed hounds are out, and the</p>
+            
+            <pb n="46" xml:id="pb-46" facs="#i66"/>
+            <p>murmur increases behind us in the village. - The whole side of the hill, except where we ascended, is lightly covered with a smooth shining web, woven by the innumerable insects which inhabit it. - How beautifully is the prospect at the bottom of the valley adorned with a thick crop of oriental pearl, reflecting ten thousand coloured rays, terminated by that Gothic spire, which seems of gold, while upon it's top the shifting vane twinkles incessantly! - Let us pursue our walk, that we may return before it grows sultry, for I feel the heat increasing.</p>
+            
+            <pb n="47" xml:id="pb-47" facs="#i67"/>
+            <p>WHAT a variety of beauty and nonsense has this subject occasioned in all languages, and in all ages! I believe you will scarce find a poet, provided he writes a hundred pages, who does not undertake a description of it. it is very certain, that nature never appears more beautiful and engaging than in this situation. The enlightened air glows with celestial mildness, and the whole face of the creation is cloathed in such a splendid tranquility; that it is no wonder the muses, fond of this peaceful season, made it the celebrated subject of their divine harmony.</p>
+            
+            <pb n="48" xml:id="pb-48" facs="#i68"/>
+            <p>DESCRIPTIONS of this sort are, I believe, more common in our own language than in any other. Our very ballads and songs abound with them: The sportsman will rouze you with<lb/>
+            "The sun from the East tips the mountains<lb/>
+            with gold" -</p>
+            <p>And the lover with<lb/>
+            "The little birds on ever spray<lb/>
+            Salute the rising sun" -</p>
+            <p>And yet, I dare venture to affirm, there are not four people out of ten, who, since they were at school, ever saw the sun rise. Nay, I make no doubt but there is many a fine gentleman at the West end of the town,</p>
+            
+            <pb n="49" xml:id="pb-49" facs="#i69"/>
+            <p>and many a poor smokey cockney under the influence of Bow-bell, who, where he put to the oath, would long be at a loss to determine whether there be such a thing in nature as a drop of morning dew, or whether it be only a mere poetical fiction.</p>
+            
+            <pb n="50" xml:id="pb-50" facs="#i70"/>
+            <p>ESSAY VII.</p>
+            <p>DURING my short visit, last Spring, at Mr. W-'s country-seat in Devonshire, I was much pleased in observing, on one hand the respect and gratitude of all the villagers towards him; and, on the other, his benevolence in relieving their wants and encouraging their labours. In the midst of such a scene of rural hospitality, I could not avoid frequently reflecting upon Sir Roger de Coverly, and fancying myself in full enjoyment of those</p>
+            
+            <pb n="51" xml:id="pb-51" facs="#i71"/>
+            <p>descriptions which I have so often read with envy and delight.</p>
+            <p>ONE morning I was witness to a scene, which filled me with such wonder and veneration that I could not help committing it to paper. The subject would be an ornament to a much abler pen.</p>
+            <p>WE had scarce finished breakfast, when the servant entered with a neat wicker basket, whose contents were modestly hidden under the covering of a few fine leaves.</p>
+            <p>"WHAT hast thou there, Joe?" (cried Mr. W-, laying down</p>
+            
+            <pb n="52" xml:id="pb-52" facs="#i72"/>
+            <p>his napkin, and rising from his chair.)</p>
+            <p>"WHY, Sir, a mortal fine pineapple the poor old gardener has brought, and hopes you will accept of, in return for your kindness to his wife when she was ill. He hopes your honour won't take it amiss."</p>
+            <p>"'TIS a very fine pine, to be sure." (Lifting up the vine leaves, and holding out the basket.) "Here, Joe, the first time you go down the village give him this crown - You remember what is said in</p>
+            
+            <pb n="53" xml:id="pb-53" facs="#i73"/>
+            <p>Scripture of the poor widow's mite?"</p>
+            <p>"YES, your honour: And, I warrant, the old gardener in the entry" -</p>
+            <p>"In the entry, Joe? - What, has the poor man been standing all this time in the entry? - Call him in immediately, and take down the fruit."</p>
+            <p>THIS gentle rebuke called up a blush in Joe's face, which seemed to say he would remember for the future: So, sending the gardener into the parlour, he retreated.</p>
+            
+            <pb n="54" xml:id="pb-54" facs="#i74"/>
+            <p>Now Joe having a very liquorish tooth, and his situation in life preventing it's being indulged as often as he could wish, it is very natural to suppose that the smell, nay even the sight, of such delicious fruit, must have excited his desires, and awakened his appetite. His longings were, indeed, very craving: But having a pretty good share of religious principles, together with a retentive memory, he recollected that the vicar, not a week before, had in an excellent sermon commanded him to withstand temptation. He always paid great regard to what the vicar said; and being somewhat scrupulous about breaking the Scriptures,</p>
+            
+            <pb n="55" xml:id="pb-55" facs="#i75"/>
+            <p>at last suffered his virtue to get the better of his inordinate desires: So, setting down the basket in the coolest place he could find in his pantry, returned to the kitchen fire.</p>
+            <p>AFTER wiping his shoes upon the mat, the old gardener walked into the parlour. The long course of seventy years had given a venerable appearance to his figure. A regular and temperate manner of living had kept him entirely free from the inconveniences and complaints which generally attend a man so far advanced in life. - Time had spread his snow upon his head; yet had not wiped off so much of the vermilion</p>
+            
+            <pb n="56" xml:id="pb-56" facs="#i76"/>
+            <p>from his cheeks, but that enough still remained as an index to an healthy and unimpaired constitution. - His eyes still are very clear: But, upon Mr. W-'s observing to him, the other day, that he had missed him for two or three Sundays at church, he told him he had changed his old seat in the aisle, directly under the clerk's desk, and was removed nearer the altar, for that he found he could not see quite so clear as usual; adding, he feared he must soon take to spectacles. He is rather above the middle-size; and in his younger days, I have heard, was accounted the tightest man in the parish - No parish register can be</p>
+            
+            <pb n="57" xml:id="pb-57" facs="#i77"/>
+            <p>of greater service to the common people; for, by remembering families and dates, he is applied to by them to decide all their quarrels and debates. He is the only man, too, who can remember the vicarage house being rebuilt: And boasts of having rung the tenor bell, in the first peal they ever had in the tower, given by the lord of the manor, ANNO DOMINI 1726; whose name stands recorded at the head of the list of benefactors, written in golden letters on each side of the singers gallery.</p>
+            <p>"WHY did you stand int eh entry, good man?" (said Mr. W-, as he was entering the parlour.)</p>
+            
+            <pb n="58" xml:id="pb-58" facs="#i78"/>
+            <p>"BLESS your honour!" (returned he, bowing respectfully) "I only made bold to call with my poor wife Dorothy's dutiful respects, begging your acceptance of a small trifle. She hopes your honour won't be displeased."</p>
+            <p>"DISPLEASED! God forbid, good man! - But how is your wife?"</p>
+            <p>"YOUR honour is too good! - God be thanked, she is much better than when your honour saw her; but I fear she will never be rightly well again!"</p>
+            
+            <pb n="59" xml:id="pb-59" facs="#i79"/>
+            <p>"O, never despair! - we must hope for the best."</p>
+            <p>HERE the poor man shook his head; and, while the faint gleam of a smile spread over his face, made no other reply, than - "Ah! your honour!"</p>
+            <p>"WHEN the weather becomes a little more settled, and she can venture out, I dare say she'll do very well again. - Tell her I am much obliged to her for her present, and will come and see her either to-morrow or next day. In the mean time, if either you or</p>
+            
+            <pb n="60" xml:id="pb-60" facs="#i80"/>
+            <p>she stand in need of any thing, I desire you will apply to me."</p>
+            <p>DURING this speech, the old man, by numberless means, had endeavoured to express his gratitude - By bowing, laying his hand to his breast, and taking the opportunity of each interval to pronounce - "Heaven bless your honour!"</p>
+            <p>SURELY gratitude like this invites the hand of benevolence! for where does liberality find a more noble restitution than a grateful heart!</p>
+            <p>WHEN Mr. W- had finished, all the poor gardener could reply</p>
+            
+            <pb n="61" xml:id="pb-61" facs="#i81"/>
+            <p>was - "Indeed, your honour, I am quite ashamed! You have done too much, already, for us!"</p>
+            <p>"I HAVE done nothing by my duty, good man; and make no doubt, were our circumstances in life changed, you would have done as much for me."</p>
+            <p>"I HOPE I should, your honour: And I believe I may answer pretty safely for poor Dorothy; for I have heard her say, an hundred times, she would not grudge walking six miles, to hear our vicar preach such another sermon as he</p>
+            
+            <pb n="62" xml:id="pb-62" facs="#i82"/>
+            <p>did last Whitsunday, concerning the good Samaritan."</p>
+            <p>"I CAN answer for her, myself," (said Mr. W-, interrupting him) "and I am sure I can never do too much for one who has so good a heart."</p>
+            <p>"SHE has a good heart, indeed, your honour!" -</p>
+            <p>A COACH at this instant stopping at the gate, put an end to the conversation. Mr. W- arose; and, wishing his wife better, dismissed him. I saw him, at the door, put some money into the gardener's hand:</p>
+            
+            <pb n="63" xml:id="pb-63" facs="#i83"/>
+            <p>I believe he was conscious of it; for, as he turned round, he seemed a little confused. I saw the old man, as he passed the window, kiss the money; and, as he put it into his pocket, utter a prayer for his benefactor.</p>
+            <p>I CANNOT leave this subject, without speaking of a visit I paid him some few mornings after, to enquire his wife's health, by desire of Mr. W-; who, knowing I am fond of considering such scenes of rural simplicity, told me I should meet with sufficient matter for agreeable reflections.</p>
+            
+            <pb n="64" xml:id="pb-64" facs="#i84"/>
+            <p>As I walked down the lane which leads to his cottage, I met two children of his; who, by their shining morning faces and clean apparel, I supposed were going to school. They stopped full before me, and made a most humble obeisance. - I had proceeded within a few paces of the gardener's wicket, when a little boy who was standing there with a large slice of bread and butter in his hand, upon sight of me ran immediately into the house, to inform them of their visitor.</p>
+            <p>IT was one of those modest mansions, which would perhaps pass unnoticed in a less retired situation;</p>
+            
+            <pb n="65" xml:id="pb-65" facs="#i85"/>
+            <p>but in the sequestered spot where it now stands, could not fail to attract the wandering eye, and strike the pensive mind with a strong and pleasing idea of the calm content and unambitious tranquility of it's humble tenant. - It was a roof under which humility herself might have fixed her residence - but much too low for the lofty head of pride to enter. - It bore the date of many years upon it's crusted walls; but that, like the wrinkles on it's master's brows, served to increase it's beauty. The ivy, which in many parts spread very thick over the walls, seemed as if sent by some protecting angle, to defend them against</p>
+            
+            <pb n="66" xml:id="pb-66" facs="#i86"/>
+            <p>the rude assaults of time, and to support them in the hour of decay.</p>
+            <p>I WAS casting my eyes towards the thatched roof, where a great quantity of birds were gathered, as if conscious of security and protection, when the gardener's wife appeared at the wicket, with a courteous smile upon her face. She dropped a curtsey to me; which, though once perhaps more graceful, was never more sincere; and hoped I would honour her so far as to step in and rest myself. - I surveyed her attentively as she approached towards me. Here was a large field for meditation. - I looked upon the hoary locks which</p>
+            
+            <pb n="67" xml:id="pb-67" facs="#i87"/>
+            <p>graced her head, as upon the last faint beams of the setting sun, with sorrow and veneration. - Upon her countenance, as upon some curious fragment of antiquity; in which, having traced the outlines of what once was beautiful, it causes an inward satisfaction; I reflect on what it was, and thank the hand of time for sparing me so much. - Upon her garments, as upon the spotless robes of innocence and virtue; for they were such as decency herself might not blush to wear. - I was so taken up with these reflections, that without answering I followed her to the cottage.</p>
+            
+            <pb n="68" xml:id="pb-68" facs="#i88"/>
+            <p>I COULD not avoid being much struck with the neatness of the kitchen; But, as we only passed through it to a small room that fronted the garden at the back of the cottage, I had not time to make particular observations. My eyes, however, were attracted towards the fireplace, by a large dog; which, disturbed from a sound nap, at my entrance, lifted up his head, and grumbled out his displeasure: But being at last conscious, I believe, of no ill design against the family, or by reason of some threatening reproof from his mistress which escaped me, as I passed by, laying his head upon his two fore-paws, which were stretched out almost</p>
+            
+            <pb n="69" xml:id="pb-69" facs="#i89"/>
+            <p>most parallel to each other before him, he turned his eyes upward to my face, and wagged his tail. I bent down and stroked the animal for his affability, and then proceeded. - The dresser, tables, chairs, the pewter, brasses, and every ornament over the chimney-piece, manifestly bore the marks of care and industry.</p>
+            <p>WHEN I entered the room, I was much pleased with seeing a little girl at work in the window-seat; and close at her feet a boy of about the same age, with one of Mr. Newbery's pennyworths of learning in his hand, both busily employed. A looking-glass in a black varnished</p>
+            
+            <pb n="70" xml:id="pb-70" facs="#i90"/>
+            <p>frame adorned one side of the room, and reflected a sheet almanack which hung opposite to it, just over a small bureau sufficiently capacious for their use. - Their religion and loyalty were both shewed in their choice of ornaments; for the walls on each side were variously profaned with consumptive angels, diabolical saints, and martyrs in masquerade; while on either side of the chimney his present gracious majesty, and his royal consort, were hung in effigy. - During these observations the gardener entered the room, wiping his fingers on the corner of his blue apron.</p>
+            
+            <pb n="71" xml:id="pb-71" facs="#i91"/>
+            <p>I STAID no longer than to execute my commands; and, having gained a satisfactory answer, returned.</p>
+            <p>UPON my way home, among other reflections, I thought I never saw any subject on which the inexpressible delicacy of Horace's Simplex Munditiis could have been more properly bestowed.</p>
+            <p>I HAD scarce turned the corner of the lane, when the village clock struck eight - I had just counted the last stroke, when, casting my eyes upon the ground, I perceived that I was squeezing, under my right-foot, half the body of a small worm.</p>
+            
+            <pb n="72" xml:id="pb-72" facs="#i92"/>
+            <p>The poor insect, by the writing of it's body, must have been in incredible agony. It's slender form was twisted into every position to deliver it from the weight of so destructive but innocent an oppressor! - I caught my foot hastily up. As soon as it felt itself released, with what little strength remained, it began to slide forward, drawing it's mangled length slowly after, towards a small hole in the ground; from whence, no doubt, it had lately crawled forth to enjoy the moisture of the morning, and to be a partaker of those benefits which the bountiful hand of Providence sheds impartially alike</p>
+            <pb n="73" xml:id="pb-73" facs="#i93"/>
+            <p>upon all his creatures - And, in a moment! - Good God! - It is so strong a resemblance of what happens daily in human life, that is will not bear so close a reflection as my tongue was about to bestow upon it! - So I let my cane drop carelessly back upon my right-shoulder; and in this position arrived safe at the end of the walk, just at breakfast-time.</p>
+            <p>I CANNOT leave the country, without relating another adventure which happened during my residence with Mr. W-. I had supped one</p>
+            
+            <pb n="74" xml:id="pb-74" facs="#i94"/>
+            <p>evening with a family in the village; and returning home rather earlier than usual, I thought, as the moon shone exceedingly clear, that I would take a walk before I entered the house.</p>
+            <p>AT the bottom of the garden there is a small gate, which opens into a pleasant meadow: By crossing this you are brought to a most delightful beach, from whence you can command a most extensive prospect both by sea and land. On each side it is skirted with woods and rocks, rising to a moderate eminence. In the front it seems to lie entirely open, unbounded by any view but sky and water: But</p>
+            
+            <pb n="75" xml:id="pb-75" facs="#i95"/>
+            <p>on a very clear day, a long uneven ridge of blue misty mountains may be seen just peeping above the horizon; and, at the distance of about nine miles, a small castle, built upon a neck of forest land, projecting out almost as far as the channel. - The eye would find little amusement in this part of the prospect, was it not for the number of ships of all burdens which are continually crossing this opening into the channel.</p>
+            <p>ABOUT two hundred yards to the left of the meadow stands a venerable pile of ruins, the last sad remains of some religious abbey! - Thither, along the beach, I directed</p>
+            
+            <pb n="76" xml:id="pb-76" facs="#i96"/>
+            <p>my walk. - The solemnity and stillness of the night seemed to increase as I approached those mouldering towers; and the silent serenity of the full-orb'd moon, casting over them the mildness of her silver light, added such an awful lustre to the melancholy scene, that I was filled at once with reverence and astonishment. - "The busy hum of men" was hushed: The whole creation round would have seemed mute and motionless, had not the ear been awakened, at unequal intervals, by the light splashing of the swelling tide, as it encroached upon the glimmering shore. Through the populous city, and the sequestered village,</p>
+            
+            <pb n="77" xml:id="pb-77" facs="#i97"/>
+            <p>scarce an eye remained unclosed in gentle sleep. - I now found myself overshadowed by the high o'erhanging fragment of a Gothic gateway. Half of it had already fallen a victim; but time seemed willing to spare the other half, as a noble monument of it's former magnificence. - In every niche, as I passed slowly by, some rude mishapen remnant of a pious saint, some mitred father hourly decaying under the spungy moss which covers him, was presented to my view; illustrating the vanity of human grandeur. - O! if the time should ever come, when, wandering from the gay and giddy croud, sick of the insipid world, the</p>
+            
+            <pb n="78" xml:id="pb-78" facs="#i98"/>
+            <p>speckled form of vanity will visit this unfrequented spot! then, as she casts her eyes upon yonder mouldering image, a penitential sigh for former follies will waft her sins toward Heaven, in hope of pardon; and, ere they arrive, the balmy breath of innocence, like a prosperous breeze, will aid their progress! Then, when they enter, they will smell so sweetly of repentance, that they shall stand recorded high on the list of virtue, as everlasting testimonies of sincere contrition! - As I turned short round a corner of the aisle, by the light of the moon, which shone very bright through an old Gothic window at the end of the cloyster, just</p>
+            
+            <pb n="79" xml:id="pb-79" facs="#i99"/>
+            <p>before me, I perceived something lying at the foot of one of the columns: At first it looked like a piece of the ruin; but how great was my astonishment, when, coming within a yard of the place, I discovered it to be a poor woman, with an infant in her arms, as I thought, fast asleep. - The coarse tattered remnant of a blanket was wrapped round her emaciated body; with one arm resting upon the low base of a mouldering column, she supported her defenceless head: With the other she embraced her tender infant, whose innocent cheek was reclining on it's mother's breast.</p>
+            
+            <pb n="80" xml:id="pb-80" facs="#i100"/>
+            <p>ART not thou my fellow-creature! (exclaimed I;) and is this, poor wretch, thy habitation! - When the winds whistle, and the tempests roar, is this the only shelter thou canst find! When the rain beats hard, and pitiless storms descend, is this thy only covering! - Even the beasts have caves for shelter, and secret places to slumber in; why, then, are thy almost naked limbs exposed to the inclement elements! Why are the clouds thy only canopy, and the cold earth thy pillow! O, thou art poor indeed! - It could not be thy crimes which have brought thee to this; thou art not capable to commit any!</p>
+            
+            <pb n="81" xml:id="pb-81" facs="#i101"/>
+            <p>MY curiosity prompted me to approach nearer. I began to suspect that the uncommon paleness of their lean cheeks (which, when I first saw them, I imagined was occasioned by the light of the moon shining full upon them) proceeded from another cause! I approached still nearer: My head, as I hung over them, intercepted the beams of the moon. The paleness still remained upon them! I stretched out my hand to awaken them - Vain mortal! it is not thy hand that can effect it! for the weight of death is fallen upon them! - My heart bled at the sight; and, as I turned my head, an involuntary tear of compassion</p>
+            
+            <pb n="82" xml:id="pb-82" facs="#i102"/>
+            <p>dropped. - Perhaps, (thought I) when the light of yesterday's sun first rose above the mountains, she seated herself in this spot, unable to proceed farther; that at least, together with her infant, she might enjoy the comfortable bounty of his rays, which were then streaming through yonder eastern window: These, and a scanty offal of coarse bread, were all they had to chear their drooping souls! - When the sun arrived at meridian brightness, the little infant stretched out it's tender arms, and looked wishfully in it's mother's pallid face. She guessed it's meaning; and, laying it gently on the earth, hastened to a neighbouring</p>
+            
+            <pb n="83" xml:id="pb-83" facs="#i103"/>
+            <p>brook: She relieved it's wants; her own remained unsatisfied. - When the sun was descending, the infant sunk to rest in her arms. In the first sigh, it breathed away it's tender spirit! - By the light of this morning's sun, she saw her lifeless infant reclining upon her breast! - His genial beams could not recal it's spirit! it had mounted too high! Through the long heat of noon she lingered in affliction; a sick and widowed mother, with an only child breathless in her arms! Joyless, hopeless, comfortless! - When the broad moon was rising from behind the ivy of that mouldering dome, she reclined her head upon her feeble arm, resting</p>
+            
+            <pb n="84" xml:id="pb-84" facs="#i104"/>
+            <p>it on the base of this pillar! To the chilling breezes of the night she made her moan, and silence alone received her lamentations! She lifted up her eyes faintly toward the spangled Heaven, and was about to close them for ever; but hearing my approaching steps, would have called for pity and relief! Her spirits could not bear the exertion! Her livid lips cleave to each other in agony! - Death at that moment chained her tongue in everlasting silence! -</p>
+            <p>I WAS now arrived at the house; and, upon the relation of what I had seen, it is not to be conceived how</p>
+            
+            <pb n="85" xml:id="pb-85" facs="#i105"/>
+            <p>much the good Mr. W- and his whole family were afflicted. Proper persons were immediately dispatched to take care of the bodies; and the next day they were carefully deposited in the same grave. - I am since told, that there is a neat stone against the wall of the church, put up at Mr. W-'s expence; and a beautifully tender inscription, to perpetuate their memories, written by the vicar, a man honoured and beloved for his uncommon sense and humanity.</p>
+            
+            <pb n="86" xml:id="pb-86" facs="#i106"/>
+            <p>ESSAY VIII.</p>
+            <p>A MAN no sooner sits down, on his return home in a Winter's evening, than, releasing his feet from the pressure of a BOUCLE D'ARTOIS, and assuming, carelessly, the cool gout-relieving slipper, he takes up a volume of some favourite author; and, situated in an arm-chair, leans his elbow on the table, within about a folio margin's breadth of the bottom of a bright brass candlestick; the book raised in his hand almost to a level with his eyes, his left-arm resting upon the elbow of the chair,</p>
+            
+            <pb n="87" xml:id="pb-87" facs="#i107"/>
+            <p>a pair of steel snuffers in his hand, gently tapping pretty good minuet time against the calf of his right-leg placed careless upon the left-knee. In this posture of affairs, a pleasing train of reflections begin to rise: He turns his head a little on one side from the book, and fixing his eyes studiously vacant upon a small fly, or on any other impertinent reptile, or immaterial atom, crawling or lying on the table, levels the book gradually to an horizontal position; with one hand gently lays down the snuffers, with both his elbows firmly fixed upon the arms of the chair, and letting his hands drop negligently into his lap, he stretches</p>
+            
+            <pb n="88" xml:id="pb-88" facs="#i108"/>
+            <p>out both his legs till his feet are within two inches of the fender, flings himself back in the chair, and looking up at a bird-cage or a ragged beam just over his head, travels at the rate of twelve miles an hour, through the kingdom of fancy and fiction; scorning the turnpikes and turnpike-roads, leaving hedge and ditch, gate and river, and all other casual obstructions, like the vain-glorious son of Glaucus, far beneath him: Or, like Satan in his flight, with head, hands, wings or feet, swims or sinks, or wades, or creeps, or flies, through the perils of castles and phantoms, wild-beasts and whirlwinds, forests, fair ladies,</p>
+            
+            <pb n="89" xml:id="pb-89" facs="#i109"/>
+            <p>and forked lightnings, madness, murder, and moonlight;</p>
+            <p>"Till all his noble structures, raised so high, <lb/>
+            Are shatter'd into heaps o'er his bald head."</p>
+            <p>I MYSELF, the other evening, took a kind of hobby-horsical slight towards the castle of chaos, for I am very fond of true poetical masonry; and, as I find most of our modern terrible high-bred bards have taken this old lady's mansion for a model, I thought I would at least take a view of it: By way, therefore, of introduction, during my journey I composed the following ghastly ode; which I did once intend to have written with druid's blood upon</p>
+            
+            <pb n="90" xml:id="pb-90" facs="#i110"/>
+            <p>black paper, and dedicated it to the ghost of some northern warrior; but I afterwards laid aside all thoughts of that, chusing rather to introduce it, as a model of perfect poetry, to the public, with only this it's original invocation prefixed.</p>
+            <p>OH! all ye gently-sighing spirits, who are wont, at some solemn, silent, curfeu-tolling hour, to sit side by side with that mother of musings, sage holy contemplation, sky-commercing with her austere companion, morality, upon a glossy couch of ivy, or a mossy mouldering fragment marked with imperfect Runic</p>
+            
+            <pb n="91" xml:id="pb-91" facs="#i111"/>
+            <p>characters and ambiguous hieroglyphics; there to view, without fear of falling, fretted cielings, high-wrought columns, mitred saints, and spiral arches, dropping piece by piece to decay, and have seen them at last drop into oblivion! - Oh! all ye more dreadful Gorgon spirits, who have dared through horror and howlings to pry into the unessential womb of hubbub and distraction; or, by the winking glimmer of the stars, the dim moon impending bloodily eclipsed, have tumbled over and rumaged all the dreary mysteries of nature and time,</p>
+            
+            <pb n="92" xml:id="pb-92" facs="#i112"/>
+            <p>marking their different tempers, looks and changes, ever since the golden compasses described their circle; and will continue to attend and mark them, till they are grand-climactericated! - O be propitious to my thrice-muttered invocation!</p>
+            <p>THE pearly queen of night has bow'd<lb/>
+               Her orb beneath a sable cloud,<lb/>
+               Whose tawny skirts reflected gleam<lb/>
+               Across the smooth, unruffled stream;<lb/>
+               And through the dim mist of the vale<lb/>
+               Slowly slide the spectres pale!<lb/>
+               The solemn bell, from Ichnon's tow'r,<lb/>
+               With iron tongue proclaims the hour;<lb/>
+               And murm'ring low, with hollow chime,<lb/>
+            Echoes to the voice of time!</p>
+            
+            <pb n="93" xml:id="pb-93" facs="#i113"/>
+            <p>Rouz'd by the sound, through thickest night,<lb/>
+               The dun bat rears her doubtful flight;<lb/>
+               And, as the distant tempest scowls,<lb/>
+               The grey wolf through the forest howls!<lb/>
+               - Hark! heard ye not that piercing yell,<lb/>
+               From yon dreary, yawning cell!<lb/>
+               Come, thou hideous phantom, come!<lb/>
+               From the murd'rer's recent tomb!<lb/>
+               Thy wildly vacant eye-balls flashing,<lb/>
+               Thy iron fangs with fury gnashing!<lb/>
+               While down thy tatter'd garments pour<lb/>
+               Lingering streams of clotted gore!<lb/>
+               Let me clasp thee to my breast,<lb/>
+               In all these Gorgon terrors drest!<lb/>
+               Now, while the angry thunders roll,<lb/>
+               And horror shakes my thrilling soul!<lb/>
+               Come, thou hideous phantom, come!<lb/>
+               From the murd'rer's recent tomb!<lb/>
+               Bring restless pain, with haggard eye,<lb/>
+            Distress, and writhing agony!</p>
+            
+            <pb n="94" xml:id="pb-94" facs="#i114"/>
+            <p>Quivering lips, and visage hoar!<lb/>
+               While cold drops start from ev'ry pore!<lb/>
+               Bring mailed slaughter, at whose side<lb/>
+               Death smiles, and unchain'd furies ride!<lb/>
+               Destruction wild before his car<lb/>
+               Wields dreadful instruments of war;<lb/>
+               Through fire and smoke whole nations fly,<lb/>
+               And towns in smoking ruins lie!<lb/>
+               While round him flows, in constant flood,<lb/>
+               A wide circumference of blood! -<lb/>
+               Come revenge! grim phantom, come!<lb/>
+               And leave the murd'rer's recent tomb!<lb/>
+               - High posted on the whilwind's blast,<lb/>
+               (Spreading plagues as on they past)<lb/>
+               Two sister furies thundering rode<lb/>
+               To yon dank and drear abode!<lb/>
+               I saw them ride the pinion'd storm!<lb/>
+               I saw them clasp the hideous form!<lb/>
+               And now in triple knot they're gone<lb/>
+            To the deep pit of Acheron!</p>
+            
+            <pb n="95" xml:id="pb-95" facs="#i115"/>
+            <p>- See! before Hell's massy gate,<lb/>
+               They weave the web of Norway's fate;<lb/>
+               And, muttering slow the mystic sound,<lb/>
+               The pale flame glimmers on the ground!<lb/>
+               - "Let the warrior, Marvon, bleed;<lb/>
+               Another shall his loss succeed! -<lb/>
+               See! sisters, see! 'tis done, 'tis done! -<lb/>
+            Marvon falls! - The web is spun!"</p>
+            
+            <pb n="96" xml:id="pb-96" facs="#i116"/>
+            <p>ESSAY IX.</p>
+            <p>IT is a great comfort to those who want a good natural understanding, that they may be furnished with materials for conversation out of every coffee-house in the city. Numberless are the ways by which men of this stamp acquire their temporary knowledge. It is no unusual thing, to see one of these evening posts sitting close behind a knot of clever fellows, swallowing down coffee and conversation with the greatest perseverance. To prevent being suspected of listening, he with</p>
+            
+            <pb n="97" xml:id="pb-97" facs="#i117"/>
+            <p>great vacancy of attention fixes his eyes upon some newspaper or magazine, and takes particular care, by smiles or frowns, and a variety of other important gesticulations and grimaces, to signify his approbation or dislike of certain imaginary passages. I remember, I once cast my eye upon a pamphlet which one of these gentlemen was reading, and in which he seemed very much interested; you may suppose I was not a little surprized, to find it contained nothing more nor less than an exact list of the Wiltshire justices for the year 1764. I must confess, I never thought there was much humour or grotesque imagery in any simple</p>
+            
+            <pb n="98" xml:id="pb-98" facs="#i118"/>
+            <p>catalogue of names, before I saw this gentleman ready to split his sides with laughter at the perusal of them. A man of such an uncommonly happy temper is never at a loss for entertainment: For he can draw pleasant jokes out of a piece of blank paper; and find sufficient matter for amusement and laughter, whether he read Hudibras, or the Farrier's Vade Mecum.</p>
+            <p>THIS is one method they use to cloathe theselves with wisdom - which is of such a nature, that if it be laid by will soon become useless and unfashionable: It must be displayed immediately, or never. I</p>
+            
+            <pb n="99" xml:id="pb-99" facs="#i119"/>
+            <p>would recommend it, therefore, to all those who frequent these never-failing magazines of coffee and intelligence, for this purpose, to take the earliest opportunity of disengaging their minds from these extempore burdens: But, at the same time, I would have them very careful to reconnoitre the faces of the company; least, like a poor unfortunate gentleman I once met, they let off their anecdotes before people who are fresh from the room where they were first related.</p>
+            <p>THE Romans had an easy and ready method to get rid of news or opinions before they got stale and</p>
+            
+            <pb n="100" xml:id="pb-100" facs="#i120"/>
+            <p>unseasonable: It was but mounting the rostrum, and the whole town was immediately informed. I think, our market-crosses woudl not be ill applied to this purpose: And I have often persuaded myself, in spite of histories and commentators, that they were originally designed to answer the same end as the rostrum in the Roman forum; where senators and shoemakers, prime-ministers and pastry-cooks, had all the equal liberty of delivering their sentiments and opinions.</p>
+            <p>LORD Shaftsbury says, that conversation is the hot-bed of the imagination. The same may be said of</p>
+            
+            <pb n="101" xml:id="pb-101" facs="#i121"/>
+            <p>coffee-houses, that they are the hot-beds of conversation. It is here that many a weak understanding is prematurely forced into a state of artificial perfection never designed for it by nature; and many a man who frequents these places will from others acquire a very plausible manner of relating facts, and debating politics, who, were he questioned, would absolutely be incapable of telling the situation of his own country, or whether it was Harry the eighth, or Mr. Pope, who brought about the Reformation.</p>
+            <p>THESE men put me very much in mind of a character which at present</p>
+            
+            <pb n="102" xml:id="pb-102" facs="#i122"/>
+            <p>greatly prevails among us, your title-page scholar; who gathers all his knowledge from booksellers shops and catalogues. This man scorns common authors, which every snivelling school-boy is acquainted with; and imagines the world will be blind enough to judge the depth of his erudition from the obsoleteness of the books with which he affects to be conversant. He enters a coffee-house, and, with the most insignificant austerity of countenance, passes judgment upon Casaubon, Barovius, or Strabo, over a dish of tea; and without the least regard to decency or good-manners, provided he can shew his knowledge, will at dinner-time</p>
+            
+            <pb n="103" xml:id="pb-103" facs="#i123"/>
+            <p>describe the nature of the SPINA DORSALIS, across the table. - I would have such a fellow well whipped for betraying so pitiful an ambition, that he might remain IN TERROREM to all other sneaking simulars of perfection.</p>
+            
+            <pb n="104" xml:id="pb-104" facs="#i124"/>
+            <p>ESSAY X.</p>
+            <p>A MAN who is fond of musical comparisons may say this - A solo is a very striking resemblance of the city of Jerusalem, as David describes it in the Psalms, at perfect unity with itself. - A duet I compare to a couple of sincere friends; who, though of as opposite dispositions as a flute and a bass-viol, may, by constantly observing each other's stops and movements, live very amicably together, - I know of nothing a trio is like, unless it be the three graces; but then the comparison</p>
+            
+            <pb n="105" xml:id="pb-105" facs="#i125"/>
+            <p>holds good, if I compare it to the three weird sisters. - A quartetto I detest; and think it a kind of proportion in harmony, (if I may be allowed the expression) rather forced than natural. I no more believe that four such instruments as I once was unlucky enough to hear united, were intended by nature to be companions to each other's sounds; than that I and the tallow-chandler, Mrs. Kitty the cook, and Master Jacky who was going to school, were designed, from the creation of the world, to jolt together VIS A VIS in the Exeter stage-coach: And yet, though we had no more connection with each other before than the four</p>
+            
+            <pb n="106" xml:id="pb-106" facs="#i126"/>
+            <p>instruments, when we had moved two miles, we were jumbled into such perfect harmony, that for the last twenty of our journey we made shift to support a most admirable quartetto. - It would be endless to go through a regular course of these comparisons; I shall therefore conclude, by comparing a full chorus to a sett of friendly brothers of the ancient and honourable knot of free and accepted masons.</p>
+            
+            <pb n="107" xml:id="pb-107" facs="#i127"/>
+            <p>ESSAY XI.</p>
+            <p>THERE is nothing which requires greater minuteness and delicacy, than the description of a private character. We may indulge our fancies on subjects of a more general nature: But here we are bound by justice and humanity to trace with an impartial hand the exact features of our original. An error on either side is equally unpardonable. If it be a crime to deform a virtuous character, by casting over it a shade of vice and immorality; it is not less faulty, to blazon deceitfulness and guilt with</p>
+            
+            <pb n="108" xml:id="pb-108" facs="#i128"/>
+            <p>the false colouring of integrity and virtue. - Though, upon second consideration, I think the latter of the two has some little excuse for his unjust deviation. We understand the nature and power of flattery too well to deny him this subterfuge. I must confess, I should be much surprized to find it otherwise. Vanity, from which I believe few hearts are free, will not suffer us to condemn him: And, whatever objections the more grave and moral part of mankind may affect to have against this natural failing, there are few who would not prefer the good, the puissant, and the wise, before obscurity and oblivion.</p>
+            
+            <pb n="109" xml:id="pb-109" facs="#i129"/>
+            <p>THE excellent artifice of the painter who suited a Venus of an Apollo to the countenances and figures of all his customers, according to their sex, gained him much greater reputation than if he had represented them justly, with all their several beauties and deformities; and at the same time serves to prove, that flattery is the necessary road to eminence and prosperity.</p>
+            <p>SINCE, then, we must allow it a difficult and hazardous undertaking, to delineate impartially the character of another; what care and circumspection is required, to draw forth our own natural virtues and defects</p>
+            
+            <pb n="110" xml:id="pb-110" facs="#i130"/>
+            <p>to public observation! - In this case we are seldom so blind as to transgress on the ugly side of the character, and an error on the other is doubly criminal. Self-flattery is despicable, as it is generally the companion of meanness and insignificancy, and ends to the disadvantage of the possessor.</p>
+            <p>A LEARNED French author relates a story of an Eastern prince, who, when about to have a statue decreed him for some service he had rendered his country, being of an ugly and deformed stature, ordered the sculptor to overlook his defects, that he might be represented to posterity as a handsome, well-proportioned man.</p>
+            
+            <pb n="111" xml:id="pb-111" facs="#i131"/>
+            <p>- The consequence of this foolish piece of vanity was, that many years after, either through ignorance or mistake, his statue was destroyed with those of the tyrants, and his name and virtues overthrown and forgotten by the very means he used to preserve and augment them.</p>
+            <p>THERE is much more real satisfaction in beholding a good likeness taken from the life, than in all the wild excursions of fancy in the regions of fiction and extravagance. How many there are who can succeed in a Jupiter Tonans on the one hand, or a Jeremiah Sago on the other; but how few who, like a Reynolds</p>
+            
+            <pb n="112" xml:id="pb-112" facs="#i132"/>
+            <p>or a Gainsborough, can trace the just proportion of feature; and strongly mark the prevailing line of a character, without once wandering out into ridicule or caricature!</p>
+            <p>AND now, my dear Readers, we are arrived at the end of our journey - Good Heavens! what a collection of wrinkled foreheads and clinched fists! What vehement invectives and furious gesticulations are these? - Well, well; sneer, stamp, and exclaim as much as you please, every person among ye would find his time much better bestowed in this manner, than in grinning in coffee-houses, yawning in window-seats, or gaping at print-shops.</p>
+            <p>FINIS.</p>
+            <note>red University of Cambridge 1938 oval stamp</note>
+            
+            <pb n="113" xml:id="pb-113" facs="#i133"/>
+            <pb n="114" xml:id="pb-114" facs="#i134"/>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i135"/>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i136"/>
+         </div>
+      </body>
+   </text>
+</TEI>
+
