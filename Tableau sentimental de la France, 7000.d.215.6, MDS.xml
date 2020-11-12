@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7000.d.215.6</title>
+            <funder/>
+         </titleStmt>
+         <publicationStmt>
+            
+            <publisher>Cambridge University Library</publisher>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All
+        rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>Images made available for download are licensed under
+        a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC
+        3.0)</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+        Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>7000.d.215.6</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem>
+                     <title>Tableau sentimental de la France, depuis la Révolution</title>
+                     <textLang mainLang="fre"/>
+                     <author>Yoryck.</author>
+                     <author>Auteur du poëme de Souza et d'Eléonore.</author>
+                     <author>Sterne, Laurence 1713-1768</author>
+                     <editor role="pbl">[s.n.]</editor>
+                     <note>Not by Laurence Sterne. Probably in fact an original work in French.</note>
+                     <note>Probably the imprint is false, and the book printed in France.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>[4],vj,[7]-100p ; 15cm (18mo).</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1792" notAfter="1792">1792</origDate>
+                     <origPlace>A Londres</origPlace>
+                  </origin>
+                  <provenance>a name is written in MS. (18th/19th century?) inside the front cover, perhaps "Champreux".</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on
+                                            presentation of a valid reader's card for admissions
+                                            procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                                    of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="PR-07000-D-00215-00006-000-00001"/>
+      <surface xml:id="i1" n="cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="4429px"
+                  width="3060px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00001"/>
+      </surface>
+      <surface xml:id="i2" n="cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00002"/>
+      </surface>
+      <surface xml:id="i3" n="[i]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="2988px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00003"/>
+      </surface>
+      <surface xml:id="i4" n="[ii]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00004"/>
+      </surface>
+      <surface xml:id="i5" n="[iii]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="2988px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00005"/>
+      </surface>
+      <surface xml:id="i6" n="[iv]">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00006"/>
+      </surface>
+      <surface xml:id="i7" n="1">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00007"/>
+      </surface>
+      <surface xml:id="i8" n="2">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00008"/>
+      </surface>
+      <surface xml:id="i9" n="3">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00009"/>
+      </surface>
+      <surface xml:id="i10" n="4">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00010"/>
+      </surface>
+      <surface xml:id="i11" n="5">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00011"/>
+      </surface>
+      <surface xml:id="i12" n="6">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00012"/>
+      </surface>
+      <surface xml:id="i13" n="7">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00013"/>
+      </surface>
+      <surface xml:id="i14" n="8">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00014"/>
+      </surface>
+      <surface xml:id="i15" n="9">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00015"/>
+      </surface>
+      <surface xml:id="i16" n="10">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00016"/>
+      </surface>
+      <surface xml:id="i17" n="11">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00017"/>
+      </surface>
+      <surface xml:id="i18" n="12">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00018"/>
+      </surface>
+      <surface xml:id="i19" n="13">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00019"/>
+      </surface>
+      <surface xml:id="i20" n="14">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00020"/>
+      </surface>
+      <surface xml:id="i21" n="15">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00021"/>
+      </surface>
+      <surface xml:id="i22" n="16">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00022"/>
+      </surface>
+      <surface xml:id="i23" n="17">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00023"/>
+      </surface>
+      <surface xml:id="i24" n="18">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00024"/>
+      </surface>
+      <surface xml:id="i25" n="19">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00025"/>
+      </surface>
+      <surface xml:id="i26" n="20">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00026"/>
+      </surface>
+      <surface xml:id="i27" n="21">
+         <graphic decls="#downloadImageRights #download"
+                  height="4474px"
+                  width="3011px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00027"/>
+      </surface>
+      <surface xml:id="i28" n="22">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00028"/>
+      </surface>
+      <surface xml:id="i29" n="23">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00029"/>
+      </surface>
+      <surface xml:id="i30" n="24">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00030"/>
+      </surface>
+      <surface xml:id="i31" n="25">
+         <graphic decls="#downloadImageRights #download"
+                  height="4474px"
+                  width="3011px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00031"/>
+      </surface>
+      <surface xml:id="i32" n="26">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00032"/>
+      </surface>
+      <surface xml:id="i33" n="27">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00033"/>
+      </surface>
+      <surface xml:id="i34" n="28">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00034"/>
+      </surface>
+      <surface xml:id="i35" n="29">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00035"/>
+      </surface>
+      <surface xml:id="i36" n="30">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00036"/>
+      </surface>
+      <surface xml:id="i37" n="31">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00037"/>
+      </surface>
+      <surface xml:id="i38" n="32">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00038"/>
+      </surface>
+      <surface xml:id="i39" n="33">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3017px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00039"/>
+      </surface>
+      <surface xml:id="i40" n="34">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00040"/>
+      </surface>
+      <surface xml:id="i41" n="35">
+         <graphic decls="#downloadImageRights #download"
+                  height="4464px"
+                  width="3004px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00041"/>
+      </surface>
+      <surface xml:id="i42" n="36">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00042"/>
+      </surface>
+      <surface xml:id="i43" n="37">
+         <graphic decls="#downloadImageRights #download"
+                  height="4483px"
+                  width="3012px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00043"/>
+      </surface>
+      <surface xml:id="i44" n="38">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00044"/>
+      </surface>
+      <surface xml:id="i45" n="39">
+         <graphic decls="#downloadImageRights #download"
+                  height="4415px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00045"/>
+      </surface>
+      <surface xml:id="i46" n="40">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00046"/>
+      </surface>
+      <surface xml:id="i47" n="41">
+         <graphic decls="#downloadImageRights #download"
+                  height="4415px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00047"/>
+      </surface>
+      <surface xml:id="i48" n="42">
+         <graphic decls="#downloadImageRights #download"
+                  height="4467px"
+                  width="2914px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00048"/>
+      </surface>
+      <surface xml:id="i49" n="43">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00049"/>
+      </surface>
+      <surface xml:id="i50" n="44">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00050"/>
+      </surface>
+      <surface xml:id="i51" n="45">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00051"/>
+      </surface>
+      <surface xml:id="i52" n="46">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00052"/>
+      </surface>
+      <surface xml:id="i53" n="47">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00053"/>
+      </surface>
+      <surface xml:id="i54" n="48">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00054"/>
+      </surface>
+      <surface xml:id="i55" n="49">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00055"/>
+      </surface>
+      <surface xml:id="i56" n="50">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00056"/>
+      </surface>
+      <surface xml:id="i57" n="51">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2953px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00057"/>
+      </surface>
+      <surface xml:id="i58" n="52">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00058"/>
+      </surface>
+      <surface xml:id="i59" n="53">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2953px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00059"/>
+      </surface>
+      <surface xml:id="i60" n="54">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00060"/>
+      </surface>
+      <surface xml:id="i61" n="55">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00061"/>
+      </surface>
+      <surface xml:id="i62" n="56">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00062"/>
+      </surface>
+      <surface xml:id="i63" n="57">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00063"/>
+      </surface>
+      <surface xml:id="i64" n="58">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00064"/>
+      </surface>
+      <surface xml:id="i65" n="59">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00065"/>
+      </surface>
+      <surface xml:id="i66" n="60">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00066"/>
+      </surface>
+      <surface xml:id="i67" n="61">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2995px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00067"/>
+      </surface>
+      <surface xml:id="i68" n="62">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00068"/>
+      </surface>
+      <surface xml:id="i69" n="63">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2904px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00069"/>
+      </surface>
+      <surface xml:id="i70" n="64">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00070"/>
+      </surface>
+      <surface xml:id="i71" n="65">
+         <graphic decls="#downloadImageRights #download"
+                  height="4443px"
+                  width="2904px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00071"/>
+      </surface>
+      <surface xml:id="i72" n="66">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00072"/>
+      </surface>
+      <surface xml:id="i73" n="67">
+         <graphic decls="#downloadImageRights #download"
+                  height="4400px"
+                  width="2876px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00073"/>
+      </surface>
+      <surface xml:id="i74" n="68">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00074"/>
+      </surface>
+      <surface xml:id="i75" n="69">
+         <graphic decls="#downloadImageRights #download"
+                  height="4403px"
+                  width="2878px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00075"/>
+      </surface>
+      <surface xml:id="i76" n="70">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00076"/>
+      </surface>
+      <surface xml:id="i77" n="71">
+         <graphic decls="#downloadImageRights #download"
+                  height="4403px"
+                  width="2878px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00077"/>
+      </surface>
+      <surface xml:id="i78" n="72">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00078"/>
+      </surface>
+      <surface xml:id="i79" n="73">
+         <graphic decls="#downloadImageRights #download"
+                  height="4403px"
+                  width="2878px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00079"/>
+      </surface>
+      <surface xml:id="i80" n="74">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00080"/>
+      </surface>
+      <surface xml:id="i81" n="75">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00081"/>
+      </surface>
+      <surface xml:id="i82" n="76">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00082"/>
+      </surface>
+      <surface xml:id="i83" n="77">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00083"/>
+      </surface>
+      <surface xml:id="i84" n="78">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00084"/>
+      </surface>
+      <surface xml:id="i85" n="79">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00085"/>
+      </surface>
+      <surface xml:id="i86" n="80">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00086"/>
+      </surface>
+      <surface xml:id="i87" n="81">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00087"/>
+      </surface>
+      <surface xml:id="i88" n="82">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00088"/>
+      </surface>
+      <surface xml:id="i89" n="83">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00089"/>
+      </surface>
+      <surface xml:id="i90" n="84">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00090"/>
+      </surface>
+      <surface xml:id="i91" n="85">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00091"/>
+      </surface>
+      <surface xml:id="i92" n="86">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00092"/>
+      </surface>
+      <surface xml:id="i93" n="87">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00093"/>
+      </surface>
+      <surface xml:id="i94" n="88">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00094"/>
+      </surface>
+      <surface xml:id="i95" n="89">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00095"/>
+      </surface>
+      <surface xml:id="i96" n="90">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00096"/>
+      </surface>
+      <surface xml:id="i97" n="91">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00097"/>
+      </surface>
+      <surface xml:id="i98" n="92">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00098"/>
+      </surface>
+      <surface xml:id="i99" n="93">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00099"/>
+      </surface>
+      <surface xml:id="i100" n="94">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00100"/>
+      </surface>
+      <surface xml:id="i101" n="95">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00101"/>
+      </surface>
+      <surface xml:id="i102" n="96">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00102"/>
+      </surface>
+      <surface xml:id="i103" n="97">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00103"/>
+      </surface>
+      <surface xml:id="i104" n="98">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00104"/>
+      </surface>
+      <surface xml:id="i105" n="99">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00105"/>
+      </surface>
+      <surface xml:id="i106" n="100">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="3007px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00106"/>
+      </surface>
+      <surface xml:id="i107" n="back cover (inside)">
+         <graphic decls="#downloadImageRights #download"
+                  height="4402px"
+                  width="2877px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00107"/>
+      </surface>
+      <surface xml:id="i108" n="back cover">
+         <graphic decls="#downloadImageRights #download"
+                  height="4424px"
+                  width="3203px"
+                  rend="portrait"
+                  url="PR-07000-D-00215-00006-000-00108"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb n="cover" xml:id="pb-cover" facs="#i1"/>
+            <pb n="cover (inside)" xml:id="pb-coverinside" facs="#i2"/>
+             <note>handwritten library number "7000.d.2156", and a name</note>
+            <pb n="[i]" xml:id="pb-i" facs="#i3"/>
+             <p>TABLEAU</p> <p>SENTIMENTAL</p> <p>DE LA FRANCE,</p> <p>DEPUIS LA RÉVOLUTION.</p>
+            <pb n="[ii]" xml:id="pb-ii" facs="#i4"/>
+            <pb n="[iii]" xml:id="pb-iii" facs="#i5"/>
+             <p>TABLEAU</p> <p>SENTIMENTAL</p> <p>DE LA FRANCE,</p> <p>DEPUIS LA RÉVOLUTION.</p> <p>PAR YORYCK,</p> <p>Sous le nom de STERNE;</p> <p>Pour servir de Suite au Voyage Sentimental, du même Auteur.</p> <p>TRADUIT DE L'ANGLOIS,</p> <p>Par l'Auteur du poëme de SOUZA et d'ELÉONORE.</p> <p>Qu'il est doux de converser seul avec le bout de sa plume, son bonnet de nuit sur la tête!...M.</p> <p>A LONDRES.</p> <p>1792.</p>
+            <pb n="[iv]" xml:id="pb-iv" facs="#i6"/>
+            <pb n="1" xml:id="pb-1" facs="#i7"/>
+             <p>PRÉFACE</p> <p>DU TRADUCTEUR.</p> <p>YORYCK, sous le nom de Sterne..... Assurément, vous vous méprenez; c'est le contraire que vous voulez dire. - Non. Tristram-Shandy est par Sterne, sous le nom d'Yoryck; mais le Voyage Sentimental, ainsi que le Tableau que l'on publie aujourd'hui, est d'Yoryck, sous le nom de Sterne. - Cela est incroyable, expliquez-vous. - Si vous avez lu les ouvrages attribués à Sterne, vous devez voir que cet Yoryck, qui y paroìt souvent, fait un singulier role: tantôt il semble que c'est l'auteur lui-même, tantôt</p>
+            <pb n="2" xml:id="pb-2" facs="#i8"/>
+             <p>son ami. Voici l'énigme. Sterne, justement célèbre, avoit un neveu apellé Yoryck, et qui a eu beau-coup de part à ses ouvrages. C'est la raison pour laquelle son nom s'y trouve. Sterne, frappé des jugemens hétérogènes que l'on portoit sur ses dernières productions, abandonna les Muses; et s'il a encore, depuis, répandu quelques fleurs sur leur autel, c'est en corrigeant le Voyage Sentimental et les autres écrits de son neveu, M. Yoryck. - Mais M. Frénais ne dit pas un mot de cette histoire. M. Frénais, élégant traducteur du Sentimental Journey, a partagé l'erreur commune, et en a donné une preuve, quand il a dit que la mort de Sterne nous avoit privé d'un ouvrage</p>
+            <pb n="3" xml:id="pb-3" facs="#i9"/>
+             <p>sur l'Italie, du même genre que le Voyage Sentimental; car cet ouvrage, composé par Yoryck, retiré aujourd'hui dans les environs de londres, paroîtra bientôt, traduit en françois par une main habile. Un seigneur Anglois qui en avoit entendu la lecture, il y a quelques années, le crut perdu, et promit une somme considérable à celui qui le retrouveroit; il en ignoroit peut-être aussi le véritable auteur. - Croyez-vous que ce Voyage d'Italie et ce Tableau Sentimental de la France soient authentiques? - L'auteur ne fait pas l'ouvrage, l'ouvrage fait l'auteur; mais on ne peut contrefaire ni Sterne, ni Yoryck. - Quel est votre sentiment sur cet Yoryck? - Son oncle lui paroît</p>
+            <pb n="4" xml:id="pb-4" facs="#i10"/>
+             <p>quelquefois supérieur dans l'art de sentir; mais l'on s'apperçoit qu'Yoryck a plus vécu avec les gens de lettres. Dans le Tableau Sentimental de la France, il a peint tout le royaume sans pres-que sortir de la capitale; les caractères sont aujourd'hui à-peu-près les mêmes. Aureste, dans cet ouvrage, comme dans le Voyage Sentimental, il n'y a point d'ordre dans les matières; c'est en quoi le neveu ressemble à l'oncle. J'avertis ceux qui liront le manuscrit anglois, que les circonstances actuelles m'ont engagé à faire les changemens qu'ils remarqueront dans ma traduction, et à ne pas mettre les noms en entier.</p>
+            <pb n="5" xml:id="pb-5" facs="#i11"/>
+             <p>A</p> <p>L'ABBÉ RAYNAL.</p> <p>HOMME célèbre par tes erreurs et par tes vertus; toi, qui consacras pendant une longue et glorieuse carrière ta plume sublime à la défense de l'humanité, reçois ce foible hommage, qui n'est point suspect, puisque la main qui te l'offre, t'est inconnue. En lisant tes ouvrages, j'ai dit: "un faux ȥèle égare un coeur sensible et philantrope ". En lisant ta Lettre au Sénat des François, j'ai dit: "Raynal est le premier homme de son siècle". Une larme de joie s'échappa de mes</p>
+            <pb n="6" xml:id="pb-6" facs="#i12"/>
+             <p>yeux..... Je jurai de consacrer quel-ques lignes à ta gloire. Quel tribut t'eût été plus agréable que cette esquisse, quelqu'imparfaite qu'elle soit, des pensées d'un homme cher à ton coeur!</p>
+            <pb n="7" xml:id="pb-7" facs="#i13"/>
+             <note>image - decorative boarder</note> <p>TABLEAU</p> <p>SENTIMENTAL</p> <p>DE LA FRANCE,</p> <p>DEPUIS LA RÉVOLUTION.</p> <p>CHAPITRE PREMIER.</p> <p>L'IMPATIENCE.</p> <p>Varias inducere plumas</p> <p>Undique collatis membris. HORACE.</p> <p>QUOI? il fait grand jour...... pauvre France, que tu es changée! depuis que tout le monde est ici politique, savant, théologien, académicien, député, clubiste..... les domestiques font bien mal leur service..... ils son électrisés. Ah, mon pauvre la Fleur! où es tu? toi....</p>
+            <pb n="8" xml:id="pb-8" facs="#i14"/>
+             <p>ta tête ne changeroit pas; elle étoit comme ton coeur, du régime de nos péres..... vas, je ne t'oublierai jamais. Il me semble que je te vois encore avec tes bas jaunes, ta culotte brodée, ton bel habit verd, et ton petit chapeau, don précieux de ma chère Eliza..... j'en réponds, tu ne l'aurois pas changé pour le bonnet de Tell..... tu étois fier quand tu allois voir ta belle Fruitière de la rue Saint-Honoré.... c'est que l'amour donne de la noblesse, et puis tu portois sur ton front un passe-port..... qu'on ne délivre pas dans les Municipalités..... l'empreinte de la probité et de l'honneur. La mort est venue t'enlever bien mal-à-propos. Ai-je jamais eu plus besoin de toi? au milieu de tout ce bouleversement tu aurois été mon guide, mais.... tu n'es plus! tu n'es plus! ah! tu seras toujours dans mon coeur. Je ne suis pas de ces</p>
+            <pb n="9" xml:id="pb-9" facs="#i15"/>
+             <p>hommes machines qui ne pleurent que sur les mausolées du riche; le simple gazon qui couvre la tombe du juste modeste me touche davantage. La Fleur, ton nom seul émeut toute ma sensibilité..... des larmes..... c'est six heures qui sonnent. Il ne viendra pas aujourd'hui..... John - John....... ah! te voilà enfin..... est - ce que tu n'as pas entendu que je t'appelle depuis un siècle. - Un siècle? à peine sommes-nous à l'an troisième de la liberté. Fort bien, monsieur le Docteur.... Et te voilà donc encore avec ton babil. Que m'importe l'an troisième de la liberté? Sais-tu quand je chagerai d'hégire? quand on dira: l'an premier du bonheur de l'humanitè..... En attendant, donne-moi ma robe-de-chambre et mes pantoufles..... je crains que nos Neveux, quand ils écriront notre histoire, ne trouvent les années de la liberté encore</p>
+            <pb n="10" xml:id="pb-10" facs="#i16"/>
+             <p>plus enveloppées de ténèbres que celles de l'antiquité, et qu'ils n'y perdent leur latin, comme le Rhéteur..... mais ils ne pourront pas dire: c'est ainsi que raisonnoient nos bons vieux peres.</p>
+            <pb n="11" xml:id="pb-11" facs="#i17"/>
+             <p>CHAPITRE II.</p> <p>LA CONVERSATION.</p> <p>I wish I had not Known so much</p> <p>Of this affair.... STERNE, story of the Fevbre.</p> <p>QUI est là, John? - C'est madame de S..... - Tu as dit que j'y étois, je parie? - Qui, monsieur. - L'imbécille, tu ne sais pas encore comme on fait en France, quand on ne veut pas recevoir la visite d'un importun, ou d'une babillarde; on dit tout uniment: monsieur n'y est pas.... Ah! Madame.... votre serviteur, comment va la santé? - Fort bien, monsieur, et la vôtre? - A merveille. Puis - je savoir ce qui me procure l'honneur de votre visite? - L'envie de voir et d'admirer un grand homme, un</p>
+            <pb n="12" xml:id="pb-12" facs="#i18"/>
+             <p>ami de la liberté. Je n'oublierai jamais l'éloge que vous en faites dans le Sentimental Journey. L'idée de la Bastille ne troublera plus vos méditations, n'est-ce pas?... Les pierres de ses ruines ont servi à élever le temple de la Liberté. - Madame, cette infâme prison a souvent effrayé mon esprit. Cependant j'ai vu sa destruction avec peine. Il faudra donc en élever de nouvelles? - Comment? vous me surprenex. - L'abus que le pouvoir arbitraire faisoit de la Bastille, affligeoit I'humanité, en y renfermant des victimes innocentes, j'en conviens.... mais les scélérats, les parricides, les assassins pour qui on l'avoit construite, où les mettra-t-on?.... Dans le temple de la Liberté? - Sterne, l'amour de la patrie purifiera tous les coeurs. Plût à Dieu que le mot prison soit rayé du dictionnaire de tous les peuples. - Madame,</p>
+            <pb n="13" xml:id="pb-13" facs="#i19"/>
+             <p>je forme ce souhait bien sincérement, mais je n'espère pas de le voir accompli. Les grands Apôtres de cotre liberté iront couverts de sang au temple de Mémoire. - Vous les jugez trop sévèrement. Les premières secousses d'une nation qui brise ses chaînes, rivées pendant des siècles, ne sauroient se passer sans commotion. Ces transports se calmeront. - J'en doute, madame, les fastes de notre malheureuse patrie auroient dû servir de leçon à la vôtre. - Nous en aurions profité aussi, mais..... à propos vous ne dites rien de Londres? Que penset-on de notre Assemblée? - Comme en France, on est partagé. - Je veux dire les gens sensés, les savans, les philosophes.... - Ils se taisent. - Etes-vous de la Constitutional Society? - Non. - Vous préférez la Revolution Society? - Je n'aime ni l'une, ni l'autre. - Vous êtes bien</p>
+            <pb n="14" xml:id="pb-14" facs="#i20"/>
+             <p>changé, monsieur. - Je me suis peut-être égaré autrefois; cependant je vous assure que j'aime la liberté à présent autant que jamais. - Sterne.... vous n'êtes pas riche.... Peut-on vous dire un mot.... tenez, vous êtes payé par les calophores. - Madame, si je l'étois, je me fâache-rois de vos discours. Je vous observerai seulement que j'ai combattu les préjugés religieux dans tous mes écrits, et que je les combattrai encore dans celui-ci. - Que voulez-vous dire, dans celui-ci. - Celui que vous et moi composons ensemble. - Comment done? Vous n'ignorez pas que j'écris tous les jours ce que m'est arrivé..... j'écrirai donc ce que vous venez de me dire, et ce que je vous ai répondu.</p>
+            <pb n="15" xml:id="pb-15" facs="#i21"/>
+             <p>CHAPITRE III.</p> <p>CHARLES IX.</p> <p>Non ego. . . . . . . . . . .</p> <p>Grammaticas ambire tribus et pulpita</p> <p>dignor. HORACE.</p> <p>ON s'explique sans se fâcher..... depuis que nous habitons Paris, tu es sans cesse de mauvaise humeur. Tu iras voir cette Tragédie célèbre, puisque tu en es engoué. J'y consens. Mais j'espère que tu me lais-seras la liberté d'en penser ce que je veux, moi.... Au reste je ne connois pas le Chénier, et je n'en veux dire ni bien, ni mal. Je dirai seulement que Shakespear ne cherchoit pas des triomphes dans l'art de se plier aux circonstances. D'ailleurs, quelle comparaison entre Charles</p>
+            <pb n="16" xml:id="pb-16" facs="#i22"/>
+             <p>IX et Louis XVI. Un roi couvert du sang de ses sujets, et un roi à qui l'Amérique consacre d'une main reconnoissante les fers dont il l'a délivrée. Non. Non.... Brisons làdessus. Vergette un peu mon chapeau.... je vais prendre l'air.</p>
+            <pb n="17" xml:id="pb-17" facs="#i23"/>
+             <p>CHAPITRE IV.</p> <p>LA LETTRE.</p> <p>Mentem mortalia tangunt. VIRGILE.</p> <p>JE la tiens donc cette lettre tant desirée!.... Je n'en puis douter. Yoryck, Yoryck, c'est ta main chérie qui a tracé ces caractères.... Tu as vu les portes de la mort, sa faux meurtrière t'avoit frappé d'un coup mal assuré, ton tombeau alloit s'ouvrir, la main d'Esculape est parvenue à le fermer..... Elle en a tant ouvert d'autres! - O Eliza, son secours te fut inutile. Mais Yoryck respire encore, mon dernier ami m'est conservé..... Eliza, nous vivrons pour te pleurer. - Un regret reste dans mon coeur.... Je ne partagerai pas ta tombe. Les habitans d'Anjinga ne déposeront pas les cenires</p>
+            <pb n="18" xml:id="pb-18" facs="#i24"/>
+             <p>de ton Bramine près des tiennes.... Non cette douceur me sera refusée! Une terre étrangère, une terre souillée de forfaits les couvrira à jamais. Mais du moins Yoryck recevra mes derniers soupirs, déjà il vole vers moi..... Puisse Yapiga le conduire heureusement dans mes bras! Il viendra partager avec moi cet humble réduit, où je vis ignoré. Trop peu riches pour être malheureux, nous ne verrons pas la haine et la jalousie empoisonner nos jours. De cette petite fenêtre.... nous verrons passer le cortège des grands, et rouler leurs chars dorés..... Nous verrons tout avec indifférence..... A quoi servent ces chars?... Ah! n'oublions jamais que la nature nous a donné la faculté de nous mouvoir. Que vois-je?.... Mes yeux ne me trompent-ils pas? C'est le Roi.... Roi, nom si cher aux Français.... Comme ses traits sont abattus! Il a</p>
+            <pb n="19" xml:id="pb-19" facs="#i25"/>
+             <p>fui le lâche troupeau des adulateurs qui jadis inondoient sa Cour! des satellites les ont remplacés. Louis, tes bienfaits ont été des armes contre toi..... Tu sors de ton palais; pour distraire tes douleurs, tu vas te livrer à d'innocens plaisirs, et le fer t'environne..... Autrefois j'ai murmuré contre le droit d'aubaine auquel un petit voyage me rendoit soumis dans tes états; j'ignorois alors que l'homme cherche de petits maux pour en éviter de plus grands; maintenant je suis instruit, je te plains.... Tu as dit, un jour: ‹‹ je ne penserai à mes plaisirs, que quand mon peuple sera heureux ››. Louis, tu t'es condamné à des larmes éternelles. <note>image</note></p>
+            <pb n="20" xml:id="pb-20" facs="#i26"/>
+             <p>CHAPITRE V.</p> <p>SONGE DANS LA LUNE.</p> <p>Life is a voyage in the progress of which we are perpetually changing our scenes.</p> <p>RAMBLER.</p> <p>LA réputation du Cousin-Jacques m'avoit engagé à aller voir Nicodême dans la lune. J'aime la liberté, surtout depuis l'aventure du sansonnet qui renversa mon systême stoïque sur la Bastille, en criant ces paroles, qu'il me semble entendre encore: I can't get out, I can't get out, Je ne peux pas sortir (I).</p> <p>A la fin du Spectacle, pendant que je fendois la presse, je me disois à moi-même: <note>image</note> ‹‹ cette allégorie est bien ingenieuse; mais je gage que la lune</p> <note>footnote</note> <p>(I) Voyez le Voyage Sentimental, Ch. XL.</p>
+            <pb n="21" xml:id="pb-21" facs="#i27"/>
+             <p>l'a plutôt inspirée que les Muses. J'ai lu, dans the gentleman's magasine, que l'auteur a beaucoup voyagé dans ce pays-là...... Pytagore étoit enchanté par la musique que font les sphères dans leur balancement..... Avouons que l'imagination influe beaucoup sur le bonheur.....›› <note>images</note> Je raisonnois ainsi, lorsqu'un gros homme..... aussi gros que quelques autres m'avoient paru plats à la Comédie, me coudoya tellement, que je poussai un hélas!..... qui auroit attendri autrefois; aujourd'hui tous les coeurs sont d'airain. A la fin je respirai; porté dans les flots de la foule, je me trouvai hors de la salle, et après avoir manqué vingt fois d'être écrasé par les voitures, j'arrivai chez moi sain et sauf. John m'apporta mon souper, et je le congédiai aussi-tôt, car j'avois besoin de repos, et je n'avois pas le tems de disputer ce soir avec lui.</p>
+            <pb n="22" xml:id="pb-22" facs="#i28"/>
+             <p>Après avoir tant agi et gravité, il falloit bien penser; quel moyen, pour un auteur, de faire autrement? Je me mis donc à penser..... En conséquence j'appuyai mon coude sur une table un peu antique; et dans cette posture réfléchie..... je vis tant de choses que bientôt je ne savois pas si je rêvois ou pensois. La tête pleine de Nicodême dans la lune, je me crus transporté dans l'astre vanté par Cyrano. Non, dans un balon..... mais en pensant. Il me sembloit que j'arrivois au moment d'une grande fermentation; toutes les têtes étoient échauffées, on s'empressoit autour de moi, comme les Parisiens autour des Ambassadeurs de Tippoo-Saïb. Pendant que tout cela se passoit, on entendit un grand bruit dans le loin-tain. J'ai la vue foible, je ne vis rien; mais je profitai de ce moment pour m'esquiver. Je gagnai le large, et j'allai m'asseoir sur un banc dans</p>
+            <pb n="23" xml:id="pb-23" facs="#i29"/>
+             <p>une espèce de promenade. A peine y fus-je arrivé, qu'un solitaire courbé par les années, vint se placer auprès de moi. Je n'eus rien de plus pressé, comme l'on peut croire, que de lui demander où j'étois, et ce qui m'étoit arrivé. Voici sa réponse.</p> <p>Vous avez l'air d'être étranger, et probablement vous êtes aussi venu de ce monde que nous appercevons, par là, sans lunette. Il paroît que les routes commencent à être connues; car il nous arrive à être connues; car il nous arrive à présent fort fréquemment des hôtes de ce pays, quoiqu'en vérité je ne sache pas si c'est un bien pour nous. Il y a quel-ques mois, il en est venu un qui a causé un furieux bacanal ici. Ecoitez: Lunao regnoit paisiblement dans les états de ses ayeux. Son coeur, bon et généreux, ne desiroit que le bonheur de son peuple, mais il étoit roi. Pouvoit-il n'être pas trompé? Des Ministres déprédateurs</p>
+            <pb n="24" xml:id="pb-24" facs="#i30"/>
+             <p>abusèrent de sa confiance; le peuple le plaignoit, et attendoit en silence le moment où le cri de la vérité seroit parvenu jusqu'à lui.... Voilà bien autre chose.... Un jour qu'il ne faisoit pas nuit, et qu'il n'avoit ni neigé, ni plû, on trouve sur la grand' place de Luniaca un être fait comme nous, armé de bras et de jambes. Nous reconnûmes bientôt que c'étoit un homme. La nouvelle s'en répandit. Notre Monarque voulut le voir, il le fit venir à sa cour et le combla de bienfaits. Manie (ainsi s'appelloit l'étranger) avoit de la philosophie, il résolut de se faire de la réputation et de tout bouleverser. Il représenta au Roi les abus de son royaume, et il eut soin d'en exagérer le tableau. Ce bon Prince le crut, et il assembla les sages de la lune, pour prendre leurs avis, et y remédier. Que son espérance fut cruellement trompée!</p>
+            <pb n="25" xml:id="pb-25" facs="#i31"/>
+             <p>.... Messieurs les sages commencèrent par tout renverser; ce fut par des ruines qu'ils ouvrirent leur carrieère. Il y avoit ici deux castes, l'une riche et l'autre pauvre; cela étoit naturel: les sages brisèrent la ligne de distinction, et déclarèrent l'egalité. Vous pouvez croire que cette déclaration causa beaucoup de troubles. L'on ne sait pas encore comment cela finira. Il n'y a qu'un instant la ville étoit en rumeur, voici pourquoi. Les animaux se sont apperçus de nos divisìons, ils en ont pénétré le motif, et veulent s'en prévaloir pour se rendre libres. L'âne, à la pluralité des voix, est élu pour aller porter la pétition. On vient de le traîner dans un char au sénat des sages..... A ces mots du vieillard, je fis un grand éclat de rire: la table sur laquelle j'étois appuyé, avoit un pied cassé; elle balança, je fus étonné de me</p>
+            <pb n="26" xml:id="pb-26" facs="#i32"/>
+             <p>trouver dans ma chambre, et d'avoir vu tant de choses sans en sortir.... Je ne pouvois revenir de ma surprise; à la fin une bouteille de vieux Bourgogne, qui accompagnoit mon souper, frappa ma vue, et me tira de mes rêveries..... Jamais le promeneur solitaire n'en a eu de pareilles.... Les paroles du vieillard, dis-je en moi-même, m'ont prouvé que la calote de l'atmosphère ne retient pas tout l'esprit sur notre globe; celles-ci en particulier: ›› <note>image</note> Il y avoit ici deux castes, l'une riche et l'autre pauvre, et cela étoit naturel ›› .... Cette pensée est profonde.... La nature elle-même a mis de l'inégalité dans le partage de ses bien-faits. Placez, dans une île déserte, une colonie de Lacédémoniens et une de Sybarites; l'une cultivera ses campagnes, filera la laine de ses moutons, et fera profiter les semen-ces qu'on lui a données; l'autre négligera</p>
+            <pb n="27" xml:id="pb-27" facs="#i33"/>
+             <p>ses terres, magera ses moutons et ses semences. Dans peu, l'une commandera; et l'autre, pour subsister, se verra contrainte de vendre sa liberté et ses bras longtems oisifs. Dans la suite, le Sybarite, par l'habitude du travail, deviendra Lacédémonien. Le Lacédémonien, qui se reposera sur son esclavage, s'endormira entre les bras de la mollesse, et deviendra Sybarite. La roue tourne. Le Sybarite devient maître et le Lacédémonien esclave.... Une classe hausse, une autre baisse.... ainsi va le monde.</p>
+            <pb n="28" xml:id="pb-28" facs="#i34"/>
+            <p>CHAPITRE VI.</p> <p>LE SOUVENIR D'ELIZA.</p> <p>Du sommeil de la mort jamais on ne s'éveille.</p> <p>LAB. D.</p> <p>HERVEY, mon compatriote et mon ami, que j'aime tes tableaux mélancoliques! chaque fois que je pense à Eliza, je voudriois être avec roi sous les voûtes sombres de Kilk-hampton. Là, je donnerois un libre essor à mes rêveries nocturnes. Young, Feutry, Le Tourneur, je n'envie pas vos pinceaux sublimes; je ne veux pour interprête de ma douleur que mes gémissemens et mes soupirs. Une larme versée sur la pierre sépulcrale qui couvre les froides dépouilles d'Eliza, eût mis le comble à mon bonheur.......</p>
+            <pb n="29" xml:id="pb-29" facs="#i35"/>
+            <p>Salut, toi qui entouras de fleurs son urne précieuse, Raynal, salut!</p> <p>Quand dira-t-on aussi de moi: ‹‹ Ici repose l'ami d'Eliza, il repose à jamais, la voix de l'amitié ne le réveillera point ››. Yoryck portera alors ses pas solitaires dans l'enceinte lugubre.... En voyant mon tombeau, il s'écriera: ‹‹ Ici repose l'ami d'Eliza!..... ›› <note>image</note> Si quelque voyageur infortuné cherche la nuit un azyle en ces lieux, il répétera encore: ‹‹Ici repose l'ami d'Eliza. ››</p>
+            <pb n="30" xml:id="pb-30" facs="#i36"/>
+            <p>CHAPITRE VII.</p> <p><note>unusual character after N</note>NǁUMA POMPILIUS. DIDOT.</p> <p>I would have given twenty livres</p> <p>For an advocate. SENT. JOUR.</p> <p>MON dessein étoit d'aller chez le libraire Didot, car on m'avoit dit hier que j'y aurois trouvé l'Auteur de Numa Pompilius. Il n'y a rien que je ne fasse pour voir un grand homme. Je me mis donc à ma toilette, petite affaire pour un philosophe Anglois. J'arrive au milieu d'un cercle nombreux de beaux esprits.....</p> <p>Le grand homme ne parut pas, j'en fus fâché. Un original, sur le déclin des années, n'ayant sur son front chauve que vingt ou trente cheveux blancs, et par-dessus tout</p>
+            <pb n="31" xml:id="pb-31" facs="#i37"/>
+            <p>cela décoré d'une cravate dont les quadruples bouffans paroissoient emprisonner son menton et son nez, pour remplir le vuide, demanda, d'une voix presqu' éteinte, quelles nouvelles circuloient dans Paris. Le son de sa voix me frappa; je crus qu'elle ne m'étoit pas inconnue. Je fixai l'orateur depuis le haut jus-qu'en bas; mais ce fut en vain, je ne pus le rappeller à ma mémoire.</p> <p>Cependant des nouvelles l'on passa aux nouvellistes. Il faut avouer, disoit l'un, que Mercier est un savant homme. Depuis qu'il a peint un si joli tableau de Paris, et rêvé tout à son aise sous son bonnet de nuit, il est devenu un grand Journaliste.... Que pensez-vous de C. Desmoulin, s'écrie un autre en fermant les yeux avec malice et souriant à demi, n'a-t-il pas ce ton..... air..... ce.... Moi, ditalors l'orateur en question, Duplain est mon auteur, et.....</p>
+            <pb n="32" xml:id="pb-32" facs="#i38"/>
+            <p>Il alloit ajouter quelque chose, mais chacun voulant vanter son favori et obtenir pour lui les suffrages, le bruit augmenta au point qu'on ne s'entendoit plus. Les cheveux blancs de l'ami de Duplain en imposèrent un peu; le silence s'étant insensiblement rétabli, le moderne Ciceron reprit la parole: ‹‹ Messieurs, nous sommes tous, dit-il, d'une opinion différente, quoique peut-être nous ayons tous raison. Gardons tous notre opinion, ce signe doit nous réunir ››. <note>image</note> Il dit, et levant son chapeau d'une main, il cria: vive la liberté..... Chacun leva son chapeau, et répéta: vive la liberté!.... La dispute cessa. On admira l'expédient du vieillard, et l'on se sépara. Un seul resta; il n'avoit pris aucun parti. Je m'approchai de lui, et apportant mes lèvres tout doucement à ses oreilles, je lui dis encore plus doucement, comme de</p>
+            <pb n="33" xml:id="pb-33" facs="#i39"/>
+            <p>crainte de l'interrompre, (il lisoit la grande-colère du Père Duchêne): ‹‹ Monsieur, quel étoit ce vieillard qui a entamé la conversation sur les gazetiers. - Un moine de l'ordre de St. François, dit-il, en reportant aussi-tôt ses yeux sur son papier et relevant ses lunettes. - Un moine de l'ordre de St. François, répétai-je en reculant deux pas en arrière, c'est père Laurent...: cet humble Franciscain de Calais, qui ne se rebutoit pas de mes reproches, qui me fit rougir.... Pope, tu avois raison... The proper study of man-kind, is man. La première étude de l'homme.... c'est l'homme lui-même!</p> <p>Comme je raisonnois de la sorte, l'envie me vint de prendre une prise de tabac; tout en jettant l'oeil sur ma boëte, je m'écriai: Yoryck, qu'as-tu dit....... Père Laurent n'existe plus..... Cette boëte est celle du père Laurent, tu la changeas</p>
+            <pb n="34" xml:id="pb-34" facs="#i40"/>
+            <p>pour la tienne..... C'est la même qu'à ton retour, tu tenois, lorsque tu allas visiter son tombeau (I).</p><note>footnote</note> <p>(I) Voyez le Voyage Sentimental, Ch. XII.</p>
+            <pb n="35" xml:id="pb-35" facs="#i41"/>
+            <p>CHAPITRE VIII.</p> <p>LE CONTRE-SENS.</p> <p>Torva mimalloneis..... PERSE.</p> <p>JE sortois de chez le lord Stummer, quand je vis passer près de moi un homme qui paroissoit dans une grande agitation. Ses cheveux étoient assez mal en ordre; son habit étoit presqu'aussi poudreux que le gros sur-tout de bure que je portois à Windsor. Nous étions près des boulevards, il en enfila la route. Comme je n'avois point d'affaires, et que de mon naturel je suis curieux, je le suivis sans faire semblant. Mon homme se mit à marcher de toute sa force; un autre l'auroit laissé courir, et se seroit contenté de dire: il est fol.... Mais moi....</p>
+            <pb n="36" xml:id="pb-36" facs="#i42"/>
+            <p>un philosophe..... lâcher prise si aisément.... Je fus sur le point de me rompre toutes les jambes à courir. Par bonheur je vis de loin que l'énergumène s'arrêtoit tout courr. Cette conduite me décontenança. Je voulus la traduire, et selon ma coutume, je me mis l'esprit à la torture. Voici ma traduction: ‹‹ Qu'est-ce que cela signifie? On me guête, on m'épie.... Je cours et l'on court. Je m'arrête et l'on.... ›› Non, tu te trompes, dis-je à ce point de ma traduction, l'on ne s'arrête pas. A l'instant je recommençai à courir. Bientôt je fus près de mon auteur.... A ma honte, je vis qu'il ne m'avoit pas même apperçu. Quel contre-sens j'ai fait, m'écriai-je! j'allois rougir.... Mais cette réflexion me consola: ‹‹ combien de traducteurs en ont fait de plus grands sans rougir! ›› <note>image</note></p> <p>Cependant j'étois assez près pour</p>
+            <pb n="37" xml:id="pb-37" facs="#i43"/>
+            <p>entendre ››. O Brutus, s'écria le lièvre d'une voix émue, ton sacrifice ne fut rien en comparaison du mien. Tes fils conjurèrent contre Rome, tu lavas dans leur sang ton injure et leur crime..... Tu arrosas les lauriers de la liberté.... Et moi qui ai reçu dans mes bras une épouse plus coupable mille fois, je diffère ma vengeance.... Elle est..... Aristocrate, et son sang n'a pas coulé.</p> <p>Ici sa voix défaillante expira sur ses lèvres.... Il se coucha tout plat par terre.... Ah! m'écriai-je alors, que n'ai-je le pinceau de C. pour peindre cet homme.... Que je ferois du beau!... Le soleil baissoit, je songeai à m'en retourner plus doucement que je n'étois venu. Pensant à ma traduction, je dis: celle-là ne sortira pas de mon porte-feuille.</p>
+            <pb n="38" xml:id="pb-38" facs="#i44"/>
+            <p>CHAPITRE IX.</p> <p>LA MORT DE SÉRÉNA.</p> <p>Sunt lacrymae rerum. VIRGILE.</p> <p>FLORINO étoit à l'aurore de sa vie. Placé à la tête d'une immense fortune, et dans l'âge où le feu des passions se développe dans le coeur humain, il n'avoit pas toujours respecté les bornes de la vertu. Il les avoit franchies, aveuglé par cette fausse sagesse que l'on appelle souvent philosophie, et dont l'art consiste à manier l'arme du ridicule. Quelquefois il avoit entendu les beaux esprits railler sur le mariage, et il étoit venu au point de croire que la mort d'une femme ne pouvoit affecter un homme sensé; il ne voyoit dans une telle perte que le</p>
+            <pb n="39" xml:id="pb-39" facs="#i45"/>
+            <p>plaisir d'un nouveau choix et do nouvelles jouissances.</p> <p>Ainsi pensoit Florino, lorqu'il apprit que Séréna n'étoit plus. ‹‹ Ah! ah!, dit-il, j'irai demain plaisanter Lucius ››. Plein de cette fausse joie qu'inspirent tous les sentimens qui ne viennent pas de la nature, il sortit le jour suivant pour exécuter son cruel projet. Mais quand il apperçut Lucius, sa gaieté épicurienne se ralentit; il remarqua sur le visage de son ami cet air sombre que l'artifice ne peut imiter, et interprête de la douleur concentrée. Son ame ne put se défendre d'être attendrie.</p> <p>Les motifs de consolation de Florino partoient de deux points. Le premier, de la fatalité et de la nécessité, qui conseille une indifférence héroïque sur tous les évènemens qui sont passés, et que rien ne peut rappeller. Le second, des amusemens de la vie qui peuvent distraire l'ame, diviser</p>
+            <pb n="40" xml:id="pb-40" facs="#i46"/>
+            <p>ses pensées et l'arracher à la douleur. <note>image</note> ‹‹ Viens, Lucius, dit-il, viens, calme ta mélancolie; qu'un doux ray on de joie, que le sourire de l'espérence brille sur ton front, et dissipe le nuage quil'obscurcit. Ce soir nous irons au concert; on doit y donner une nouvelle symphonie d'Hayden, exécutée par les meilleurs virtuouses de la Capitale. S. Georges en sera. Demain je viendrai te prendre pour aller au spectacle; nous irons entendre la Maillard, ou, si tu l'aime mieux, nous verrons le Club des bonnes gens; la pièce est charmante, la musique est aussi drôle que l'auteur. Cet air, sur-tout, dont le refrein est, du bon vin vieux, du bon vin vieux, tenteroit un hermite après cent ans de retraite..... viens, mon ami, quel rapport les morts ont-ils avec les vivans; oublie tes chagrins et ils mourront aussi. Secoue ton spléen, livre toi aux ches-d'oeuvres du génie et</p>
+            <pb n="41" xml:id="pb-41" facs="#i47"/>
+            <p>de I'harmonie; rappelle enfin ton esprit de ces noires méditations.</p> <p>Telles sont les sources de consolation où Florino conseilla à son ami de puiser l'oubli de son malheur. Lucius souffrit ce bavardage aussi long-tems qu'il put; mais de pareils remèdes ne purent guérir sa plaie; ils ne firent qu'irriter la violence de sa douleur; il demanda à Florino la permission de se retirer. Celui-ci le suivit, sans faire de bruit, jusqu' à la porte de son appartement. Peu soigneux d'observer les règles de la décence, il se mit en devoir d'écouter les plaintes de son ami. Lucius exhala, en ces mots, l'amertume de son ame:</p> <p> <note>image</note>›› Que disoit Florino? fatalité!...... nécessité!.... hélas! c'est ce qui comble mon malheur; l'arrêt de la divinité est prononcé.... prononcé pour toujours. Mon devoir est de m'y soumettre; rien ne peut le changer.</p> <p>Concerts, opéras, comédies,</p>
+            <pb n="42" xml:id="pb-42" facs="#i48"/>
+            <p>quelle consolation pour un coeur blessé! pour un coeur qui a perdu sa plus chere moitié! pour un coeur qui saigne, qui gémit sous sa longue absence...... l'absence de ma Seréna! elle est partie..... celle qui chzrmoit mes yeux et mon ame est partie, et avec elle tous les plaisirs qui m'aidoient à supporter le fardeau de la vie. Elle est partie.... et ne reviendra pas! je ne la verrai plus..... c'en est fait, non..... je ne la verrai plus.... elle ne reviendra point habiter ce monde méprisable... ni essuyer mes larmes. Moi je vivrai... le reste de mes jours appartient à la douleur et aux ténèbres.</p> <p>Il n'y a que l'homme insensible, que le froid égoïste, qui ait besoin de s'entourer de cyprès et d'objets funèbres, pour sentir une douleur sincère en perdant une telle compagne. Pour moi tout m'afflige et m'anéantit. Je cherche ma raison trop long - tems</p>
+            <pb n="43" xml:id="pb-43" facs="#i49"/>
+            <p>égarée, et je la cherche en vain...... Pourquoi la main qui guida mon enfance, n'est-elle plus là pour me soutenir?.... Quelquefois, je me souviens que je suis homme, je veux en reprendre la dignité; mon coeur se soulève, et mes yeux rebelles versent des torrens de larmes.</p> <p>Combien de fois le jour ma douleur se renouvelle. La vue d'un ami qui a connu Séréna, me rappelle son souvenir... Souvenir cruel, qui épuise ma raison! Mon courage m'abandonne. Que faire? Combattrai-je ma passion, étoufferai-je dans mon sein la voix de la nature..... Qui. Je me plongerai dans l'insensibilité.... je défendrai à  mes larmes de couler.... Infortuné que je suis! c'est en vain que je combats, la nature l'emporte, et mes larmes.... Mes larmes versées pour Séréna, sont mon unique cousolation.</p> <p>J'erre de chambre en chambre;</p>
+            <pb n="44" xml:id="pb-44" facs="#i50"/>
+            <p>par-tout je cherche ma bien aimée, et je ne la trouve pas..... Quand je passe près de ce cabinet solitaire, où elle alloit souvent méditer, je crois l'entendre.... Je m'arrête..... Je prête l'oreille.... Alors le calme du silence me paroît affreux, je frisonne.... O Séréna! je ne trouve que ton image... gravée dans mon coeur, en traits ineffaçables.</p> <p>Où trouverai-je du soulagement à, ma misère? Je ne peux me séparer de moi-même; je ne peux abandonner ces douces et cruelles sensations.. Quitterai-je ces appartemens qui me parlent de Sénéra? Errerai-je dans les campagnes voisines, ou dans les promenades solitaires que forment ces chênes sourcilleux? Oh! non; rien ne pourroit appaiser ma douleur. Trop souvent j'ai joui, dans ces campagnes et dans ces promenades, de la douce compagnie de Séréna... Il semble que son nom soit gravé sur</p>
+            <pb n="45" xml:id="pb-45" facs="#i51"/>
+            <p>chaque arbre.... Là, je l'ai vue au lever de l'aurore, presser de ses pieds délicats la pelouse brillante de rosée; là je l'ai vue cueillir des violettes, des roses; en composer des bouquets pour moi.... Maintenant la plus belle violette..... la rose la plus parfumée est fânée.... Séréna n'est plus.... Campagnes, promenades, adieu: vous n'êtes qu'un désert, vous ne reverrez plus ma Séréna.</p> <p>Malheureux! rien sur la terre ne peut me distraire, rien ne peut me soulager. Mon ame, élance-toi vers cette voûte d'azur..... Regarde ta Séréna brillante de gloire; que la vertu t'élève sur ses aîles, au-dessus du tumukte et des passions de cette misérable vie. Détache-toi des liens d'argile et de mortalité; prends l'essor, et contemple ta bien aimée.</p> <p>Ici Lucius se jetta sur un canapé, et resta plongé dans le silence et le recueillement de la méditation.</p>
+            <pb n="46" xml:id="pb-46" facs="#i52"/>
+            <p>Lorsque Florino eut entendu les plaintes dans lesquelles son ami exhaloit sa douleur profonde, il se retira honteux du barbare projet qu'il avoit eu. Il sentit dans son coeur un sentiment qu'il n'avoit jamais éprouvé, la sympathie de la douleur. Il s'écria: quelle leçon j'ai reçu aujourd'hui. J'espère que je ne l'oublierai jamais. Il faut qu'il y ait dans l'amour vertueux, un plaisir ineffable et inconnu.... autrement la perte de Séréna auroit-elle rempli le courageux Lucius d'une mélancolie aussi sombre...... Les feux inconstans, et qu'interdit la nature, ne font que jetter du vuide dans l'ame. O Milton! je commence à croire ces vers où tu peins si bien les douceurs de l'hymen. Jusqui'ici je les avois regardés comme une chimère; la religion et la vertu n'étoient à mes yeux que des épouvantails inventés pour les enfans et</p>
+            <pb n="47" xml:id="pb-47" facs="#i53"/>
+            <p>pour le peuple. Je vois maintenant que, comme de la vertu dérive la joie la plus pure, la plus vraie de la vie, de même c'est dans la religion que le malheureux trouve les plus douces consolations.</p>
+            <pb n="48" xml:id="pb-48" facs="#i54"/>
+            <p>CHAPTRE X.</p> <p>HEUREUSE RENCONTRE.</p> <p>Quela vertu est intéressante dans l'infortune.</p> <p>PLUTARQUE.</p> <p>JE me promenois sans savoir où j'allois, c'est ma coutume, on le sait. Quand j'écris, c'est la même chose. Je prends ma plume et je suis le fil de mes pensées, je vais jusques où il me mène. Mais laissons de côté l'épisode, et revenons à ma promenade du Palais royal. Je marchois au hasard, et, à mon ordinaire, en toisant tous ceux que je rencontrois. Une jeune personne, d'une figure noble et intéressante, passa avec un paquet sous le bras. La douleur étoit peinte sur sa figure; elle s'arrêtoit de temps en temps; elle prononçoit</p>
+            <pb n="49" xml:id="pb-49" facs="#i55"/>
+            <p>quelques mots mal articulés et sans suite.... à cette vue qu'on juge de mon émotion; j'approchai en tremblant, car l'infortune inspire une sorte de respect...... j'étois à portée d'entendre. <note>image</note> ‹‹ Inutile ornement, tu vas payer une dette sacrée.... dit-elle, ah! pour-quoi te garderois-je? tu me rappellerois sans cesse qu'il fut un temps où l'espoir du bonheur m'a souri. Maintenant tout est perdu..... Non, lui dis-je avec véhémence, non, ce seroit une injustice; les Dieux n'en commettent pas. - Monsieur, quel motif vous porte à vous intéresser à une infortunée.... permettez.... le malheur rend défiant.... - Je vous entends, lui dis-je, mais ne craignez rien, la vertu m'est chère, et vous pouvez me confier le sujet de vos larmes. - Mon père est enfermé dans une horrible prison.... - Innocent, sans doute? - Pourriezvous</p>
+            <pb n="50" xml:id="pb-50" facs="#i56"/>
+            <p>en douter? - (Hé bien! dis-je alors en moi-même: Madame S.... que pensez-vous de mes raisonnemens sur la Bastille?) ›› <note>image</note> Il a été dénoncé, par un monstre, à la fureur du peuple. J'arrive à Paris pour trouver vengeance et justice; je ne trouve que le désespoir.... Réduite à la dernière extrémité, je vais vendre ces vêtemens, unique ressource du salut de mon père.... Ses ennemis se sont emparés de ses biens, et je n'ai d'autre moyen pour le délivrer que de corrompre le géolier. - Intéressante Personne, je les acheterai vos habits. - Vous, Monsieur..... y pensez-vous? - Oui, certes. Combien croyez-vous en avoir? - Mais vous n'en faites pas commerce. - Si, si.... et.... - Tout au plus deux assignats de cent livres. - Ils sont à moi; à condition cependant que vous ne marchanderez pas. - Tout ce qu'il vous</p>
+            <pb n="51" xml:id="pb-51" facs="#i57"/>
+            <p>plaira. - Prenez, voilà vingt guinées. - Vous vous trompez, Monsieur, deux cent livres étoient tout ce que je pouvois espérer. - Vous avez accepté ma condition, vous ne pouvez vous en dédire. - Mais de l'or! de l'or! il est si rare! - Je suis bien aise de m'en débarrasser, il a fait du mal assez dans le monde; d'ailleurs j'ai quelques papiers dans mon porte-feuille. - Ah, monsieur, le papier a fait encore plus de mal aux hommes. - Oui, depuis qu'on l'a métamorphosé en assignats, n'est-ce pas? - C'est sous la plume des V. des R. des C. qu'il a été funeste. - Frappé de cette réponse, je restai en extase pendant quelques momens; lorsque je me disposai à parler, je ne trouvai que mon petit paquet, de vingt guinées. Comme je n'avois pas mon grand manteau bleu pour le cacher, je le mis sous mon bras et je suivis le chemin de mon hermitage.</p>
+            <pb n="52" xml:id="pb-52" facs="#i58"/>
+            <p>CHAPITRE XI.</p> <p>LE PETIT PAQUET.</p> <p>Non vas, sed liquor. BOERHAAVE.</p> <p>AUSSI-TÔT que je fus rentré chez moi, je pris le petit paquet, et je..... le baisai aussi tendrement que si j'avais baisé Venus sortant du sein de l'onde, aussi tendrement que si j'avois baisé celle qui avoit porté ces précieux vêtemens; que dis-je?.... non, je n'aurois pas osé la baiser..... La vertu timide s'effarouche d'un baiser innocent.... Oui en Angleterre; mais en France! jusqu' à je vous haïs, tout se dit en se baisant. Cela me rappelle l'aventure qui m'est arrivée dans mon second voyage: je n'avois pas réfleéchi, en partant, que nous étions en guerre, et je n'avois, pas pris de passe-port. J'ai dit autre</p>
+            <pb n="53" xml:id="pb-53" facs="#i59"/>
+            <p>part (I) ce que je fis dans cette position critique. J'allai me jetter aux pieds de Shakespear, c'est-à-dire du Comte de B.....M. le Comte sortit un instant, et me laissa avec une Dame qui..... Y a-t-il long-tems que vous habitez Versailles, Monsieur? - Madame, je ne suis que depuis environ trois semaines à Paris. - Vous...... ne connoissez pas encore toutes nos Sociétés. - J'y vais rarement, j'aime la solitude et la retraite. - Moi aussi. On éprouve tant de désagrémens dans le monde.... on ne peut pas faire un pas sans rencontrer de certaines petites personnes qui veulent figurer, et....... (Ici madame se leva à demi sur sa chaise, se rassit, branla la tête, attacha une fleur de sa coëffure qui tenoit parfaitement). Encore hier, reprit-elle, cette bégueule</p> <note>footnote</note> <p>(I) Voyage Sentimental.</p>
+            <pb n="54" xml:id="pb-54" facs="#i60"/>
+            <p>de P..... m'a fait pitié. - Comme nous en étions là, le C. de B. rentra avec la Comtesse de P. Ah mon Dieu! dit alors la dame avec qui je venois de causer, comment se porte Madame la Comtesse de P.... que je suis enchantée de vous voir. (Suivent les embrassades sur la joue gauche et sur la joue droite). En vérité, on ne vous rencontre nulle part; ce matin, j'ai été pour avoir le plaisir de vous voir, vous étiez à la chapelle du Roi. - Mon passe-port étoit expédié, je sortis en saluant jusqu' à terre.</p>
+            <pb n="55" xml:id="pb-55" facs="#i61"/>
+            <p>CHAPITRE XII.</p> <p>LE SCRUPULE.</p> <p>Audaces fortuna juvat. VIRGILE.</p> <p>LE soleil étoit levé, je sonnois après John. Quel tems fait-il? - Il pleut. - Sommes-nous pas lundi? - Oui, monsieur. - Fort bien, fort bien. Je ne me leverai pas aujourd'hui; tu m'apporteras mon dîner dans ma chambre.... En attendant, vas préparer mon thé.</p> <p>Quand je fus seul, je répétois: fort bien, fort bien, et j'en fus surpris. Je pensai, pour savoir ce que je voulois dire..... A propos, c'est que je ne me lève pas aujourdhui..... Pourquoi donc? hîc labor, hîc opus, ma for, je n'en sais rein; ce n'est</p>
+            <pb n="56" xml:id="pb-56" facs="#i62"/>
+            <p>pas mon habitude; tous les jours je me lève, sinon comme le cousin Jacques avec la lune, du moins avec le soleil..... Je raisonnois de cette façon, quand mes yeux, qui trotoient aussi bien que mon esprit, rencontrèrent le paquet.... le joli paquet qui m'avoit fait faire hier tant de réfléxions sur les baisers. Je ne l'avois pas encore défait, ni visité.... Bon, dis-je, voilà de quoi m'amuser aujourdh'ui. Alors je pris le petit paquet, je le regardai encore pluseurs fois, je le tournai en tout sens, mais.... je ne le baisai plus. A la fin, je dénouai le ruban. D'abord je tirai une robe de satin très-riche, mais un peu chiffonnée, puis un piérot qui me parut mignon, quoi-que j'avoue que je ne me connoisse pas en piérot. Ces deux pièces me firent croire qu'elles avoient appartenu à une personne de distinction, que d'étranges malheurs avoient réduite</p>
+            <pb n="57" xml:id="pb-57" facs="#i63"/>
+            <p>à la misère. Plein de cette idée, je restai quelques momens à réfléchir sur l'instabilité de la prospérité humaine..... Je sentis une larme descendre sur mes joues, et je crois que j'aurois pleuré tout de bon, si John n'étoit entré pour apporter mon thé.</p> <p>Pendant qu'il étoit là, et que je ne pouvois donner un libre cours à ma sensibilité, je me mis à examiner les autres pieces du paquet. En y mettant la main, avec précipitation, je me sentis piqué d'une belle maniere; je fis un cri. John me regarda, mais voyant ma figure en désordre, il crut que j'étois en méditation, parce que dans ces momens il m'arrive souvent de crier sans être piqué. C'est pourquoi il se hâta de finir sa besogne, et sortit.</p> <p>Je regardai alors ce qui m'avoit piqué; je trouvai que c'étoit l'agraffe d'un porte-feuille.... d'un portefeuille!</p>
+            <pb n="58" xml:id="pb-58" facs="#i64"/>
+            <p> - Oui d'un porte-feuille. Voilà bien de la matière à la réflexion..... Et qu'est-ce que ce porte-feuille? L'infortunée qui m'a vendu le paquet, l'y auroit-elle laissé par mégarde? Sa fortune ou ses secrets y sont renfermés. Qu'en faire? L'ouvrir.... Si c'étoit des secrets.... Non. Je n'oserai de ma vie. - Il peut se faire aussi qu'il renferme des papiers précieux..... Peut-être des assignats..... Si cela étoit, je les ferois mettre aux affiches, et par ce moyen ils seroient rendus à l'indigence vertueuse.... Enfin après bien des si c'étoit, des non, des oui, je laissai le scrupule, et j'eus le courage d'ouvrir le porte-feuille.</p>
+            <pb n="59" xml:id="pb-59" facs="#i65"/>
+            <p>CHAPITRE XIII.</p> <p>J'OUVRE LE PORTRE--FEUILLE.</p> <p>Perus et cupido</p> <p>Semper ardentes acuens sagittas</p> <p>cote cruentâ. HORACE.</p> <p>ON croit que je n'eus rien de plus pressé que de regarder ce qu'il contenoit, eh bien l'on se trompe. Je pris mon thé auparavant, pour attendre s'il ne viendroit pas quelque résolution ultérieure. Mais je remportai la victoire, je pris avec fermeté les papiers qui étoient renfermés dans le porte-feuille, et parmi lesquels il ne se trouvoit aucun assignat. Le tout consistoit en deux paquets de lettres, enlacées de fil noir. Cela mo parut mystérieux.... Mais j'avois remporté la victoire. Je résolus</p>
+            <pb n="60" xml:id="pb-60" facs="#i66"/>
+            <p>d'éviter le reproche fait au vainqueur de Cannes. ›› Annibal, tu sais vaincre, mais tu ne sais pas profiter de ta victoire ››. <note>image</note> En conséquence je dépliai un lettre. Elle contenoit ces mots:</p> <p>PREMIÈRE LETTRE.</p> <p> ›› Ma chère Dugg.... Vous ne devez pas douter que l'affront que votre père m'a fait hier chez M. de R. ne m'ait vivement offensé. J'y ai été sensible à un point que vous auriez de la peine à vous imaginer... Il faut que je vous aime bien tendrement pour qu'aucun projet de vengeance ne soit entré dans mon esprit. J'espère que vous me saurez gré de ma modération. Pour ménager vos parens, vous croiriez peutêtre maintenant qu'il est nécessaire de suivre le plan que je vous ai déjà indiqué tant de fois; je veux dire</p>
+            <pb n="61" xml:id="pb-61" facs="#i67"/>
+            <p>de convenir d'un lieu où nous pourrons nous parler en liberté. J'attends votre réponse; vous me la ferez parvenir de cette manière: ce soir je me trouverai sous le grand châtaignier, derrière la grille du jardin, et là vous me jetterez le papier, fidèle interprête de vos pensées. ›› <note>image</note></p> <p>SYLV.....</p> <p>Ainsi étoit conçu le premier billet; la curiosité me porta de suite à lire le second, car je commençois à m'intéresser vivement à la belle Dugg.... que je crus être la même qui m'avoit vendu le paquet.</p> <p>DEUXIEME LETTRE.</p> <p> ‹‹ La lecture de votre lettreǀ, mon cher Sylv.... a fait sur moi une vive impression de douleur. Je sais qu'un Chevalier François est ordinairement vindicatif, et qu'il croit</p>
+            <pb n="62" xml:id="pb-62" facs="#i68"/>
+            <p>laver un affront par un crime, en provoquant un duel. Je vous sais donc gré de votre moéeration. Mais puisque vous m'assurez que vous m'aimez tendrement, je vais vous parler avec confiance, et mettre mon ame à découvert devant vous.</p> <p>Pourquoi, au moment où notre malheureuse ville éprouve le sort de la France entière, et voit couler le sang dans son sein; pour-quoi, dis-je, au récit de ces horreurs, entend-on mêler le nom de Sylv.... Quelle frenésie s'est donc emparée de vous, ô mon ami! .... Mon père a été indigné; voilà la clef de sa conduite. Je vous ai dit la vérité, réfléchissez.</p> <p>J. DUGG....</p> <p>Hélas! m'écriai-je, en finissant la lecture de cette lettre, c'est aussi la différence d'opinion qui a troublé</p>
+            <pb n="63" xml:id="pb-63" facs="#i69"/>
+            <p>le bonheur de la belle Dugg... Comment des hommes que la patrie n'appelle pas à gouverner, se tourmentent-ils autour du gouvernail....</p>
+            <pb n="64" xml:id="pb-64" facs="#i70"/>
+            <p>CHAPITRE XIV.</p> <p>SUITE DE L'HISTOIRE DE J. DUGG...</p> <p>Vice is a monster of so frightful mien</p> <p>As, to be hated, needs but to be seen</p> <p>POPE.</p> <p>IL n'est pas difficile de croire que je fus ému en lisant les lettres qui m'apprenoient les malheurs de J. Dugg.... Mon projet étoit de lire le reste aujourd'hui, mais je voulus lire dans une position qui augmentât le plaisir qui m'attendoit. Aussitôt que j'apperçus le jour, jappellai John, et je lui dis d'aller me chercher une voiture sur le champ.</p> <p>C'est à la campagne que l'on se livre avec délices aux doux transports de la sensibilité..... Je me fis conduire chez Jean, l'ami de Lisette.</p>
+            <pb n="65" xml:id="pb-65" facs="#i71"/>
+            <p>Cocher, vous viendrez me ehercher le soir. N'y manquez pas.</p> <p>Le bon-homme Jean fut bien-aise de me voir. Il ne savoit quelles caresses me faire. O Jean, me dis-je à moi-même, que tu es heureux d'être bon-homme.... Dès que je fus dans la grotte de Buis, qui est au fond de la prairie, près le ruisseau où Lisette se désaltéroit autrefois, je tirai mon porte-feuille de ma double poche.... je n'avois pas mis mon petit habit de satin.... mon coeur auroit été trop gêné dans ses battemens.</p> <p>TROISIEME LETTRE.</p> <p> <note>image</note> ‹‹ Votre réponse m'a étonné, mon amie; je n'y ai pas trouvé ces sentimens généreux que je vous connois. Je vous avoue que je suis resté confondu, en voyant que vous blâmez aussi le noble élan de la liberté</p>
+            <pb n="66" xml:id="pb-66" facs="#i72"/>
+            <p>qui m'anime. Quoi! parce que votre père est entaché de sots préjugés, parce qu'il regrette quelques vieux parchemins rongés par les vers et par le tems, devezvous céder à son opinion, devezvous combattre la mienne. Vous n'avez pas oublié que j'ai vu près de la Fayette briser les fers de l'Amérique, pensez-vous que je doive pleurer le jour qui brise les nôtres? Prenez des sentimens plus dignes de vous.... L'amour de la patrie étouffe dans mon coeur toutes les autres passions.... Je n'épouserai jamais qu'une Romaine... Si vous craignez le courroux de votre père, éloignez-vous.... Consentez à suivre,</p> <p>VOTRE AMI SILV....</p> <p>QUATRIÈME LETTRE.</p> <p> <note>image</note>›› Vous n'épousereȥ jamais qu'une Romaine..... vous ne m'épouserez jamais,</p>
+            <pb n="67" xml:id="pb-67" facs="#i73"/>
+            <p>si l'amour du désordre et du sang rend seul digne de ce nom. Ecoutez, Sylv.... Je vous ai aimé, je vous aime encore; mais j'aurai aussi le courage de dire: je n'épouserai jamais celui qui me conseille de fuir mon père. Je ne veux pas combattre votre opinion, je me contente de vous plaindre; car à moins que l'esprit de parti ne vous ait entièrement aveuglé, vous devez reconnoître vos erreurs. Vous n'ignorez pas que l'égalité individuelle, base de votre Constitution, n'est qu'unechimère, contre laquelle s'éleve la nature, qui viole l'égalité dans le partage qu'elle fait de ses dons aux hommes. Ce n'étoit pas la déclaration des droits qui devoit guider les travaux de l'Assemblée nationale, c'étoit celle des devois, unique lien de la Sociéte. Mon père, dites-vous, est attaché à ses titres; il n'ignore pas que c'est</p>
+            <pb n="68" xml:id="pb-68" facs="#i74"/>
+            <p>dans l'ame que réside la véritable noblesse.... Seroient-ils nobles à ce compte, ceux qui ne parlent que de piller, de massacrer et qui ne respirent que le sang? .... J'oubliois qu'il ne me convient plus de moraliser avec vous. Cessez de penser à une infortunéc qui ne pensera jamais comme vous. Je vous demande une grace.... Oubliez moi. Vous voulez être libre, commencez par êetre juste. ›› <note>image</note></p> <p>J. DUGG.....</p> <p>Cette lettre me jetta dans l'étonnement et l'admiration. J'ai dit qu'il y avoit deux paquets: c'étoit la derniere du premier; j'ouvris le second.</p> <p>PREMIERE LETTRE.</p> <p> ‹‹ Ma chère amie, pourquoi cher-chez-vous à me consoler? Il n'y a</p>
+            <pb n="69" xml:id="pb-69" facs="#i75"/>
+            <p>que la main du tems qui puisse fermer ma plaie.... Plaignez-moi plutôt d'avoir pu aimer un homme si méchant. Je me croirai trop heureuse, s'il consent à m'oublier. ›› <note>image</note></p> <p>J. DUGG.....</p> <p>DEUXIEME LETTRE.</p> <p> ‹‹ Comme mon coeur saigne au moment où je prends la plume pour vous écrire, et de quel lieu vous écris-je!.... ô ma tendre amie? c'est du fond d'une horrible prison, et couchée sur les chaînes de mon père, que je vais vous tracer ces lignes, pour vous instruire do mon malheur.</p> <p>Le peuple murmuroit sur la cherté du pain, vendredi dernier. Le samedi qui suivit fut tumultueux, l'orage grossissoit, il a éclaté cette nuit d'une maniere terrible. Nous étions encore occupés, mon père et</p>
+            <pb n="70" xml:id="pb-70" facs="#i76"/>
+            <p>moi à lire votre dernière lettre, il étoit tard, et nous allions nous séparer pour nous livrer au sommeil..... Dieu! que le reveil eût été affreux! Tout-à-coup des cris se font entendre, et ces cris sont ceux de la rage d'un peuple effrené. Nous écoutons. Une voix s'élève au-dessus de toutes les autres, commande le meurtre et le massacre..... O mon amie, c'étoit Sylv..... qui dictoit ces ordres exécrables. Sa bouche venoit de proscrire la tête du brave et malheureux R..... notre voisin. Déjà les pierres avoient brisé ses vîtres, les portes étoient enfoncées, le peuple tigre remplissoit sa maison, et cherchoit sa victime..... Un homme avoit franchi la muraille qui nous sépare; et suivi de deux autres, il étoit descendu dans notre jardin. Je voulus persuader à mon père de se sauver, de se soustraire à la fureur des assassins; je me jettai</p>
+            <pb n="71" xml:id="pb-71" facs="#i77"/>
+            <p>à ses pieds, je les mouillai de mes larmes, mais le tems pressoit, il hésitoit, bientôt il fut trop tard..... Le chef de la cohorte avoit mis sur lui sa main impure. Je tentai en vain de lui arracher sa proie; mes efforts, mes pleurs, mes gémissemens, tout fut inutile. Mon père, engourdi par l'âge et incapable de se défendre, fut forcé de céder; on le traîna, dans la poussière, jusqu'à la demeure destinée au crime..... J'étois absorbée, anéantie dans ma douleur..... Quand je repris l'usage de mes sens, Sylv..... s'offrit à ma vue. ›› <note>image</note> Que fais-tu ici, lui disje. - Je jouis de mon triomphe. - Monstre..... est-il possible; c'est toi..... Cette idée m'accabla, je restai immobile, sans pouvoir articuler une seule parole, je tombai sur un banc..... Le bourreau de mon père s'avança pour me soutenire dans ses bras. L'horreur qu'il</p>
+            <pb n="72" xml:id="pb-72" facs="#i78"/>
+            <p>m'inspira en m'approchant; ranima mes forces, et je m'en fuis loin de lui. Je regardai s'il ne me suivoit pas; notre maison subissoit le sort de celle de M. R. Le peuple s'en étoit emparé. Ce spectacle me toucha peu; toutes mes pensées étoient tournées vers mon père; je me présentai à la prison, l'or rendit le géolier flexible, et je retrouvai mon père..... Mais dans quel état!</p> <p>Adieu, ma tendre amie, je pars demain pour Paris. J'espère obtenir de l'Assemblée une justice prompte. Renferme dans ton coeur le secret que je tai confié. Ne parle jamais de Sylv..... que son crime demeure inconnu, sur-tout que son nom ne paroisse jamais dans tes lettres. ›› <note>image</note></p> <p>J. DUGG...,</p> <p>Je ne fis point de réflexions..... Le cocher étoit prêt, je retournai à Paris.</p>
+            <pb n="73" xml:id="pb-73" facs="#i79"/>
+            <p>CHAPITRE XV.</p> <p>SENSATIONS.</p> <p>Co me, gentle spring ethereal mildness, come</p> <p>THOMSON.</p> <p>J'AVOIS envie de voir la Flandre; et si j'ai eu autrefois des raisons pour passer la Loire (I), j'en avois encore de plus fortes pour visiter le Lion Belgique..... Yorick, arraché des bras de la mort, voloit vers moi. Il devoit aborder à Dunkerque.</p> <p>Nous étions au commencement du printems; il n'élevoit pas encore sa tête couronnée de fleurs dans les campagnes. A peine la sève commençoit à se ranimer, les prairies</p> <note>footnote</note> <p>Voyage Sentimental, Chap. LXII.</p>
+            <pb n="74" xml:id="pb-74" facs="#i80"/>
+            <p>renouvelloient leur gazon, les arbres étoient couverts de petites boules vertes, et annonçoient qu'ils alloient bientôt déployer leurs feuilles. Quand la terre est entièrement fleurie, et que l'on se promène dans un beau parterre, le parfum qui en émane frappe agréablement les sens, et les yeux sont enchantés. Mais quand les germes commencent seulement à grossir, que la nature se réveille, que l'ame végétative se met en mouvement, c'est alors que l'on goûte des jouissances ineffables; le coeur palpite et desire les doux épanchemens de l'amitié. Si j'ai admiré autrefois dans la Touraine le spectacle des vendanges...... les grappes..... les enfans qui les portoient au pressoir.... le flageolet qui rendoit des airs rustiques..... ô combien je fus encore plus ému en parcourant la Flandre françoise. Quelle différence</p>
+            <pb n="75" xml:id="pb-75" facs="#i81"/>
+            <p>de ces campagnes sombres que nous traversons en Angleterre.</p> <p>Le bonheur continu est presqu'en entier dans l'imagination. Il n'y a de réel que les sensations. Je les prolongeai pendant tout le voyage, et j'arrivai à Dunkerque.</p> <p>Les Flamands n'ont pas cette gaieté sémillante, cette vivacité qui pétille dans les yeux et dans tous les gestes des François. Leurs paysannes sur-tout le cëdent aux paysannes de la Touraine. Elles ont beau porter de longues boucles d'oreille d'or, et surle col de grandes croix de diamans, elles n'ont pas cet air ingénu et touchant de Juliette, beaucoup mieux parée avec son petit habit blanc et le ruban verd qui étoit enlacé dans son corset. Yorick n'étoit enlacé dans son corset. yorick n'étoit pas arrivé, mais il ne tarda pas. Dunkerque ne nous attacha guères. Cette ville avoit été fort travaillée pendant la révolution; les têtesy étoient trop exaltées,</p>
+            <pb n="76" xml:id="pb-76" facs="#i82"/>
+            <p>pour nous donner envie de les connoître. Lorsque Louis XVI entreprit le triste voyage de Montemedy, le premier régiment d'infanterie y étoit en garnison; tous les officiers passèrent chez l'étranger; ce fait avoit influencé sur Dunkerque, à un point incroyable.</p> <p>Notre projet étoit de retourner à Paris de suite, et sans nous arrêter; mais il me prit envie de voir la patrie de Feutry, mon ancien ami, et l'imitateur d'Hervey. D'ailleurs, j'avois toujours eu grande opinion de Lille, depuis le fameux siége du prince Eugènes. Nous y arrivâmes vers le soir. Yorick alla se promener dans la ville, où il y a plusieurs belles promenades. Pour moi, j'étois fatigué; j'entrai dans un café et je demandai du punch: on me dit qu'il n'y en avoit point. Cela commença à m'indisposercontre la ville On me donna de l'excellent vin, qui me raccommoda</p>
+            <pb n="77" xml:id="pb-77" facs="#i83"/>
+            <p>avec elle; sans cela, je crois que je serois parti le lendemain à la pointe du jour.</p> <p>Comme j'étois distrait, je ne m'étois pas apperçu qu'il y avoit quelqu-un dans la place. Le rouge me monta au visage, parce que j'avois parlé seul à mon ordinaire... Quand je fus un peu remis, j'approchai de la personne..... Elle lisoit attentivement le Voyage Sentimental; la curiosité m'aiguillonna. - Sterne, en arrivant en France, lui dis-je, débuta par une fricassée de poulets; je vais faire de même, voulez-vous être de la partie. - Monsieur? vous avez donc lu le Voyage Sentimental, me répondit le jeune homme, qui étoit Anglois. - Personne ne le connoît mieux que moi, pas même l'auteur. - C'est admirable; je suis des vôtres, car j'aime Sterne à la folie.</p> <p>Ce jeune homme étoit vraiment fort aimable, et assez instruit. Nous</p>
+            <pb n="78" xml:id="pb-78" facs="#i84"/>
+            <p>causâmes long-tems ensemble, et il me dit que sa famille étoit fixée depuis long-tems dans cette ville. Nous nous séparâmes aussi bons amis que si nous nous étions connus depuis un siècle. Il me fit promettre d'aller le lendemain dîner avec lui, mais je ne pus tenir parole.</p>
+            <pb n="79" xml:id="pb-79" facs="#i85"/>
+            <p>CHAPITRE XVI.</p> <p>TOMBEAU DE FEUTRY A LILLE.</p> <p>Odi profanum vulgus</p> <p>HORACE.</p> <p>APRÈS avoir pris mon thé, je demandai à Yorick, s'il se souvenoit d'avoir entendu parler de quelque monument remarquable de Lille. Il me parla de la Bourse, vantée par l'auteur des Délices de la Flandre. J'appel lai le laquais de Villeroy, (c'étoit, si je ne me trompe, le nom de l'hôtel où nous étions logés) pour qu'il nous enseignât le chemin de la Bourse. - Monsieur, la voilà. - Où donc? - Là. - Comment c'est là l'exchange? - Oui. - En vérité, je n'ai jamais rien vu de si</p>
+            <pb n="80" xml:id="pb-80" facs="#i86"/>
+            <p>affreux. Nous approchâmes, pour considérer de plus près ce bizarre édifice..... Une idée me vient, dis-je à Yorick, allons visiter le mausolée de Feutry (I); nous verrons, j'espère, un monumnet d'un goût plus passable. En parlant ainsi, j'arrêtai un homme qui, comme bien d'autres étoit occupé sur la place à ne rien faire. - Voulez - vous, Monsieur, nous enseigner où reposent les cendres du Poëte Lillois? - Qui donc? - Le traducteur de Pope, de Young, de Foë, de Prior..... - </p> <note>footnote</note> <p>(I) Ce Poëte, qu les Anglois regardent comme un homme de genie a eu un debut brilliant dans la République des Lettres. L'épigraphe de ses ouvrages, amant otia Camenae. Otia vix habui, explique pourquoi il n'a pas toujours eu le même succes. Des malheurs singuliers lui derangèrent la tête; il vint à Lille, sa patrie, pour se détruire. Les vers qu'il composa avant de mourir, expriment la situation de son ame: Quand Dieu veut punir l'homme, il trouble sa raison;</p> <p>Je l'eprouve, en osant implorer mon pardon.</p>
+            <pb n="81" xml:id="pb-81" facs="#i87"/>
+            <p>Je n'ai pas l'honneur de connoître tout ce monde-là, M. l'Anglois. - Notre homme disparut. Je restai immobile, Yorick crevoit de rire.</p> <p>Ami, dis-je, voilà qui m'étonne. J'ai cru qu'au moins après la mort, un homme de lettres avoit des droits à la reconnoissance publique. J'allois en dire davantage, quand j'apperçus un gros prêtredont la mine me paroissoit singulière. Mettez-lui une lanterne en main, et vous verrez Diogène... Mettez-la en toute sûreté, elle ne s'éteindra pas; les sots lui fourniront son huile. Il enfiloit la petite rue qui conduit à la salle des Spectacles, édifice massif, et singé sur les salles de Paris. M. l'Abbé, lui dis-je, permettez-nous de vous faire une demande: où est le tombeau de Feutry?..... M. l'abbé se mit à rire, d'un ris inextinguible et à demi poétique; un rouge foncé et tirant sur le cramoisi, lui couvrit le visage; il</p>
+            <pb n="82" xml:id="pb-82" facs="#i88"/>
+            <p>chatouilla son nez.... Messieurs, vous allez être bien surpris, je n'en sais rien, ni lui non plus.... Vraiment on n'en donne pas aux gens d'esprit dans notre pays............... John, les chevaux sont-ils prêts? dis-je en reprenant haleine, nous partons. - Quoi! si-tôt, et sans dîner! - Oui, sur l'heure..... Nous étions déjà bien loin.....</p>
+            <pb n="83" xml:id="pb-83" facs="#i89"/>
+            <p>CHAPITRE XVII.</p> <p>MAIRE DE VILLAGE.</p> <p>Spectatum admissi, risum teneatis, amici?</p> <p>HORACE.</p><p>JE connois trop la sensibilité de mon ame pour croire au matérialisme; et quoique Descartes me fasse rire avec ses bêtes machines, je n'en aime pas davantage l'homme plante..... O la Mettrie! tu connoissois peu l'homme quand tu conçus l'idée de ton systême. Demande à Buffon, à Gesner (I), à Saint-Pierre (2) si tel est le résultat de l'Etude de</p> <note>footnote</note> <p>(I) Gesner, le Pline de l'Allemagne. Il ne faut pas le confondre avec le mélodieux Gesner, si fameux par ses charmantes Idyllcs.</p> <p>(2) Les Anglois connoissent tout le mérite de cet Auteur, dont les ouvrages ont trouvé un excellent traducteur sur les bords de la Tamise.</p>
+            <pb n="84" xml:id="pb-84" facs="#i90"/>
+            <p>la nature. Il y a cependant des momens où je suis forcé d'avouer que la matière a beaucoup d'influence sur l'homme; car, malgré l'envie que j'avois de m'éloigner de Lille et de gagner pays, je ne pus m'empêcher de dire à Yorick: j'ai faim. Yorick répéta j'ai faim. John, qui trépignoit derrière la voiture, sembloit dire aussi: j'ai faim. Nous descendîmes dans un petit caravanserail, d'assez mauvaise apparence. On nous servit des oeufs qui n'étoient pas frais, et du vin détestable. Je suis vif; je ne sais si, dans le premier transport, je me hasardai de dire quelques paroles désagréables à l'hôtesse, mais je remarquai qu'un vieillard, assis sur un banc dans le fond de la place, nous lançoit des regards terribles. Tout-à-coup il se leva, en fronçant le sourcil..... Messieurs, vous êtes bien hardis de trouver ce que l'on vous donne ii mauvais..... et de dire</p>
+            <pb n="85" xml:id="pb-85" facs="#i91"/>
+            <p>des impertinences à Mme. la Mairesse..... Tout ce que l'on mange chez un Maire..... doit être bon, j'espère.... Si Monsieur Jean Philippe, le Procureur de la Commune, étoit ici, j'en aurois fait dresser un procès-verbal comme on n'en a jamais vu...... Dame, ça seroit bientôt; il a été Magister plus de dix ans.....</p>
+            <pb n="86" xml:id="pb-86" facs="#i92"/>
+            <pb n="87" xml:id="pb-87" facs="#i93"/>
+            <p>LETTRE</p> <p>DU TRADUCTEUR</p> <p>A L'AUTEUR.</p> <p>VOUS voulez, Monsieur, que je vous dise ce que je pense sur le sentiment dans les ouvrages d'esprit. Si je réponds à votre demande. je parlerai de la guerre en présence de César; mais la reconnoissance m'en fait un devoir.</p> <p>Le sentiment n'est autre chose, selon moi, que l'expression de la sensibilité et de la philantropie. Voyons comme les différentes Nations l'ont considéré. Les anciens en</p>
+            <pb n="88" xml:id="pb-88" facs="#i94"/>
+            <p>parlent rarement. Les Hébreux le faisoient consister dans la belle simplicité de la nature. Les Orientaux aujourd'hui suivent la route opposée. Rien n'est plus contraire au vrai sentiment que leur style gigantesque et leurs métaphores empoulées. Il semble inné chez les Grecs. Homère et Hésiode en sont pleins, mais ils ne paroissent pas s'en douter. Anacréon et Sapho semblent avoir plus réfléchi sur le sentiment. La raison est qu'ils vouloient toucher. Chez les Latins il varie selon le génie des Auteurs. Il est simple dans Virgile, paré de concettis et presqui'italien dans les spirituel Ovide, barbare et comme mahométan dans Sénèque et Lucain. Les Allemands, dont la littérature ne date pas de bien loin, approchent des anciens. Il semble que la Muse simple et sentimentale qui inspira Hésiode, ait dicté les</p>
+            <pb n="89" xml:id="pb-89" facs="#i95"/>
+            <p>charmantes Idylles de Gesner. La mort d'Abel et le premier Navigateur sont au - dessus des éloges. Il y a dans la traduction françoise trop de termes savans. Aucun peuple n'a plus écrit sur le sentiment, que les Français. Il en ont, pour ainsi dire, étudié la nature; ils en ont fait un art. J. J. Rousseau est celui peut-être de tous les hommes qui a le mieux possédé toutes les ressources de cet art. Il connoissoit l'homme. D'Arnaud s'estacquis beau-coup de réputation par ses différens ouvrages sur le sentiment. Dans ce genre, Marmontel et rayrac se sont aussi distingués. L'auteur de la Maisonnette dans les bois, est inimitable; Florian a fait verser des larmes de sensibilité, qui lui ont mérité plus d'une couronne. Les Anglois ont une maniere particulière de traiter le sentiment. Chez eux il est quelquefois très-gai, et n'en</p>
+            <pb n="90" xml:id="pb-90" facs="#i96"/>
+            <p>est que plus touchant; au lieu que chez les François, contre le caractère de la nation, il est toujours sombre. Les ouvrages de M. votre oncle, sont une preuve de ce que j'avance. L'histoire de la Mouche, (this world surely is wide enough to hold both thee and me), la mort de Lefevre sont des chess-d'oeuvre. Lire vos ouvrages, Monsieur, et en faire l'éloge, n'est qu'une même chose. Le succès de votre Voyage Sentimental en est une preuve éclatante. J'ignore si le Tableau Sentimental de la France n'aura pas perdu cette fraîcheur de coloris, et surtout cette heureuse coupe de phrases qui passent rarement dans les traductions, et principalement quand une plume aussi jeune, aussi peu formée que la mienne veut l'entreprendre. La lecutre de mes ouvrages vous a, sans doute, inspiré une idée trop avantageuse de mes foibles</p>
+            <pb n="91" xml:id="pb-91" facs="#i97"/>
+            <p>talens, lorsqu'elle vous a déterminé à me confier votre manuscrit. Je vous engage à le rendre public, et à mettre ainsi les savans en état d'en juger, etc. etc.</p>
+            <pb n="92" xml:id="pb-92" facs="#i98"/>
+            <pb n="93" xml:id="pb-93" facs="#i99"/>
+            <p>TRADUCTION</p> <p>DU SONNET DE MILTON:</p> <p>O Nightingale. (I)</p> <p>Sur ces rameaux obscurs, quant règne le silence,</p> <p>Tu chantes, rossignol! La nuit vers nous s'avance.</p> <note>footnote</note> <p>(I) Ce sonnet est plein de sentiment; c'est pourquoi j'en donne ici la traduction Ilǀy <note>image</note> a dans le premier vers: on yon bloomy spray. J'ai traduit: "sur des rameaux obscurs", d'après l'observation d'un de mes amis. Je crois que bloomy pourroit avoir un autre sens.</p>
+            <pb n="94" xml:id="pb-94" facs="#i100"/>
+            <p>Tu raimes l'espoir dans le coeur des amans,</p> <p>Lorsque Mai vient, porté sur les aîles du tems.</p> <p>Tes chants mélodieux referment la paupière</p> <p>De Phébus, qui finit son immense carrière.</p> <p>Tu préviens du coucou la glapissante voix.</p> <p>Tu promets aux amans des succès et des droits.</p> <p>Ah! si la volonté du maître du tonnerre</p> <p>A donné ce pouvoir à ta voix salutaire;</p> <p>Chante, chante, il est tems. Que l'oiseau de la nuit</p> <p>Ne puisse point, avant, de queleu'affreux réduit,</p> <p>Prédire mon malheur, bannir mon espérance.</p> <p>Hélas! depuis long-tems tu gardes silence,</p>
+            <pb n="95" xml:id="pb-95" facs="#i101"/>
+            <p>Et tu troubles par là le bonheur de mes jours.</p> <p>Oiseau! pourquoi m'as-tu refusé ton secours?</p> <p>De Venus, d'Apollon, si tu chéris l'empire,</p> <p>Le myrthe et le laurier s'unissent sur ma lyre.</p>
+            <pb n="96" xml:id="pb-96" facs="#i102"/>
+            <pb n="97" xml:id="pb-97" facs="#i103"/>
+            <p>VERS</p> <p>A placer au bas du portait de Léopold II.</p> <p>QUAND la main du destin me donna la couronne,</p> <p>Un orage terrible environnoit mon trône.</p> <p>Des Belges égarés les nombreux érendarts</p> <p>Repoussoient vaillamment l'aigle de nos Césars.</p> <p>L'infortuné Josephy, que trompoit son génie,</p> <p>Par des plans trop hardis détruisit l'harmonie;</p> <p>Et quoiqu'il desirât le bien des nations,</p> <p>Il reçut, à sa mort, leurs malédictions,</p>
+            <pb n="98" xml:id="pb-98" facs="#i104"/>
+            <p>Pour moi, quand au trépas tout-â-coup je succombe,</p> <p>J'emporte leurs regrets dans la nuit de la tombe.</p>
+            <pb n="99" xml:id="pb-99" facs="#i105"/>
+            <p>TABLE</p> <p>DES MATIERES.</p> <p>Pages</p> <p>PReface de l'Auteur. i</p> <p>A l'Abbé Raynal. v</p> <p>CHAPITRE Ier. L'impatience. 7</p> <p>CHAP. II. La conversation. II</p> <p>CHAP. III. Charles IX. 15</p> <p>CHAP. IV. La lettre. 17</p> <p>CHAP. V. Songe dans la lune. 20</p> <p>CHAP. VI. Le souvenir d'Eliȥa. 28</p> <p>CHAP. VII. Numa Pompilius. Didot. 30</p> <p>CHAP. VIII. Le contre-sens. 35</p> <p>CHAP. IX. La mort de Séréna. 38</p> <p>CHAP. X. L'heureuse recontre. 48</p> <p>CHAP. XI. Le petit paquet. 52</p> <p>CHAP. XII. Le scrupule. 55</p> <p>CHAP. XIII. J'ouvre le porte-feuille. 59</p>
+            <pb n="100" xml:id="pb-100" facs="#i106"/>
+            <p>CHAP. XIV. Suite de l'histoire de J. Dugg..... 64</p> <p>CHAP. XV. Sensations. 73</p> <p>CHAP. XVI. Tombeau de Feutry à Lille. 79</p> <p>CHAP. XVII. Maire de village. 83</p> <p>Lettre du traducteur à l'auteur. 87</p> <p>Traduction du sonnet: ô Nightingale! ect. 93</p> <p>Vers pour être placés au bas du portrait de Léopold II. 97</p>
+            <pb n="back cover (inside)" xml:id="pb-backcoverinside" facs="#i107"/>
+            <note>handwritten note 'T2 A-D12,6 E12 F2 Amanda Hall May 1997'</note>
+            <pb n="back cover" xml:id="pb-backcover" facs="#i108"/>
+         </div>
+      </body>
+   </text>
+</TEI>
